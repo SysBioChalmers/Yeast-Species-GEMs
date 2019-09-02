@@ -1,0 +1,66 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 57,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 57,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/Google Drive/R application and code/Reaction standization(id and formula)/reaction and metabolite standardization based on keggID-general.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 8,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 1,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 8,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/Google Drive/R application and code/Reaction standization(id and formula)/Model comparison between panYeast and sce model from RAVEN2.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 14,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 3,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 14,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/PycharmProjects/3D_model/Reaction_and_metabolite_standardization/new GPR comparison between kegg&eggnog and RAVEN2.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 67,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 6,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 67,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/PycharmProjects/3D_model/Reaction_and_metabolite_standardization/draft_strain_specific_model_analysis_biocyc.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}

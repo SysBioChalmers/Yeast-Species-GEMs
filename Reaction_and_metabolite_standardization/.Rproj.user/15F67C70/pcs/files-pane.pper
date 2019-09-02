@@ -1,0 +1,17 @@
+{
+    "path" : "~/PycharmProjects/3D_model/Reaction_and_metabolite_standardization",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        }
+    ]
+}
