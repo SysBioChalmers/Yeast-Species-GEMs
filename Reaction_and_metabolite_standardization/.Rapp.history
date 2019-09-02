@@ -1,4 +1,0 @@
-library(plotly)#
-packageVersion('plotly')
-p <- plot_ly(iris, x = ~Sepal.Width, y = ~Sepal.Length)
-p
