@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565794374468.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2549503712",
+    "id" : "54E29ECD",
+    "lastKnownWriteTime" : 1565794783,
+    "last_content_update" : 1565794783352,
+    "path" : "~/PycharmProjects/3D_model/find_new_GPR_from_332_yeasts/new_GPR_based_RAVEN2.R",
+    "project_path" : "new_GPR_based_RAVEN2.R",
+    "properties" : {
+        "cursorPosition" : "52,88",
+        "scrollLine" : "23"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
