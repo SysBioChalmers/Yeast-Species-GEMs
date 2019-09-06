@@ -1,0 +1,81 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 127,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 127,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/Google Drive/R application and code/panGenome and coreGenome/panGenome annotation based on BBH, kegg and eggnog web service/analysis of pangenome based on core and pan.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 130,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 1,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 130,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/Google Drive/R application and code/panGenome and coreGenome/panGenome annotation based on BBH, kegg and eggnog web service/analysis of pangenome based on core and pan.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 92,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 2,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 92,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/Google Drive/R application and code/panGenome and coreGenome/panGenome annotation based on BBH, kegg and eggnog web service/non_ref_orf_reannotation.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 129,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 6,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 129,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/PycharmProjects/3D_model/panGenome annotation based on BBH, kegg and eggnog web service/new_GPR_based_kegg_eggnog.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 123,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 10,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 123,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/PycharmProjects/3D_model/find_new_GPR_from_332_yeasts/new_GPR_based_kegg_eggnog.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}
