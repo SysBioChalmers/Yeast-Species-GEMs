@@ -1,0 +1,17 @@
+{
+    "path" : "~/PycharmProjects/3D_model/find_new_GPR_from_332_yeasts/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
