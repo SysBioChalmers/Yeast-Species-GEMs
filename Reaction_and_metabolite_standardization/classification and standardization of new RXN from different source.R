@@ -4,6 +4,7 @@
 # load library
 source('function_general.R')
 
+
 # merge the panID and reactionID from RAVEN_kegg, RAVEN_biocyc, kegg_web and eggnog_web
 union_rxn_ann0 <- mergePanID()
 
@@ -29,6 +30,9 @@ rxn_rm <- unique(c(rxn_unbalance$rxnID, met_m_remove$ID))
 union_rxn_mnx_refine <- union_rxn_mnx[!(union_rxn_mnx$rxnID %in%rxn_rm), ]
 rxn_remove_all <- setdiff(union_rxn_mnx$rxnID, union_rxn_mnx_refine$rxnID)
 met_mnx <- met_mnx[!(met_mnx$ID %in% rxn_remove_all),]
+
+
+
 
 
 # biocyc
@@ -62,8 +66,11 @@ rxn_kegg1 <- splitRxnToMetabolite(reationFrame = rxn_kegg, sep0 = "=", source0 =
 chem_xref <- read_tsv("data/chem_xref.tsv")
 chem_xref_chebi <- chem_xref[str_detect(chem_xref$XREF,'chebi'),]
 chem_xref_chebi$XREF <- str_replace_all(chem_xref_chebi$XREF, "chebi:", "CHEBI:")
+
 rxn_kegg1$MetID <- getMultipleReactionFormula(chem_xref_chebi$MNX_ID, chem_xref_chebi$XREF, rxn_kegg1$MetID)
 met_kegg <- rxn_kegg1
+
+
 
 
 # step 3 
