@@ -1,4 +1,5 @@
-# Compare the original s288c reactions from different sources: RAVEN, kegg
+# Compare the original s288c reactions from different sources: RAVEN_kegg and RAVEN_biocyc
+# Explore the effect of parameters on the rxn number in RAVEN_biocyc
 # Revised by Hongzhong 2019-8-10
 
 # load library
@@ -174,5 +175,3 @@ ggplot(summary_paramter, aes(x = pident, y = rxn, shape = bitscore, colour = bit
   ggtitle("") +
   theme(panel.background = element_rect(fill = "white", color = "black", size = 1)) +
   ggsave(out <- paste("result/", "Effect of parameters on pan_model model reconstruction in RAVEN2-biocyc-reaction number", ".eps", sep = ""), width = 8, height = 6, dpi = 300)
-
-

@@ -15,7 +15,6 @@ source('function_general.R')
 # RAVEN biocyc
 # newRxn_biocyc <- read.table("data/newRxn_biocyc_RAVEN.txt", header= TRUE, stringsAsFactors = FALSE)
 newRxn_biocyc <- read.table("data/newRxn_biocyc_RAVEN_55_110.txt", header= TRUE, stringsAsFactors = FALSE)
-
 newRxn_biocyc$MNXID <- findRxnMNXid(rxnID = newRxn_biocyc$ID, id_type = 'metacyc')
 newRxn_biocyc <- getRxnInfFromMNX(newRxn_biocyc,newRxn_biocyc$MNXID)
 
@@ -23,7 +22,6 @@ newRxn_biocyc <- getRxnInfFromMNX(newRxn_biocyc,newRxn_biocyc$MNXID)
 newRxn_kegg <- read.table("data/newRxn_kegg_RAVEN.txt", header= TRUE, stringsAsFactors = FALSE)
 newRxn_kegg$MNXID <- findRxnMNXid(rxnID = newRxn_kegg$ID, id_type = 'kegg')
 newRxn_kegg <- getRxnInfFromMNX(newRxn_kegg,newRxn_kegg$MNXID)
-
 
 # KEGG and eggnog web services
 newRxn_kegg_eggnog <- read.table("data/newRxn_all based on kegg and eggnog annotation.txt", header= TRUE, stringsAsFactors = FALSE)
