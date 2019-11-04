@@ -53,4 +53,5 @@ for x in strain:
             #if i != 0:
             line0 = line.split("\t")
             print(line0)
+            line0 = line0[0:11]
             employee_writer.writerow(line0)
