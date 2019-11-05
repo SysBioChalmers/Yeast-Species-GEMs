@@ -19,11 +19,14 @@ function NEWGPRList = AddOrthologGPRrules(model,genes,orthlogs)
 % Feiran Li 2018.09.25
 
 NEWGPRList = [];
-model_r = ravenCobraWrapper(model);
-[~,geneindex] =ismember(genes,model_r.genes);
+if ~isfield(model,'grRules') || ~isfield(model,'grRules')
+    model = ravenCobraWrapper(model);
+end
+
+[~,geneindex] =ismember(genes,model.genes);
 for i = 1:length(geneindex)
     if geneindex(i) ~= 0
-        rxns = find(model_r.rxnGeneMat(:,geneindex(i)));
+        rxns = find(model.rxnGeneMat(:,geneindex(i)));
         for j = 1:length(rxns)
             if ~isempty(NEWGPRList) && any(cell2mat(NEWGPRList(:,1))==rxns(j))
                 index = find(cell2mat(NEWGPRList(:,1))==rxns(j));
@@ -31,7 +34,7 @@ for i = 1:length(geneindex)
                 NewGPR = updateGPRrules(geneRule,genes{i},orthlogs{i});
                 NEWGPRList(index,3)=cellstr(NewGPR);
             else
-                geneRule = model_r.grRules{rxns(j)};
+                geneRule = model.grRules{rxns(j)};
                 NewGPR = updateGPRrules(geneRule,genes{i},orthlogs{i});
                 NEWGPRList = [NEWGPRList;rxns(j),cellstr(geneRule),cellstr(NewGPR)];
             end
@@ -44,7 +47,8 @@ function NewGPR = updateGPRrules(geneRule,gene,orthlog)
 %asseses if the rule is true (i.e. rxn can still carry flux) or not (cannot
 %carry flux).
 geneRule = [' ', geneRule, ' '];
-geneSets = strsplit(geneRule,'or');
+geneSets = strrep(geneRule,[' or '],[' &% ']);
+geneSets = strsplit(geneSets,'&%');
 %if ~cellfun(@isempty,strfind(geneSets,gene))
     new = strrep(geneSets,[' ' gene ' '],[' ' orthlog ' ']);
     new = strrep(new,['(' gene ' '],['(' orthlog ' ']);
@@ -55,7 +59,8 @@ newgpr_temp = unique(union(new,geneSets));
         NewGPR = strjoin(newgpr_temp,') or (');
         NewGPR = ['(', NewGPR, ')'];
     else
-        NewGPR = strjoin(newgpr_temp,'or');
+        newgpr_temp = strtrim(newgpr_temp);
+        NewGPR = strjoin(newgpr_temp,' or ');
     end
 NewGPR = strtrim(NewGPR);
 end

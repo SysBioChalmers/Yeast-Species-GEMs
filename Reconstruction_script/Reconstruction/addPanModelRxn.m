@@ -198,6 +198,7 @@ for i = 1:length(newrxn.ID)
         end
     end
 end
+%model = rmfield(model,'grRules');
 
 end
 
