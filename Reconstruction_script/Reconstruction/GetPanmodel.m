@@ -273,4 +273,8 @@ mapping(:,6) = model1.rxnMetaNetXID(rxn_index);
 model1 = UpdatePanGPR(ortholog,panmodel);
 mapping(:,7) = model1.grRules(rxn_index);
 
+clearvars -EXCEPT mapping StrianData panmodel
+%% This step is to find whether those rxns we found in last step exist in draft model or not
+
+
 
