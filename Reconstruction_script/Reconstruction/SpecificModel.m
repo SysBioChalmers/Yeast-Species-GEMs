@@ -9,7 +9,13 @@ function [reducedModel,resultfile] = SpecificModel(model,StrianData,strain)
 % %load model
 % cd ..
 % model = loadYeastModel;
-% %change model to raven format
+%change model to raven format
+% if isfield(model,'grRules')
+% model = rmfield(model,'grRules');
+% end
+% if isfield(model,'rxnGeneMat')
+% model = rmfield(model,'rxnGeneMat');
+% end
 % modelr = ravenCobraWrapper(model);
 % model = modelr;
 
@@ -53,10 +59,8 @@ for j = 1:length(strain)
 
 
 %generate the specific model according to type
-
-reducedModel = removeGenes(model,genelist,true,true,true);
-%add annotaion and generate result file
-reducedModel.id=[strain{j},'specific model genereted from panYeast'];
+reducedModel = removeGenes(model,genelist,true,true,false);%add annotaion and generate result file
+reducedModel.id=[strain{j},' specific model genereted from panYeast'];
 cd SSmodels/
 save([strain{j},'.mat'],'reducedModel')
 cd ../
