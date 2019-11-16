@@ -2,7 +2,7 @@ function [model rxnUpdateGPR] = addPanModelRxn(model,matrix,newmet,newrxn)
 
 % This Function is for adding new annotated metabolites/reactions into model.
 % Add changes from the Pan genome new anootation for new reactions and new metabolites and new genes related + manual curation on those changes
-% Input: model, PanNewRxnMatrix.tsv,PanNewRxnProp.tsv.
+% Input: model in COBRA toolbox, PanNewRxnMatrix.tsv,PanNewRxnProp.tsv. 
 % NOTE: changeGeneAssociation.m is a function from cobra
 %       Extract model info from .tsv format.
 %       Before run the codes below, the file should be manually editted.

@@ -67,7 +67,7 @@ for i = 1: length(model.genes)
 end
 
 if isfield(model,'geneShortNames')
-    model.geneShortNames = model.genes
+    model.geneShortNames = model.genes;
 end
 
 %Remove the cloned repos:
