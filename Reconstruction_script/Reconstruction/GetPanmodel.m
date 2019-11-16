@@ -1,7 +1,19 @@
 % This function is the main function for generating panmodel and specific
 % models
+initCobraToolbox
+git('clone https://github.com/SysBioChalmers/yeast-GEM.git')
 
+%Load yeast model:
+cd yeast-GEM
+model    = load('ModelFiles/mat/yeastGEM.mat');
+model    = model.model;
+yeastVer = model.modelID(strfind(model.modelID,'_v')+1:end);
+cd ..
 
+% modify the rules field
+model1 = ravenCobraWrapper(model);
+model1 = ravenCobraWrapper(model1);
+model.rules = model1.rules;
 
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
 % mapping metaNetIDs 
@@ -152,7 +164,7 @@ mappingID.panIDs = mapping{2};
 fclose(fID);
 
 %load presenceAvsence data
-RecName = '../gene_pa_table.csv'; % setting file name
+RecName = '../aaaa/gene_pa_table.csv'; % setting file name
 RecStore = datastore(RecName,'ReadVariableNames',true); % set whether should we read variables name
 RecStore.Delimiter = ','; 
 
@@ -182,6 +194,7 @@ genesMatrix = readall(RecStore);% read the strain name
 StrianData.strains = table2cell(genesMatrix(:,1));
 rxnMatrix = zeros(length(model.rxns),1);
 panmodel = model;
+
 for i = 1:length(StrianData.strains)
     [~,ID] = ismember(StrianData.strains(i),StrianData.strains);
     lvl = StrianData.levels(:,ID);
@@ -194,8 +207,10 @@ for i = 1:length(StrianData.strains)
     model_temp = UpdatePanGPR(ortholog_strian,model);
     end
     [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i));
+    reducedModel = rmfield(reducedModel,'metSBOTerms');
+    reducedModel = rmfield(reducedModel,'rxnSBOTerms');
     [index,~] = ismember(model.rxns,reducedModel.rxns);
-    rxnMatrix(i,:) = transpose(index);
+    rxnMatrix(:,i) = index;
 end
     
 % analyse the mets that cannot be produced
@@ -275,6 +290,85 @@ mapping(:,7) = model1.grRules(rxn_index);
 
 clearvars -EXCEPT mapping StrianData panmodel
 %% This step is to find whether those rxns we found in last step exist in draft model or not
+cd otherchanges
+mapping(:,8) = mapIDsViaMNXref('rxns',mapping(:,6),'MetaNetX','KEGG');
+mapping(:,9) = mapIDsViaMNXref('rxns',mapping(:,6),'MetaNetX','MetaCyc');
+cd ../../../draft_GEM_all_yeast_species/ 
 
+outgroup = {'Arthrobotrys_oligospora';'Aspergillus_nidulans';'Botrytis_cinerea';'Coccidioides_immitis';'Fusarium_graminearum';'Neurospora_crassa';'Saitoella_complicata';'Schizosaccharomyces_pombe';'Sclerotinia_sclerotiorum';'Stagonospora_nodorum';'Xylona_heveae'}
+for i = 1:length(mapping(:,1))
+    strains = strsplit(mapping{i,3},',');
+    Mapping_metacyc_Note = cell(1,1)
+    Mapping_metacyc_Gene = cell(1,1)
+    Mapping_metacyc_EC = cell(1,1)
+    Mapping_kegg_Note = cell(1,1)
+    Mapping_kegg_Gene = cell(1,1)
+    Mapping_kegg_EC = cell(1,1)   
+    for j = 1:length(strains)
+        cd 'strain specific model from RAVEN_biocyc_55_110'/
+        if isempty(find(contains(outgroup,strains{j}),1))
+            % load biocyc draft model
+            cd(strains{j})
+            fid = fopen('draft_GEM.tsv','r');
+            draft = textscan(fid,'%s %s %s %s %s %s %s %s %s %s %s %s %s %s %s','Delimiter','\t','HeaderLines',1);
+            draft = [draft{1} draft{2} draft{3} draft{4} draft{5}];
+            fclose(fid);
+            cd ../
+            % index whether the rxn is in the draft
+            [~,idx] = ismember(mapping(i,9),draft(:,1));
+            if idx ~= 0
+                Mapping_metacyc_Note(j) = {'1'};
+                Mapping_metacyc_Gene(j) = draft(idx,5);
+                Mapping_metacyc_EC(j) = draft(idx,4);
+                aaa = [aaa;mapping(i,1:9),strains(j),draft(idx,5),draft(idx,4)];
+            else
+                Mapping_metacyc_Note(j) = {'0'};
+                Mapping_metacyc_Gene(j) = {'NA'};
+                Mapping_metacyc_EC(j) = {'NA'};
+            end
+        else
+            Mapping_metacyc_Note(j) = {'0'};
+            Mapping_metacyc_Gene(j) = {'NA'};
+            Mapping_metacyc_EC(j) = {'NA'};
+        end
 
+        cd ../'strain specific model from RAVEN_kegg'/
+        if isempty(find(contains(outgroup,strains{j}),1))
+            % load biocyc draft model
+            cd(strains{j})
+            fid = fopen('draft_GEM.tsv','r');
+            draft = textscan(fid,'%s %s %s %s %s %s %s %s %s %s %s %s %s %s %s','Delimiter','\t','HeaderLines',1);
+            draft = [draft{1} draft{2} draft{3} draft{4} draft{5}];
+            fclose(fid);
+            cd ../
+            % index whether the rxn is in the draft
+            [~,idx] = ismember(mapping(i,8),draft(:,1));
+            if idx ~= 0
+                Mapping_kegg_Note(j) = {'1'};
+                Mapping_kegg_Gene(j) = draft(idx,5);
+                Mapping_kegg_EC(j) = draft(idx,4);
+                bbb = [bbb;mapping(i,1:9),strains(j),draft(idx,5),draft(idx,4)];
+            else
+                Mapping_kegg_Note(j) = {'0'};
+                Mapping_kegg_Gene(j) = {'NA'};
+                Mapping_kegg_EC(j) = {'NA'};
+            end
+        else
+            Mapping_kegg_Note(j) = {'0'};
+            Mapping_kegg_Gene(j) = {'NA'};
+            Mapping_kegg_EC(j) = {'NA'};
+        end
+        cd ../
+    end
+        mapping{i,10} = strjoin(Mapping_metacyc_Note,',');
+        mapping{i,11} = strjoin(Mapping_metacyc_Gene,',');
+        mapping{i,12} = strjoin(Mapping_metacyc_EC,',');
+        
+        mapping{i,13} = strjoin(Mapping_metacyc_Note,',');
+        mapping{i,14} = strjoin(Mapping_metacyc_Gene,',');
+        mapping{i,15} = strjoin(Mapping_metacyc_EC,',');   
+end
+            
+            
+        
 
