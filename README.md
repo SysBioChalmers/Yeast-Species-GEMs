@@ -1,7 +1,7 @@
 This repo contains scripts and dataset to build pan-model and yeast species specific metabolic models for existing 332 yeast species.
 
-|Taxonomy | Template Model | Reactions | Metabolites| Genes |Date|
-|:-------:|:--------------:|:---------:|:----------:|:-----:|:-----:|
+|Taxonomy | Template Model | Rxns | Mets | Genes |Date|
+|:-------:|:--------------:|:------:|:------:|:-----:|:-----:|
 |_Alloascoidea_hylecoeti_|Yeast8.3|3977|2750|1072|20191114|
 |_Ambrosiozyma_kashinagacola_|Yeast8.3|3937|2697|1045|20191114|
 |_Ambrosiozyma_monospora_|Yeast8.3|3938|2693|1047|20191114|
