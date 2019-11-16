@@ -1,12 +1,12 @@
 # Yeast-species-pan-GEM: The pan-GEM and strain specific GEM of 332 different yeast species
 
-* Brief Model Description:
+* Brief introduction:
 
-This repository contains the original script and code to build pan-GEM and strain specific GEM of 332 different yeast species.
+As the unicellular fungi, the budding yeasts contain over 1000 different yeast species, which are widely distributed on our earth. Some yeast species, like Saccharomyces cerevisiae and Candida albicans, are very important to our human life and health. To further explore how different yeast species with interesting traits evolved in the long history, we built a pan-GEM for nearly all currently sequenced yeast species base on one of the latest research (Cell, 2018; DOI: 10.1016/j.cell.2018.10.023). With the latest GEM of Saccharomyces cerevisiae (Yeast8, https://github.com/SysBioChalmers/yeast-GEM) developed in our lab, the pan-GEM of about 300 yeast species can be built by adding the new reactions with the related genes into Yeast8 through the detailed pan-genome annotation procedures. Next, with the genome annotation of each yeast species, 332 species GEMs of high quality can be built automatically. With the gap-filling and model test verified by the experimental data, the quality and prediction performances of species GEM will be improved continuously. We hope that this work could set a solid base for systematic utilization of different yeast species in the wide research community.
 
 * Model KeyWords:
 
-**GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template, evolution analysis; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** subphylum _Saccharomycotina_; **Metabolic System:** general metabolism; **Bioreactor**; **Strain:** 332 budding yeast species;
+**GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template, evolution analysis; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** subphylum _Saccharomycotina_; **Metabolic System:** general metabolism; **Strain:** 332 budding yeast species;
 
 * Last update: 2019-11-15
 
