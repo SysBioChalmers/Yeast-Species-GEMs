@@ -1,4 +1,17 @@
-This repo contains scripts and dataset to build pan-model and yeast species specific metabolic models for existing 332 yeast species.
+# Yeast-species-pan-GEM: The pan-GEM and strain specific GEM of 332 different yeast species
+
+* Brief Model Description:
+
+This repository contains the original script and code to build pan-GEM and strain specific GEM of 332 different yeast species.
+
+* Model KeyWords:
+
+**GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** _Saccharomyces cerevisiae_; **Metabolic System:** general metabolism; **Bioreactor**; **Strain:** S288C; **Condition:** aerobic, glucose-limited, defined media;
+
+* Last update: 2019-11-15
+
+
+* Main Model Descriptors:
 
 |Taxonomy | Template Model | Rxns | Mets | Genes |Date|
 |:-------:|:--------------:|:------:|:------:|:-----:|:-----:|
@@ -345,3 +358,17 @@ This repo contains scripts and dataset to build pan-model and yeast species spec
 |_yHMPu5000041855_Candida_ascalaphidarum_|Yeast8.3|3842|2705|1001|20191116|
 |_yHMPu5000041862_Candida_golubevii_|Yeast8.3|3784|2695|1023|20191116|
 |_yHMPu5000041863_Candida_gorgasii_|Yeast8.3|3827|2709|1016|20191116|
+
+
+## Contributing
+
+Contributions are always welcome! Please firstly establish a new branch based on dev branch of this repo.
+
+## Contributors
+
+* [Eduard J. Kerkhoven](https://www.chalmers.se/en/staff/Pages/Eduard-Kerkhoven.aspx) ([@edkerk](https://github.com/edkerk)), Chalmers University of Technology, Sweden
+* [Feiran Li](https://www.chalmers.se/en/staff/Pages/feiranl.aspx) ([@feiranl](https://github.com/feiranl)), Chalmers University of Technology, Sweden
+* [Hongzhong Lu](https://www.chalmers.se/en/Staff/Pages/luho.aspx) ([@hongzhonglu](https://github.com/hongzhonglu)), Chalmers University of Technology, Sweden
+* [Gang Li](https://www.chalmers.se/en/Staff/Pages/gangl.aspx), Chalmers University of Technology, Sweden
+* [Le Yuan](https://www.chalmers.se/en/staff/Pages/leyu.aspx), Chalmers University of Technology, Sweden
+
