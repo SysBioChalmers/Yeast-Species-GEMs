@@ -1,4 +1,4 @@
-# Yeast-species-pan-GEM: The pan-GEM and strain specific GEM of 332 different yeast species
+# Yeast-Species-GEM: The pan-GEM and strain specific GEMs for 332 different yeast species
 
 * Brief introduction:
 
@@ -8,7 +8,7 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 
 **GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template, evolution analysis; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** subphylum _Saccharomycotina_; **Metabolic System:** general metabolism; **Strain:** 332 budding yeast species;
 
-* Last update: 2019-11-15
+* Last update: 2019-11-17
 
 
 * Main Model Descriptors:
