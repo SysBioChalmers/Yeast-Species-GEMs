@@ -27,31 +27,9 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_Babjeviella_inositovora_|Yeast8.3|3980|2727|1070|20191114|
 |_Botrytis_cinerea_|Yeast8.3|4070|2935|1301|20191114|
 |_Brettanomyces_anomalus_|Yeast8.3|3722|2670|1006|20191114|
-|_Candida_albicans_|Yeast8.3|3982|2719|1099|20191114|
-|_Candida_apicola_|Yeast8.3|3804|2710|967|20191114|
-|_Candida_arabinofermentans_|Yeast8.3|3910|2680|1016|20191114|
-|_Candida_auris_|Yeast8.3|3917|2691|1010|20191114|
-|_Candida_boidinii_JCM9604_|Yeast8.3|3849|2694|1047|20191114|
-|_Candida_carpophila_|Yeast8.3|3790|2717|988|20191114|
-|_Candida_dubliniensis_|Yeast8.3|3921|2709|1017|20191114|
-|_Candida_glabrata_|Yeast8.3|3901|2637|1000|20191114|
-|_Candida_homilentoma_|Yeast8.3|3931|2704|1028|20191114|
-|_Candida_infanticola_|Yeast8.3|3813|2706|951|20191114|
-|_Candida_intermedia_|Yeast8.3|3971|2737|1062|20191114|
-|_Candida_orthopsilosis_|Yeast8.3|3837|2701|1002|20191114|
-|_Candida_parapsilosis_|Yeast8.3|3924|2692|997|20191114|
-|_Candida_sojae_|Yeast8.3|3741|2640|913|20191114|
-|_Candida_sorboxylosa_|Yeast8.3|3722|2589|920|20191114|
-|_Candida_succiphila_|Yeast8.3|3809|2678|1000|20191114|
-|_Candida_tanzawaensis_|Yeast8.3|3915|2697|1028|20191114|
-|_Candida_tenuis_|Yeast8.3|3734|2694|974|20191114|
-|_Candida_tropicalis_|Yeast8.3|3852|2709|1041|20191114|
-|_Candida_versatilis_|Yeast8.3|3876|2751|1053|20191114|
-|_Clavispora_lusitaniae_|Yeast8.3|3811|2699|1016|20191114|
 |_Coccidioides_immitis_|Yeast8.3|3949|2897|1184|20191114|
 |_Cyberlindnera_fabianii_JCM3601_|Yeast8.3|3989|2731|1080|20191114|
 |_Cyberlindnera_jadinii_|Yeast8.3|3959|2718|1063|20191114|
-|_Debaryomyces_hansenii_|Yeast8.3|3907|2727|1035|20191114|
 |_Dekkera_bruxellensis_|Yeast8.3|3710|2667|994|20191114|
 |_Eremothecium_coryli_|Yeast8.3|3805|2601|940|20191114|
 |_Eremothecium_cymbalariae_|Yeast8.3|3766|2593|928|20191114|
@@ -82,7 +60,6 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_Lachancea_thermotolerans_|Yeast8.3|3935|2665|1019|20191114|
 |_Lachancea_waltii_|Yeast8.3|3838|2677|1043|20191114|
 |_Lipomyces_starkeyi_|Yeast8.3|3863|2782|1120|20191114|
-|_Lodderomyces_elongisporus_|Yeast8.3|3928|2698|1027|20191114|
 |_Metschnikowia_aberdeeniae_|Yeast8.3|3710|2655|967|20191114|
 |_Metschnikowia_arizonensis_|Yeast8.3|3819|2688|1015|20191114|
 |_Metschnikowia_bicuspidata_|Yeast8.3|3808|2688|989|20191114|
@@ -106,7 +83,6 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_Metschnikowia_santaceciliae_|Yeast8.3|3821|2680|1040|20191114|
 |_Metschnikowia_shivogae_|Yeast8.3|3791|2682|991|20191114|
 |_Metschnikowia_similis_|Yeast8.3|3778|2689|985|20191114|
-|_Meyerozyma_guilliermondii_|Yeast8.3|3749|2704|980|20191114|
 |_Millerozyma_acaciae_|Yeast8.3|3720|2686|975|20191114|
 |_Nadsonia_fulvescens_var_elongata_|Yeast8.3|3785|2733|1030|20191114|
 |_Nakaseomyces_bacillisporus_|Yeast8.3|3780|2619|972|20191114|
@@ -135,14 +111,12 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_Saitoella_complicata_|Yeast8.3|3979|2860|1121|20191114|
 |_Saprochaete_clavata_|Yeast8.3|3907|2750|1041|20191114|
 |_Scheffersomyces_lignosus_|Yeast8.3|3985|2727|1074|20191114|
-|_Scheffersomyces_stipitis_|Yeast8.3|3964|2721|1069|20191114|
 |_Schizosaccharomyces_pombe_|Yeast8.3|3372|2547|934|20191114|
 |_Sclerotinia_sclerotiorum_|Yeast8.3|4063|2923|1264|20191114|
 |_Spathaspora_arborariae_|Yeast8.3|3878|2690|1020|20191114|
 |_Spathaspora_girioi_|Yeast8.3|3804|2686|1019|20191114|
 |_Spathaspora_gorwiae_|Yeast8.3|3902|2689|1008|20191114|
 |_Spathaspora_hagerdaliae_|Yeast8.3|3926|2703|1020|20191114|
-|_Spathaspora_passalidarum_|Yeast8.3|3922|2703|1016|20191114|
 |_Sporopachydermia_quercuum_|Yeast8.3|4017|2786|1074|20191114|
 |_Stagonospora_nodorum_|Yeast8.3|4093|2956|1379|20191114|
 |_Starmerella_bombicola_JCM9596_|Yeast8.3|3760|2697|961|20191114|
@@ -371,4 +345,3 @@ Contributions are always welcome! Please firstly establish a new branch based on
 * [Hongzhong Lu](https://www.chalmers.se/en/Staff/Pages/luho.aspx) ([@hongzhonglu](https://github.com/hongzhonglu)), Chalmers University of Technology, Sweden
 * [Gang Li](https://www.chalmers.se/en/Staff/Pages/gangl.aspx), Chalmers University of Technology, Sweden
 * [Le Yuan](https://www.chalmers.se/en/staff/Pages/leyu.aspx), Chalmers University of Technology, Sweden
-
