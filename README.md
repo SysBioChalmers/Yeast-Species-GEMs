@@ -8,14 +8,11 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 
 **GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template, evolution analysis; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** subphylum _Saccharomycotina_; **Metabolic System:** general metabolism; **Strain:** 332 budding yeast species;
 
-* Last update: 2019-11-17
-
-
-
 * Contributing
 
-Contributions are always welcome! Please firstly establish a new branch based on dev branch (https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/dev) of this repo.
+Contributions are always welcome! Please firstly establish a new branch based on the dev branch (https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/dev) of this repo. You could also report an issue at https://github.com/SysBioChalmers/Yeast-Species-GEMs/issues if you have any question or idea about the content in this repo.
 
+* Last update: 2019-11-23
 
 
 * Main Model Descriptors:
