@@ -11,6 +11,13 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 * Last update: 2019-11-17
 
 
+
+* Contributing
+
+Contributions are always welcome! Please firstly establish a new branch based on dev branch (https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/dev) of this repo.
+
+
+
 * Main Model Descriptors:
 
 |Taxonomy | Template Model | Rxns | Mets | Genes |Date|
@@ -334,9 +341,7 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_yHMPu5000041863_Candida_gorgasii_|Yeast8.3|3827|2709|1016|20191116|
 
 
-## Contributing
 
-Contributions are always welcome! Please firstly establish a new branch based on dev branch of this repo.
 
 ## Contributors
 
