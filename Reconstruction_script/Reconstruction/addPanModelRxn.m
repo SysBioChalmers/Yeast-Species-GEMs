@@ -1,4 +1,4 @@
-function [model rxnUpdateGPR] = addPanModelRxn(model,matrix,newmet,newrxn)
+function [model rxnUpdateGPR] = addPanModelRxn(model,matrix,newmet,newrxn,startidx,endidx)
 
 % This Function is for adding new annotated metabolites/reactions into model.
 % Add changes from the Pan genome new anootation for new reactions and new metabolites and new genes related + manual curation on those changes
@@ -20,14 +20,26 @@ if nargin < 2
     Level1 = 0;
     Level2 = 0;
     Level3 = 0;
+    startidx = 1;
+    endidx = length(nexrxn.ID);
 elseif nargin < 3
     Level2 = 0;
     Level3 = 0;
     Level1 = 1;
+    startidx = 1;
+    endidx = length(nexrxn.ID);
 elseif nargin < 4
     Level3 = 0;
     Level1 = 1;
     Level2 = 1;
+    startidx = 1;
+    endidx = length(nexrxn.ID);
+elseif  nargin < 5
+    Level3 = 1;
+    Level1 = 1;
+    Level2 = 1;
+    startidx = 1;
+    endidx = length(nexrxn.ID);
 else
     Level3 = 1;
     Level1 = 1;
@@ -141,7 +153,7 @@ MassChargeresults = {};
 RedoxResults      = {};
 rxnUpdateGPR      = {};
 cd otherchanges/
-for i = 1:length(newrxn.ID)
+for i = startidx:endidx
     newID   = getNewIndex(model.rxns);
 
     j = find(strcmp(matrix.rxnIDs,newrxn.ID{i}));
@@ -185,7 +197,7 @@ for i = 1:length(model.genes)
 end
 
 %add rxn annotation
-for i = 1:length(newrxn.ID)
+for i = startidx:endidx
     [~,rxnID] = ismember(newrxn.ID(i),model.rxnNames);
     if rxnID ~= 0
         model.rxnNames{rxnID}     = newrxn.rxnNames{i};
