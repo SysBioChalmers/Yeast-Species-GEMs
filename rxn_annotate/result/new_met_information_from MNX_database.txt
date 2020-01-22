@@ -2259,10 +2259,10 @@ MNXR106645	product	1	MNXM2	H2O	0	H2O	chebi:15377	C00001	product
 MNXR106645	product	1	MNXM2073	C8H9NO	0	2-phenylacetamide	chebi:16562	C02505	product
 MNXR106645	reactant	1	MNXM4	O2	0	O2	chebi:15379	C00007	reactant
 MNXR106645	reactant	1	MNXM97	C9H11NO2	0	L-phenylalanine	chebi:58095	"C00079;D00021;C02057"	reactant
-MNXR106808	reactant	1	MNXM116	C5H9O8P	-2	D-ribose 5-phosphate	chebi:58273	C00117	reactant
-MNXR106808	reactant	1	MNXM158	C4H4N2O2	0	uracil	chebi:17568	C00106	reactant
-MNXR106808	product	1	MNXM2	H2O	0	H2O	chebi:15377	C00001	product
-MNXR106808	product	1	MNXM2276	C9H11N2O9P	-2	pseudouridine 5'-phosphate	chebi:58380	C01168	product
+MNXR141222	reactant	1	MNXM116	C5H9O8P	-2	D-ribose 5-phosphate	chebi:58273	C00117	reactant
+MNXR141222	reactant	1	MNXM158	C4H4N2O2	0	uracil	chebi:17568	C00106	reactant
+MNXR141222	product	1	MNXM2	H2O	0	H2O	chebi:15377	C00001	product
+MNXR141222	product	1	MNXM2276	C9H11N2O9P	-2	pseudouridine 5'-phosphate	chebi:58380	C01168	product
 MNXR103100	product	1	MNXM1	H	1	H(+)	chebi:15378	C00080	product
 MNXR103100	product	1	MNXM7	C10H12N5O10P2	-3	ADP	chebi:456216	"C00008;G11113"	product
 MNXR103100	product	1	MNXM89955	C25H35N7O19P3S	-5	(S)-methylmalonyl-CoA	chebi:57327	C00683	product
