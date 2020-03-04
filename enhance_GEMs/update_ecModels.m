@@ -1,3 +1,8 @@
+%update_ecModels
+%
+% Ivan Domenzain. 2020-03-04
+%
+
 %Clone GECKO repository
 git('clone https://github.com/SysBioChalmers/GECKO.git')
 cd GECKO
@@ -32,8 +37,12 @@ for i=1:length(fileNames)
             %Generate protDatabase (uniprot and KEGG for the desired
             %organism)
             cd geckomat/get_enzyme_data
-            updateDatabases(keggCode{1});
+            updateDatabases('');
             copyfile('../../Databases/protDatabase.mat',['../../Databases/' modelName '_protDatabase.mat'])
+            load(['../../../models/' file])
+            cd ..
+            ecModelName = ['ec_' modelName '_GEM'];
+            [ecModel,ecModel_batch] = enhanceGEM(reducedModel,'COBRA','ecRhtoGEM','v.1.0');
         end
     end
 end
