@@ -1,0 +1,73 @@
+Strain	scientific name	Model_name	KEGG	Growth rate [1/h]	GUR [mmol/gDw h]	V_EtOH[mmol/gDw h]
+C. albicans	Candida albicans	Candida_albicans	cal	0.47	7.94	2.76
+C. albicans	Candida albicans	Candida_albicans	cal	0.51	7.56	0.38
+C. albicans	Candida albicans	Candida_albicans	cal	0.44	8.15	0.69
+Debaromyces vanrijiae CBS 3024	Debaromyces vanrijiae	Debaromyces_vanrijiae		0.409	3.552476742	0
+Debaromyces vanrijiae CBS 3024	Debaromyces vanrijiae	Debaromyces_vanrijiae		0.347	3.163924599	0
+Dekkera bruxellensis CBS 2796	Dekkera bruxellensis	Dekkera_bruxellensis		0.147	3.552476742	3.6900369
+Dekkera bruxellensis	Dekkera bruxellensis	Dekkera_bruxellensis		0.12	3.7	4.4
+Eremothecium coryli	Eremothecium coryli	Eremothecium_coryli		0.158	1.387686227	0.651182982
+Eremothecium coryli	Eremothecium coryli	Eremothecium_coryli		0.151	1.387686227	0.651182982
+Eremothecium sinecaudum CBS 8199	Eremothecium sinecaudum	Eremothecium_sinecaudum		0.117	1.554208575	0
+Eremothecium sinecaudum CBS 8199	Eremothecium sinecaudum	Eremothecium_sinecaudum		0.122	1.609716024	0
+Kazachstania barnettii	Kazachstania barnettii	Kazachstania_barnettii		0.234	8.65916206	12.15541567
+Kazachstania exiguus	Kazachstania exiguus	Kazachstania_exiguus		0.74	0.999134084	37.98567397
+Kazachstania lodderae	Kazachstania lodderae	Kazachstania_lodderae		0.303	10.37989298	13.45778164
+Kazachstania lodderae	Kazachstania lodderae	Kazachstania_lodderae		0.281	9.713803592	13.02365965
+Kluyveromyces aestuarii CBS 4438	Kluyveromyces aestuarii	Kluyveromyces_aestuarii		0.429	3.663491641	0
+Kluyveromyces dobzhanskii CBS 2104	Kluyveromyces dobzhanskii	yHMPu5000034710_Kluyveromyces_dobzhanskii		0.279	4.163058682	1.953548947
+Kluyveromyces dobzhanskii CBS 2104	Kluyveromyces dobzhanskii	yHMPu5000034710_Kluyveromyces_dobzhanskii		0.271	4.440595928	2.821792924
+Kluyveromyces lactis CBS 2359	Kluyveromyces lactis	Kluyveromyces_lactis	kla	0.255	2.664357557	0
+Kluyveromyces lactis CBS 2359	Kluyveromyces lactis	Kluyveromyces_lactis	kla	0.341	3.163924599	0
+K. lactis	Kluyveromyces lactis	lactis	kla	0.5	11.95	0
+Kluyveromyces marxianus CBS 712	Kluyveromyces marxianus	Kluyveromyces_marxianus	kmx	0.358	3.71899909	0
+Kluyveromyces marxianus CBS 712	Kluyveromyces marxianus	Kluyveromyces_marxianus	kmx	0.269	2.997402251	0
+Kluyveromyces marxianus CBS 712	Kluyveromyces marxianus	Kluyveromyces_marxianus	kmx	0.316	3.0529097	0
+Kluyveromyces marxianus CBS 712	Kluyveromyces marxianus	Kluyveromyces_marxianus	kmx	0.314	2.997402251	0
+Kluyveromyces nonfermentans CBS 8778	Kluyveromyces nonfermentans	Kluyveromyces_nonfermentans		0.101	1.22116388	0
+Kluyveromyces wickerhamii CBS 2745	Kluyveromyces wickerhamii	Kluyveromyces_wickerhamii		0.321	3.496969293	0
+Lachancea fermentati CBS 4506	Lachancea fermentati	Lachancea_fermentati		0.3	7.826550323	9.767744736
+Lachancea kluyverii UWOPS79-150	Lachancea kluyverii	Lachancea_kluyverii		0.315	6.383356646	3.907097895
+Lachancea kluyverii UWOPS79-150	Lachancea kluyverii	Lachancea_kluyverii		0.322	6.549878994	7.814195789
+Lachancea kluyverii UWOPS79-150	Lachancea kluyverii	Lachancea_kluyverii		0.278	6.050311952	5.209463859
+Lachancea kluyverii UWOPS79-150	Lachancea kluyverii	Lachancea_kluyverii		0.271	5.717267257	4.341219883
+Lachancea thermotolerans CBS 6340	Lachancea thermotolerans	Lachancea_thermotolerans	lth	0.229	5.883789605	6.945951812
+Lachancea waltii CBS 6430	Lachancea waltii	Lachancea_waltii		0.245	4.829148072	3.255914912
+Lachancea waltii CBS 6430	Lachancea waltii	Lachancea_waltii		0.325	6.327849197	4.558280877
+Nakaseomyces bacillisporus CBS 7720	Nakaseomyces bacillisporus	Nakaseomyces_bacillisporus		0.203	4.94016297	5.860646842
+Nakaseomyces castellii 	Nakaseomyces castellii 	Nakaseomyces_bacillisporus		0.14	2.553342659	1.953548947
+Nakaseomyces castellii 	Nakaseomyces castellii 	Nakaseomyces_bacillisporus		0.159	2.886387353	1.953548947
+Nakaseomyces delphensis CBS 2170	Nakaseomyces delphensis	Nakaseomyces_delphensis		0.202	10.37989298	15.62839158
+Nakaseomyces glabrata CBS 138	Nakaseomyces glabrata	Nakaseomyces_glabrata		0.152	5.273207664	8.031256783
+Nakaseomyces glabrata CBS 138	Nakaseomyces glabrata	Nakaseomyces_glabrata		0.145	4.884655521	7.163012807
+Naumovozyma castellii CBS 4309	Naumovozyma castellii	Naumovozyma_castellii	ncs	0.187	10.15786319	14.32602561
+Naumovozyma castellii CBS 4309	Naumovozyma castellii	Naumovozyma_castellii	ncs	0.147	8.770176958	12.15541567
+Pichia pastoris Y1294	Pichia pastoris	Komagataella_pastoris		0.268	2.886387353	0.434121988
+Pichia philogaea CBS 6696	Pichia philogaea	Pichia_philogaea		0.249	2.331312862	0
+Saccharomyces cerevisiae	Saccharomyces cerevisiae	Saccharomyces_cerevisiae	sce	0.289	12.04511645	17.58194053
+Saccharomyces cerevisiae	Saccharomyces cerevisiae	Saccharomyces_cerevisiae	sce	0.271	10.21337063	15.41133058
+Saccharomyces cerevisiae	Saccharomyces cerevisiae	Saccharomyces_cerevisiae	sce	0.38	13.26	21.87
+Saccharomyces eubayanus CBS 12357	Saccharomyces eubayanus	Saccharomyces_eubayanus		0.324	11.10148982	17.79900152
+Saccharomyces mikatae CBS 8839	Saccharomyces mikatae	Saccharomyces_mikatae		0.374	16.09716024	24.31083134
+Saccharomyces paradoxus CBS 432	Saccharomyces paradoxus	Saccharomyces_paradoxus		0.338	9.935833389	17.58194053
+Saccharomyces pastorianus Weihenstephan	Saccharomyces pastorianus Weihenstephan	Saccharomyces_pastorianus		0.232	7.99307267	16.27957456
+Saccharomyces pastorianus Weihenstephan	Saccharomyces pastorianus Weihenstephan	Saccharomyces_pastorianus		0.222	8.992206754	18.23312351
+Saccharomyces servazzii CBS 4311	Saccharomyces servazzii	Saccharomyces_servazzii		0.036	3.441461844	4.124158889
+Saccharomyces uvarum CECT12600	Saccharomyces uvarum	Saccharomyces_uvarum		0.281	10.87946002	17.36487953
+Schizosaccharomyces pombe Eg282	Schizosaccharomyces pombe	Schizosaccharomyces_pombe	spo	0.122	4.551610826	6.077707836
+Tetrapisispora blattae CBS 6284	Tetrapisispora blattae	Tetrapisispora_blattae	tbl	0.14	5.106685317	3.907097895
+Tetrapisispora blattae CBS 6284	Tetrapisispora blattae	Tetrapisispora_blattae	tbl	0.141	5.051177868	4.124158889
+Tetrapisispora iriomotensis CBS 8762	Tetrapisispora iriomotensis	Tetrapisispora_iriomotensis	tpf	0.265	6.050311952	5.643585848
+Tetrapisispora iriomotensis CBS 8762	Tetrapisispora iriomotensis	Tetrapisispora_iriomotensis		0.284	6.716401341	7.163012807
+Tetrapisispora phaffii CBS 4417	Tetrapisispora phaffii	Tetrapisispora_phaffii		0.099	4.94016297	6.728890818
+Torulaspora franciscae CBS 2926	Torulaspora franciscae	Torulaspora_franciscae		0.2	1.498701126	20.62079444
+Torulaspora franciscae CBS 2926	Torulaspora franciscae	Torulaspora_franciscae		0.21	1.387686227	22.3572824
+Vanderwaltozyma polysporus CBS 2163	Vanderwaltozyma polysporus	Vanderwaltozyma_polysporus	vpo	0.261	10.54641533	17.14781854
+Vanderwaltozyma polysporus CBS 2163	Vanderwaltozyma polysporus	Vanderwaltozyma_polysporus	vpo	0.258	10.21337063	15.84545257
+Vanderwaltozyma yarrowii	Vanderwaltozyma yarrowii	Vanderwaltozyma_yarrowii		0.252	7.660027976	11.0701107
+Zygosaccharomyces bisporus CBS 702	Zygosaccharomyces bisporus	Zygosaccharomyces_bisporus		0.153	2.719865006	1.302365965
+Zygosaccharomyces rouxii CBS 732	Zygosaccharomyces rouxii	Zygosaccharomyces_rouxii	zro	0.15	1.665223473	0.217060994
+Zygosaccharomyces rouxii CBS 732	Zygosaccharomyces rouxii	Zygosaccharomyces_rouxii	zro	0.147	1.609716024	0.217060994
+Zygotorulaspora florentinus CBS 746	Zygotorulaspora florentinus	Zygotorulaspora_florentinus		0.276	7.493505628	11.0701107
+Zygotorulaspora florentinus CBS 746	Zygotorulaspora florentinus	Zygotorulaspora_florentinus		0.275	7.493505628	10.41892772
+Zygotorulaspora mrakii CBS 4218	Zygotorulaspora mrakii	Zygotorulaspora_mrakii		0.171	5.384222563	6.511829824
