@@ -1,8 +1,8 @@
 %update_ecModels
 %
-% Ivan Domenzain. 2020-03-04
+% Ivan Domenzain. 2020-03-09
 %
-
+current = pwd;
 %Clone GECKO repository
 git('clone https://github.com/SysBioChalmers/GECKO.git')
 cd GECKO
@@ -11,38 +11,53 @@ git('pull')
 git('checkout fix/updateDatabases') 
 clc
 fileNames = dir('../models');
-%Upload KEGG codes info
-fID        = fopen('../../ComplementaryData/yeasts_keggCodes.txt');
-keggCodes  = textscan(fID,'%s %s %s','Delimiter','\t','HeaderLines',1);
-variables  = {'strain','modelName','KEGG'};
-keggCodes = table(keggCodes{1},keggCodes{2},keggCodes{3},'VariableNames', variables);
-%Substitute some scripts in GECKO
-copyfile('../updateDatabases.m','geckomat/get_enzyme_data/updateDatabases.m')
-current = pwd;
+%Upload organism and model specific parameters
+fID         = fopen('../../ComplementaryData/yeasts_parameters.txt');
+yeastsParam = textscan(fID,'%s %s %s %s %f %f %f','Delimiter','\t','HeaderLines',1);
+%Replace scripts in GECKO:
+scripts = dir('../specific_scripts');
+for i = 1:length(scripts)
+    script = scripts(i).name;
+    if ~strcmp(script,'.') && ~strcmp(script,'..')
+        fullName   = ['../specific_scripts/' script];
+        %Retrieve script path within GECKO
+        GECKO_path = dir(['**/' script]);
+        GECKO_path = GECKO_path.folder;
+        %Replace script in GECKO in its container subfolder
+        copyfile(fullName,GECKO_path)
+    end
+end
+delete databases/chemostatData.tsv
+delete databases/prot_abundance.txt
+
 for i=1:length(fileNames)
     cd(current)
     file = fileNames(i).name;
     if contains(file,'.mat')
-        disp(file)
         modelName = file(1:(end-4));
         disp(modelName)
-        DBname    = ['../../ComplementaryData/databases/uniprot/' modelName '.tab'];
+        %Load model
+        load(['models/' file])
+        %Convert to RAVEN format
+        model = ravenCobraWrapper(reducedModel);
+        %Transfer model parameters to GECKO
+        transferParameters(yeastsParam,model,modelName)       
         %If a uniprot file is available for this organism in the repository
         %then paste it in GECKO
+        DBname = ['../../ComplementaryData/databases/uniprot/' modelName '.tab'];
         if isfile(DBname)
             copyfile(DBname,'databases/uniprot.tab')
-            index = find(strcmpi(keggCodes.modelName,modelName),1);
-            keggCode = keggCodes.KEGG(index);
-            disp(keggCode)
             %Generate protDatabase (uniprot and KEGG for the desired
             %organism)
             cd geckomat/get_enzyme_data
             updateDatabases('');
             copyfile('../../Databases/protDatabase.mat',['../../Databases/' modelName '_protDatabase.mat'])
-            load(['../../../models/' file])
+            ecModelName = ['ec_' modelName '_GEM'];        
+            mkdir(['../../models/' ecModelName])
             cd ..
-            ecModelName = ['ec_' modelName '_GEM'];
-            [ecModel,ecModel_batch] = enhanceGEM(reducedModel,'COBRA','ecRhtoGEM','v.1.0');
+            [ecModel,ecModel_batch] = enhanceGEM(model,'COBRA',ecModelName,'v.1.0');
+            save(['../models/' ecModelName '/ecModel.mat'],'ecModel')
+            save(['../models/' ecModelName '/ecModel_batch.mat'],'ecModel_batch')
         end
     end
 end
