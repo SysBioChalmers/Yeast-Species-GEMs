@@ -1,6 +1,6 @@
 %update_ecModels
 %
-% Ivan Domenzain. 2020-03-09
+% Ivan Domenzain. 2020-03-11
 %
 current = pwd;
 %Clone GECKO repository
@@ -29,7 +29,7 @@ for i = 1:length(scripts)
 end
 delete databases/chemostatData.tsv
 delete databases/prot_abundance.txt
-
+mkdir('../../ecModels')
 for i=1:length(fileNames)
     cd(current)
     file = fileNames(i).name;
@@ -58,6 +58,9 @@ for i=1:length(fileNames)
             [ecModel,ecModel_batch] = enhanceGEM(model,'COBRA',ecModelName,'v.1.0');
             save(['../models/' ecModelName '/ecModel.mat'],'ecModel')
             save(['../models/' ecModelName '/ecModel_batch.mat'],'ecModel_batch')
+            newDir = ['../../../ecModels/' ecModelName];
+            mkdir(newDir)
+            movefile(['../models/' ecModelName '/*'],newDir)
         end
     end
 end
