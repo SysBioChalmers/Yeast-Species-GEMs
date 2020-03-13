@@ -77,6 +77,23 @@ model.ub(strcmp(model.rxnNames,'D-glucose exchange')) = 0;
 % Map the index of the modified Kcat values to the new model (after rxns
 % removals).
 modifications = mapModifiedRxns(modifications,model);
+%Curate Kcat values
+cd ../utilities
+proteins = {'O42933'};
+Kcats    = 70.9;
+for i=1:length(proteins)
+    prot = proteins{i};
+    Kcat = Kcats(i);
+    model = assignKcat(model,prot,Kcat);
+end
+cd ../change_model
+end
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function model = assignKcat(model,protein,Kcat)
+[~,rxnIdx,~,~] = getKcat(model,protein);
+prot = find(contains(model.metNames,protein));
+newValue = Kcat; %1/s
+model.S(prot,rxnIdx) = -1/(newValue*3600);
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function modified = mapModifiedRxns(modifications,model)
