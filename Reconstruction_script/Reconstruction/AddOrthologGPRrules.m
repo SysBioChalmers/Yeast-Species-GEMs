@@ -47,7 +47,7 @@ function NewGPR = updateGPRrules(geneRule,gene,orthlog)
 %asseses if the rule is true (i.e. rxn can still carry flux) or not (cannot
 %carry flux).
 geneRule = [' ', geneRule, ' '];
-geneSets = strrep(geneRule,[' or '],[' &% ']);
+geneSets = strrep(geneRule,' or ',' &% ');
 geneSets = strsplit(geneSets,'&%');
 %if ~cellfun(@isempty,strfind(geneSets,gene))
     new = strrep(geneSets,[' ' gene ' '],[' ' orthlog ' ']);

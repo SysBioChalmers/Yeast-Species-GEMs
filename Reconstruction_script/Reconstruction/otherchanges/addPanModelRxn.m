@@ -1,4 +1,4 @@
-function [model rxnUpdateGPR] = addPanModelRxn(model,matrix,newmet,newrxn,startidx,endidx)
+function [model,rxnUpdateGPR,EnergyResults,RedoxResults,MassChargeresults] = addPanModelRxn(model,matrix,newmet,newrxn,startidx,endidx)
 
 % This Function is for adding new annotated metabolites/reactions into model.
 % Add changes from the Pan genome new anootation for new reactions and new metabolites and new genes related + manual curation on those changes
@@ -21,25 +21,25 @@ if nargin < 2
     Level2 = 0;
     Level3 = 0;
     startidx = 1;
-    endidx = length(nexrxn.ID);
+    endidx = length(newrxn.ID);
 elseif nargin < 3
     Level2 = 0;
     Level3 = 0;
     Level1 = 1;
     startidx = 1;
-    endidx = length(nexrxn.ID);
+    endidx = length(newrxn.ID);
 elseif nargin < 4
     Level3 = 0;
     Level1 = 1;
     Level2 = 1;
     startidx = 1;
-    endidx = length(nexrxn.ID);
+    endidx = length(newrxn.ID);
 elseif  nargin < 5
     Level3 = 1;
     Level1 = 1;
     Level2 = 1;
     startidx = 1;
-    endidx = length(nexrxn.ID);
+    endidx = length(newrxn.ID);
 else
     Level3 = 1;
     Level1 = 1;
@@ -204,7 +204,7 @@ for i = startidx:endidx
         model.rxnECNumbers(rxnID) = newrxn.rxnECNumbers(i);
         model.rxnKEGGID(rxnID)    =  newrxn.rxnKEGGID(i);
         model.rxnMetaNetXID(rxnID)    =  newrxn.rxnMetaNetXID(i);
-        %model.subSystems(rxnID)    =  newrxn.subSystems(i);
+        model.subSystems{rxnID}    =  split(newrxn.rxnpathway(i),';');
         if isfield(newrxn,'rxnNotes')
             model.rxnNotes(rxnID)    =  newrxn.rxnNotes(i);
         end
