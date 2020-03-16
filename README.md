@@ -2,13 +2,17 @@
 
 * Brief introduction:
 
-As the unicellular fungi, the budding yeasts contain over 1000 different yeast species, which are widely distributed on our earth. Some yeast species, like _Saccharomyces cerevisiae_ and _Candida albicans_, are very important to our human life and health. To further explore how different yeast species with interesting traits evolved in the long history, we built a pan-GEM for nearly all currently sequenced yeast species base on one of the latest research (Cell, 2018; DOI: 10.1016/j.cell.2018.10.023). With the latest GEM of _S.cerevisiae_ (Yeast8, https://github.com/SysBioChalmers/yeast-GEM) developed in our lab, the pan-GEM of about 300 yeast species can be built by adding the new reactions with the related genes into Yeast8 through the detailed pan-genome annotation procedures. Next, with the genome annotation of each yeast species, 332 species GEMs of high quality can be built automatically. With the gap-filling and model test verified by the experimental data, the quality and prediction performances of species GEM will be improved continuously. We hope that this work could set a solid base for systematic utilization of different yeast species in the wide research community.
+As the unicellular fungi, the budding yeasts contain over 1000 different yeast species, which are widely distributed on our earth. Some yeast species, like _Saccharomyces cerevisiae_ and _Candida albicans_, are very important to our human life and health. To further explore how different yeast species with interesting traits evolved in the long history, we built a pan-GEM for nearly all currently sequenced yeast species based on the latest research (Cell, 2018; DOI: 10.1016/j.cell.2018.10.023). With the advanced GEM of _S.cerevisiae_ (Yeast8, https://github.com/SysBioChalmers/yeast-GEM) developed in our lab, the pan-GEM of for all these sequenced yeast species can be built by adding the new reactions with the gene association into Yeast8 through the detailed pan-genome annotation and mounts of physiological data mining. Next, with the gene function annotation of each yeast species, 332 species GEMs of high quality can be built automatically. With the gap-filling and model test verified by the experimental data from different sources, the quality and prediction performances of species GEM will be improved continuously. We hope that this work could set a solid base in modelling simulation and systematic utilization of different yeast species for the wide research community.
 
 * Model KeyWords:
 
 **GEM Category:** species; **Utilisation:** experimental data reconstruction, multi-omics integrative analysis, _in silico_ strain design, model template, evolution analysis; **Field:** metabolic-network reconstruction; **Type of Model:** reconstruction, curated; **Model Source:** YeastMetabolicNetwork; **Omic Source:** genomics, metabolomics; **Taxonomy:** subphylum _Saccharomycotina_; **Metabolic System:** general metabolism; **Strain:** 332 budding yeast species;
 
-* Last update: 2019-11-17
+* Contributing
+
+Contributions are always welcome! Please firstly establish a new branch based on the dev branch (https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/dev) of this repo. You could also report an issue at https://github.com/SysBioChalmers/Yeast-Species-GEMs/issues if you have any question or idea about the content in this repo.
+
+* Last update: 2019-11-23
 
 
 * Main Model Descriptors:
@@ -334,9 +338,7 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 |_yHMPu5000041863_Candida_gorgasii_|Yeast8.3|3827|2709|1016|20191116|
 
 
-## Contributing
 
-Contributions are always welcome! Please firstly establish a new branch based on dev branch of this repo.
 
 ## Contributors
 
