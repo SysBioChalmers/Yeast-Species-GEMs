@@ -1,4 +1,4 @@
-function [reducedModel,resultfile] = SpecificModel(model,StrianData,strain)
+function [reducedModel,resultfile] = SpecificModel(model,StrianData,strain,inputpath)
 % This function is to generate strain specific models from a panmodel.
 % Input of this function are: a panmodel, which will be loaded using the
 % function as loadYeastModel and a gene_strainMatrix, which will be loaded
@@ -32,6 +32,9 @@ end
 if nargin<3
     strain = StrianData.strains;
 end
+if nargin < 4
+    inputpath = pwd;
+end
 %If the supplied object is a character array, then convert it to a cell
 %array
 if ischar(strain)
@@ -44,7 +47,7 @@ if ~ismember(upper(strain),upper(StrianData.strains))
     dispEM(EM);
 end
 
-
+currentpath = pwd;
 resultfile = [];
 
 % %generate the genelist that don't exist
@@ -61,9 +64,14 @@ for j = 1:length(strain)
 %generate the specific model according to type
 reducedModel = removeGenes(model,genelist,true,true,false);%add annotaion and generate result file
 reducedModel.id=[strain{j},' specific model genereted from panYeast'];
-cd SSmodels/
+
+% change the ID to it specific IDs
+
+
+
+cd(inputpath)
 save([strain{j},'.mat'],'reducedModel')
-cd ../
+cd(currentpath)
 resultfile = [resultfile;strain(j),length(genelist),length(reducedModel.genes),length(reducedModel.rxns),length(reducedModel.mets)];
 end
 
