@@ -1,11 +1,14 @@
 function Convert2CoreBiomass(strains,inputpath,outpath)
 % This function is to convert models to use the corebiomass
-% 
+% strains should be cell array of strain IDs
 
-[~, ~, Strain_information]=xlsread('../data/genome_summary_332_yeasts.xlsx','clades');
-Strain_information = Strain_information(2:end,:);
-clades = unique(Strain_information(:,2));
-
+fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
+format = '%s %s %s';
+data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+for i = 1:length(data)
+Strain_information(:,i) = data{i};
+end
+fclose(fid2);
 
 fid2 = fopen('../data/physiology/biomass_type.tsv');
 format = '%s%s%s%s%s';
@@ -51,11 +54,6 @@ for i = 1:length(strains)
     % scale out carbohydrate to let biomass to be 1 gram
     [X,~,C,~,~,~,~,~] = sumBioMass(model);
     model = scaleBioMass(model,biomass_type{2,1},(1 - X + C));
-
-    sol = optimizeCbModel(model);
-    if ~isempty(sol.f)
-        kkk(i) = sol.f;
-    end
 
     cd(outpath)
     reducedModel = model;
