@@ -46,12 +46,47 @@ changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'r_0201'}];
 [~,idx] = ismember('MNXR106342',model.rxnMetaNetXID);
 model.lb(idx) = 0;
 printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
-
 changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'reason not found'}];
 
 % the direction cannot uptake exthanol
 [~,idx] = ismember('MNXR101464',model.rxnMetaNetXID);
 model.lb(idx) = -1000;
 printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
-
 changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'for uptake of methanol'}];
+
+% change rxn to match glucose in the model
+[~,idx] = ismember('MNXR104287',model.rxnMetaNetXID); % glucitol degradate to glucose
+rxnformula = 'D-glucitol [cytoplasm] + NADP(+) [cytoplasm]  <=> H+ [cytoplasm] + NADPH [cytoplasm] + D-Glucose [cytoplasm]';
+model.rxnMetaNetXID(idx) = {'MNXR104286'};
+model = changerxn(model,model.rxns{idx},rxnformula);
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+changes = [changes; model.rxnMetaNetXID(idx),{'changemet'},{'for using the same glucose'}];
+
+% change rxn compartment
+[~,idx] = ismember('MNXR97317',model.rxnMetaNetXID); % melibiose
+rxnformula = 'H2O [extracellular] + melibiose [extracellular]  => D-galactose [extracellular] + D-glucose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula);
+changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+
+[~,idx] = ismember('MNXR101023',model.rxnMetaNetXID); %lactose
+rxnformula = 'H2O [extracellular] + melibiose [extracellular]  => D-galactose [extracellular] + D-glucose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula);
+changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+
+
+[~,idx] = ismember('MNXR115736',model.rxnMetaNetXID); %lactose
+rxnformula ='H2O [extracellular] + lactose [extracellular]  -> D-glucose [extracellular] + beta-D-galactose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula);
+changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+
+[~,idx] = ismember('MNXR101000',model.rxnMetaNetXID); %lactose
+rxnformula = 'D-galactose [extracellular] + D-glucose [extracellular]  => H2O [extracellular] + lactose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula);
+changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+
+
+[~,idx] = ismember('MNXR101000',model.rxnMetaNetXID); %lactose
+rxnformula = 'D-galactose [extracellular] + D-glucose [extracellular]  -> H2O [extracellular] + lactose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula);
+changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+

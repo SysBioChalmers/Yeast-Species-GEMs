@@ -90,7 +90,6 @@ for i=1:length(matrix.rxnIDs)
 end
 
 %mapping mets to model.metnames, get s_ index for new mets
-cd otherChanges/
 for j = 1:length(matrix.metnames)
     [~,metindex] = ismember(matrix.metnames(j),model.metNames);
     if metindex ~= 0
@@ -102,7 +101,6 @@ for j = 1:length(matrix.metnames)
                               'metName',matrix.metnames(j));
     end
 end
-cd ..
 % add met annotation
 if Level2 == 0
 fid = fopen('../ComplementaryData/SpecificModelData/NewMetAnnotation.tsv');
@@ -152,7 +150,6 @@ EnergyResults     = {};
 MassChargeresults = {};
 RedoxResults      = {};
 rxnUpdateGPR      = {};
-cd otherchanges/
 for i = startidx:endidx
     newID   = getNewIndex(model.rxns);
 
@@ -174,10 +171,9 @@ for i = startidx:endidx
     [EnergyResults,RedoxResults] = CheckEnergyProduction(model,{['r_' newID]},EnergyResults,RedoxResults);
     [MassChargeresults] = CheckBalanceforSce(model,{['r_' newID]},MassChargeresults);
 end
-cd ..
 
 % add gene standard name for new genes
-fid = fopen('../../ComplementaryData/databases/SGDgeneNames.tsv');
+fid = fopen('../../data/databases/SGDgeneNames.tsv');
 yeast_gene_annotation = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
 fclose(fid);
 

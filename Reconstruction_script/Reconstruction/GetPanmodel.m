@@ -4,6 +4,8 @@
 addpath(genpath('/Users/feiranl/Documents/GitHub/RAVEN'))
 addpath(genpath('/Users/feiranl/Documents/GitHub/cobratoolbox'))
 addpath(genpath('/Users/feiranl/Documents/GitHub/MATLAB-git'))
+addpath(genpath('/Users/feiranl/Library/gurobi751/mac64/matlab/'))   
+
 initCobraToolbox
 git('clone https://github.com/SysBioChalmers/yeast-GEM.git')
 
@@ -52,8 +54,19 @@ cd otherchanges/
 model = slimGPR(model); % now the model.grRules has been changed to only the representative IDs
 cd ../
 
-clearvars -except model 
-%% Panmodel expansion
+%change orthlog information
+fid      = fopen('../../find_homolog_for_panID_py/result/pan_hit_mapping_panYeast_v2_PI@70.tsv');
+orth     = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
+ortholog(:,1)     = orth{1};
+ortholog(:,2) = orth{2};
+ortholog(:,1) = replace(ortholog(:,1),para(:,1),para(:,2)); %replace the ortholog with panID
+fclose(fid);
+
+
+clearvars -except model ortholog
+%% Panmodel expansion 
+% Three input: new rxn; ortholog information for existing rxns; strain x
+% gene matrix.
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
 % mapping metaNetIDs 
 format = '%s %s %s %s %s %s %s %s %s %s ';
@@ -184,7 +197,7 @@ model = AddMissingOrthologsInYeastGEM(model,mapping);
 %manual curation for model reversibilities 
 [model,changes] = ManualCuration(model);
 cd ../
-% Load ortholog information
+% Load ortholog information and also change paralog information into its 
 fid      = fopen('../../find_homolog_for_panID_py/result/pan_hit_mapping_panYeast_v2_PI@70.tsv');
 orth     = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
 ortholog(:,1)     = orth{1};
@@ -236,7 +249,7 @@ genesMatrix = readall(RecStore);% read the strain name
 StrianData.strains = table2cell(genesMatrix(:,1));
 rxnMatrix = zeros(length(model.rxns),1);
 panmodel = model;
-
+cd otherchanges/
 for i = 1:length(StrianData.strains)
     [~,ID] = ismember(StrianData.strains(i),StrianData.strains);
     lvl = StrianData.levels(:,ID);
@@ -248,7 +261,7 @@ for i = 1:length(StrianData.strains)
     if ~isempty(ortholog_strian)
     model_temp = UpdatePanGPR(ortholog_strian,model);
     end
-    [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i),'../ModelFiles/mat');
+    [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i),'../../ModelFiles/mat');
     reducedModel = rmfield(reducedModel,'metSBOTerms');
     reducedModel = rmfield(reducedModel,'rxnSBOTerms');
     [index,~] = ismember(model.rxns,reducedModel.rxns);

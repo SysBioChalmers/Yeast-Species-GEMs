@@ -22,7 +22,7 @@ for i = 1:length(rxnindex)
 end
 
 % Add gene standard name for new genes
-fid = fopen('../../ComplementaryData/databases/SGDgeneNames.tsv');
+fid = fopen('../../data/databases/SGDgeneNames.tsv');
 yeast_gene_annotation = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
 fclose(fid);
 for i = 1: length(model.genes)
