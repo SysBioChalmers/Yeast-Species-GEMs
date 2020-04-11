@@ -1,0 +1,344 @@
+strains	clade	phenotype
+Alloascoidea hylecoeti	Alloascoideaceae	Normal
+Ambrosiozyma kashinagacola	Pichiaceae	Normal
+Ambrosiozyma monospora	Pichiaceae	Normal
+Arthrobotrys oligospora	Ascomycota	Normal
+Arxula adeninivorans	Dipodascaceae/Trichomonascaceae	"Heat,Lipid"
+Ascoidea asiatica	CUG-Ser2	Normal
+Ascoidea rubescens	CUG-Ser2	Normal
+Ashbya aceri	Saccharomycetaceae	Normal
+Aspergillus nidulans	Ascomycota	Normal
+Babjeviella inositovora	CUG-Ser1	Normal
+Botrytis cinerea	Ascomycota	Normal
+Brettanomyces anomalus	Pichiaceae	Normal
+Candida albicans	CUG-Ser1	Pathogen
+Candida apicola	Dipodascaceae/Trichomonascaceae	Normal
+Candida arabinofermentans	Pichiaceae	Normal
+Candida auris	CUG-Ser1	"Pathogen,Heat"
+Candida boidinii JCM9604	Pichiaceae	Normal
+Candida carpophila	CUG-Ser1	Normal
+Candida dubliniensis	CUG-Ser1	Pathogen
+Candida glabrata	Saccharomycetaceae	Pathogen
+Candida homilentoma	CUG-Ser1	Normal
+Candida infanticola	Dipodascaceae/Trichomonascaceae	Normal
+Candida intermedia	CUG-Ser1	Pathogen
+Candida orthopsilosis	CUG-Ser1	"Heat,Lipid,Pathogen"
+Candida parapsilosis	CUG-Ser1	"Pathogen,Lipid"
+Candida sojae	CUG-Ser1	Normal
+Candida sorboxylosa	Pichiaceae	Normal
+Candida succiphila	Pichiaceae	Normal
+Candida tanzawaensis	CUG-Ser1	Normal
+Candida tenuis	CUG-Ser1	Normal
+Candida tropicalis	CUG-Ser1	Pathogen
+Candida versatilis	Dipodascaceae/Trichomonascaceae	Normal
+Clavispora lusitaniae	CUG-Ser1	Lipid
+Coccidioides immitis	Ascomycota	Normal
+Cyberlindnera fabianii JCM3601	Phaffomycetaceae	Normal
+Cyberlindnera jadinii	Phaffomycetaceae	Normal
+Debaryomyces hansenii	CUG-Ser1	Lipid
+Dekkera bruxellensis	Pichiaceae	Normal
+Eremothecium coryli	Saccharomycetaceae	Heat
+Eremothecium cymbalariae	Saccharomycetaceae	Normal
+Eremothecium gossypii	Saccharomycetaceae	Normal
+Eremothecium sinecaudum	Saccharomycetaceae	Heat
+Fusarium graminearum	Ascomycota	Normal
+Geotrichum candidum	Dipodascaceae/Trichomonascaceae	Normal
+Hanseniaspora uvarum	Saccharomycodaceae	Normal
+Hanseniaspora valbyensis	Saccharomycodaceae	Normal
+Hanseniaspora vinae	Saccharomycodaceae	Normal
+Hyphopichia burtonii	CUG-Ser1	Lipid
+Kazachstania africana	Saccharomycetaceae	Normal
+Kazachstania naganishii	Saccharomycetaceae	Normal
+Kluyveromyces lactis	Saccharomycetaceae	Normal
+Kluyveromyces marxianus	Saccharomycetaceae	Heat
+Komagataella pastoris	Pichiaceae	Normal
+Kuraishia capsulata	Pichiaceae	Normal
+Lachancea cidri	Saccharomycetaceae	Normal
+Lachancea dasiensis	Saccharomycetaceae	Normal
+Lachancea fantastica	Saccharomycetaceae	Normal
+Lachancea fermentati	Saccharomycetaceae	Normal
+Lachancea kluyveri	Saccharomycetaceae	Normal
+Lachancea lanzarotensis	Saccharomycetaceae	Normal
+Lachancea meyersii	Saccharomycetaceae	Normal
+Lachancea mirantina	Saccharomycetaceae	Normal
+Lachancea nothofagi	Saccharomycetaceae	Normal
+Lachancea quebecensis	Saccharomycetaceae	Normal
+Lachancea thermotolerans	Saccharomycetaceae	Normal
+Lachancea waltii	Saccharomycetaceae	Normal
+Lipomyces starkeyi	Lipomycetaceae	Lipid
+Lodderomyces elongisporus	CUG-Ser1	Normal
+Metschnikowia aberdeeniae	CUG-Ser1	Normal
+Metschnikowia arizonensis	CUG-Ser1	Normal
+Metschnikowia bicuspidata	CUG-Ser1	Pathogen
+Metschnikowia borealis	CUG-Ser1	Normal
+Metschnikowia bowlesiae	CUG-Ser1	Normal
+Metschnikowia cerradonensis	CUG-Ser1	Normal
+Metschnikowia continentalis	CUG-Ser1	Normal
+Metschnikowia dekortum	CUG-Ser1	Normal
+Metschnikowia drakensbergensis	CUG-Ser1	Normal
+Metschnikowia hamakuensis	CUG-Ser1	Normal
+Metschnikowia hawaiiensis	CUG-Ser1	Normal
+Metschnikowia hibisci	CUG-Ser1	Normal
+Metschnikowia ipomoeae	CUG-Ser1	Normal
+Metschnikowia kamakouana	CUG-Ser1	Normal
+Metschnikowia kipukae	CUG-Ser1	Normal
+Metschnikowia lockheadii	CUG-Ser1	Normal
+Metschnikowia matae	CUG-Ser1	Normal
+Metschnikowia matae maris	CUG-Ser1	Normal
+Metschnikowia mauinuiana	CUG-Ser1	Normal
+Metschnikowia proteae	CUG-Ser1	Normal
+Metschnikowia santaceciliae	CUG-Ser1	Normal
+Metschnikowia shivogae	CUG-Ser1	Normal
+Metschnikowia similis	CUG-Ser1	Normal
+Meyerozyma guilliermondii	CUG-Ser1	Lipid
+Millerozyma acaciae	CUG-Ser1	Normal
+Nadsonia fulvescens var elongata	Dipodascaceae/Trichomonascaceae	Normal
+Nakaseomyces bacillisporus	Saccharomycetaceae	Normal
+Nakaseomyces bracarensis	Saccharomycetaceae	Pathogen
+Nakaseomyces castellii	Saccharomycetaceae	Normal
+Nakaseomyces delphensis	Saccharomycetaceae	Normal
+Nakaseomyces nivariensis	Saccharomycetaceae	Pathogen
+Nakazawaea peltata	CUG-Ala	Normal
+Naumovozyma castellii	Saccharomycetaceae	Normal
+Naumovozyma dairenensis	Saccharomycetaceae	Normal
+Neurospora crassa	Ascomycota	Normal
+Ogataea methanolica	Pichiaceae	Normal
+Ogataea parapolymorpha	Pichiaceae	Normal
+Ogataea polymorpha	Pichiaceae	Heat
+Pachysolen tannophilus	CUG-Ala	Normal
+Pichia membranifaciens	Pichiaceae	Lipid
+Priceomyces haplophilus	CUG-Ser1	Normal
+Saccharomyces arboricola	Saccharomycetaceae	Normal
+Saccharomyces cerevisiae	Saccharomycetaceae	Normal
+Saccharomyces eubayanus	Saccharomycetaceae	Normal
+Saccharomyces kudriavzevii	Saccharomycetaceae	Normal
+Saccharomyces mikatae	Saccharomycetaceae	Normal
+Saccharomyces paradoxus	Saccharomycetaceae	Normal
+Saccharomyces uvarum	Saccharomycetaceae	Normal
+Saccharomycopsis malanga	CUG-Ser2	Normal
+Saitoella complicata	Ascomycota	Normal
+Saprochaete clavata	Dipodascaceae/Trichomonascaceae	Heat
+Scheffersomyces lignosus	CUG-Ser1	Normal
+Scheffersomyces stipitis	CUG-Ser1	Normal
+Schizosaccharomyces pombe	Ascomycota	Pombe
+Sclerotinia sclerotiorum	Ascomycota	Normal
+Spathaspora arborariae	CUG-Ser1	Normal
+Spathaspora girioi	CUG-Ser1	Normal
+Spathaspora gorwiae	CUG-Ser1	Normal
+Spathaspora hagerdaliae	CUG-Ser1	Normal
+Spathaspora passalidarum	CUG-Ser1	Normal
+Sporopachydermia quercuum	Sporopachydermia clade	Normal
+Stagonospora nodorum	Ascomycota	Normal
+Starmerella bombicola JCM9596	Dipodascaceae/Trichomonascaceae	Normal
+Sugiyamaella lignohabitans	Dipodascaceae/Trichomonascaceae	Normal
+Tetrapisispora blattae	Saccharomycetaceae	Normal
+Tetrapisispora phaffii	Saccharomycetaceae	Normal
+Tortispora caseinolytica	Trigonopsidaceae	Normal
+Torulaspora delbrueckii	Saccharomycetaceae	Normal
+Vanderwaltozyma polyspora	Saccharomycetaceae	Normal
+Wickerhamia fluorescens	CUG-Ser1	Normal
+Wickerhamiella domercqiae	Dipodascaceae/Trichomonascaceae	Lipid
+Wickerhamomyces anomalus	Phaffomycetaceae	Lipid
+Wickerhamomyces ciferrii	Phaffomycetaceae	Normal
+Xylona heveae	Ascomycota	Normal
+Yarrowia deformans	Dipodascaceae/Trichomonascaceae	Normal
+Yarrowia keelungensis	Dipodascaceae/Trichomonascaceae	Normal
+Yarrowia lipolytica	Dipodascaceae/Trichomonascaceae	Lipid
+Zygosaccharomyces bailii	Saccharomycetaceae	Normal
+Zygosaccharomyces rouxii	Saccharomycetaceae	Normal
+yHAB132 Kazachstania martiniae	Saccharomycetaceae	Normal
+yHAB133 Kazachstania unispora	Saccharomycetaceae	Lipid
+yHAB134 Kazachstania turicensis	Saccharomycetaceae	Normal
+yHAB136 Kazachstania bromeliacearum	Saccharomycetaceae	Normal
+yHAB143 Kazachstania siamensis	Saccharomycetaceae	Heat
+yHAB147 Kazachstania taianensis	Saccharomycetaceae	Normal
+yHAB148 Kazachstania intestinalis	Saccharomycetaceae	Normal
+yHAB153 Kazachstania rosinii	Saccharomycetaceae	Normal
+yHAB154 Kazachstania transvaalensis	Saccharomycetaceae	Normal
+yHAB155 Kazachstania spencerorum	Saccharomycetaceae	Normal
+yHAB158 Kazachstania viticola	Saccharomycetaceae	Normal
+yHAB159 Kazachstania solicola	Saccharomycetaceae	Normal
+yHAB160 Kazachstania kunashirensis	Saccharomycetaceae	Normal
+yHAB164 Kazachstania aerobia	Saccharomycetaceae	Normal
+yHAB166 Kazachstania yakushimaensis	Saccharomycetaceae	Normal
+yHMPu5000026124 Ogataea henricii	Pichiaceae	Normal
+yHMPu5000026137 Ambrosiozyma ambrosiae	Pichiaceae	Normal
+yHMPu5000026142 Citeromyces matritensis	Pichiaceae	Normal
+yHMPu5000026145 Ambrosiozyma vanderkliftii	Pichiaceae	Normal
+yHMPu5000026152 Torulaspora franciscae	Saccharomycetaceae	Normal
+yHMPu5000026197 Brettanomyces custersianus	Pichiaceae	Normal
+yHMPu5000026256 Zygotorulaspora mrakii	Saccharomycetaceae	Normal
+yHMPu5000026274 Komagataella populi	Pichiaceae	Normal
+yHMPu5000034594 Starmera quercuum	Phaffomycetaceae	Normal
+yHMPu5000034597 Candida stellimalicola	Phaffomycetaceae	Normal
+yHMPu5000034604 Sporopachydermia lactativora	Sporopachydermia clade	Normal
+yHMPu5000034605 Spencermartinsiella europaea	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034606 Priceomyces medius	CUG-Ser1	Normal
+yHMPu5000034607 Saccharomycopsis capsularis	CUG-Ser2	Normal
+yHMPu5000034610 Saturnispora hagleri	Pichiaceae	Normal
+yHMPu5000034611 Saturnispora mendoncae	Pichiaceae	Normal
+yHMPu5000034612 Saturnispora saitoi	Pichiaceae	Normal
+yHMPu5000034613 Saturnispora serradocipensis	Pichiaceae	Normal
+yHMPu5000034614 Saturnispora silvae	Pichiaceae	Normal
+yHMPu5000034615 Saturnispora zaruensis	Pichiaceae	Normal
+yHMPu5000034622 Pichia occidentalis	Pichiaceae	Lipid
+yHMPu5000034623 Pichia norvegensis	Pichiaceae	Normal
+yHMPu5000034624 Pichia nakasei	Pichiaceae	Normal
+yHMPu5000034625 Pichia kudriavzevii	Pichiaceae	Lipid
+yHMPu5000034627 Pichia heedii	Pichiaceae	Normal
+yHMPu5000034629 Pichia exigua	Pichiaceae	Normal
+yHMPu5000034631 Martiniozyma abiesophila	Pichiaceae	Normal
+yHMPu5000034632 Candida athensensis	CUG-Ser1	Normal
+yHMPu5000034635 Nadsonia fulvescens	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034636 Ogataea nitratoaversa	Pichiaceae	Normal
+yHMPu5000034637 Ogataea populiabae	Pichiaceae	Normal
+yHMPu5000034643 Candida schatavii	CUG-Ser1	Normal
+yHMPu5000034646 Wickerhamiella cacticola	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034648 Candida restingae	CUG-Ser1	Normal
+yHMPu5000034654 Aciculoconidium aculeatum	CUG-Ser1	Normal
+yHMPu5000034655 Botryozyma nematodophila	Trigonopsidaceae	Normal
+yHMPu5000034660 Diddensiella caesifluorescens	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034661 Dipodascus albidus	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034665 Kodamaea laetipori	CUG-Ser1	Normal
+yHMPu5000034667 Blastobotrys serpentis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034669 Blastobotrys raffinofermentans	Dipodascaceae/Trichomonascaceae	Lipid
+yHMPu5000034670 Blastobotrys proliferans	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034671 Blastobotrys peoriensis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034673 Blastobotrys nivea	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034674 Blastobotrys muscicola	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034675 Blastobotrys mokoenaii	Dipodascaceae/Trichomonascaceae	Heat
+yHMPu5000034681 Blastobotrys americana	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034709 Kluyveromyces aestuarii	Saccharomycetaceae	Normal
+yHMPu5000034710 Kluyveromyces dobzhanskii	Saccharomycetaceae	Normal
+yHMPu5000034742 Lipomyces suomiensis	Lipomycetaceae	Normal
+yHMPu5000034748 Lipomyces oligophaga	Lipomycetaceae	Lipid
+yHMPu5000034749 Lipomyces mesembrius	Lipomycetaceae	Lipid
+yHMPu5000034754 Lipomyces arxii	Lipomycetaceae	Lipid
+yHMPu5000034757 Lipomyces doorenjongii	Lipomycetaceae	Lipid
+yHMPu5000034758 Lipomyces japonicus	Lipomycetaceae	Lipid
+yHMPu5000034760 Lipomyces kononenkoae	Lipomycetaceae	Lipid
+yHMPu5000034761 Lipomyces lipofer	Lipomycetaceae	Lipid
+yHMPu5000034862 Zygotorulaspora florentina	Saccharomycetaceae	Lipid
+yHMPu5000034865 Zygosaccharomyces kombuchaensis	Saccharomycetaceae	Normal
+yHMPu5000034866 Zygosaccharomyces bisporus	Saccharomycetaceae	Normal
+yHMPu5000034875 Tetrapisispora fleetii	Saccharomycetaceae	Normal
+yHMPu5000034876 Tetrapisispora iriomotensis	Saccharomycetaceae	Normal
+yHMPu5000034877 Tetrapisispora namnaonensis	Saccharomycetaceae	Normal
+yHMPu5000034881 Torulaspora pretoriensis	Saccharomycetaceae	Normal
+yHMPu5000034883 Peterozyma xylosa	CUG-Ala	Normal
+yHMPu5000034884 Peterozyma toletana	CUG-Ala	Normal
+yHMPu5000034885 Ogataea zsoltii	Pichiaceae	Heat
+yHMPu5000034886 Ogataea trehalophila	Pichiaceae	Normal
+yHMPu5000034887 Ogataea trehaloabstinens	Pichiaceae	Normal
+yHMPu5000034890 Ogataea ramenticola	Pichiaceae	Normal
+yHMPu5000034891 Ogataea pini	Pichiaceae	Normal
+yHMPu5000034892 Ogataea pilisensis	Pichiaceae	Normal
+yHMPu5000034893 Ogataea philodendra	Pichiaceae	Normal
+yHMPu5000034897 Ogataea glucozyma	Pichiaceae	Normal
+yHMPu5000034899 Ogataea kodamae	Pichiaceae	Normal
+yHMPu5000034901 Ogataea methylivora	Pichiaceae	Normal
+yHMPu5000034902 Ogataea minuta	Pichiaceae	Normal
+yHMPu5000034903 Ogataea naganishii	Pichiaceae	Normal
+yHMPu5000034904 Ogataea nonfermentans	Pichiaceae	Normal
+yHMPu5000034918 Nakazawaea holstii	CUG-Ala	Normal
+yHMPu5000034932 Kuraishia ogatae	Pichiaceae	Normal
+yHMPu5000034933 Kuraishia molischiana	Pichiaceae	Heat
+yHMPu5000034939 Komagataella pseudopastoris	Pichiaceae	Normal
+yHMPu5000034946 Ambrosiozyma oregonensis	Pichiaceae	Normal
+yHMPu5000034947 Ambrosiozyma philentoma	Pichiaceae	Normal
+yHMPu5000034950 Citeromyces hawaiiensis	Pichiaceae	Normal
+yHMPu5000034952 Citeromyces siamensis	Pichiaceae	Normal
+yHMPu5000034957 Hanseniaspora osmophila	Saccharomycodaceae	Normal
+yHMPu5000034963 Hanseniaspora clermontiae	Saccharomycodaceae	Normal
+yHMPu5000034967 Candida freyschussii	Phaffomycetaceae	Lipid
+yHMPu5000034973 Danielozyma ontarioensis	CUG-Ser1	Normal
+yHMPu5000034974 Deakozyma indianensis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000034978 Cyberlindnera mrakii	Phaffomycetaceae	Normal
+yHMPu5000034979 Cyberlindnera misumaiensis	Phaffomycetaceae	Normal
+yHMPu5000034986 Candida oregonensis	CUG-Ser1	Normal
+yHMPu5000034988 Candida fructus	CUG-Ser1	Pathogen
+yHMPu5000034990 Candida corydali	CUG-Ser1	Normal
+yHMPu5000034998 Cephaloascus albidus	CUG-Ser1	Normal
+yHMPu5000034999 Cephaloascus fragrans	CUG-Ser1	Normal
+yHMPu5000035011 Candida pyralidae	CUG-Ser1	Normal
+yHMPu5000035018 Candida canberraensis	CUG-Ser1	Normal
+yHMPu5000035022 Candida emberorum	CUG-Ser1	Normal
+yHMPu5000035031 Candida kruisii	CUG-Ser1	Normal
+yHMPu5000035032 Candida gatunensis	CUG-Ser1	Normal
+yHMPu5000035033 Candida cretensis	CUG-Ser1	Normal
+yHMPu5000035037 Candida montana	Phaffomycetaceae	Normal
+yHMPu5000035040 Ambrosiozyma maleeae	Pichiaceae	Normal
+yHMPu5000035041 Ambrosiozyma pseudovanderkliftii	Pichiaceae	Normal
+yHMPu5000035044 Barnettozyma californica	Phaffomycetaceae	Normal
+yHMPu5000035045 Barnettozyma hawaiiensis	Phaffomycetaceae	Normal
+yHMPu5000035046 Barnettozyma populi	Phaffomycetaceae	Normal
+yHMPu5000035047 Barnettozyma pratensis	Phaffomycetaceae	Normal
+yHMPu5000035048 Barnettozyma salicaria	Phaffomycetaceae	Normal
+yHMPu5000035242 Zygoascus ofunaensis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035243 Zygoascus meyerae	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035244 Candida incommunis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035252 Yamadazyma nakazawae	CUG-Ser1	Normal
+yHMPu5000035261 Candida ponderosae	Phaffomycetaceae	Normal
+yHMPu5000035268 Wickerhamomyces hampshirensis	Phaffomycetaceae	Normal
+yHMPu5000035271 Wickerhamomyces bovis	Phaffomycetaceae	Normal
+yHMPu5000035274 Wickerhamomyces alni	Phaffomycetaceae	Normal
+yHMPu5000035279 Tortispora starmeri	Trigonopsidaceae	Normal
+yHMPu5000035282 Trigonopsis vinaria	Trigonopsidaceae	Normal
+yHMPu5000035286 Candida azyma	Phaffomycetaceae	Normal
+yHMPu5000035296 Priceomyces carsonii	CUG-Ser1	Normal
+yHMPu5000035297 Priceomyces castillae	CUG-Ser1	Normal
+yHMPu5000035301 Pichia terricola	Pichiaceae	Normal
+yHMPu5000035302 Candida fragi	CUG-Ser1	Normal
+yHMPu5000035318 Hyphopichia heimii	CUG-Ser1	Normal
+yHMPu5000035325 Cyberlindnera petersonii	Phaffomycetaceae	Normal
+yHMPu5000035335 Candida blattae	CUG-Ser1	Normal
+yHMPu5000035629 Yueomyces sinensis	Saccharomycetaceae	Normal
+yHMPu5000035633 Candida hispaniensis	Dipodascaceae/Trichomonascaceae	Lipid
+yHMPu5000035639 Wickerhamomyces canadensis	Phaffomycetaceae	Normal
+yHMPu5000035640 Yamadazyma philogaea	CUG-Ser1	Normal
+yHMPu5000035641 Yamadazyma scolyti	CUG-Ser1	Normal
+yHMPu5000035643 Yarrowia bubula	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035645 Yarrowia divulgata	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035650 Trigonopsis variabilis	Trigonopsidaceae	Normal
+yHMPu5000035651 Torulaspora microellipsoides	Saccharomycetaceae	Normal
+yHMPu5000035652 Torulaspora maleeae	Saccharomycetaceae	Lipid
+yHMPu5000035654 Tortispora ganteri	Trigonopsidaceae	Normal
+yHMPu5000035658 Starmera amethionina	Phaffomycetaceae	Normal
+yHMPu5000035659 Saturnispora dispora	Pichiaceae	Normal
+yHMPu5000035662 Meyerozyma caribbica	CUG-Ser1	Lipid
+yHMPu5000035665 Middelhovenomyces tepae	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035667 Kurtzmaniella cleridarum	CUG-Ser1	Lipid
+yHMPu5000035670 Phaffomyces opuntiae	Phaffomycetaceae	Normal
+yHMPu5000035671 Phaffomyces antillensis	Phaffomycetaceae	Normal
+yHMPu5000035672 Phaffomyces thermotolerans	Phaffomycetaceae	Normal
+yHMPu5000035673 Candida orba	Phaffomycetaceae	Normal
+yHMPu5000035674 Kregervanrija delftensis	Pichiaceae	Normal
+yHMPu5000035675 Kregervanrija fluxuum	Pichiaceae	Normal
+yHMPu5000035677 Kodamaea ohmeri	CUG-Ser1	Lipid
+yHMPu5000035679 Candida rhagii	CUG-Ser1	Normal
+yHMPu5000035681 Candida gotoi	CUG-Ser1	Normal
+yHMPu5000035684 Kloeckera hatyaiensis	Saccharomycodaceae	Normal
+yHMPu5000035686 Cyberlindnera saturnus	Phaffomycetaceae	Normal
+yHMPu5000035687 Cyberlindnera suaveolens	Phaffomycetaceae	Normal
+yHMPu5000035688 Cyberlindnera xylosilytica	Phaffomycetaceae	Normal
+yHMPu5000035689 Candida mycetangii	Phaffomycetaceae	Normal
+yHMPu5000035690 Candida vartiovaarae	Phaffomycetaceae	Normal
+yHMPu5000035691 Candida salmanticensis	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000035695 Hanseniaspora pseudoguilliermondii	Saccharomycodaceae	Normal
+yHMPu5000035696 Hanseniaspora singularis	Saccharomycodaceae	Normal
+yHMPu5000035699 Cyberlindnera maclurae	Phaffomycetaceae	Normal
+yHMPu5000035703 Cyberlindnera americana	Phaffomycetaceae	Normal
+yHMPu5000035707 Candida heveicola	CUG-Ser1	Normal
+yHMPu5000041678 Debaryomyces prosopidis	CUG-Ser1	Normal
+yHMPu5000041693 Debaryomyces nepalensis	CUG-Ser1	Lipid
+yHMPu5000041713 Debaryomyces maramus	CUG-Ser1	Normal
+yHMPu5000041743 Candida hawaiiana	CUG-Ser1	Normal
+yHMPu5000041818 Magnusiomyces tetrasperma	Dipodascaceae/Trichomonascaceae	Heat
+yHMPu5000041822 Dipodascus geniculatus	Dipodascaceae/Trichomonascaceae	Normal
+yHMPu5000041824 Debaryomyces subglobosus	CUG-Ser1	Normal
+yHMPu5000041829 Debaryomyces fabryi	CUG-Ser1	Lipid
+yHMPu5000041833 Candida tammaniensis	CUG-Ser1	Normal
+yHMPu5000041840 Candida wancherniae	CUG-Ser1	Normal
+yHMPu5000041855 Candida ascalaphidarum	CUG-Ser1	Normal
+yHMPu5000041862 Candida golubevii	CUG-Ser1	Normal
+yHMPu5000041863 Candida gorgasii	CUG-Ser1	Normal
