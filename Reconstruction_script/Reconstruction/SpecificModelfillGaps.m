@@ -19,8 +19,8 @@
 
 cd otherchanges/
 strains = StrianData.strains;
-filefolder = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat_biomass';
-[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,filefolder);
+inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat_biomass';
+[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath);
 % find rxn related to production of that met % ranMatrix stands for rxn
 % existence information in each strain, all stores information whether the
 % products can be produced or not
@@ -58,7 +58,6 @@ for i = 1:length(proMarix(1,:))
 end
 
 
-
 [~,rxn_index] = ismember(rxn(:,1),model_original.rxns);
 % Change back to cobra format, in order to get ECnumber,MNXids.
 rxn(:,4) = model_original.rxnMetaNetXID(rxn_index);
@@ -78,17 +77,17 @@ rxn_onlyonetype(~temp) = {'NA'};
 
 rxn = rxn(~idx,:);
 % This step is to find whether those rxns we found in last step exist in draft model or not
-filefolderout = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat_gapfill'
-[newrxns_added] = updateGapRxns(model_original,rxn,'',strains,filefolder,filefolderout,'strict');         
+outputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat'
+[newrxns_added] = updateGapRxns(model_original,rxn,'',strains,inputpath,outputpath,'strict');         
 newrxns = newrxns_added;
-[newrxns_added] = updateGapRxns(model_original,rxn_onlyonetype,'',strains,filefolder,filefolderout,'loose');         
+[newrxns_added] = updateGapRxns(model_original,rxn_onlyonetype,'',strains,inputpath,outputpath,'loose');         
 newrxns = [newrxns;newrxns_added];
 clearvars -EXCEPT newrxns StrianData panmodel newrxns_added
 
 
 %% Step 2 This Step is to check for each biomass composition
 % trp
-path = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat_gapfill';
+path = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 newtstepcheck = [];
 met = {'s_1049[e]'}; % trp
 rxns_query(:,1) = {'r_0566','r_0913','r_0203','r_0202','r_5018','r_5018','r_5018'}; % 'RXN0-2381','RXN0-2382' are step rxn for r_5018
@@ -176,7 +175,6 @@ rxns_query(:,3) = {'R00575','R01397','R01993','R01870','R00965'};
 rxns_query(:,2) = {'CARBPSYN-RXN','ASPCARBTRANS-RXN','DIHYDROOROT-RXN','OROPRIBTRANS-RXN','OROTPDECARB-RXN'}; 
 [newrxns_added] = updateGapRxns(model_original,rxns_query,'',strains,path,path,'strict'); 
 newrxns = [newrxns;newrxns_added];
-newtstepcheck = [newtstepcheck;cannotProduce];
 clearvars  rxns_query precursors met
 
 % one critical rxn r_0883
@@ -186,10 +184,9 @@ rxns_query(:,2) = {'1.8.4.8-RXN'};
 rxns_query(:,3) = {'R02021'}; 
 [newrxns_added] = updateGapRxns(model_original,rxns_query,met,strains,path,path,'loose'); 
 newrxns = [newrxns;newrxns_added];
-[cannotProduce] = ProducePrecursor(model_original,strains,precursors,met,comp,path);
-newtstepcheck = [newtstepcheck;cannotProduce];
-clearvars  rxns_query precursors met
 
+clearvars  rxns_query precursors met
+current_path = pwd;
 % fix oxidative repiration chain
 rxn = {'r_0438','r_0439','r_0226','r_0770'};
 for i = 1:4
@@ -200,12 +197,13 @@ for i = 1:4
         m = strains{donthave(j)};
         cd(inputpath)
         load([m,'.mat'])
+        cd(current_path)
         reducedModel = addrxnBack(reducedModel,model_original,rxn(i),model_original.grRules(idx));
         cd(inputpath)
         save([strains{donthave(j)},'.mat'],'reducedModel')
     end
 end
-
+cd(current_path)
 %% step 3 fix alternative pwys gap
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
 % mapping metaNetIDs 
@@ -227,8 +225,8 @@ fclose(fID);
 
 % Matching newmat with existing mets in the model through mapping MNXID,
 % CHEBI ID and KEGG ID. model should be in cobra format
-[~,ID] = ismember(newmet.metMetaNetXID,model.metMetaNetXID);
-metname_temp = split(model.metNames(ID(ID~=0)),' [');
+[~,ID] = ismember(newmet.metMetaNetXID,model_original.metMetaNetXID);
+metname_temp = split(model_original.metNames(ID(ID~=0)),' [');
 metname_temp = cellstr(metname_temp(:,1));
 newmet.metNames(ID~=0) = metname_temp;
 matrix.metIDs = newmet.metNames;
@@ -245,7 +243,7 @@ newrxn.strains = rxnData{4};
 newrxn.rxnECNumbers = rxnData{7};
 newrxn.rxnMetaNetXID = rxnData{11};
 fclose(fID);
-[model,rxnUpdateGPR] = addPanModelRxn(model,matrix,newmet,newrxn);
+[model_original,rxnUpdateGPR] = addPanModelRxn(model_original,matrix,newmet,newrxn);
 
 current_path = pwd;
 path = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
@@ -255,7 +253,10 @@ for i = 1:length(newrxn.ID)
     strainslist = strrep(strainslist,' ','');
      strainslist = strrep(strainslist,'"','');
     [~,idx] = ismember(lower(strainslist),lower(StrianData.strains)); 
-    [~,rxnIdx] = ismember(newrxn.ID(i,1),model.rxnMetaNetXID); 
+    [~,rxnIdx] = ismember(newrxn.ID(i,1),model_original.rxnMetaNetXID);
+    if rxnIdx == 0 
+        [~,rxnIdx] = ismember(newrxn.ID(i,1),model_original.rxnKEGGID);
+    end
     for j = 1:length(idx)
         if idx(j) ~=0
             m = StrianData.strains{idx(j)};
@@ -263,7 +264,7 @@ for i = 1:length(newrxn.ID)
             reducedModel = load([m,'.mat']);
             reducedModel = reducedModel.reducedModel;
             cd(current_path)
-            reducedModel = addrxnBack(reducedModel,model,model.rxns(rxnIdx),model.grRules(rxnIdx));
+            reducedModel = addrxnBack(reducedModel,model_original,model_original.rxns(rxnIdx),model_original.grRules(rxnIdx));
             cd(path)
             save([m,'.mat'],'reducedModel')  
         else
@@ -273,27 +274,30 @@ for i = 1:length(newrxn.ID)
 end
 cd(current_path)
 %% Auto-gap-filling rxns
-[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,filefolder);
+[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath);
 panmodel = ravenCobraWrapper(model_original);
 panmodel = setParam(panmodel,'lb',{'r_4046'},0);
-cd(path)
+cd(inputpath)
 newrxns = [];
 for i = 1:length(StrianData.strains)
     i
     m = StrianData.strains{i};
     load([m,'.mat'])
-    id = reducedModel.id;
-    if ~isfield(reducedModel,'metComps')
-        reducedModel = ravenCobraWrapper(reducedModel);
+    sol = solveLP(reducedModel);
+    if sol.f == 0 || isempty(sol.f)   
+        id = reducedModel.id;
+        if ~isfield(reducedModel,'metComps')
+            reducedModel = ravenCobraWrapper(reducedModel);
+        end
+        reducedModel.id = id;
+        reducedModel = setParam(reducedModel,'eq',{'r_2111'},0.001);
+        [~, ~, addedRxns, reducedModel] = fillGaps(reducedModel,{panmodel},'useModelConstraints',true);
+        reducedModel = setParam(reducedModel,'lb',{'r_2111'},0);
+        reducedModel = setParam(reducedModel,'ub',{'r_2111'},1000);
+        sol = optimizeCbModel(reducedModel,'max');
+        aaa(i) = sol.f;
+        newrxns = [newrxns;addedRxns,repmat(StrianData.strains(i),length(addedRxns),1)];
     end
-    reducedModel.id = id;
-    reducedModel = setParam(reducedModel,'eq',{'r_2111'},0.001);
-    [~, ~, addedRxns, reducedModel] = fillGaps(reducedModel,{panmodel},'useModelConstraints',true)
-    reducedModel = setParam(reducedModel,'lb',{'r_2111'},0);
-    reducedModel = setParam(reducedModel,'ub',{'r_2111'},1000);
-    sol = optimizeCbModel(reducedModel,'max');
-    aaa(i) = sol.f;
-    newrxns = [newrxns;addedRxns,repmat(StrianData.strains(i),length(addedRxns),1)];
 end
 
 strains_specific = unique(newrxns(:,2));
@@ -302,7 +306,7 @@ for i = 1:length(strains_specific)
     load([strains_specific{i},'.mat'])
     idx = find(contains(newrxns(:,2),strains_specific(i)));
     for j = 1:length(idx)
-     cd(path)   
+     cd(current_path)   
     reducedModel = addrxnBack(reducedModel,model_original,newrxns(idx(j),1),{''});
     end
     cd(outputpath)

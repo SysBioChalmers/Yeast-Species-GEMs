@@ -71,7 +71,7 @@ for i = 1:length(strains_specific)
     idx = find(contains(newrxns(:,2),strains_specific(i)));
     for j = 1:length(idx)
      cd(path)   
-    reducedModel = addrxnBack(reducedModel,model_original,newrxns(idx(j),1),{''});
+    reducedModel = addrxnBack(reducedModel,model_original,newrxns(idx(j),1),newrxns(idx(j),3));
     end
     cd(outputpath)
     save([strains_specific{i},'.mat'],'reducedModel')  
