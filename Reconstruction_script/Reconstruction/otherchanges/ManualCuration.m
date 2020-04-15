@@ -66,27 +66,48 @@ changes = [changes; model.rxnMetaNetXID(idx),{'changemet'},{'for using the same 
 [~,idx] = ismember('MNXR97317',model.rxnMetaNetXID); % melibiose
 rxnformula = 'H2O [extracellular] + melibiose [extracellular]  => D-galactose [extracellular] + D-glucose [extracellular]';
 model = changerxn(model,model.rxns{idx},rxnformula);
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
 
-[~,idx] = ismember('MNXR101023',model.rxnMetaNetXID); %lactose
-rxnformula = 'H2O [extracellular] + melibiose [extracellular]  => D-galactose [extracellular] + D-glucose [extracellular]';
+% change met name
+[~,idx] = ismember('MNXR104286',model.rxnMetaNetXID); % glucitol
+rxnformula = 'D-glucitol [cytoplasm] + NADP(+) [cytoplasm] 	<=>	H+ [cytoplasm] + NADPH [cytoplasm] + D-glucose [cytoplasm]'; 
 model = changerxn(model,model.rxns{idx},rxnformula);
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
 
-
-[~,idx] = ismember('MNXR115736',model.rxnMetaNetXID); %lactose
-rxnformula ='H2O [extracellular] + lactose [extracellular]  -> D-glucose [extracellular] + beta-D-galactose [extracellular]';
+% change met name
+[~,idx] = ismember('MNXR104286',model.rxnMetaNetXID); % glucitol
+rxnformula = 'D-glucitol [cytoplasm] + NADP(+) [cytoplasm] 	<=>	H+ [cytoplasm] + NADPH [cytoplasm] + D-glucose [cytoplasm]'; 
 model = changerxn(model,model.rxns{idx},rxnformula);
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
 
-[~,idx] = ismember('MNXR101000',model.rxnMetaNetXID); %lactose
-rxnformula = 'D-galactose [extracellular] + D-glucose [extracellular]  => H2O [extracellular] + lactose [extracellular]';
+[~,idx] = ismember('MNXR96241',model.rxnMetaNetXID); % beta-cellobiose
+model = removeReactions(model,model.rxns(idx),removeUnusedMets,true);
+[~,idx] = ismember('MNXR106343',model.rxnMetaNetXID); % beta-cellobiose
+rxnformula = 'H2O [cytoplasm] + beta-cellobiose [cytoplasm]  <=> 2 D-glucose [cytoplasm]'; 
 model = changerxn(model,model.rxns{idx},rxnformula);
-changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 
 
-[~,idx] = ismember('MNXR101000',model.rxnMetaNetXID); %lactose
-rxnformula = 'D-galactose [extracellular] + D-glucose [extracellular]  -> H2O [extracellular] + lactose [extracellular]';
-model = changerxn(model,model.rxns{idx},rxnformula);
-changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+% [~,idx] = ismember('MNXR101023',model.rxnMetaNetXID); %lactose
+% rxnformula = 'H2O [cytoplasm] + lactose [cytoplasm]  <=> D-galactose [cytoplasm] + D-glucose [cytoplasm]';
+% model = changerxn(model,model.rxns{idx},rxnformula);
+% printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+% changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+% 
+% 
+% [~,idx] = ismember('MNXR115736',model.rxnMetaNetXID); %lactose
+% rxnformula ='H2O [cytoplasm] + lactose [cytoplasm]  => D-glucose [cytoplasm] + beta-D-galactose [cytoplasm]';
+% model = changerxn(model,model.rxns{idx},rxnformula);
+% printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+% changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+% 
+% [~,idx] = ismember('MNXR101000',model.rxnMetaNetXID); %lactose
+% rxnformula = 'D-galactose [cytoplasm] + D-glucose [cytoplasm]  => H2O [cytoplasm] + lactose [cytoplasm]';
+% model = changerxn(model,model.rxns{idx},rxnformula);
+% printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+% changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+% 
 
