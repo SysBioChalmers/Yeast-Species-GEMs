@@ -1,10 +1,12 @@
 function model = changerxn(model,rxnID,rxnformula)
 
+
 [~,idx] = ismember(rxnID,model.rxns); 
 % This function is to change new rxns
 rxnformula = strrep(rxnformula,' [','[');
 [metaboliteList, stoichCoeffList, revFlag] = parseRxnFormula(rxnformula);
 metaboliteList = strrep(metaboliteList,'[',' [');
+metaboliteList = strrep(metaboliteList,'&',' ');
 comps = split(metaboliteList', ' [');
 comps = comps(:,2);
 comps = strrep(comps,']','');
@@ -25,13 +27,13 @@ for j = 1:length(metaboliteList)
     end
 end
 
+    
 [model, rxnIDexists] = addReaction(model,...
                                     rxnID,...
                                     'reactionName', model.rxnNames{idx},...
                                     'metaboliteList',mets,...
                                     'stoichCoeffList',stoichCoeffList,...
                                     'reversible',revFlag,...
-                                    'geneRule',model.grRules{idx},...
                                     'checkDuplicate',1);
  
 end

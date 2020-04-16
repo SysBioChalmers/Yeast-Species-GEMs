@@ -1,4 +1,4 @@
-function Convert2CoreBiomass(strains,inputpath,outpath)
+function [model_original] = Convert2CoreBiomass(model_original,strains,inputpath,outputpath)
 % This function is to convert models to use the corebiomass
 % strains should be cell array of strain IDs
 
@@ -25,6 +25,12 @@ currentpath = pwd;
 unusedMets = {'FAD [cytoplasm]','NAD [cytoplasm]','NADH [cytoplasm]','NADP(+) [cytoplasm]',...
               'NADPH [cytoplasm]','riboflavin [cytoplasm]','TDP [cytoplasm]','THF [cytoplasm]','heme a [cytoplasm]'};
 
+% delete those unused mets from panmodel
+[~,mets_del_idx] = ismember(unusedMets,model_original.metNames);
+bio_rxn_index = find(contains(model_original.rxnNames,'pseudoreaction'));
+model_original.S(mets_del_idx,bio_rxn_index) = 0;
+fprintf('Panmodel : changed to corebiomass');
+    
 for i = 1:length(strains)
     fprintf([strains{i},' : No.',num2str(i),'\n']);
     m = strains{i};
@@ -55,7 +61,7 @@ for i = 1:length(strains)
     [X,~,C,~,~,~,~,~] = sumBioMass(model);
     model = scaleBioMass(model,biomass_type{2,1},(1 - X + C));
 
-    cd(outpath)
+    cd(outputpath)
     reducedModel = model;
     save([strains{i},'.mat'],'reducedModel')
 

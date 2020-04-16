@@ -200,7 +200,7 @@ for i = startidx:endidx
         model.rxnECNumbers(rxnID) = newrxn.rxnECNumbers(i);
         model.rxnKEGGID(rxnID)    =  newrxn.rxnKEGGID(i);
         model.rxnMetaNetXID(rxnID)    =  newrxn.rxnMetaNetXID(i);
-        model.subSystems{rxnID}    =  split(newrxn.rxnpathway(i),';');
+        %model.subSystems{rxnID}    =  split(newrxn.rxnpathway(i),';');
         if isfield(newrxn,'rxnNotes')
             model.rxnNotes(rxnID)    =  newrxn.rxnNotes(i);
         end

@@ -197,12 +197,7 @@ model = AddMissingOrthologsInYeastGEM(model,mapping);
 %manual curation for model reversibilities 
 [model,changes] = ManualCuration(model);
 cd ../
-% Load ortholog information and also change paralog information into its 
-fid      = fopen('../../find_homolog_for_panID_py/result/pan_hit_mapping_panYeast_v2_PI@70.tsv');
-orth     = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
-ortholog(:,1)     = orth{1};
-ortholog(:,2) = orth{2};
-fclose(fid);
+
 
 Genes_Query = [model.genes;ortholog(:,1);ortholog(:,2)];
 Genes_Query = unique(Genes_Query);
