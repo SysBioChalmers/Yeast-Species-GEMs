@@ -1,6 +1,6 @@
 %analyze_ecModels
 %
-% Ivan Domenzain. 2020-03-11
+% Ivan Domenzain. 2020-04-15
 %
 current = pwd;
 %Clone GECKO repository
@@ -13,18 +13,18 @@ cd GECKO
 clc
 cd ..
 %load organism and model specific parameters
-fID         = fopen('../ComplementaryData/yeasts_parameters.txt');
+fID         = fopen('../data/yeasts_parameters.txt');
 yeastsParam = textscan(fID,'%s %s %s %s %f %f %f','Delimiter','\t','HeaderLines',1);
 %load phenotypes information
-fID      = fopen('../Reconstruction_script/data/physiology/343_phenotype_clade.txt');
+fID      = fopen('../../Reconstruction_script/data/physiology/343_phenotype_clade.txt');
 phenData = textscan(fID,'%s %s %s','Delimiter','\t','HeaderLines',1);
 phenData = table(phenData{1},phenData{3},'VariableNames',{'name' 'phenotype'});
-phenData.name = strrep(phenData.name,'"','');
+phenData.name      = strrep(phenData.name,'"','');
 phenData.phenotype = strrep(phenData.phenotype,'"','');
-biomass_phen = readtable('../Reconstruction_script/data/physiology/biomass_type.txt');
+biomass_phen       = readtable('../../Reconstruction_script/data/physiology/biomass_type.txt');
 %Retrieve ecModel names
 fileNames = dir('../ecModels');
-originalModels = dir('models');
+originalModels = dir('../models');
 modelsData = table();
 for i=1:length(originalModels)
     cd(current)
@@ -38,7 +38,7 @@ for i=1:length(originalModels)
         phenotype = phenData.phenotype{strcmpi(phenData.name,nameStr)};
         phenotype = strsplit(phenotype,',');
         %Load original model
-        load(['models/' file])
+        load(['../models/' file])
         %Load ecModel
         load(['../ecModels/' ecModelName '/ecModel_batch.mat'])
         %Transfer org specific parameters to GECKO
@@ -136,6 +136,6 @@ modelsData.Properties.VariableNames ={'model' 'phenotype' 'nRxns' 'nMets' 'nGene
             'GUR' 'acExc' 'EtExc' 'meth_yield' 'GUR_exp' 'EtOH_exp' 'topProt' 'topUsage' 'kcat' ...
             'rxnName' 'MW' 'limEnz' 'limKcat' 'gCC' 'limRxn' 'limEnz_EtOH' 'EtOH_CC' 'limRxn_EtOH' 'f_factor'};
 %Save results table
-mkdir('../../../results')
-writetable(modelsData,'../../../results/ecModels_metrics.txt','Delimiter','\t','QuoteStrings',false)
+mkdir('../../../../results')
+writetable(modelsData,'../../../../results/ecModels_metrics.txt','Delimiter','\t','QuoteStrings',false)
         
