@@ -1,5 +1,6 @@
 function results = getSubsetTable(indxs,model,solution,varNames,enz)
 %get model grRules
+shortNames = [];
 if ~enz
     formulas = constructEquations(model,indxs);
     subSystems = {};
@@ -19,7 +20,15 @@ else
     prots = strrep(prots,'draw_','');
     prots = strrep(prots,'_exchange','');
     subSystems = mapEnzymeSubSystems(prots,model);
-    results = table(prots,solution(indxs),model.grRules(indxs),subSystems,'VariableNames',varNames);
+    for i=1:length(prots)
+        prot  = prots(i);
+        index = find(strcmpi(model.enzymes,prot),1);
+        gene  = model.enzGenes(index);
+        index = find(strcmpi(model.genes,gene),1);
+        short = model.geneShortNames(index);
+        shortNames = [shortNames;short];
+    end
+    results = table(prots,shortNames,solution(indxs),model.grRules(indxs),subSystems,'VariableNames',varNames);
 end
 end
      
