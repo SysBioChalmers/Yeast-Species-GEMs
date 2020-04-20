@@ -1,0 +1,3 @@
+Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
+P23337,2984,3334,phymatotrichopsis omnivora,1,SA*Mw,0.0183,10345.7,-43.7902,0.701275
+P12683,3021,3380,haloferax volcanii,1,SA*Mw,0.023001,18400,10.5229,0.964363
