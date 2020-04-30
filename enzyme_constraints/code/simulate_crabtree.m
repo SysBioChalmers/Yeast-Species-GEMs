@@ -68,44 +68,13 @@ for gene = genes
                 OptSigma = 0.44;%sigmaFitter(temp,0.46,0.4,0.5);
                 temp = setParam(temp,'ub',P_Index,0.46*0.5*OptSigma);
                 cd ../utilities
-            else
-                disp('simon')
             end
         else
             disp(['Not feasible ' gene{1} ' ' num2str(factor)])
         end
-        fermentation = false;
-        j=0;
-        i=0;
-        results  = [];
-        for subopt_growth = 0:(0.36/40):0.36
-            tempModel = temp;
-            %Simulate!
-            solution = simulateChemostat(tempModel,subopt_growth,[cSource bioIndex],true);
-            j = j+1;
-            exchangeVector = solution(exchIndexes);
-            if ~fermentation
-                disp(['Dilution rate = ' num2str(subopt_growth) ': Respiration'])
-                if exchangeVector(4)>1E-2
-                    disp(['The critical dilution rate is: ' num2str(subopt_growth) ' [1/h]'])
-                    fermentation = true;
-                end
-            else
-                disp(['Dilution rate = ' num2str(subopt_growth) ': Fermentation'])
-            end
-            exchangeVector(exchangeVector==0) = 1E-6;
-            newRow  = [subopt_growth, exchangeVector'];
-            results = [results; newRow];      
-            %compare with experimental data
-            %Search subopt_growth in Drate exp data
-            [~,dataIndex] = ismember(subopt_growth,data.D_h_1_);
-            if dataIndex>0
-                Drate = data.D_h_1_;
-                expExchFlux = [data.qglucose(dataIndex);data.qO2(dataIndex);data.qCO2(dataIndex);data.qethanol(dataIndex)];
-                expExchFlux(expExchFlux==0) = 1E-6;
-            end
-            i = i+1;
-        end
+        gRates = 0:(.36/40):0.36;
+        cd(current)
+        results = crabtree_chemostats(model,[cSource bioIndex],exchIndexes,gRates);
         %Plot results
         figure
         names = {'Glucose' 'Oxygen' 'CO2' 'Ethanol'};
