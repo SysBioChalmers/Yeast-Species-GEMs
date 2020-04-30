@@ -1,4 +1,13 @@
 %Simulate crabtree effect
+%
+% Get exchange fluxes (ethanol, glucose, CO2, O2, etc) as a function of
+% dilution rate for a series of chemostat simulations at increasing D. The
+% simulations can be performed for several mutant strains. In this case for
+% each selected gene, the simulations are repeated at different enzyme
+% activity levels.
+%
+% Last modified. Ivan Domenzain 2020/04/30
+
 clear
 close all
 clc
