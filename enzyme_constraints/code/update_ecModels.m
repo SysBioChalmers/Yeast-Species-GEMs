@@ -10,9 +10,9 @@ git('pull')
 %Locate the correct branch
 git('checkout fix/updateDatabases') 
 clc
-fileNames = dir('../models');
+fileNames = dir('../../models');
 %Upload organism and model specific parameters
-fID         = fopen('../../ComplementaryData/yeasts_parameters.txt');
+fID         = fopen('../../data/yeasts_parameters.txt');
 yeastsParam = textscan(fID,'%s %s %s %s %f %f %f','Delimiter','\t','HeaderLines',1);
 %Replace scripts in GECKO:
 scripts = dir('../specific_scripts');
@@ -37,14 +37,14 @@ for i=1:length(fileNames)
         modelName = file(1:(end-4));
         disp(modelName)
         %Load model
-        load(['models/' file])
+        load(['../models/' file])
         %Convert to RAVEN format
         model = ravenCobraWrapper(reducedModel);
         %Transfer model parameters to GECKO
         transferParameters(yeastsParam,model,modelName)       
         %If a uniprot file is available for this organism in the repository
         %then paste it in GECKO
-        DBname = ['../../ComplementaryData/databases/uniprot/' modelName '.tab'];
+        DBname = ['../../../ComplementaryData/databases/uniprot/' modelName '.tab'];
         if isfile(DBname)
             copyfile(DBname,'databases/uniprot.tab')
             %Generate protDatabase (uniprot and KEGG for the desired
@@ -58,7 +58,7 @@ for i=1:length(fileNames)
             [ecModel,ecModel_batch] = enhanceGEM(model,'COBRA',ecModelName,'v.1.0');
             save(['../models/' ecModelName '/ecModel.mat'],'ecModel')
             save(['../models/' ecModelName '/ecModel_batch.mat'],'ecModel_batch')
-            newDir = ['../../ecModels/' ecModelName];
+            newDir = ['../../../ecModels/' ecModelName];
             mkdir(newDir)
             movefile(['../models/' ecModelName '/*'],newDir)
         end
