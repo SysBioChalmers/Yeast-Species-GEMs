@@ -2,7 +2,7 @@ function [results,D_crit] = crabtree_chemostats(model,objIndexes,exchIndexes,gRa
 cd GECKO/geckomat/utilities
 fermentation = false;
 results      = [];
-D_crit       = 0;
+D_crit       = [];
 for subopt_growth = gRates
     tempModel = model;
     %Simulate!
@@ -16,9 +16,15 @@ for subopt_growth = gRates
         end
     else
         disp(['Dilution rate = ' num2str(subopt_growth) ': Fermentation'])
-        D_crit = subopt_growth;
+        if isempty(D_crit)
+            D_crit = subopt_growth;
+        end
     end
     exchangeVector(exchangeVector==0) = 1E-6;
     newRow  = [subopt_growth, exchangeVector'];
     results = [results; newRow];
+end
+if isempty(D_crit)
+    D_crit = 0;
+end
 end
