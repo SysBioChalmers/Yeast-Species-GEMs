@@ -9,7 +9,7 @@ cd GECKO
 %git('pull')
 %Locate the correct branch
 %git('stash')
-%git('checkout feat-add_utilities') 
+%git('checkout feat-add_utilities')
 clc
 cd ..
 %load organism and model specific parameters
@@ -26,13 +26,16 @@ biomass_phen       = readtable('../../Reconstruction_script/data/physiology/biom
 fileNames = dir('../ecModels');
 originalModels = dir('../models');
 modelsData = table();
+mkdir('../results/fluxDist')
+mkdir('../results/gCC')
+
 for i=1:length(originalModels)
     cd(current)
     file = originalModels(i).name;
     if contains(file,'.mat')
         modelFile = file(1:end-4);
         ecModelName = ['ec_' modelFile '_GEM'];
-        disp(modelFile)
+        disp(['***** ' modelFile])
         %get phenotype
         nameStr = strrep(modelFile,'_',' ');
         phenotype = phenData.phenotype{strcmpi(phenData.name,nameStr)};
@@ -40,15 +43,15 @@ for i=1:length(originalModels)
         %Load original model
         load(['../models/' file])
         %Load ecModel
-        load(['../ecModels/' ecModelName '/ecModel_batch.mat'])
+        load(['../ecModels/' ecModelName '/ecModel_batch_curated.mat'])
         %Transfer org specific parameters to GECKO
-        transferParameters(yeastsParam,reducedModel,modelFile);      
+        transferParameters(yeastsParam,reducedModel,modelFile);
         cd ..
-        %Get classification od matched enzymes
+        %Get classification of matched enzymes
         [isoEnzymes,Promiscuous,Complexes,RxnWithKcat] = rxnCounter(ecModel_batch,reducedModel);
         nRxns    = length(reducedModel.rxns);
         nMets    = length(reducedModel.mets);
-        nGnes    = length(reducedModel.genes);        
+        nGnes    = length(reducedModel.genes);
         nRxns_ec = length(ecModel_batch.rxns);
         nMets_ec = length(ecModel_batch.mets)-length(ecModel_batch.enzymes);
         nEnz_ec  = length(ecModel_batch.enzymes);
@@ -57,85 +60,98 @@ for i=1:length(originalModels)
         cSource  = find(contains(ecModel_batch.rxnNames,'D-glucose exchange (reversible)'));
         EtOH     = find(strcmpi(ecModel_batch.rxnNames,'ethanol exchange'));
         acEx     = find(strcmpi(ecModel_batch.rxnNames,'acetate exchange'));
-        forEx     = find(strcmpi(ecModel_batch.rxnNames,'formate exchange'));
-        mEtExc    = find(strcmpi(ecModel_batch.rxnNames,'methanol exchange (reversible)'));
+        forEx    = find(strcmpi(ecModel_batch.rxnNames,'formate exchange'));
+        mEtEx    = find(strcmpi(ecModel_batch.rxnNames,'methanol exchange (reversible)'));
         Ppool    = find(strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange'));
-        %Get a FBA solution
-        solution  = solveLP(ecModel_batch);
-        met_yield = []; 
-        if ~isempty(solution.x)
-            printFluxes(ecModel_batch, solution.x, true, 1E-5)
-            gRate    = solution.x(obj);
-            load('GECKO/geckomat/parameters.mat')
-            %Introduce curation of problematic Kcats
-            ecModel_batch = curateKcatValues(ecModel_batch);
-            %Fit sigma parameter and adjust protein pool upper bound
-            ecModel_batch = rescaleBioMassComposition(ecModel_batch,phenotype{1},biomass_phen);
-            cd ../kcat_sensitivity_analysis
-            %Get U_max
-            solution = solveLP(ecModel_batch);
-            OptSigma = sigmaFitter(ecModel_batch,0.46,gRate,0.5);
-            ecModel_batch.ub(end) = 0.46*OptSigma*0.5;
-            %Save calibrated ecModels
-            save(['../../../../ecModels/ec_' modelFile '_GEM/ecModel_batch_curated.mat'],'ecModel_batch')
-            %Constrain acetate production
-            %ecModel_batch.ub(acEx) = 0.6;
-            %ecModel_batch.ub(forEx) = 0;
-            %Get exchange fluxes from a new solution
-            solution = solveLP(ecModel_batch,1);
-            GUR      = solution.x(cSource);
-            acExc    = solution.x(acEx);
-            %EtExc    = solution.x(EtOH);
-            %Get the top used enzymes
-            T = topUsedEnzymes(solution.x,ecModel_batch,{'glc'},ecModelName,false);
-            [lim_growth,breakFlag] = findTopLimitations(ecModel_batch,[]);
-            %check ethanol production capabilities
-            temp     = setParam(ecModel_batch,'obj',Ppool,-1);
-            temp     = setParam(temp,'lb',obj,0.99*solution.x(obj));
-            temp     = setParam(temp,'ub',obj,0.6);
-            %temp     = setParam(temp,'ub',obj,0);
-            solution = solveLP(temp,1);
-            EtExc    = solution.x(EtOH);            
-            temp     = setParam(temp,'lb',Ppool,0.99999999*solution.x(Ppool));            
-            temp     = setParam(temp,'obj',EtOH,1);
-            [lim_EtOH,~] = findTopLimitations(temp,[]);
-            %Check growth on methanol
-            if ~isempty(mEtExc)
-                temp = setParam(ecModel_batch,'obj',obj,1);
-                temp = setParam(temp,'ub',cSource,0);
-                temp = setParam(temp,'ub',mEtExc,1000);
-                solution  = solveLP(temp,1);
-                if ~isempty(solution.x)
-                    met_yield = solution.x(obj)/(solution.x(mEtExc)*0.03204);
-                end
+        MetExc   = 0;
+        MetGrate = 0;
+        %Introduce curation of problematic Kcats
+        %ecModel_batch = curateKcatValues(ecModel_batch);
+        %Get exp miu_max
+        load('GECKO/geckomat/parameters.mat')
+        gRate = yeastParam.gR_exp;
+        %rescale biomass components
+        ecModel_batch = rescaleBioMassComposition(ecModel_batch,phenotype{1},biomass_phen);
+        %Fix max biomass
+        ecModel_batch.lb(obj) = 0.999999*gRate;
+        ecModel_batch.ub(obj) = gRate;
+        ecModel_batch = setParam(ecModel_batch,'obj',Ppool,-1);
+        index = strcmpi(biomass_phen.Properties.VariableNames,phenotype);
+        Ptot  = table2array(biomass_phen(1,index));
+        %Fit sigma parameter and adjust protein pool upper bound
+        cd ../../../specific_scripts
+        Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.GUR,0.5,cSource);
+        %ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+        %Save calibrated ecModels
+        %save(['../../ecModels/ec_' modelFile '_GEM/ecModel_batch_modified.mat'],'ecModel_batch')
+        %Get exchange fluxes from a new solution
+        solution = solveLP(ecModel_batch,1);
+        GUR      = solution.x(cSource);
+        acExc    = solution.x(acEx);
+        yeastParam.EtOH;
+        EtExc    = solution.x(EtOH);
+        %Calculate error in biomass yield  
+        bioYield = gRate/(GUR*0.18);
+        yieldExp = gRate/(yeastParam.GUR*0.18);
+        bioError = (bioYield-yieldExp)/yieldExp;
+        disp(['The error in the biomass yield prediction is: ' num2str(bioError*100) '%'])
+        cd ..
+        %Get rxns table
+        varNames   = {'rxns' 'rxnNames' 'formulas' 'flux' 'grRules' 'subSystems'};
+        rxnIndxs   = find(~contains(ecModel_batch.rxnNames,'draw_prot_'));
+        enzIndexes = find(contains(ecModel_batch.rxnNames,'draw_prot_'));
+        rxnsTable  = getSubsetTable(rxnIndxs,ecModel_batch,solution.x,varNames,false);
+        newFile    = ['../results/fluxDist/ec_' modelFile '_rxnsTable.txt'];
+        writetable(rxnsTable,newFile,'Delimiter', '\t','QuoteStrings',false);
+        %Get absolute enzyme usages table
+        varNames     = {'enzymes' 'shortNames' 'abs_usage' 'grRules' 'subSystems'};
+        enzTable_abs = getSubsetTable(enzIndexes,ecModel_batch,solution.x,varNames,true);
+        newFile      = ['../results/fluxDist/ec_' modelFile '_enzTable.txt'];
+        writetable(enzTable_abs,newFile,'Delimiter', '\t','QuoteStrings',false);
+        cd GECKO/geckomat/kcat_sensitivity_analysis
+        %Get the top used enzymes and perform Kcat sensitivity analysis on
+        %gRate
+        T              = topUsedEnzymes(solution.x,ecModel_batch,{'glc'},ecModelName,false);
+        [lim_growth,~] = findTopLimitationsAll(ecModel_batch,[]);
+        temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
+        writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+        %check ethanol production capabilities
+        tempM    = setParam(ecModel_batch,'obj',EtOH,1);
+        tempM    = setParam(tempM,'lb',obj,0.999999*solution.x(obj));
+        solution = solveLP(tempM,1);
+        EtMax    = solution.x(EtOH);
+        errEtOH  = (EtMax-yeastParam.EtOH)/yeastParam.EtOH;
+        disp(['The experimental EtOH production is: ' num2str(yeastParam.EtOH)])
+        disp(['The predicted EtOH production is: ' num2str(EtExc)])
+        disp(['The predicted max EtOH production is: ' num2str(EtMax)])
+        %Check growth on methanol
+        if ~isempty(mEtEx)
+            tempM = setParam(ecModel_batch,'obj',obj,1);
+            tempM = setParam(tempM,'ub',cSource,0);
+            tempM = setParam(tempM,'ub',mEtEx,1000);
+            solution  = solveLP(tempM,1);
+            if ~isempty(solution.x)
+                MetExc = solution.x(mEtEx);%solution.x(obj)/(solution.x(mEtExc)*0.03204);
+                MetGrate = solution.x(obj);
             end
-        else
-            gRate = 0;
-            GUR   = 0;
-            EtExc  = 0;
         end
-        cd ../utilities
-        if isempty(met_yield)
-            met_yield = 0;
-        end
-        f_factor = OptSigma;
-        [kcat,rxnIdx,rxnName,MW] = getKcat(ecModel_batch,T.prots_glc{1});
+        cd ../utilities    
+        %Get rxnName for the top limiting Kcat
+        [kcat,rxnIdx,rxnName,MW] = getKcat(ecModel_batch,T.prots_glc{1});      
         modelsData = [modelsData; {modelFile phenotype{1} nRxns nMets nGnes nRxns_ec ...
-                      nMets_ec nEnz_ec isoEnzymes Promiscuous Complexes ...
-                      RxnWithKcat gRate GUR acExc EtExc met_yield yeastParam.GUR yeastParam.EtOH ...
-                      T.prots_glc{1} T.Usages_glc(1) kcat(1) rxnName(1) MW(1) ...
-                      lim_growth{1} lim_growth{4} lim_growth{5} lim_growth{6} ...
-                      lim_EtOH{1} lim_EtOH{5} lim_EtOH{6} f_factor}];
-        close all
-        clc
-        save(['../../../../ecModels/ec_' modelFile '_GEM/ecModel_batch.mat'],'ecModel_batch')
+                      nMets_ec nEnz_ec isoEnzymes Promiscuous Complexes RxnWithKcat ...
+                      gRate GUR acExc EtExc EtMax MetExc MetGrate yeastParam.GUR ...
+                      yeastParam.EtOH T.prots_glc{1} T.Usages_glc(1) kcat(1) rxnName(1) MW(1) Opt_f}];
+         close all
+         disp(' ')
     end
 end
-modelsData.Properties.VariableNames ={'model' 'phenotype' 'nRxns' 'nMets' 'nGenes' 'ec_nRxns' 'ec_nMets' 'ec_nEnz' ...
-            'isoenzymes' 'promiscuous' 'complexes' 'RxnWithKcat' 'gRate' ...
-            'GUR' 'acExc' 'EtExc' 'meth_yield' 'GUR_exp' 'EtOH_exp' 'topProt' 'topUsage' 'kcat' ...
-            'rxnName' 'MW' 'limEnz' 'limKcat' 'gCC' 'limRxn' 'limEnz_EtOH' 'EtOH_CC' 'limRxn_EtOH' 'f_factor'};
+modelsData.Properties.VariableNames ={'model' 'phenotype' 'nRxns' 'nMets' 'nGenes' 'ec_nRxns' ...
+                                      'ec_nMets' 'ec_nEnz' 'isoenzymes' 'promiscuous' 'complexes' 'RxnWithKcat' ...
+                                      'gRate' 'GUR' 'acExc' 'EtExc' 'EtMax' 'methExc' 'metGrate' 'GUR_exp' ...
+                                      'EtOH_exp' 'topProt' 'topUsage' 'kcat' 'rxnName' 'MW' 'f_factor'};
 %Save results table
-mkdir('../../../../results')
-writetable(modelsData,'../../../../results/ecModels_metrics.txt','Delimiter','\t','QuoteStrings',false)
+cd (current)
+mkdir('../results')
+writetable(modelsData,'../results/ecModels_metrics_curated.txt','Delimiter','\t','QuoteStrings',false)
         
