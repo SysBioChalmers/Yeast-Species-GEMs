@@ -1,16 +1,20 @@
-function model = iterative_curation(model,exp_gRate,bioY_exp,overpredicted,iterations)
-if nargin<7
-    iterations = 10;
+function model = iterative_curation(model,expVal,expYield,overpredicted,in_idx,out_idx,iterations,MW)
+if nargin<8
+    MW = 1;
+    if nargin<7
+        iterations = 10;
+    end
 end
-glcIndx     = find(strcmpi(model.rxnNames,'D-glucose exchange (reversible)'));
-gIndx       = find(strcmpi(model.rxnNames,'biomass pseudoreaction'));
-Pindex      = find(contains(model.rxnNames,'prot_pool'));
 sol         = solveLP(model,1);
-gSim        = sol.x(gIndx);
-prediction  = (sol.x(gIndx)/(sol.x(glcIndx)*0.18));
-error_gRate = (gSim-exp_gRate)/exp_gRate;
+simVal      = sol.x(out_idx);
+prediction  = (sol.x(out_idx)/(sol.x(in_idx)*MW));
+error_gRate = (simVal-expVal)/expVal;
 disp(['Error in growth rate prediction is: ' num2str(error_gRate)])
 temp = model;
+%Fix growth rate value and objective coefficient
+temp = setParam(temp,'lb',out_idx,0.999999*simVal);
+temp = setParam(temp,'ub',out_idx,1.000001*simVal);
+temp = setParam(temp,'obj',out_idx,1);
 cd specific_scripts
 if overpredicted
 	factor    = 0.1;
@@ -27,20 +31,17 @@ stopCriteria = false;
 while ~stopCriteria & j<iterations
     disp(['Iteration #' num2str(j)])
     limKcat = [];
-    temp = setParam(temp,'lb',gIndx,0.999999*gSim);
-    temp = setParam(temp,'ub',gIndx,1.000001*gSim);
-    temp = setParam(temp,'obj',gIndx,1);
-    [limKcat,~] = findTopLimitationsAll(temp,[],glcIndx,factor,'ascend');
-    %Filter out results   
+    %Calculate ECC
+    [limKcat,~] = findTopLimitationsAll(temp,[],in_idx,factor,'ascend');
+    %Filter out results (negative or positive)
     if ~isempty(limKcat)
         coefficients = limKcat{5};
         limKcat = table(limKcat{1},limKcat{2},limKcat{3},limKcat{4},limKcat{5},limKcat{6});
         eval(comStr)
     end
-    
+    %Modify top-ranked Kcat
     if ~isempty(limKcat)
         j = j+1;
-        %Modify top-ranked Kcat
         k = 1;
         stopEnz = false;
         while ~stopEnz & k<=height(limKcat)
@@ -54,12 +55,12 @@ while ~stopCriteria & j<iterations
                 tempM.S(metIndex,indexes) = temp.S(metIndex,indexes)/factor;
                 sol = solveLP(tempM,1);
                 if ~isempty(sol.x)
-                    newPrediction = (sol.x(gIndx)/(sol.x(glcIndx)*0.18));
+                    newPrediction = (sol.x(out_idx)/(sol.x(in_idx)*MW));
                     if sign(newPrediction-prediction)==sign(direction)
                         disp(enzyme{1})
                         disp(tempCell{1})
                         prediction = newPrediction;
-                        disp(['The curated biomass yield is: ' num2str(prediction)])
+                        disp(['The curated yield is: ' num2str(prediction)])
                         modifications = [modifications; enzyme];
                         stopEnz = true;
                         temp = tempM;
@@ -71,7 +72,7 @@ while ~stopCriteria & j<iterations
     else
         j = iterations+1;
     end
-    predError = (prediction-bioY_exp)/bioY_exp;
+    predError = (prediction-expYield)/expYield;
     if overpredicted
         stopCriteria = predError <= 0.1;
     else
