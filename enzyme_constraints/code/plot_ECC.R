@@ -25,7 +25,7 @@ for (file in files){
   }
 }
 topRxns    <- unique(topRxns)
-shortNames <- c('ACO2','ARO2','TSA1','MDH1','PSD1','ARG7','ILV5','HXK1','GPH1','IMD2','VAS1','HOM2')
+shortNames <- c('ACO2','ARO2','TSA1','ILV5','RIB7','ARG7','MET6','MDH1','GPH1','IMD2','VAS1','HOM2','ADE4')
 keyCodes   <- c('Dbr','Esi','Kla','Kmx','Kpa','Lfe','Lth','Nca','Seu','Spo','Tbl','Tph','Zro','Kdo')
 #Get the ECC of such enzymes
 i <- 1
@@ -41,7 +41,9 @@ for (file in files){
     j <- 1
     for (rxn in topRxns){
       index <- which(rxnNames==rxn)
+      #print(rxnNames[index])
       if (length(index)>0){
+        index <- index[1]
         ECCs[j,i] <- ECC[index]
       } 
       else{
@@ -56,7 +58,8 @@ ECCs <- as.data.frame(ECCs)
 colnames(ECCs) <- keyCodes 
 rownames(ECCs) <- shortNames 
 ECCs <- t(ECCs)
+ECCs <- ECCs[,-c(5,7,12)]
 #plot heatmap
 #png(fileName,width=Width, height=Height)
-pheatmap(ECCs,cluster_cols = F,cluster_rows = F, show_rownames = TRUE)
+pheatmap(ECCs,cluster_cols = F,cluster_rows = T, show_rownames = TRUE)
 #dev.off()
