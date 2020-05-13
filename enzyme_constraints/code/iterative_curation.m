@@ -1,38 +1,38 @@
-function model = iterative_curation(model,expVal,expYield,overpredicted,in_idx,out_idx,iterations,MW)
-if nargin<8
-    MW = 1;
-    if nargin<7
-        iterations = 10;
-    end
+function [model,prediction] = iterative_curation(model,expVal,underpredicted,curIndx,fixIndx,objIndx,factor,iterations)
+if nargin<7
+	iterations = 10;
 end
 sol         = solveLP(model,1);
-simVal      = sol.x(out_idx);
-prediction  = (sol.x(out_idx)/(sol.x(in_idx)*MW));
-error_gRate = (simVal-expVal)/expVal;
-disp(['Error in growth rate prediction is: ' num2str(error_gRate)])
+fixVal      = sol.x(fixIndx);
+prediction  = sol.x(curIndx);
+%error_gRate = (simVal-expVal)/expVal;
+%disp(['Error in growth rate prediction is: ' num2str(error_gRate)])
 temp = model;
 %Fix growth rate value and objective coefficient
-temp = setParam(temp,'lb',out_idx,0.999999*simVal);
-temp = setParam(temp,'ub',out_idx,1.000001*simVal);
-temp = setParam(temp,'obj',out_idx,1);
+temp = setParam(temp,'lb',fixIndx,0.99*fixVal);
+temp = setParam(temp,'ub',fixIndx,1.01*fixVal);
+temp = setParam(temp,'obj',objIndx,1);
 cd specific_scripts
-if overpredicted
-	factor    = 0.1;
-	direction = -1;
-	comStr    = 'limKcat = limKcat(find(coefficients>0),:);';
-else
-	factor    = 10;
+if underpredicted
+	%factor    = 0.1;
 	direction = 1;
+	comStr    = 'limKcat = limKcat(find(coefficients>0),:);';
+    sorting   = 'descend';
+else
+	%factor    = 10;
+	direction = -1;
 	comStr = 'limKcat = limKcat(find(coefficients<0),:);';
+    sorting   = 'ascend';
 end
 j = 1;
 modifications = {};
-stopCriteria = false;
-while ~stopCriteria & j<iterations
+stopCriteria  = false;
+noLims        = false;
+while ~stopCriteria & j<iterations & ~noLims
     disp(['Iteration #' num2str(j)])
     limKcat = [];
     %Calculate ECC
-    [limKcat,~] = findTopLimitationsAll(temp,[],in_idx,factor,'ascend');
+    [limKcat,noLims] = findTopLimitationsAll(temp,[],curIndx,factor,sorting);
     %Filter out results (negative or positive)
     if ~isempty(limKcat)
         coefficients = limKcat{5};
@@ -55,28 +55,31 @@ while ~stopCriteria & j<iterations
                 tempM.S(metIndex,indexes) = temp.S(metIndex,indexes)/factor;
                 sol = solveLP(tempM,1);
                 if ~isempty(sol.x)
-                    newPrediction = (sol.x(out_idx)/(sol.x(in_idx)*MW));
+                    newPrediction = (sol.x(curIndx));
                     if sign(newPrediction-prediction)==sign(direction)
                         disp(enzyme{1})
                         disp(tempCell{1})
                         prediction = newPrediction;
-                        disp(['The curated yield is: ' num2str(prediction)])
+                        disp(['The curated value is: ' num2str(prediction)])
                         modifications = [modifications; enzyme];
                         stopEnz = true;
                         temp = tempM;
                     end
                 end
             end
+            if k==height(limKcat)
+                noLims = true;
+            end
             k = k+1;
         end
     else
         j = iterations+1;
     end
-    predError = (prediction-expYield)/expYield;
-    if overpredicted
-        stopCriteria = predError <= 0.1;
+    predError = (prediction-expVal)/expVal;
+    if underpredicted
+        stopCriteria = predError >= -0.1;     
     else
-        stopCriteria = predError >= -0.1;
+        stopCriteria = predError <= 0.1;
     end
 end
 model = temp;

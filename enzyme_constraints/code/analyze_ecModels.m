@@ -1,15 +1,16 @@
+function curate_ecModels(initModel,finalModel,resultsFile,getECC)
 %analyze_ecModels
 %
-% Ivan Domenzain. 2020-04-15
+% Ivan Domenzain. 2020-05-07
 %
 current = pwd;
 %Clone GECKO repository
-%git('clone https://github.com/SysBioChalmers/GECKO.git')
+git('clone https://github.com/SysBioChalmers/GECKO.git')
 cd GECKO
-%git('pull')
+git('pull')
 %Locate the correct branch
 %git('stash')
-%git('checkout feat-add_utilities')
+git('checkout feat-add_utilities')
 clc
 cd ..
 %load organism and model specific parameters
@@ -43,7 +44,7 @@ for i=1:length(originalModels)
         %Load original model
         load(['../models/' file])
         %Load ecModel
-        load(['../ecModels/' ecModelName '/ecModel_batch_curated.mat'])
+        load(['../ecModels/' ecModelName '/' initModel '.mat'])
         %Transfer org specific parameters to GECKO
         transferParameters(yeastsParam,reducedModel,modelFile);
         cd ..
@@ -66,24 +67,34 @@ for i=1:length(originalModels)
         MetExc   = 0;
         MetGrate = 0;
         %Introduce curation of problematic Kcats
-        %ecModel_batch = curateKcatValues(ecModel_batch);
+        [ecModel_batch] = curateKcatValues(ecModel_batch);
         %Get exp miu_max
         load('GECKO/geckomat/parameters.mat')
         gRate = yeastParam.gR_exp;
+        disp(['The experimental growth rate is: ' num2str(gRate)])
         %rescale biomass components
         ecModel_batch = rescaleBioMassComposition(ecModel_batch,phenotype{1},biomass_phen);
-        %Fix max biomass
-        ecModel_batch.lb(obj) = 0.999999*gRate;
-        ecModel_batch.ub(obj) = gRate;
-        ecModel_batch = setParam(ecModel_batch,'obj',Ppool,-1);
+        ecModel_batch = setParam(ecModel_batch,'obj',obj,1);
+        %Find model phenotype info
         index = strcmpi(biomass_phen.Properties.VariableNames,phenotype);
         Ptot  = table2array(biomass_phen(1,index));
-        %Fit sigma parameter and adjust protein pool upper bound
+        %Fit sigma parameter in order to minimize GUR prediction error
         cd ../../../specific_scripts
-        Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.GUR,0.5,cSource);
-        %ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+        ecModel_batch.lb(obj) = 0;
+        switch fittingOption 
+            case 1
+                ecModel_batch.ub(obj) = gRate;
+                Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.GUR,0.5,cSource);
+                ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+            case 2
+                ecModel_batch.ub(obj) = 1000;
+                Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.gR_exp,0.5,obj);   
+                ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+            otherwise
+                Opt_f = 0;
+        end
         %Save calibrated ecModels
-        %save(['../../ecModels/ec_' modelFile '_GEM/ecModel_batch_modified.mat'],'ecModel_batch')
+        save(['../../ecModels/ec_' modelFile '_GEM/' finalModel '.mat'],'ecModel_batch')
         %Get exchange fluxes from a new solution
         solution = solveLP(ecModel_batch,1);
         GUR      = solution.x(cSource);
@@ -94,6 +105,7 @@ for i=1:length(originalModels)
         bioYield = gRate/(GUR*0.18);
         yieldExp = gRate/(yeastParam.GUR*0.18);
         bioError = (bioYield-yieldExp)/yieldExp;
+        %disp(['The biomass production prediction is: ' num2str(solution.x(obj))])
         disp(['The error in the biomass yield prediction is: ' num2str(bioError*100) '%'])
         cd ..
         %Get rxns table
@@ -111,10 +123,13 @@ for i=1:length(originalModels)
         cd GECKO/geckomat/kcat_sensitivity_analysis
         %Get the top used enzymes and perform Kcat sensitivity analysis on
         %gRate
-        T              = topUsedEnzymes(solution.x,ecModel_batch,{'glc'},ecModelName,false);
-        [lim_growth,~] = findTopLimitationsAll(ecModel_batch,[]);
-        temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
-        writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+        T = topUsedEnzymes(solution.x,ecModel_batch,{'glc'},ecModelName,false);
+        if getECC
+            ecModel_batch.ub(obj) = 1000;
+            [lim_growth,~] = findTopLimitationsAll(ecModel_batch,[],obj,1.001);
+            temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
+            writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+        end
         %check ethanol production capabilities
         tempM    = setParam(ecModel_batch,'obj',EtOH,1);
         tempM    = setParam(tempM,'lb',obj,0.999999*solution.x(obj));
@@ -153,5 +168,5 @@ modelsData.Properties.VariableNames ={'model' 'phenotype' 'nRxns' 'nMets' 'nGene
 %Save results table
 cd (current)
 mkdir('../results')
-writetable(modelsData,'../results/ecModels_metrics_curated.txt','Delimiter','\t','QuoteStrings',false)
-        
+writetable([modelsData,'../results/' resultsFile '.txt'],'Delimiter','\t','QuoteStrings',false)
+end

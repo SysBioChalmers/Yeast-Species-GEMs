@@ -1,18 +1,7 @@
 function model = curateKcatValues(model)
 %Curate Kcat values
 cd GECKO/geckomat/utilities
-% proteins = {'O42933';'A0A3F2XYL4';'A0A0X8HUP6';'Q6CWE9';'W0T8T6';'C4QX36';...
-%             'A0A1G4MB32';'C5DFP3';'G0V6T0';'A0A0L8RCR8';'Q10283';'I2H574';...
-%             'G8BQB6';'C5DS84';'A0A0A8L4H2'};
-% value    = (24*60*1e3/1e3*60);
-% Kcats    = [70.9;value;value;value;70.29;78.3;70.29;value;value;value;...
-%             value;value;value;value;value];
-% for i=1:length(proteins)
-%     prot = proteins{i};
-%     Kcat = Kcats(i);
-%     model = assignKcat(model,prot,Kcat);
-% end
-% %Curate Kcats by rxnNames too
+%Curate Kcats by rxnNames
  rxns = {'hydroxymethylglutaryl CoA synthase' ...
          'hydroxymethylglutaryl CoA reductase'};%'tryptophan synthase (indoleglycerol phosphate)' ...
 %         'IMP dehydrogenase'};

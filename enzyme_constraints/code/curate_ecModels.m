@@ -1,4 +1,4 @@
-function curate_ecModels(initModel,finalModel,resultsFile,fittingOption,getECC)
+function curate_ecModels(initModel,finalModel,resultsFile,fittingOption,getECC,fixEtOH)
 %analyze_ecModels
 %
 % Ivan Domenzain. 2020-05-07
@@ -78,16 +78,29 @@ for i=1:length(originalModels)
         Ptot  = table2array(biomass_phen(1,index));
         %Fit sigma parameter in order to minimize GUR prediction error
         cd ../../../specific_scripts
-        ecModel_batch.lb(obj) = 0;
+        ecModel_batch.lb(obj) = 0.95*gRate;
+        ecModel_batch.ub(obj) = 1.05*gRate;
         switch fittingOption 
             case 1
-                ecModel_batch.ub(obj) = gRate;
-                Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.GUR,0.5,cSource);
+                [Opt_f,error] = sigmaFitter(ecModel_batch,Ptot,yeastParam.GUR,0.5,cSource);
                 ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+                error = error/100;
+                ecModel_batch.lb(cSource) = (1-1.05*error)*yeastParam.GUR;
+                ecModel_batch.ub(cSource) = (1+1.05*error)*yeastParam.GUR;
             case 2
-                ecModel_batch.ub(obj) = 1000;
-                Opt_f = sigmaFitter(ecModel_batch,Ptot,yeastParam.gR_exp,0.5,obj);   
+                [Opt_f,error] = sigmaFitter(ecModel_batch,Ptot,yeastParam.gR_exp,0.5,obj);   
                 ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+                error = error/100;
+                ecModel_batch.lb(obj) = (1-1.05*error)*yeastParam.gR_exp;
+                ecModel_batch.ub(obj) = (1+1.05*error)*yeastParam.gR_exp;
+            case 3
+                [Opt_f,error] = sigmaFitter(ecModel_batch,Ptot,yeastParam.EtOH,0.5,EtOH);   
+                Opt_f
+                ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
+                error = error/100;
+                ecModel_batch.lb(EtOH) = (1-1.05*error)*yeastParam.EtOH;
+                ecModel_batch.ub(EtOH) = (1+1.05*error)*yeastParam.EtOH;
+
             otherwise
                 Opt_f = 0;
         end
@@ -98,11 +111,12 @@ for i=1:length(originalModels)
         yeastParam.EtOH;
         EtExc    = solution.x(EtOH);
         %Calculate error in biomass yield  
-        bioYield = gRate/(GUR*0.18);
+        gSim =solution.x(obj);
+        bioYield = gSim/(GUR*0.18);
         yieldExp = gRate/(yeastParam.GUR*0.18);
         bioError = (bioYield-yieldExp)/yieldExp;
         %disp(['The biomass production prediction is: ' num2str(solution.x(obj))])
-        disp(['The error in the biomass yield prediction is: ' num2str(bioError*100) '%'])
+        disp(['The error in the biomass yield is: ' num2str(bioError*100) '%'])
         cd ..
         %Get rxns table
         varNames   = {'rxns' 'rxnNames' 'formulas' 'flux' 'grRules' 'subSystems'};
@@ -121,32 +135,51 @@ for i=1:length(originalModels)
         %gRate
         T = topUsedEnzymes(solution.x,ecModel_batch,{'glc'},ecModelName,false);
         if getECC
-            ecModel_batch.ub(obj) = 1000;
-            [lim_growth,~] = findTopLimitationsAll(ecModel_batch,[],obj,1.001);
-            temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
-            writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+            unconst_model = ecModel_batch;
+            unconst_model.ub(obj) = 1000;
+            unconst_model.lb(obj) = 0;
+            [lim_growth,~] = findTopLimitationsAll(unconst_model,[],obj,1.01);
+            if ~isempty(lim_growth)
+                temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
+                writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+            else 
+                disp('No limitations were found')
+            end
+            ecModel_batch.ub(obj) = 1.01*solution.x(obj);
         end
         %check ethanol production capabilities
         tempM    = setParam(ecModel_batch,'obj',EtOH,1);
-        tempM    = setParam(tempM,'lb',obj,0.999999*solution.x(obj));
+        tempM    = setParam(tempM,'lb',obj,0.9999*solution.x(obj));
         solution = solveLP(tempM,1);
         EtMax    = solution.x(EtOH);
-        if EtMax>=yeastParam.EtOH & yeastParam.EtOH>0
-            ecModel_batch.lb(EtOH) = 0.99*yeastParam.EtOH;
-            ecModel_batch.ub(EtOH) = 1.01*yeastParam.EtOH;
-        end   
-        disp(['The experimental EtOH production is: ' num2str(yeastParam.EtOH)])
-        disp(['The predicted EtOH production is: ' num2str(EtExc)])
-        disp(['The predicted max EtOH production is: ' num2str(EtMax)])
-        %Check growth on methanol
-        if ~isempty(mEtEx)
-            tempM = setParam(ecModel_batch,'obj',obj,1);
-            tempM = setParam(tempM,'ub',cSource,0);
-            tempM = setParam(tempM,'ub',mEtEx,1000);
-            solution  = solveLP(tempM,1);
-            if ~isempty(solution.x)
-                MetExc = solution.x(mEtEx);%solution.x(obj)/(solution.x(mEtExc)*0.03204);
-                MetGrate = solution.x(obj);
+        if fixEtOH
+            if EtMax>0
+                if EtMax>=yeastParam.EtOH
+                    ecModel_batch.lb(EtOH) = 0.95*yeastParam.EtOH;
+                else
+                    ecModel_batch.lb(EtOH) = 0.95*EtMax;
+                end
+                ecModel_batch.ub(EtOH) = 1.05*yeastParam.EtOH;
+            end
+            %Obtain definite exchange fluxes
+            solution = solveLP(ecModel_batch,1);
+            GUR      = solution.x(cSource);
+            acExc    = solution.x(acEx);
+            EtExc    = solution.x(EtOH);
+            
+            disp(['The experimental EtOH production is: ' num2str(yeastParam.EtOH)])
+            disp(['The predicted EtOH production is: ' num2str(EtExc)])
+            disp(['The predicted max EtOH production is: ' num2str(EtMax)])
+            %Check growth on methanol
+            if ~isempty(mEtEx)
+                tempM = setParam(ecModel_batch,'obj',obj,1);
+                tempM = setParam(tempM,'ub',cSource,0);
+                tempM = setParam(tempM,'ub',mEtEx,1000);
+                solution  = solveLP(tempM,1);
+                if ~isempty(solution.x)
+                    MetExc = solution.x(mEtEx);%solution.x(obj)/(solution.x(mEtExc)*0.03204);
+                    MetGrate = solution.x(obj);
+                end
             end
         end
         cd ../utilities    
@@ -154,18 +187,20 @@ for i=1:length(originalModels)
         [kcat,~,rxnName,MW] = getKcat(ecModel_batch,T.prots_glc{1});      
         modelsData = [modelsData; {modelFile phenotype{1} nRxns nMets nGnes nRxns_ec ...
                       nMets_ec nEnz_ec isoEnzymes Promiscuous Complexes RxnWithKcat ...
-                      gRate GUR acExc EtExc EtMax MetExc MetGrate yeastParam.GUR ...
+                      gSim GUR acExc EtExc EtMax gRate yeastParam.GUR ...
                       yeastParam.EtOH T.prots_glc{1} T.Usages_glc(1) kcat(1) rxnName(1) MW(1) Opt_f}];
          close all
          disp(' ')
          cd(current)
          %Save calibrated ecModels
-         save(['../ecModels/ec_' modelFile '_GEM/' finalModel '.mat'],'ecModel_batch')      
+         save(['../ecModels/ec_' modelFile '_GEM/' finalModel '.mat'],'ecModel_batch')  
+         disp(num2str(yeastParam.EtOH))
+         disp(num2str(ecModel_batch.lb(EtOH)))
     end
 end
-modelsData.Properties.VariableNames ={'model' 'phenotype' 'nRxns' 'nMets' 'nGenes' 'ec_nRxns' ...
+modelsData.Properties.VariableNames = {'model' 'phenotype' 'nRxns' 'nMets' 'nGenes' 'ec_nRxns' ...
                                       'ec_nMets' 'ec_nEnz' 'isoenzymes' 'promiscuous' 'complexes' 'RxnWithKcat' ...
-                                      'gRate' 'GUR' 'acExc' 'EtExc' 'EtMax' 'methExc' 'metGrate' 'GUR_exp' ...
+                                      'gRate' 'GUR' 'acExc' 'EtExc' 'EtMax' 'gRate_exp' 'GUR_exp' ...
                                       'EtOH_exp' 'topProt' 'topUsage' 'kcat' 'rxnName' 'MW' 'f_factor'};
 %Save results table
 cd (current)
