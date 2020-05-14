@@ -13,18 +13,20 @@ clc
 fileNames = dir('../../models');
 %Upload organism and model specific parameters
 fID         = fopen('../../data/yeasts_parameters.txt');
-yeastsParam = textscan(fID,'%s %s %s %s %f %f %f','Delimiter','\t','HeaderLines',1);
+yeastsParam = textscan(fID,'%s %s %s %s %f %f %f %s','Delimiter','\t','HeaderLines',1);
 %Replace scripts in GECKO:
 scripts = dir('../specific_scripts');
 for i = 1:length(scripts)
     script = scripts(i).name;
-    if ~strcmp(script,'.') && ~strcmp(script,'..')
+    if contains(script,'.m')
         fullName   = ['../specific_scripts/' script];
         %Retrieve script path within GECKO
         GECKO_path = dir(['**/' script]);
-        GECKO_path = GECKO_path.folder;
-        %Replace script in GECKO in its container subfolder
-        copyfile(fullName,GECKO_path)
+        if ~isempty(GECKO_path)
+            GECKO_path = GECKO_path.folder;
+            %Replace script in GECKO in its container subfolder
+            copyfile(fullName,GECKO_path)
+        end
     end
 end
 delete databases/chemostatData.tsv
@@ -40,6 +42,10 @@ for i=1:length(fileNames)
         load(['../models/' file])
         %Convert to RAVEN format
         model = ravenCobraWrapper(reducedModel);
+        %Get oxPhos GPRs from yeast GEM
+        cd specific_scripts
+        model = getOxPhosGPRs(model);
+        cd ..
         %Transfer model parameters to GECKO
         transferParameters(yeastsParam,model,modelName)       
         %If a uniprot file is available for this organism in the repository
