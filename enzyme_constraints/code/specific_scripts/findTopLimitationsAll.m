@@ -116,7 +116,7 @@ for i = 1:length(usedEnzIndxs)
             if ~isempty(new_sol.f)
                 %If solution was feasible then calculate the control
                 %coefficient for the j-th Kcat
-                objCC = (new_sol.x(target) - base_sol.x(target))/base_sol.x(target);
+                objCC = (1/(Kcatdelta-1))*(new_sol.x(target) - base_sol.x(target))/base_sol.x(target);
                 if abs(objCC) > 1e-3
                     Kcat        = (-1/model.S(enzPos,coeffPos))/3600;
                     limKcats{1} = [limKcats{1}; enzName];
