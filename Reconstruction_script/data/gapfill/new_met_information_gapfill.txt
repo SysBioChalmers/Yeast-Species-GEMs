@@ -1,0 +1,11 @@
+ID	compostion	coefficient	MetID	Formula	Charge	Description	chebi	kegg2	compostion_new	compartment
+MNXR97420	reactant	1	MNXM252	C5H5N2O4	-1	(S)-dihydroorotate	chebi:30864	C00337	reactant	cytoplasm
+MNXR97420	reactant	1	MNXM1783	C39H58O4	0	ubiquinone-6	chebi:52971	C17568	reactant	mitochondrion
+MNXR97420	product	1	MNXM235	C5H3N2O4	-1	orotate	chebi:30839	C00295	product	cytoplasm
+MNXR97420	product	1	MNXM5319	C39H60O4	0	ubiquinol-6	chebi:52970	C00390	product	mitochondrion
+R12216	reactant	1	MNXM1021	C5H6O4	-2	glutarate	chebi:30921	C00489	reactant	cytoplasm
+R12216	reactant	1	MNXM20	C5H4O5	-2	2-oxoglutarate	chebi:16810	C00026	reactant	cytoplasm
+R12216	reactant	1	MNXM4	O2	0	oxygen	chebi:15379	C00007	reactant	cytoplasm
+R12216	product	1	MNXM1210	C5H6O5	-2	(2S)-hydroxyglutarate	chebi:11596	C03196	product	cytoplasm
+R12216	product	1	MNXM25	C4H4O4	0	succinate	chebi:30031	C00042	product	cytoplasm
+R12216	product	1	MNXM13	CO2	0	carbon dioxide	chebi:16526	C00011	product	cytoplasm
