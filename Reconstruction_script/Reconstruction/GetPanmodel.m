@@ -16,7 +16,7 @@ model    = model.model;
 yeastVer = model.modelID(strfind(model.modelID,'_v')+1:end);
 cd ..
 
-% modify the rules field
+% modify the rules field to avoid the useless brackets
 model1 = ravenCobraWrapper(model);
 grRules = model1.grRules;
 model1 = ravenCobraWrapper(model1);
@@ -24,7 +24,7 @@ model.rules = model1.rules;
 model.grRules = grRules; %get a field of grRules
 clear model1
 
-% change the grRules to be paralogs in each gpr rules
+% expand the grRules to be paralogs in each gpr rules
 git('clone https://github.com/SysBioChalmers/Multi_scale_evolution.git')
 
 fileName = 'Multi_scale_evolution/pan_genome/result/id_mapping/Saccharomyces_cerevisiae.tsv';
@@ -36,7 +36,7 @@ panID_final = strrep(panID_final,'Saccharomyces_cerevisiae@','');
 geneID_core = strrep(geneID_core,'Saccharomyces_cerevisiae@','');
 [~,ID] = ismember(geneID_core,model.genes);
 para = [model.genes(ID(ID~=0)),panID_final(ID~=0)];
-para_idx = setdiff(para(:,1),para(:,2));
+para_idx = setdiff(para(:,1),para(:,2)); % find the paralogs in sce
 [~,ID] = ismember(para_idx,para(:,1));
 para = para(ID,:);
 for i = 1:length(para(:,1))
@@ -54,14 +54,14 @@ cd otherchanges/
 model = slimGPR(model); % now the model.grRules has been changed to only the representative IDs
 cd ../
 
-%change orthlog information
+%change orthlog information to the representative IDs
 fid      = fopen('../../find_homolog_for_panID_py/result/pan_hit_mapping_panYeast_v2_PI@70.tsv');
 orth     = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
 ortholog(:,1)     = orth{1};
 ortholog(:,2) = orth{2};
 ortholog(:,1) = replace(ortholog(:,1),para(:,1),para(:,2)); %replace the ortholog with panID
 fclose(fid);
-
+save('ortholog_changedtoPanID.mat','ortholog');
 
 clearvars -except model ortholog
 %% Panmodel expansion 
@@ -173,16 +173,18 @@ end
 cd otherchanges/
 [model,rxnUpdateGPR,EnergyResults,RedoxResults,MassChargeresults] = addPanModelRxn(model,matrix,newmet,newrxn);
 
+%% update the grRules for existing reactions
 % We found there are 63 rxns are exisitng in the original model, will check
 % that and then decide whthether we should update gpr or not.
 model = rmfield(model,'grRules');
 model.grRules = printGPRForRxns(model,model.rxns);
 [~,ID] = ismember(rxnUpdateGPR(:,1),model.rxns);
 oldGPR = printGPRForRxns(model,model.rxns(ID));
+
 % if old GPR is empty, we update the rxn with new GPR and the rxn is essential, it will cause the
 % problem of maybe deleting this one will lead to no growth.
-rxnUpdateGPR(cellfun(@isempty,oldGPR),:) = [];
-oldGPR(cellfun(@isempty,oldGPR)) = [];
+% rxnUpdateGPR(cellfun(@isempty,oldGPR),:) = [];
+% oldGPR(cellfun(@isempty,oldGPR)) = [];
 
 linker = repmat({' or '},length(oldGPR(:,1)),1);
 linker(cellfun(@isempty,oldGPR))= {''};
@@ -194,15 +196,18 @@ mapping.rxnIDs  = rxnUpdateGPR(:,1);
 mapping.new_GPR  = newGPR;
 model = AddMissingOrthologsInYeastGEM(model,mapping);
 
-%manual curation for model reversibilities 
+%% manual curation for model reversibilities 
 [model,changes] = ManualCuration(model);
 cd ../
 
-
+%% Generate the specific models
+load('ortholog_changedtoPanID.mat') % load all orthologs which will be added back to the specific models
 Genes_Query = [model.genes;ortholog(:,1);ortholog(:,2)];
 Genes_Query = unique(Genes_Query);
 % % update the gpr rules by including orthlogs: A or B to A or B or Panortholog
-% model = UpdatePanGPR(ortholog);
+% model = UpdatePanGPR(ortholog);% cause updating the orthlogs will
+% generate a lot of grRules, so we would rather add the ortholog back at
+% the specific models section
 
 % load mapping IDs for the variables mappingID.OGIDs are standard IDs in the strain-gene presenceAvsence data,
 % mappingID.panIDs are panIDs that we used to construct the panmodel
@@ -263,7 +268,4 @@ for i = 1:length(StrianData.strains)
     rxnMatrix(:,i) = index;
 end
 
-    
-
-        
-
+ 
