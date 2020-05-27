@@ -1,0 +1,4 @@
+Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
+P10659,3006,3416,rattus norvegicus,1,SA*Mw,8.8e-05,385000,-49.9319,9.67043
+P27472,2897,3212,phymatotrichopsis omnivora,1,SA*Mw,0.0183,10345.7,-34.589,0.306041
+Q10231,2994,3394,bos taurus,1,SA*Mw,0.001937,4.07633,-5.82604,0.439394
