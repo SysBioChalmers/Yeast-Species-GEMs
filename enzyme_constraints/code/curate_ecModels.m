@@ -17,7 +17,7 @@ cd ..
 fID         = fopen('../data/yeasts_parameters.txt');
 yeastsParam = textscan(fID,'%s %s %s %s %f %f %f','Delimiter','\t','HeaderLines',1);
 %load phenotypes information
-fID      = fopen('../../Reconstruction_script/data/physiology/343_phenotype_clade.txt');
+fID      = fopen('../../Reconstruction_script/data/physiology/343_phenotype_clade.tsv');
 phenData = textscan(fID,'%s %s %s','Delimiter','\t','HeaderLines',1);
 phenData = table(phenData{1},phenData{3},'VariableNames',{'name' 'phenotype'});
 phenData.name      = strrep(phenData.name,'"','');
