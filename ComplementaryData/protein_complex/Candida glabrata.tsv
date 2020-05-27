@@ -1,0 +1,2507 @@
+complex type	sequence id	index	ortholog
+1,3-beta-D-glucan synthase complex	Candida_glabrata@Seq_1012	19_1011	OG1782
+1,3-beta-D-glucan synthase complex	Candida_glabrata@Seq_1219	19_1218	OG1444
+1,3-beta-D-glucan synthase complex	Candida_glabrata@Seq_2244	19_2243	OG1014
+1,3-beta-D-glucan synthase complex	Candida_glabrata@Seq_2971	19_2970	OG1014
+1,3-beta-D-glucan synthase complex	Candida_glabrata@Seq_5123	19_5122	OG1014
+3-isopropylmalate dehydratase complex	Candida_glabrata@Seq_440	19_439	OG1422
+6-phosphofructokinase complex	Candida_glabrata@Seq_1051	19_1050	OG1054
+6-phosphofructokinase complex	Candida_glabrata@Seq_1061	19_1060	OG1054
+6-phosphofructokinase complex	Candida_glabrata@Seq_3088	19_3087	OG1054
+90S preribosome	Candida_glabrata@Seq_135	19_134	OG3462
+90S preribosome	Candida_glabrata@Seq_1405	19_1404	OG4904
+90S preribosome	Candida_glabrata@Seq_15	19_14	OG2151
+90S preribosome	Candida_glabrata@Seq_1624	19_1623	OG2329
+90S preribosome	Candida_glabrata@Seq_166	19_165	OG2052
+90S preribosome	Candida_glabrata@Seq_1742	19_1741	OG4534
+90S preribosome	Candida_glabrata@Seq_1832	19_1831	OG1974
+90S preribosome	Candida_glabrata@Seq_2311	19_2310	OG2250
+90S preribosome	Candida_glabrata@Seq_2969	19_2968	OG3568
+90S preribosome	Candida_glabrata@Seq_3071	19_3070	OG1901
+90S preribosome	Candida_glabrata@Seq_3132	19_3131	OG2969
+90S preribosome	Candida_glabrata@Seq_3218	19_3217	OG3545
+90S preribosome	Candida_glabrata@Seq_3465	19_3464	OG4638
+90S preribosome	Candida_glabrata@Seq_4806	19_4805	OG2772
+90S preribosome	Candida_glabrata@Seq_4980	19_4979	OG2325
+90S preribosome	Candida_glabrata@Seq_50	19_49	OG2036
+90S preribosome	Candida_glabrata@Seq_5041	19_5040	OG4566
+90S preribosome	Candida_glabrata@Seq_547	19_546	OG202011
+AP-1 adaptor complex	Candida_glabrata@Seq_4456	19_4455	OG2264
+AP-1 adaptor complex	Candida_glabrata@Seq_4919	19_4918	OG1993
+AP-1 adaptor complex	Candida_glabrata@Seq_985	19_984	OG3779
+AP-2 adaptor complex	Candida_glabrata@Seq_1100	19_1099	OG4188
+AP-2 adaptor complex	Candida_glabrata@Seq_2612	19_2611	OG3784
+AP-2 adaptor complex	Candida_glabrata@Seq_3982	19_3981	OG3391
+AP-2 adaptor complex	Candida_glabrata@Seq_4054	19_4053	OG3409
+AP-3 adaptor complex	Candida_glabrata@Seq_1631	19_1630	OG2669
+AP-3 adaptor complex	Candida_glabrata@Seq_3436	19_3435	OG1994
+AP-3 adaptor complex	Candida_glabrata@Seq_85	19_84	OG3384
+ASTRA complex	Candida_glabrata@Seq_1993	19_1992	OG1721
+ASTRA complex	Candida_glabrata@Seq_2337	19_2336	OG1427
+ASTRA complex	Candida_glabrata@Seq_4490	19_4489	OG2118
+ASTRA complex	Candida_glabrata@Seq_815	19_814	OG2745
+ATR-ATRIP complex	Candida_glabrata@Seq_3181	19_3180	OG1616
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_2506	19_2505	OG7000
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_2782	19_2781	OG7429
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_3260	19_3259	OG2418
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_4193	19_4192	OG3528
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_5067	19_5066	OG2545
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_glabrata@Seq_512	19_511	OG1099
+Aim21-Tda2 complex	Candida_glabrata@Seq_2630	19_2629	OG7595
+Aim21-Tda2 complex	Candida_glabrata@Seq_3509	19_3508	OG52720
+Arp2/3 protein complex	Candida_glabrata@Seq_1264	19_1263	OG3427
+Arp2/3 protein complex	Candida_glabrata@Seq_1613	19_1612	OG2586
+Arp2/3 protein complex	Candida_glabrata@Seq_2115	19_2114	OG2590
+Arp2/3 protein complex	Candida_glabrata@Seq_2530	19_2529	OG1035
+Arp2/3 protein complex	Candida_glabrata@Seq_2714	19_2713	OG2127
+Arp2/3 protein complex	Candida_glabrata@Seq_3961	19_3960	OG3502
+Arp2/3 protein complex	Candida_glabrata@Seq_4906	19_4905	OG2181
+Asi complex	Candida_glabrata@Seq_1441	19_1440	OG3757
+Asi complex	Candida_glabrata@Seq_1712	19_1711	OG7246
+Asi complex	Candida_glabrata@Seq_442	19_441	OG9019
+Atg1/ULK1 kinase complex	Candida_glabrata@Seq_1195	19_1194	OG3727
+Atg1/ULK1 kinase complex	Candida_glabrata@Seq_136	19_135	OG1879
+Atg1/ULK1 kinase complex	Candida_glabrata@Seq_1760	19_1759	OG6346
+Atg1/ULK1 kinase complex	Candida_glabrata@Seq_3460	19_3459	OG6953
+Atg1/ULK1 kinase complex	Candida_glabrata@Seq_4282	19_4281	OG6828
+Atg12-Atg5-Atg16 complex	Candida_glabrata@Seq_2846	19_2845	OG6491
+Atg12-Atg5-Atg16 complex	Candida_glabrata@Seq_504	19_503	OG3627
+Atg12-Atg5-Atg16 complex	Candida_glabrata@Seq_517	19_516	OG3805
+BLOC-1 complex	Candida_glabrata@Seq_1962	19_1961	OG6913
+BLOC-1 complex	Candida_glabrata@Seq_2321	19_2320	OG5153
+BLOC-1 complex	Candida_glabrata@Seq_2420	19_2419	OG6479
+BLOC-1 complex	Candida_glabrata@Seq_2430	19_2429	OG7437
+BLOC-1 complex	Candida_glabrata@Seq_245	19_244	OG6723
+BLOC-1 complex	Candida_glabrata@Seq_4034	19_4033	OG7910
+Bfa1-Bub2 complex	Candida_glabrata@Seq_3358	19_3357	OG6929
+Bfa1-Bub2 complex	Candida_glabrata@Seq_520	19_519	OG4146
+CAAX-protein geranylgeranyltransferase complex	Candida_glabrata@Seq_2767	19_2766	OG3911
+CAAX-protein geranylgeranyltransferase complex	Candida_glabrata@Seq_3078	19_3077	OG3200
+CAF-1 complex	Candida_glabrata@Seq_2988	19_2987	OG4099
+CAF-1 complex	Candida_glabrata@Seq_3306	19_3305	OG2093
+CAF-1 complex	Candida_glabrata@Seq_4601	19_4600	OG4144
+CBF3 complex	Candida_glabrata@Seq_2921	19_2920	OG2575
+CBF3 complex	Candida_glabrata@Seq_3756	19_3755	OG7667
+CBF3 complex	Candida_glabrata@Seq_4935	19_4934	OG6912
+CBF3 complex	Candida_glabrata@Seq_873	19_872	OG6824
+CCAAT-binding factor complex	Candida_glabrata@Seq_1199	19_1198	OG4103
+CCAAT-binding factor complex	Candida_glabrata@Seq_1713	19_1712	OG3251
+CCAAT-binding factor complex	Candida_glabrata@Seq_4710	19_4709	OG2751
+CCAAT-binding factor complex	Candida_glabrata@Seq_859	19_858	OG28725
+CCR4-NOT complex	Candida_glabrata@Seq_2258	19_2257	OG7820
+CCR4-NOT complex	Candida_glabrata@Seq_2410	19_2409	OG3644
+CCR4-NOT complex	Candida_glabrata@Seq_2752	19_2751	OG1803
+CCR4-NOT complex	Candida_glabrata@Seq_3241	19_3240	OG1613
+CCR4-NOT complex	Candida_glabrata@Seq_4446	19_4445	OG2561
+CCR4-NOT complex	Candida_glabrata@Seq_4769	19_4768	OG4868
+CCR4-NOT complex	Candida_glabrata@Seq_911	19_910	OG4153
+CCR4-NOT core complex	Candida_glabrata@Seq_1075	19_1074	OG4560
+CCR4-NOT core complex	Candida_glabrata@Seq_2752	19_2751	OG1803
+CCR4-NOT core complex	Candida_glabrata@Seq_2961	19_2960	OG1769
+CCR4-NOT core complex	Candida_glabrata@Seq_3241	19_3240	OG1613
+CCR4-NOT core complex	Candida_glabrata@Seq_4059	19_4058	OG1582
+CCR4-NOT core complex	Candida_glabrata@Seq_4446	19_4445	OG2561
+CCR4-NOT core complex	Candida_glabrata@Seq_4769	19_4768	OG4868
+CCR4-NOT core complex	Candida_glabrata@Seq_530	19_529	OG3389
+CCR4-NOT core complex	Candida_glabrata@Seq_911	19_910	OG4153
+CENP-A containing nucleosome	Candida_glabrata@Seq_55	19_54	OG3375
+CENP-A containing nucleosome	Candida_glabrata@Seq_778	19_777	OG27166
+CENP-A containing nucleosome	Candida_glabrata@Seq_958	19_957	OG1027
+CHRAC	Candida_glabrata@Seq_3410	19_3409	OG2814
+CHRAC	Candida_glabrata@Seq_4593	19_4592	OG1038
+CHRAC	Candida_glabrata@Seq_4902	19_4901	OG3451
+CHRAC	Candida_glabrata@Seq_674	19_673	OG3113
+CIA complex	Candida_glabrata@Seq_105	19_104	OG2992
+CIA complex	Candida_glabrata@Seq_1989	19_1988	OG2281
+CIA complex	Candida_glabrata@Seq_3059	19_3058	OG3813
+CLRC ubiquitin ligase complex	Candida_glabrata@Seq_4899	19_4898	OG3051
+CMG complex	Candida_glabrata@Seq_113	19_112	OG3283
+CMG complex	Candida_glabrata@Seq_132	19_131	OG1049
+CMG complex	Candida_glabrata@Seq_2044	19_2043	OG2873
+CMG complex	Candida_glabrata@Seq_2286	19_2285	OG3307
+CMG complex	Candida_glabrata@Seq_2907	19_2906	OG1824
+CMG complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+CMG complex	Candida_glabrata@Seq_3997	19_3996	OG2001
+CMG complex	Candida_glabrata@Seq_802	19_801	OG2191
+CMG complex	Candida_glabrata@Seq_997	19_996	OG3537
+COMA complex	Candida_glabrata@Seq_1213	19_1212	OG6547
+COMA complex	Candida_glabrata@Seq_144	19_143	OG5551
+COP9 signalosome	Candida_glabrata@Seq_1060	19_1059	OG25438
+COP9 signalosome	Candida_glabrata@Seq_2705	19_2704	OG7596
+COP9 signalosome	Candida_glabrata@Seq_4267	19_4266	OG3426
+COP9 signalosome	Candida_glabrata@Seq_4486	19_4485	OG6716
+COP9 signalosome	Candida_glabrata@Seq_518	19_517	OG6760
+COP9 signalosome	Candida_glabrata@Seq_851	19_850	OG2570
+COPI vesicle coat	Candida_glabrata@Seq_1	19_0	OG3040
+COPI vesicle coat	Candida_glabrata@Seq_1341	19_1340	OG1846
+COPI vesicle coat	Candida_glabrata@Seq_2201	19_2200	OG1766
+COPI vesicle coat	Candida_glabrata@Seq_2820	19_2819	OG3035
+COPI vesicle coat	Candida_glabrata@Seq_4369	19_4368	OG1861
+COPI vesicle coat	Candida_glabrata@Seq_4713	19_4712	OG2128
+COPI vesicle coat	Candida_glabrata@Seq_4842	19_4841	OG6311
+COPII vesicle coat	Candida_glabrata@Seq_1798	19_1797	OG1075
+COPII vesicle coat	Candida_glabrata@Seq_2519	19_2518	OG1293
+COPII vesicle coat	Candida_glabrata@Seq_2897	19_2896	OG1293
+COPII vesicle coat	Candida_glabrata@Seq_3334	19_3333	OG1075
+COPII vesicle coat	Candida_glabrata@Seq_4565	19_4564	OG8782
+COPII vesicle coat	Candida_glabrata@Seq_4847	19_4846	OG1549
+COPII vesicle coat	Candida_glabrata@Seq_678	19_677	OG3646
+COPII vesicle coat	Candida_glabrata@Seq_875	19_874	OG1717
+COPII vesicle coat	Candida_glabrata@Seq_954	19_953	OG3118
+CORVET complex	Candida_glabrata@Seq_2029	19_2028	OG4557
+CORVET complex	Candida_glabrata@Seq_2324	19_2323	OG3672
+CORVET complex	Candida_glabrata@Seq_4888	19_4887	OG2415
+CORVET complex	Candida_glabrata@Seq_543	19_542	OG2803
+CST complex	Candida_glabrata@Seq_1535	19_1534	OG6792
+CST complex	Candida_glabrata@Seq_4871	19_4870	OG7328
+CTDK-1 complex	Candida_glabrata@Seq_112	19_111	OG6662
+CTDK-1 complex	Candida_glabrata@Seq_2296	19_2295	OG3468
+CTDK-1 complex	Candida_glabrata@Seq_3582	19_3581	OG3501
+CURI complex	Candida_glabrata@Seq_1111	19_1110	OG6580
+CURI complex	Candida_glabrata@Seq_1465	19_1464	OG3615
+CURI complex	Candida_glabrata@Seq_1793	19_1792	OG1712
+CURI complex	Candida_glabrata@Seq_3002	19_3001	OG2667
+Cbf1-Met4-Met28 complex	Candida_glabrata@Seq_2549	19_2548	OG6907
+Cbf1-Met4-Met28 complex	Candida_glabrata@Seq_4181	19_4180	OG2947
+Cbf1-Met4-Met28 complex	Candida_glabrata@Seq_432	19_431	OG6319
+Cbp3p-Cbp6 complex	Candida_glabrata@Seq_4908	19_4907	OG4457
+Cbp3p-Cbp6 complex	Candida_glabrata@Seq_766	19_765	OG2910
+Cdc24p-Far1p-Gbetagamma complex	Candida_glabrata@Seq_1192	19_1191	OG4289
+Cdc24p-Far1p-Gbetagamma complex	Candida_glabrata@Seq_1555	19_1554	OG4685
+Cdc24p-Far1p-Gbetagamma complex	Candida_glabrata@Seq_2437	19_2436	OG4651
+Cdc24p-Far1p-Gbetagamma complex	Candida_glabrata@Seq_4200	19_4199	OG2926
+Cdc42 GTPase complex	Candida_glabrata@Seq_152	19_151	OG3144
+Cdc42 GTPase complex	Candida_glabrata@Seq_4655	19_4654	OG1483
+Cdc42 GTPase complex	Candida_glabrata@Seq_558	19_557	OG1409
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Candida_glabrata@Seq_1821	19_1820	OG4176
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Candida_glabrata@Seq_2535	19_2534	OG1505
+Cdc50p-Drs2p complex	Candida_glabrata@Seq_3241	19_3240	OG1613
+Cdc50p-Drs2p complex	Candida_glabrata@Seq_4316	19_4315	OG1008
+Cdc73/Paf1 complex	Candida_glabrata@Seq_1396	19_1395	OG3086
+Cdc73/Paf1 complex	Candida_glabrata@Seq_1889	19_1888	OG3893
+Cdc73/Paf1 complex	Candida_glabrata@Seq_2752	19_2751	OG1803
+Cdc73/Paf1 complex	Candida_glabrata@Seq_3068	19_3067	OG2301
+Cdc73/Paf1 complex	Candida_glabrata@Seq_4052	19_4051	OG3293
+Cdc73/Paf1 complex	Candida_glabrata@Seq_4837	19_4836	OG6404
+Cdc73/Paf1 complex	Candida_glabrata@Seq_903	19_902	OG1903
+Clr6 histone deacetylase complex I''	Candida_glabrata@Seq_2983	19_2982	OG1453
+Clr6 histone deacetylase complex I''	Candida_glabrata@Seq_937	19_936	OG1363
+CoA-synthesizing protein complex	Candida_glabrata@Seq_1581	19_1580	OG2578
+CoA-synthesizing protein complex	Candida_glabrata@Seq_1915	19_1914	OG2084
+CoA-synthesizing protein complex	Candida_glabrata@Seq_2018	19_2017	OG2084
+CoA-synthesizing protein complex	Candida_glabrata@Seq_4783	19_4782	OG3025
+CoA-synthesizing protein complex	Candida_glabrata@Seq_5048	19_5047	OG3008
+Ctf18 RFC-like complex	Candida_glabrata@Seq_1113	19_1112	OG2839
+Ctf18 RFC-like complex	Candida_glabrata@Seq_1943	19_1942	OG2996
+Ctf18 RFC-like complex	Candida_glabrata@Seq_221	19_220	OG2883
+Ctf18 RFC-like complex	Candida_glabrata@Seq_4641	19_4640	OG4339
+Ctf18 RFC-like complex	Candida_glabrata@Seq_5013	19_5012	OG4443
+Ctf18 RFC-like complex	Candida_glabrata@Seq_732	19_731	OG2291
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_2246	19_2245	OG2523
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_249	19_248	OG3237
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_258	19_257	OG5736
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_3726	19_3725	OG1729
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_4566	19_4565	OG2623
+Cul3-RING ubiquitin ligase complex	Candida_glabrata@Seq_4899	19_4898	OG3051
+Cul8-RING ubiquitin ligase complex	Candida_glabrata@Seq_1312	19_1311	OG6915
+Cul8-RING ubiquitin ligase complex	Candida_glabrata@Seq_1615	19_1614	OG2612
+Cul8-RING ubiquitin ligase complex	Candida_glabrata@Seq_2940	19_2939	OG6544
+Cul8-RING ubiquitin ligase complex	Candida_glabrata@Seq_3005	19_3004	OG6320
+Cul8-RING ubiquitin ligase complex	Candida_glabrata@Seq_4899	19_4898	OG3051
+Cvt complex	Candida_glabrata@Seq_3262	19_3261	OG1297
+Cvt complex	Candida_glabrata@Seq_3938	19_3937	OG2851
+Cvt complex	Candida_glabrata@Seq_4804	19_4803	OG28708
+DASH complex	Candida_glabrata@Seq_1518	19_1517	OG6426
+DASH complex	Candida_glabrata@Seq_212	19_211	OG7430
+DASH complex	Candida_glabrata@Seq_2258	19_2257	OG7820
+DASH complex	Candida_glabrata@Seq_2399	19_2398	OG6944
+DASH complex	Candida_glabrata@Seq_264	19_263	OG2764
+DASH complex	Candida_glabrata@Seq_3637	19_3636	OG6761
+DASH complex	Candida_glabrata@Seq_4043	19_4042	OG4359
+DASH complex	Candida_glabrata@Seq_4131	19_4130	OG2806
+DASH complex	Candida_glabrata@Seq_4560	19_4559	OG4135
+DASH complex	Candida_glabrata@Seq_587	19_586	OG3434
+DNA helicase A complex	Candida_glabrata@Seq_5042	19_5041	OG2454
+DNA ligase IV complex	Candida_glabrata@Seq_4157	19_4156	OG6855
+DNA ligase IV complex	Candida_glabrata@Seq_4536	19_4535	OG17788
+DNA ligase IV complex	Candida_glabrata@Seq_5087	19_5086	OG2668
+DNA replication factor A complex	Candida_glabrata@Seq_13	19_12	OG6385
+DNA replication factor A complex	Candida_glabrata@Seq_2439	19_2438	OG2220
+DNA replication factor A complex	Candida_glabrata@Seq_4209	19_4208	OG4022
+DNA replication factor C complex	Candida_glabrata@Seq_1113	19_1112	OG2839
+DNA replication factor C complex	Candida_glabrata@Seq_184	19_183	OG1554
+DNA replication factor C complex	Candida_glabrata@Seq_1943	19_1942	OG2996
+DNA replication factor C complex	Candida_glabrata@Seq_732	19_731	OG2291
+DNA replication preinitiation complex	Candida_glabrata@Seq_1052	19_1051	OG6237
+DNA replication preinitiation complex	Candida_glabrata@Seq_1056	19_1055	OG7325
+DNA replication preinitiation complex	Candida_glabrata@Seq_113	19_112	OG3283
+DNA replication preinitiation complex	Candida_glabrata@Seq_132	19_131	OG1049
+DNA replication preinitiation complex	Candida_glabrata@Seq_1369	19_1368	OG1737
+DNA replication preinitiation complex	Candida_glabrata@Seq_1941	19_1940	OG3684
+DNA replication preinitiation complex	Candida_glabrata@Seq_2044	19_2043	OG2873
+DNA replication preinitiation complex	Candida_glabrata@Seq_2286	19_2285	OG3307
+DNA replication preinitiation complex	Candida_glabrata@Seq_2387	19_2386	OG1830
+DNA replication preinitiation complex	Candida_glabrata@Seq_2656	19_2655	OG4076
+DNA replication preinitiation complex	Candida_glabrata@Seq_2907	19_2906	OG1824
+DNA replication preinitiation complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+DNA replication preinitiation complex	Candida_glabrata@Seq_3997	19_3996	OG2001
+DNA replication preinitiation complex	Candida_glabrata@Seq_438	19_437	OG2439
+DNA replication preinitiation complex	Candida_glabrata@Seq_5096	19_5095	OG1973
+DNA replication preinitiation complex	Candida_glabrata@Seq_710	19_709	OG7125
+DNA replication preinitiation complex	Candida_glabrata@Seq_802	19_801	OG2191
+DNA replication preinitiation complex	Candida_glabrata@Seq_894	19_893	OG6533
+DNA replication preinitiation complex	Candida_glabrata@Seq_997	19_996	OG3537
+DPS complex	Candida_glabrata@Seq_3091	19_3090	OG1452
+DSIF complex	Candida_glabrata@Seq_2870	19_2869	OG4093
+DSIF complex	Candida_glabrata@Seq_3365	19_3364	OG2342
+DUBm complex	Candida_glabrata@Seq_2195	19_2194	OG4031
+DUBm complex	Candida_glabrata@Seq_2265	19_2264	OG1493
+DUBm complex	Candida_glabrata@Seq_687	19_686	OG7721
+DUBm complex	Candida_glabrata@Seq_936	19_935	OG3031
+Dbf4-dependent protein kinase complex	Candida_glabrata@Seq_1463	19_1462	OG1775
+Dbf4-dependent protein kinase complex	Candida_glabrata@Seq_2721	19_2720	OG3951
+Dcp1-Dcp2 complex	Candida_glabrata@Seq_1739	19_1738	OG1818
+Dcp1-Dcp2 complex	Candida_glabrata@Seq_3646	19_3645	OG3584
+Dcp1-Dcp2 complex	Candida_glabrata@Seq_4411	19_4410	OG23156
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_1529	19_1528	OG3875
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_1668	19_1667	OG2892
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_1821	19_1820	OG4176
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_2535	19_2534	OG1505
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_2817	19_2816	OG4249
+Doa10p ubiquitin ligase complex	Candida_glabrata@Seq_572	19_571	OG4246
+Dom34-Hbs1 complex	Candida_glabrata@Seq_3411	19_3410	OG11040
+Dom34-Hbs1 complex	Candida_glabrata@Seq_69	19_68	OG2417
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_1384	19_1383	OG7937
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_2023	19_2022	OG3532
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_2271	19_2270	OG6575
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_2623	19_2622	OG3064
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_4863	19_4862	OG2476
+Dsc E3 ubiquitin ligase complex	Candida_glabrata@Seq_956	19_955	OG4092
+Dsl1/NZR complex	Candida_glabrata@Seq_1333	19_1332	OG6376
+Dsl1/NZR complex	Candida_glabrata@Seq_248	19_247	OG6727
+Dsl1/NZR complex	Candida_glabrata@Seq_4015	19_4014	OG5724
+EGO complex	Candida_glabrata@Seq_1286	19_1285	OG2931
+EGO complex	Candida_glabrata@Seq_2261	19_2260	OG6958
+EGO complex	Candida_glabrata@Seq_2416	19_2415	OG7043
+EGO complex	Candida_glabrata@Seq_3765	19_3764	OG6952
+EGO complex	Candida_glabrata@Seq_468	19_467	OG2929
+EKC/KEOPS complex	Candida_glabrata@Seq_1631	19_1630	OG2669
+EKC/KEOPS complex	Candida_glabrata@Seq_1743	19_1742	OG3649
+EKC/KEOPS complex	Candida_glabrata@Seq_4227	19_4226	OG2613
+ER membrane protein complex	Candida_glabrata@Seq_1272	19_1271	OG3931
+ER membrane protein complex	Candida_glabrata@Seq_400	19_399	OG3249
+ER membrane protein complex	Candida_glabrata@Seq_4236	19_4235	OG2943
+ER membrane protein complex	Candida_glabrata@Seq_4458	19_4457	OG2344
+ER membrane protein complex	Candida_glabrata@Seq_4477	19_4476	OG3977
+ER membrane protein complex	Candida_glabrata@Seq_842	19_841	OG4746
+ERMES complex	Candida_glabrata@Seq_1152	19_1151	OG2368
+ERMES complex	Candida_glabrata@Seq_1959	19_1958	OG6189
+ERMES complex	Candida_glabrata@Seq_2136	19_2135	OG3314
+ERMES complex	Candida_glabrata@Seq_4943	19_4942	OG3220
+ERMES complex	Candida_glabrata@Seq_549	19_548	OG2158
+ESCRT I complex	Candida_glabrata@Seq_1415	19_1414	OG7725
+ESCRT I complex	Candida_glabrata@Seq_1797	19_1796	OG6427
+ESCRT I complex	Candida_glabrata@Seq_3085	19_3084	OG3628
+ESCRT I complex	Candida_glabrata@Seq_3543	19_3542	OG4985
+ESCRT II complex	Candida_glabrata@Seq_2412	19_2411	OG3324
+ESCRT II complex	Candida_glabrata@Seq_2422	19_2421	OG2800
+ESCRT II complex	Candida_glabrata@Seq_4692	19_4691	OG3705
+ESCRT III complex	Candida_glabrata@Seq_1395	19_1394	OG2203
+ESCRT III complex	Candida_glabrata@Seq_3573	19_3572	OG4072
+ESCRT-0 complex	Candida_glabrata@Seq_1065	19_1064	OG1894
+ESCRT-0 complex	Candida_glabrata@Seq_2314	19_2313	OG3181
+Elg1 RFC-like complex	Candida_glabrata@Seq_1113	19_1112	OG2839
+Elg1 RFC-like complex	Candida_glabrata@Seq_1943	19_1942	OG2996
+Elg1 RFC-like complex	Candida_glabrata@Seq_2789	19_2788	OG4958
+Elg1 RFC-like complex	Candida_glabrata@Seq_732	19_731	OG2291
+Elg1 RFC-like complex	Candida_glabrata@Seq_990	19_989	OG2330
+Elongator holoenzyme complex	Candida_glabrata@Seq_1551	19_1550	OG1723
+Elongator holoenzyme complex	Candida_glabrata@Seq_2216	19_2215	OG3591
+Elongator holoenzyme complex	Candida_glabrata@Seq_2431	19_2430	OG2251
+Elongator holoenzyme complex	Candida_glabrata@Seq_4434	19_4433	OG2632
+Elongator holoenzyme complex	Candida_glabrata@Seq_4874	19_4873	OG2414
+F-actin capping protein complex	Candida_glabrata@Seq_3133	19_3132	OG4064
+F-actin capping protein complex	Candida_glabrata@Seq_3165	19_3164	OG3889
+FACT complex	Candida_glabrata@Seq_4363	19_4362	OG2169
+FACT complex	Candida_glabrata@Seq_781	19_780	OG2063
+FAL1-SGD1 complex	Candida_glabrata@Seq_1337	19_1336	OG1641
+FAL1-SGD1 complex	Candida_glabrata@Seq_1732	19_1731	OG1009
+FANCM-MHF complex	Candida_glabrata@Seq_2857	19_2856	OG7747
+FANCM-MHF complex	Candida_glabrata@Seq_337	19_336	OG4681
+FAR/SIN/STRIPAK complex	Candida_glabrata@Seq_157	19_156	OG1535
+FAR/SIN/STRIPAK complex	Candida_glabrata@Seq_3348	19_3347	OG3348
+G-protein beta/gamma-subunit complex	Candida_glabrata@Seq_2437	19_2436	OG4651
+G-protein beta/gamma-subunit complex	Candida_glabrata@Seq_4200	19_4199	OG2926
+GARP complex	Candida_glabrata@Seq_3886	19_3885	OG3536
+GARP complex	Candida_glabrata@Seq_431	19_430	OG2122
+GARP complex	Candida_glabrata@Seq_574	19_573	OG1958
+GATOR1 complex	Candida_glabrata@Seq_2491	19_2490	OG3106
+GATOR1 complex	Candida_glabrata@Seq_3668	19_3667	OG1504
+GET complex	Candida_glabrata@Seq_1083	19_1082	OG3284
+GET complex	Candida_glabrata@Seq_485	19_484	OG6910
+GET complex	Candida_glabrata@Seq_486	19_485	OG2441
+GID complex	Candida_glabrata@Seq_197	19_196	OG4717
+GID complex	Candida_glabrata@Seq_3397	19_3396	OG4594
+GID complex	Candida_glabrata@Seq_3464	19_3463	OG3194
+GID complex	Candida_glabrata@Seq_444	19_443	OG4542
+GID complex	Candida_glabrata@Seq_4687	19_4686	OG6647
+GID complex	Candida_glabrata@Seq_5000	19_4999	OG2599
+GID complex	Candida_glabrata@Seq_5098	19_5097	OG6423
+GINS complex	Candida_glabrata@Seq_113	19_112	OG3283
+GINS complex	Candida_glabrata@Seq_2044	19_2043	OG2873
+GINS complex	Candida_glabrata@Seq_2286	19_2285	OG3307
+GINS complex	Candida_glabrata@Seq_997	19_996	OG3537
+GPI-anchor transamidase complex	Candida_glabrata@Seq_126	19_125	OG2254
+GPI-anchor transamidase complex	Candida_glabrata@Seq_2345	19_2344	OG3912
+GPI-anchor transamidase complex	Candida_glabrata@Seq_413	19_412	OG2568
+GPI-anchor transamidase complex	Candida_glabrata@Seq_4529	19_4528	OG2872
+GPI-anchor transamidase complex	Candida_glabrata@Seq_4669	19_4668	OG1948
+Golgi transport complex	Candida_glabrata@Seq_1595	19_1594	OG3765
+Golgi transport complex	Candida_glabrata@Seq_2072	19_2071	OG2492
+Golgi transport complex	Candida_glabrata@Seq_2933	19_2932	OG2517
+Golgi transport complex	Candida_glabrata@Seq_3498	19_3497	OG4480
+Golgi transport complex	Candida_glabrata@Seq_4235	19_4234	OG3868
+Golgi transport complex	Candida_glabrata@Seq_4780	19_4779	OG6492
+Golgi transport complex	Candida_glabrata@Seq_509	19_508	OG2115
+Golgi transport complex	Candida_glabrata@Seq_99	19_98	OG2659
+Gtr1-Gtr2 GTPase complex	Candida_glabrata@Seq_1286	19_1285	OG2931
+Gtr1-Gtr2 GTPase complex	Candida_glabrata@Seq_468	19_467	OG2929
+H4/H2A histone acetyltransferase complex	Candida_glabrata@Seq_2600	19_2599	OG2949
+H4/H2A histone acetyltransferase complex	Candida_glabrata@Seq_5044	19_5043	OG144628
+HDA1 complex	Candida_glabrata@Seq_2659	19_2658	OG3136
+HDA1 complex	Candida_glabrata@Seq_2976	19_2975	OG1736
+HDA1 complex	Candida_glabrata@Seq_419	19_418	OG6307
+HICS complex	Candida_glabrata@Seq_1878	19_1877	OG3763
+HICS complex	Candida_glabrata@Seq_4439	19_4438	OG7414
+HICS complex	Candida_glabrata@Seq_5108	19_5107	OG6463
+HICS complex	Candida_glabrata@Seq_849	19_848	OG3516
+HIR complex	Candida_glabrata@Seq_1724	19_1723	OG3972
+HIR complex	Candida_glabrata@Seq_2190	19_2189	OG22611
+HIR complex	Candida_glabrata@Seq_4984	19_4983	OG4087
+HIR complex	Candida_glabrata@Seq_5084	19_5083	OG3301
+HOPS complex	Candida_glabrata@Seq_1651	19_1650	OG6356
+HOPS complex	Candida_glabrata@Seq_2324	19_2323	OG3672
+HOPS complex	Candida_glabrata@Seq_4036	19_4035	OG1889
+HOPS complex	Candida_glabrata@Seq_4888	19_4887	OG2415
+HOPS complex	Candida_glabrata@Seq_543	19_542	OG2803
+HULC complex	Candida_glabrata@Seq_1870	19_1869	OG3182
+HULC complex	Candida_glabrata@Seq_3216	19_3215	OG3492
+Holliday junction resolvase complex	Candida_glabrata@Seq_3623	19_3622	OG6866
+Holliday junction resolvase complex	Candida_glabrata@Seq_4510	19_4509	OG3963
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_1529	19_1528	OG3875
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_1821	19_1820	OG4176
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_2156	19_2155	OG4734
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_2409	19_2408	OG6255
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_2535	19_2534	OG1505
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_2716	19_2715	OG5731
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_2817	19_2816	OG4249
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_3772	19_3771	OG2998
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_572	19_571	OG4246
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_glabrata@Seq_880	19_879	OG3550
+Hrd1p ubiquitin ligase ERAD-M complex	Candida_glabrata@Seq_3772	19_3771	OG2998
+Hrd1p ubiquitin ligase ERAD-M complex	Candida_glabrata@Seq_880	19_879	OG3550
+INA complex	Candida_glabrata@Seq_1041	19_1040	OG5595
+INA complex	Candida_glabrata@Seq_3207	19_3206	OG3555
+Ino80 complex	Candida_glabrata@Seq_1076	19_1075	OG182356
+Ino80 complex	Candida_glabrata@Seq_1077	19_1076	OG2366
+Ino80 complex	Candida_glabrata@Seq_1296	19_1295	OG1896
+Ino80 complex	Candida_glabrata@Seq_1524	19_1523	OG2549
+Ino80 complex	Candida_glabrata@Seq_1935	19_1934	OG2601
+Ino80 complex	Candida_glabrata@Seq_1993	19_1992	OG1721
+Ino80 complex	Candida_glabrata@Seq_2051	19_2050	OG7761
+Ino80 complex	Candida_glabrata@Seq_2600	19_2599	OG2949
+Ino80 complex	Candida_glabrata@Seq_3349	19_3348	OG3887
+Ino80 complex	Candida_glabrata@Seq_3475	19_3474	OG3768
+Ino80 complex	Candida_glabrata@Seq_3645	19_3644	OG4208
+Ino80 complex	Candida_glabrata@Seq_3891	19_3890	OG6712
+Ino80 complex	Candida_glabrata@Seq_4330	19_4329	OG1464
+Ino80 complex	Candida_glabrata@Seq_4490	19_4489	OG2118
+Ino80 complex	Candida_glabrata@Seq_869	19_868	OG6830
+Isw1a complex	Candida_glabrata@Seq_2443	19_2442	OG1038
+Isw1a complex	Candida_glabrata@Seq_3697	19_3696	OG6390
+Isw1b complex	Candida_glabrata@Seq_1573	19_1572	OG6372
+Isw1b complex	Candida_glabrata@Seq_2443	19_2442	OG1038
+Isw1b complex	Candida_glabrata@Seq_2835	19_2834	OG6493
+Kelch-containing formin regulatory complex	Candida_glabrata@Seq_1949	19_1948	OG28197
+Kelch-containing formin regulatory complex	Candida_glabrata@Seq_2572	19_2571	OG2047
+Kelch-containing formin regulatory complex	Candida_glabrata@Seq_465	19_464	OG6624
+Ku70:Ku80 complex	Candida_glabrata@Seq_3685	19_3684	OG3527
+Ku70:Ku80 complex	Candida_glabrata@Seq_5104	19_5103	OG2349
+L-cysteine desulfurase complex	Candida_glabrata@Seq_4377	19_4376	OG2596
+Las1 complex	Candida_glabrata@Seq_2303	19_2302	OG6297
+Lid2 complex	Candida_glabrata@Seq_4545	19_4544	OG2555
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_1404	19_1403	OG3758
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_2013	19_2012	OG2153
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_289	19_288	OG2918
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_3219	19_3218	OG3888
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_3769	19_3768	OG3632
+Lsm1-7-Pat1 complex	Candida_glabrata@Seq_4789	19_4788	OG4096
+Lst4-Lst7 complex	Candida_glabrata@Seq_326	19_325	OG3915
+Lst4-Lst7 complex	Candida_glabrata@Seq_793	19_792	OG6706
+MBF transcription complex	Candida_glabrata@Seq_1168	19_1167	OG6767
+MBF transcription complex	Candida_glabrata@Seq_1241	19_1240	OG2185
+MBF transcription complex	Candida_glabrata@Seq_3815	19_3814	OG2991
+MBF transcription complex	Candida_glabrata@Seq_4291	19_4290	OG7326
+MCM complex	Candida_glabrata@Seq_1190	19_1189	OG2003
+MCM complex	Candida_glabrata@Seq_132	19_131	OG1049
+MCM complex	Candida_glabrata@Seq_2333	19_2332	OG1893
+MCM complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+MCM complex	Candida_glabrata@Seq_3997	19_3996	OG2001
+MCM complex	Candida_glabrata@Seq_802	19_801	OG2191
+MCM core complex	Candida_glabrata@Seq_1190	19_1189	OG2003
+MCM core complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+MCM core complex	Candida_glabrata@Seq_802	19_801	OG2191
+MICOS complex	Candida_glabrata@Seq_1009	19_1008	OG3620
+MICOS complex	Candida_glabrata@Seq_1939	19_1938	OG3005
+MICOS complex	Candida_glabrata@Seq_322	19_321	OG7822
+MICOS complex	Candida_glabrata@Seq_4290	19_4289	OG2796
+MICOS complex	Candida_glabrata@Seq_5026	19_5025	OG8061
+MIH complex	Candida_glabrata@Seq_2868	19_2867	OG2426
+MIH complex	Candida_glabrata@Seq_5108	19_5107	OG6463
+MIH complex	Candida_glabrata@Seq_897	19_896	OG2345
+MIS12/MIND type complex	Candida_glabrata@Seq_4428	19_4427	OG6386
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_glabrata@Seq_2152	19_2151	OG2911
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_glabrata@Seq_3216	19_3215	OG3492
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_glabrata@Seq_372	19_371	OG1649
+Mcs4 RR-MAPKKK complex	Candida_glabrata@Seq_1004	19_1003	OG1145
+Mcs4 RR-MAPKKK complex	Candida_glabrata@Seq_940	19_939	OG1373
+Mei2 nuclear dot complex	Candida_glabrata@Seq_2422	19_2421	OG2800
+Mis6-Sim4 complex	Candida_glabrata@Seq_4889	19_4888	OG3290
+Mon1-Ccz1 complex	Candida_glabrata@Seq_3701	19_3700	OG4015
+Mon1-Ccz1 complex	Candida_glabrata@Seq_4705	19_4704	OG6166
+Mpp10 complex	Candida_glabrata@Seq_3430	19_3429	OG2583
+Mpp10 complex	Candida_glabrata@Seq_3709	19_3708	OG3824
+Mpp10 complex	Candida_glabrata@Seq_3996	19_3995	OG1757
+Mre11 complex	Candida_glabrata@Seq_1506	19_1505	OG2164
+Mre11 complex	Candida_glabrata@Seq_2304	19_2303	OG7421
+Mre11 complex	Candida_glabrata@Seq_4951	19_4950	OG1700
+Mre11 complex	Candida_glabrata@Seq_575	19_574	OG6431
+MutLalpha complex	Candida_glabrata@Seq_156	19_155	OG1991
+MutLalpha complex	Candida_glabrata@Seq_1926	19_1925	OG2832
+MutLbeta complex	Candida_glabrata@Seq_156	19_155	OG1991
+MutLbeta complex	Candida_glabrata@Seq_5061	19_5060	OG5281
+MutLgamma complex	Candida_glabrata@Seq_156	19_155	OG1991
+MutLgamma complex	Candida_glabrata@Seq_4365	19_4364	OG4446
+MutSalpha complex	Candida_glabrata@Seq_1652	19_1651	OG2337
+MutSalpha complex	Candida_glabrata@Seq_4932	19_4931	OG1606
+MutSbeta complex	Candida_glabrata@Seq_4932	19_4931	OG1606
+MutSbeta complex	Candida_glabrata@Seq_862	19_861	OG1940
+MutSgamma complex	Candida_glabrata@Seq_1667	19_1666	OG5355
+MutSgamma complex	Candida_glabrata@Seq_3525	19_3524	OG5315
+Myo2p-Vac17p-Vac8p transport complex	Candida_glabrata@Seq_4749	19_4748	OG1739
+Myo2p-Vac17p-Vac8p transport complex	Candida_glabrata@Seq_758	19_757	OG6672
+Myo2p-Vac17p-Vac8p transport complex	Candida_glabrata@Seq_850	19_849	OG1238
+NLS-dependent protein nuclear import complex	Candida_glabrata@Seq_1276	19_1275	OG1484
+NLS-dependent protein nuclear import complex	Candida_glabrata@Seq_1829	19_1828	OG1797
+NMS complex	Candida_glabrata@Seq_2098	19_2097	OG2563
+NMS complex	Candida_glabrata@Seq_4848	19_4847	OG4654
+NVT complex	Candida_glabrata@Seq_1135	19_1134	OG1469
+NVT complex	Candida_glabrata@Seq_288	19_287	OG1041
+NatA complex	Candida_glabrata@Seq_1279	19_1278	OG3793
+NatA complex	Candida_glabrata@Seq_3926	19_3925	OG1823
+NatB complex	Candida_glabrata@Seq_3572	19_3571	OG1970
+NatC complex	Candida_glabrata@Seq_4140	19_4139	OG7876
+NatC complex	Candida_glabrata@Seq_4460	19_4459	OG2456
+Nbp35-Cfd1 ATPase complex	Candida_glabrata@Seq_3717	19_3716	OG2019
+Nbp35-Cfd1 ATPase complex	Candida_glabrata@Seq_5119	19_5118	OG1839
+Ndc80 complex	Candida_glabrata@Seq_1043	19_1042	OG3885
+Ndc80 complex	Candida_glabrata@Seq_2098	19_2097	OG2563
+Ndc80 complex	Candida_glabrata@Seq_3429	19_3428	OG6942
+Ndc80 complex	Candida_glabrata@Seq_4929	19_4928	OG3834
+Nem1-Spo7 phosphatase complex	Candida_glabrata@Seq_2684	19_2683	OG3769
+Nem1-Spo7 phosphatase complex	Candida_glabrata@Seq_4151	19_4150	OG2824
+Noc1p-Noc2p complex	Candida_glabrata@Seq_1708	19_1707	OG2060
+Noc2p-Noc3p complex	Candida_glabrata@Seq_1708	19_1707	OG2060
+Noc2p-Noc3p complex	Candida_glabrata@Seq_68	19_67	OG1809
+Nrd1 complex	Candida_glabrata@Seq_2024	19_2023	OG2744
+Nrd1 complex	Candida_glabrata@Seq_737	19_736	OG1347
+NuA3 histone acetyltransferase complex	Candida_glabrata@Seq_103	19_102	OG5479
+NuA3 histone acetyltransferase complex	Candida_glabrata@Seq_1496	19_1495	OG4601
+NuA3 histone acetyltransferase complex	Candida_glabrata@Seq_3180	19_3179	OG3444
+NuA3 histone acetyltransferase complex	Candida_glabrata@Seq_3443	19_3442	OG2855
+NuA3 histone acetyltransferase complex	Candida_glabrata@Seq_493	19_492	OG3903
+NuA3a histone acetyltransferase complex	Candida_glabrata@Seq_1496	19_1495	OG4601
+NuA3a histone acetyltransferase complex	Candida_glabrata@Seq_3180	19_3179	OG3444
+NuA3a histone acetyltransferase complex	Candida_glabrata@Seq_3443	19_3442	OG2855
+NuA3a histone acetyltransferase complex	Candida_glabrata@Seq_493	19_492	OG3903
+NuA3b histone acetyltransferase complex	Candida_glabrata@Seq_103	19_102	OG5479
+NuA3b histone acetyltransferase complex	Candida_glabrata@Seq_3180	19_3179	OG3444
+NuA3b histone acetyltransferase complex	Candida_glabrata@Seq_3443	19_3442	OG2855
+NuA3b histone acetyltransferase complex	Candida_glabrata@Seq_493	19_492	OG3903
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_1296	19_1295	OG1896
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_2337	19_2336	OG1427
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_2600	19_2599	OG2949
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_2993	19_2992	OG3983
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_3782	19_3781	OG2653
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4003	19_4002	OG2180
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4621	19_4620	OG3717
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4671	19_4670	OG6541
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4787	19_4786	OG3071
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4905	19_4904	OG2141
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_493	19_492	OG3903
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_5044	19_5043	OG144628
+NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_945	19_944	OG1191
+P-TEFb complex	Candida_glabrata@Seq_1245	19_1244	OG3344
+P-TEFb complex	Candida_glabrata@Seq_3290	19_3289	OG3277
+P-TEFb-cap methyltransferase complex	Candida_glabrata@Seq_3290	19_3289	OG3277
+P-TEFb-cap methyltransferase complex	Candida_glabrata@Seq_3326	19_3325	OG2292
+PAM complex, Tim23 associated import motor	Candida_glabrata@Seq_2631	19_2630	OG2440
+PAM complex, Tim23 associated import motor	Candida_glabrata@Seq_4698	19_4697	OG3126
+PAM complex, Tim23 associated import motor	Candida_glabrata@Seq_4816	19_4815	OG3131
+PAM complex, Tim23 associated import motor	Candida_glabrata@Seq_4850	19_4849	OG1002
+PAM complex, Tim23 associated import motor	Candida_glabrata@Seq_731	19_730	OG2858
+PAN complex	Candida_glabrata@Seq_3193	19_3192	OG2055
+PAN complex	Candida_glabrata@Seq_557	19_556	OG1816
+PAS complex	Candida_glabrata@Seq_1622	19_1621	OG2957
+PAS complex	Candida_glabrata@Seq_3048	19_3047	OG1495
+PAS complex	Candida_glabrata@Seq_4294	19_4293	OG2213
+PAS complex	Candida_glabrata@Seq_856	19_855	OG5089
+PCNA complex	Candida_glabrata@Seq_3980	19_3979	OG2159
+PTW/PP1 phosphatase complex	Candida_glabrata@Seq_3091	19_3090	OG1452
+PTW/PP1 phosphatase complex	Candida_glabrata@Seq_4708	19_4707	OG3661
+PeBoW complex	Candida_glabrata@Seq_1945	19_1944	OG2193
+PeBoW complex	Candida_glabrata@Seq_259	19_258	OG1722
+Pex17p-Pex14p docking complex	Candida_glabrata@Seq_2864	19_2863	OG3547
+Pex17p-Pex14p docking complex	Candida_glabrata@Seq_3330	19_3329	OG2756
+Pex17p-Pex14p docking complex	Candida_glabrata@Seq_3959	19_3958	OG6724
+Pex17p-Pex14p docking complex	Candida_glabrata@Seq_488	19_487	OG3607
+Pho85-Pho80 CDK-cyclin complex	Candida_glabrata@Seq_4221	19_4220	OG3226
+Pho85-Pho80 CDK-cyclin complex	Candida_glabrata@Seq_4739	19_4738	OG3452
+Piccolo NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_2993	19_2992	OG3983
+Piccolo NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4003	19_4002	OG2180
+Piccolo NuA4 histone acetyltransferase complex	Candida_glabrata@Seq_4905	19_4904	OG2141
+Pip2-Oaf1 complex	Candida_glabrata@Seq_3024	19_3023	OG5740
+Pip2-Oaf1 complex	Candida_glabrata@Seq_3669	19_3668	OG5740
+Prp19 complex	Candida_glabrata@Seq_1572	19_1571	OG2650
+Prp19 complex	Candida_glabrata@Seq_226	19_225	OG3004
+Prp19 complex	Candida_glabrata@Seq_2841	19_2840	OG3741
+Prp19 complex	Candida_glabrata@Seq_3347	19_3346	OG4990
+Prp19 complex	Candida_glabrata@Seq_338	19_337	OG2773
+Prp19 complex	Candida_glabrata@Seq_3682	19_3681	OG1790
+Prp19 complex	Candida_glabrata@Seq_3777	19_3776	OG2708
+Prp19 complex	Candida_glabrata@Seq_395	19_394	OG143223
+Prp19 complex	Candida_glabrata@Seq_4286	19_4285	OG3223
+Prp19 complex	Candida_glabrata@Seq_494	19_493	OG6441
+Prp19 complex	Candida_glabrata@Seq_4964	19_4963	OG3916
+Prp19 complex	Candida_glabrata@Seq_638	19_637	OG3229
+Prp19 complex	Candida_glabrata@Seq_77	19_76	OG7329
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_1163	19_1162	OG2553
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_1876	19_1875	OG2027
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_3805	19_3804	OG1961
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_3913	19_3912	OG2750
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_50	19_49	OG2036
+Pwp2p-containing subcomplex of 90S preribosome	Candida_glabrata@Seq_590	19_589	OG1868
+R2TP complex	Candida_glabrata@Seq_1993	19_1992	OG1721
+R2TP complex	Candida_glabrata@Seq_242	19_241	OG4467
+R2TP complex	Candida_glabrata@Seq_3235	19_3234	OG7269
+R2TP complex	Candida_glabrata@Seq_4490	19_4489	OG2118
+RAVE complex	Candida_glabrata@Seq_2921	19_2920	OG2575
+RAVE complex	Candida_glabrata@Seq_4237	19_4236	OG2287
+RAVE complex	Candida_glabrata@Seq_613	19_612	OG4414
+RENT complex	Candida_glabrata@Seq_1248	19_1247	OG1414
+RENT complex	Candida_glabrata@Seq_41	19_40	OG7385
+RENT complex	Candida_glabrata@Seq_4723	19_4722	OG1690
+RES complex	Candida_glabrata@Seq_4552	19_4551	OG4792
+RES complex	Candida_glabrata@Seq_4878	19_4877	OG3465
+RES complex	Candida_glabrata@Seq_548	19_547	OG3264
+RIC1-RGP1 guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_1067	19_1066	OG4737
+RIC1-RGP1 guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_4293	19_4292	OG1254
+RNA N6-methyladenosine methyltransferase complex	Candida_glabrata@Seq_4087	19_4086	OG3722
+RNA N6-methyladenosine methyltransferase complex	Candida_glabrata@Seq_4986	19_4985	OG4854
+RNA polymerase I complex	Candida_glabrata@Seq_1307	19_1306	OG4213
+RNA polymerase I complex	Candida_glabrata@Seq_1319	19_1318	OG3400
+RNA polymerase I complex	Candida_glabrata@Seq_1416	19_1415	OG2273
+RNA polymerase I complex	Candida_glabrata@Seq_1691	19_1690	OG2030
+RNA polymerase I complex	Candida_glabrata@Seq_1830	19_1829	OG1568
+RNA polymerase I complex	Candida_glabrata@Seq_2390	19_2389	OG3189
+RNA polymerase I complex	Candida_glabrata@Seq_3	19_2	OG3302
+RNA polymerase I complex	Candida_glabrata@Seq_3488	19_3487	OG3160
+RNA polymerase I complex	Candida_glabrata@Seq_3632	19_3631	OG2828
+RNA polymerase I complex	Candida_glabrata@Seq_3975	19_3974	OG28683
+RNA polymerase I complex	Candida_glabrata@Seq_4264	19_4263	OG2847
+RNA polymerase I complex	Candida_glabrata@Seq_4518	19_4517	OG3002
+RNA polymerase I complex	Candida_glabrata@Seq_4550	19_4549	OG2018
+RNA polymerase I complex	Candida_glabrata@Seq_830	19_829	OG2731
+RNA polymerase I core factor complex	Candida_glabrata@Seq_3835	19_3834	OG3349
+RNA polymerase I core factor complex	Candida_glabrata@Seq_4885	19_4884	OG4241
+RNA polymerase I transcription factor complex	Candida_glabrata@Seq_3254	19_3253	OG1941
+RNA polymerase I upstream activating factor complex	Candida_glabrata@Seq_1206	19_1205	OG6773
+RNA polymerase I upstream activating factor complex	Candida_glabrata@Seq_2397	19_2396	OG21864
+RNA polymerase I upstream activating factor complex	Candida_glabrata@Seq_4194	19_4193	OG6437
+RNA polymerase II transcription factor complex	Candida_glabrata@Seq_2264	19_2263	OG2423
+RNA polymerase II transcription factor complex	Candida_glabrata@Seq_3381	19_3380	OG6895
+RNA polymerase II transcription factor complex	Candida_glabrata@Seq_3431	19_3430	OG3671
+RNA polymerase II transcription factor complex	Candida_glabrata@Seq_4801	19_4800	OG1934
+RNA polymerase II, core complex	Candida_glabrata@Seq_1416	19_1415	OG2273
+RNA polymerase II, core complex	Candida_glabrata@Seq_2365	19_2364	OG1720
+RNA polymerase II, core complex	Candida_glabrata@Seq_2680	19_2679	OG3080
+RNA polymerase II, core complex	Candida_glabrata@Seq_2741	19_2740	OG3317
+RNA polymerase II, core complex	Candida_glabrata@Seq_2951	19_2950	OG2299
+RNA polymerase II, core complex	Candida_glabrata@Seq_3	19_2	OG3302
+RNA polymerase II, core complex	Candida_glabrata@Seq_3632	19_3631	OG2828
+RNA polymerase II, core complex	Candida_glabrata@Seq_4318	19_4317	OG2391
+RNA polymerase II, core complex	Candida_glabrata@Seq_4518	19_4517	OG3002
+RNA polymerase II, core complex	Candida_glabrata@Seq_4828	19_4827	OG1028
+RNA polymerase II, core complex	Candida_glabrata@Seq_505	19_504	OG1033
+RNA polymerase II, core complex	Candida_glabrata@Seq_830	19_829	OG2731
+RNA polymerase III complex	Candida_glabrata@Seq_1142	19_1141	OG2029
+RNA polymerase III complex	Candida_glabrata@Seq_1319	19_1318	OG3400
+RNA polymerase III complex	Candida_glabrata@Seq_1396	19_1395	OG3086
+RNA polymerase III complex	Candida_glabrata@Seq_1416	19_1415	OG2273
+RNA polymerase III complex	Candida_glabrata@Seq_1453	19_1452	OG1033
+RNA polymerase III complex	Candida_glabrata@Seq_1552	19_1551	OG3417
+RNA polymerase III complex	Candida_glabrata@Seq_186	19_185	OG3192
+RNA polymerase III complex	Candida_glabrata@Seq_1938	19_1937	OG1028
+RNA polymerase III complex	Candida_glabrata@Seq_2711	19_2710	OG3190
+RNA polymerase III complex	Candida_glabrata@Seq_3	19_2	OG3302
+RNA polymerase III complex	Candida_glabrata@Seq_3372	19_3371	OG3142
+RNA polymerase III complex	Candida_glabrata@Seq_3632	19_3631	OG2828
+RNA polymerase III complex	Candida_glabrata@Seq_3822	19_3821	OG4203
+RNA polymerase III complex	Candida_glabrata@Seq_4264	19_4263	OG2847
+RNA polymerase III complex	Candida_glabrata@Seq_4518	19_4517	OG3002
+RNA polymerase III complex	Candida_glabrata@Seq_830	19_829	OG2731
+RNA polymerase complex	Candida_glabrata@Seq_1416	19_1415	OG2273
+RNA polymerase complex	Candida_glabrata@Seq_1552	19_1551	OG3417
+RNA polymerase complex	Candida_glabrata@Seq_2680	19_2679	OG3080
+RQC complex	Candida_glabrata@Seq_1426	19_1425	OG1884
+RQC complex	Candida_glabrata@Seq_1821	19_1820	OG4176
+RQC complex	Candida_glabrata@Seq_2535	19_2534	OG1505
+RQC complex	Candida_glabrata@Seq_3489	19_3488	OG2255
+RQC complex	Candida_glabrata@Seq_3532	19_3531	OG3371
+RSC-type complex	Candida_glabrata@Seq_1164	19_1163	OG1415
+RSC-type complex	Candida_glabrata@Seq_1271	19_1270	OG3693
+RSC-type complex	Candida_glabrata@Seq_1419	19_1418	OG4121
+RSC-type complex	Candida_glabrata@Seq_1727	19_1726	OG27264
+RSC-type complex	Candida_glabrata@Seq_1752	19_1751	OG1718
+RSC-type complex	Candida_glabrata@Seq_1854	19_1853	OG1051
+RSC-type complex	Candida_glabrata@Seq_1856	19_1855	OG1718
+RSC-type complex	Candida_glabrata@Seq_2124	19_2123	OG6997
+RSC-type complex	Candida_glabrata@Seq_2493	19_2492	OG3922
+RSC-type complex	Candida_glabrata@Seq_260	19_259	OG6184
+RSC-type complex	Candida_glabrata@Seq_3155	19_3154	OG3708
+RSC-type complex	Candida_glabrata@Seq_3627	19_3626	OG26482
+RSC-type complex	Candida_glabrata@Seq_3657	19_3656	OG7002
+RSC-type complex	Candida_glabrata@Seq_3675	19_3674	OG4684
+RSC-type complex	Candida_glabrata@Seq_4942	19_4941	OG3955
+RSC-type complex	Candida_glabrata@Seq_616	19_615	OG2710
+RSC-type complex	Candida_glabrata@Seq_989	19_988	OG1415
+Rab-protein geranylgeranyltransferase complex	Candida_glabrata@Seq_2005	19_2004	OG3510
+Rab-protein geranylgeranyltransferase complex	Candida_glabrata@Seq_3037	19_3036	OG2777
+Rab-protein geranylgeranyltransferase complex	Candida_glabrata@Seq_879	19_878	OG1864
+Rad17 RFC-like complex	Candida_glabrata@Seq_1113	19_1112	OG2839
+Rad17 RFC-like complex	Candida_glabrata@Seq_1285	19_1284	OG4177
+Rad17 RFC-like complex	Candida_glabrata@Seq_1943	19_1942	OG2996
+Rad17 RFC-like complex	Candida_glabrata@Seq_732	19_731	OG2291
+Rad6-Rad18 complex	Candida_glabrata@Seq_3216	19_3215	OG3492
+Rad6-Rad18 complex	Candida_glabrata@Seq_3564	19_3563	OG3437
+RecQ family helicase-topoisomerase III complex	Candida_glabrata@Seq_2117	19_2116	OG5973
+RecQ family helicase-topoisomerase III complex	Candida_glabrata@Seq_2972	19_2971	OG1396
+RecQ family helicase-topoisomerase III complex	Candida_glabrata@Seq_4232	19_4231	OG1801
+Rhp55-Rhp57 complex	Candida_glabrata@Seq_1092	19_1091	OG4095
+Rhp55-Rhp57 complex	Candida_glabrata@Seq_4914	19_4913	OG6726
+Rix1 complex	Candida_glabrata@Seq_2173	19_2172	OG2135
+Rix1 complex	Candida_glabrata@Seq_3696	19_3695	OG4276
+Rix1 complex	Candida_glabrata@Seq_5110	19_5109	OG2351
+Rpd3L complex	Candida_glabrata@Seq_1273	19_1272	OG6424
+Rpd3L complex	Candida_glabrata@Seq_2482	19_2481	OG3697
+Rpd3L complex	Candida_glabrata@Seq_2717	19_2716	OG2296
+Rpd3L complex	Candida_glabrata@Seq_2817	19_2816	OG4249
+Rpd3L complex	Candida_glabrata@Seq_2983	19_2982	OG1453
+Rpd3L complex	Candida_glabrata@Seq_3866	19_3865	OG5504
+Rpd3L complex	Candida_glabrata@Seq_45	19_44	OG24090
+Rpd3L complex	Candida_glabrata@Seq_852	19_851	OG4857
+Rpd3L complex	Candida_glabrata@Seq_937	19_936	OG1363
+Rpd3L-Expanded complex	Candida_glabrata@Seq_1335	19_1334	OG2000
+Rpd3L-Expanded complex	Candida_glabrata@Seq_937	19_936	OG1363
+Rpd3S complex	Candida_glabrata@Seq_1125	19_1124	OG2728
+Rpd3S complex	Candida_glabrata@Seq_2983	19_2982	OG1453
+Rpd3S complex	Candida_glabrata@Seq_3866	19_3865	OG5504
+Rpd3S complex	Candida_glabrata@Seq_937	19_936	OG1363
+Rpd3S complex	Candida_glabrata@Seq_945	19_944	OG1191
+Rvs161p-Rvs167p complex	Candida_glabrata@Seq_2331	19_2330	OG1866
+Rvs161p-Rvs167p complex	Candida_glabrata@Seq_3247	19_3246	OG2754
+SAGA complex	Candida_glabrata@Seq_1645	19_1644	OG5065
+SAGA complex	Candida_glabrata@Seq_175	19_174	OG2371
+SAGA complex	Candida_glabrata@Seq_2138	19_2137	OG3068
+SAGA complex	Candida_glabrata@Seq_2195	19_2194	OG4031
+SAGA complex	Candida_glabrata@Seq_2265	19_2264	OG1493
+SAGA complex	Candida_glabrata@Seq_2337	19_2336	OG1427
+SAGA complex	Candida_glabrata@Seq_2967	19_2966	OG2792
+SAGA complex	Candida_glabrata@Seq_3260	19_3259	OG2418
+SAGA complex	Candida_glabrata@Seq_3653	19_3652	OG1703
+SAGA complex	Candida_glabrata@Seq_3902	19_3901	OG2280
+SAGA complex	Candida_glabrata@Seq_4193	19_4192	OG3528
+SAGA complex	Candida_glabrata@Seq_4798	19_4797	OG3289
+SAGA complex	Candida_glabrata@Seq_5067	19_5066	OG2545
+SAGA complex	Candida_glabrata@Seq_512	19_511	OG1099
+SAGA complex	Candida_glabrata@Seq_552	19_551	OG2165
+SAGA complex	Candida_glabrata@Seq_642	19_641	OG1560
+SAGA complex	Candida_glabrata@Seq_687	19_686	OG7721
+SAGA complex	Candida_glabrata@Seq_936	19_935	OG3031
+SAGA-type complex	Candida_glabrata@Seq_4193	19_4192	OG3528
+SAM complex	Candida_glabrata@Seq_1152	19_1151	OG2368
+SAM complex	Candida_glabrata@Seq_1794	19_1793	OG3173
+SAM complex	Candida_glabrata@Seq_2570	19_2569	OG2043
+SAM complex	Candida_glabrata@Seq_4206	19_4205	OG4839
+SAS acetyltransferase complex	Candida_glabrata@Seq_1443	19_1442	OG9259
+SAS acetyltransferase complex	Candida_glabrata@Seq_1625	19_1624	OG6387
+SAS acetyltransferase complex	Candida_glabrata@Seq_1757	19_1756	OG3504
+SBF transcription complex	Candida_glabrata@Seq_1168	19_1167	OG6767
+SBF transcription complex	Candida_glabrata@Seq_1241	19_1240	OG2185
+SBF transcription complex	Candida_glabrata@Seq_3446	19_3445	OG6812
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_100	19_99	OG4657
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1146	19_1145	OG6860
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1545	19_1544	OG5794
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1635	19_1634	OG3206
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1703	19_1702	OG26460
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1731	19_1730	OG1339
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_1796	19_1795	OG1489
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_2403	19_2402	OG4464
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_2921	19_2920	OG2575
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_294	19_293	OG3595
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_3151	19_3150	OG5528
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_3721	19_3720	OG2479
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_3767	19_3766	OG1648
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_4002	19_4001	OG1763
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_4134	19_4133	OG6413
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_4675	19_4674	OG3368
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_4899	19_4898	OG3051
+SCF ubiquitin ligase complex	Candida_glabrata@Seq_721	19_720	OG3587
+SHREC complex	Candida_glabrata@Seq_2976	19_2975	OG1736
+SHREC2 complex	Candida_glabrata@Seq_2976	19_2975	OG1736
+SLAC complex	Candida_glabrata@Seq_277	19_276	OG1627
+SLAC complex	Candida_glabrata@Seq_430	19_429	OG2177
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_1645	19_1644	OG5065
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_2138	19_2137	OG3068
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_2265	19_2264	OG1493
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_2337	19_2336	OG1427
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_2967	19_2966	OG2792
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_3260	19_3259	OG2418
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_3653	19_3652	OG1703
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_3902	19_3901	OG2280
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_4193	19_4192	OG3528
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_4798	19_4797	OG3289
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_5067	19_5066	OG2545
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_512	19_511	OG1099
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_552	19_551	OG2165
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_642	19_641	OG1560
+SLIK (SAGA-like) complex	Candida_glabrata@Seq_936	19_935	OG3031
+SMC loading complex	Candida_glabrata@Seq_2473	19_2472	OG2802
+SMC loading complex	Candida_glabrata@Seq_4228	19_4227	OG6352
+SNARE complex	Candida_glabrata@Seq_1001	19_1000	OG2040
+SNARE complex	Candida_glabrata@Seq_1330	19_1329	OG2995
+SNARE complex	Candida_glabrata@Seq_1469	19_1468	OG2700
+SNARE complex	Candida_glabrata@Seq_1539	19_1538	OG28634
+SNARE complex	Candida_glabrata@Seq_1564	19_1563	OG3461
+SNARE complex	Candida_glabrata@Seq_1602	19_1601	OG4194
+SNARE complex	Candida_glabrata@Seq_1772	19_1771	OG2767
+SNARE complex	Candida_glabrata@Seq_2220	19_2219	OG4038
+SNARE complex	Candida_glabrata@Seq_2272	19_2271	OG2474
+SNARE complex	Candida_glabrata@Seq_2327	19_2326	OG5618
+SNARE complex	Candida_glabrata@Seq_2592	19_2591	OG1413
+SNARE complex	Candida_glabrata@Seq_3096	19_3095	OG4104
+SNARE complex	Candida_glabrata@Seq_311	19_310	OG3761
+SNARE complex	Candida_glabrata@Seq_3255	19_3254	OG2334
+SNARE complex	Candida_glabrata@Seq_3591	19_3590	OG1699
+SNARE complex	Candida_glabrata@Seq_3604	19_3603	OG5614
+SNARE complex	Candida_glabrata@Seq_4039	19_4038	OG2799
+SNARE complex	Candida_glabrata@Seq_4081	19_4080	OG3849
+SNARE complex	Candida_glabrata@Seq_4584	19_4583	OG4454
+SNARE complex	Candida_glabrata@Seq_469	19_468	OG6861
+SNARE complex	Candida_glabrata@Seq_4752	19_4751	OG3087
+SPOTS complex	Candida_glabrata@Seq_2214	19_2213	OG1743
+SPOTS complex	Candida_glabrata@Seq_2238	19_2237	OG28650
+SPOTS complex	Candida_glabrata@Seq_2697	19_2696	OG6371
+SPOTS complex	Candida_glabrata@Seq_4416	19_4415	OG1683
+SPOTS complex	Candida_glabrata@Seq_665	19_664	OG3178
+SUMO activating enzyme complex	Candida_glabrata@Seq_3028	19_3027	OG3105
+SUMO activating enzyme complex	Candida_glabrata@Seq_4013	19_4012	OG1713
+SUMO-targeted ubiquitin ligase complex	Candida_glabrata@Seq_4006	19_4005	OG6565
+SUMO-targeted ubiquitin ligase complex	Candida_glabrata@Seq_4468	19_4467	OG4606
+SWI/SNF complex	Candida_glabrata@Seq_1160	19_1159	OG3052
+SWI/SNF complex	Candida_glabrata@Seq_1419	19_1418	OG4121
+SWI/SNF complex	Candida_glabrata@Seq_1727	19_1726	OG27264
+SWI/SNF complex	Candida_glabrata@Seq_1856	19_1855	OG1718
+SWI/SNF complex	Candida_glabrata@Seq_2205	19_2204	OG6865
+SWI/SNF complex	Candida_glabrata@Seq_2289	19_2288	OG4037
+SWI/SNF complex	Candida_glabrata@Seq_2493	19_2492	OG3922
+SWI/SNF complex	Candida_glabrata@Seq_3056	19_3055	OG5590
+SWI/SNF complex	Candida_glabrata@Seq_4219	19_4218	OG3955
+SWI/SNF complex	Candida_glabrata@Seq_4330	19_4329	OG1464
+SWI/SNF complex	Candida_glabrata@Seq_5080	19_5079	OG7496
+SWI/SNF complex	Candida_glabrata@Seq_5140	19_5139	OG1051
+Sec61 translocon complex	Candida_glabrata@Seq_1650	19_1649	OG18734
+Sec61 translocon complex	Candida_glabrata@Seq_1887	19_1886	OG1391
+Sec61 translocon complex	Candida_glabrata@Seq_3988	19_3987	OG4207
+Sec62/Sec63 complex	Candida_glabrata@Seq_1255	19_1254	OG3936
+Sec62/Sec63 complex	Candida_glabrata@Seq_1965	19_1964	OG2641
+Sec62/Sec63 complex	Candida_glabrata@Seq_2861	19_2860	OG3842
+Seh1-associated complex	Candida_glabrata@Seq_1697	19_1696	OG2333
+Seh1-associated complex	Candida_glabrata@Seq_2491	19_2490	OG3106
+Seh1-associated complex	Candida_glabrata@Seq_3541	19_3540	OG1138
+Seh1-associated complex	Candida_glabrata@Seq_3668	19_3667	OG1504
+Seh1-associated complex	Candida_glabrata@Seq_3995	19_3994	OG3845
+Seh1-associated complex	Candida_glabrata@Seq_4799	19_4798	OG3742
+Seh1-associated complex	Candida_glabrata@Seq_678	19_677	OG3646
+Set1C/COMPASS complex	Candida_glabrata@Seq_1842	19_1841	OG2874
+Set1C/COMPASS complex	Candida_glabrata@Seq_1903	19_1902	OG2143
+Set1C/COMPASS complex	Candida_glabrata@Seq_2644	19_2643	OG2882
+Set1C/COMPASS complex	Candida_glabrata@Seq_36	19_35	OG1097
+Set1C/COMPASS complex	Candida_glabrata@Seq_4545	19_4544	OG2555
+Set1C/COMPASS complex	Candida_glabrata@Seq_4782	19_4781	OG3650
+Set1C/COMPASS complex	Candida_glabrata@Seq_5111	19_5110	OG4541
+Set1C/COMPASS complex	Candida_glabrata@Seq_895	19_894	OG6328
+Set3 complex	Candida_glabrata@Seq_1335	19_1334	OG2000
+Set3 complex	Candida_glabrata@Seq_2877	19_2876	OG3850
+Set3 complex	Candida_glabrata@Seq_319	19_318	OG3482
+Set3 complex	Candida_glabrata@Seq_3337	19_3336	OG1414
+Set3 complex	Candida_glabrata@Seq_3846	19_3845	OG2805
+Set3 complex	Candida_glabrata@Seq_4396	19_4395	OG3542
+Set3 complex	Candida_glabrata@Seq_4501	19_4500	OG1234
+Shu complex	Candida_glabrata@Seq_1088	19_1087	OG7168
+Shu complex	Candida_glabrata@Seq_109	19_108	OG7088
+Shu complex	Candida_glabrata@Seq_4517	19_4516	OG25346
+Shu complex	Candida_glabrata@Seq_814	19_813	OG6820
+Sid2-Mob1 complex	Candida_glabrata@Seq_1282	19_1281	OG3432
+Sid2-Mob1 complex	Candida_glabrata@Seq_998	19_997	OG1541
+Sin3-type complex	Candida_glabrata@Seq_1168	19_1167	OG6767
+Sin3-type complex	Candida_glabrata@Seq_2983	19_2982	OG1453
+Sin3-type complex	Candida_glabrata@Seq_928	19_927	OG4237
+Ski complex	Candida_glabrata@Seq_1117	19_1116	OG1036
+Ski complex	Candida_glabrata@Seq_1565	19_1564	OG1990
+Ski complex	Candida_glabrata@Seq_3503	19_3502	OG2483
+Slx1-Slx4 complex	Candida_glabrata@Seq_118	19_117	OG4474
+Slx1-Slx4 complex	Candida_glabrata@Seq_2524	19_2523	OG4794
+Smc5-Smc6 complex	Candida_glabrata@Seq_1064	19_1063	OG6538
+Smc5-Smc6 complex	Candida_glabrata@Seq_1792	19_1791	OG6435
+Smc5-Smc6 complex	Candida_glabrata@Seq_229	19_228	OG1841
+Smc5-Smc6 complex	Candida_glabrata@Seq_2427	19_2426	OG3119
+Smc5-Smc6 complex	Candida_glabrata@Seq_3167	19_3166	OG2864
+Smc5-Smc6 complex	Candida_glabrata@Seq_3638	19_3637	OG6477
+Smc5-Smc6 complex	Candida_glabrata@Seq_3651	19_3650	OG7086
+Smc5-Smc6 complex	Candida_glabrata@Seq_614	19_613	OG4635
+Ssh1 translocon complex	Candida_glabrata@Seq_127	19_126	OG4221
+Ssh1 translocon complex	Candida_glabrata@Seq_3988	19_3987	OG4207
+Ssh1 translocon complex	Candida_glabrata@Seq_4534	19_4533	OG2011
+Ste12p-Dig1p-Dig2p complex	Candida_glabrata@Seq_2558	19_2557	OG28658
+Ste12p-Dig1p-Dig2p complex	Candida_glabrata@Seq_645	19_644	OG26610
+Swr1 complex	Candida_glabrata@Seq_1296	19_1295	OG1896
+Swr1 complex	Candida_glabrata@Seq_1316	19_1315	OG2885
+Swr1 complex	Candida_glabrata@Seq_1452	19_1451	OG2813
+Swr1 complex	Candida_glabrata@Seq_1954	19_1953	OG2481
+Swr1 complex	Candida_glabrata@Seq_1993	19_1992	OG1721
+Swr1 complex	Candida_glabrata@Seq_2600	19_2599	OG2949
+Swr1 complex	Candida_glabrata@Seq_280	19_279	OG3609
+Swr1 complex	Candida_glabrata@Seq_3126	19_3125	OG7665
+Swr1 complex	Candida_glabrata@Seq_3645	19_3644	OG4208
+Swr1 complex	Candida_glabrata@Seq_3782	19_3781	OG2653
+Swr1 complex	Candida_glabrata@Seq_3819	19_3818	OG6284
+Swr1 complex	Candida_glabrata@Seq_4490	19_4489	OG2118
+Swr1 complex	Candida_glabrata@Seq_4621	19_4620	OG3717
+Swr1 complex	Candida_glabrata@Seq_4978	19_4977	OG7723
+Swr1 complex	Candida_glabrata@Seq_506	19_505	OG1949
+TACC/TOG complex	Candida_glabrata@Seq_4491	19_4490	OG1672
+THO complex part of transcription export complex	Candida_glabrata@Seq_150	19_149	OG7275
+THO complex part of transcription export complex	Candida_glabrata@Seq_164	19_163	OG2611
+THO complex part of transcription export complex	Candida_glabrata@Seq_284	19_283	OG6863
+THO complex part of transcription export complex	Candida_glabrata@Seq_4837	19_4836	OG6404
+TIM22 mitochondrial import inner membrane insertion complex	Candida_glabrata@Seq_1002	19_1001	OG3490
+TIM22 mitochondrial import inner membrane insertion complex	Candida_glabrata@Seq_1432	19_1431	OG4286
+TIM22 mitochondrial import inner membrane insertion complex	Candida_glabrata@Seq_3426	19_3425	OG2112
+TIM22 mitochondrial import inner membrane insertion complex	Candida_glabrata@Seq_3878	19_3877	OG3016
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_1291	19_1290	OG2080
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_1450	19_1449	OG2395
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_2077	19_2076	OG3077
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_2631	19_2630	OG2440
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_3207	19_3206	OG3555
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_470	19_469	OG2694
+TIM23 mitochondrial import inner membrane translocase complex	Candida_glabrata@Seq_731	19_730	OG2858
+TORC1 complex	Candida_glabrata@Seq_1048	19_1047	OG1035
+TORC1 complex	Candida_glabrata@Seq_1612	19_1611	OG1034
+TORC1 complex	Candida_glabrata@Seq_2726	19_2725	OG6653
+TORC1 complex	Candida_glabrata@Seq_352	19_351	OG2387
+TORC1 complex	Candida_glabrata@Seq_4887	19_4886	OG1035
+TORC1 complex	Candida_glabrata@Seq_580	19_579	OG3780
+TORC2 complex	Candida_glabrata@Seq_1021	19_1020	OG1553
+TORC2 complex	Candida_glabrata@Seq_1048	19_1047	OG1035
+TORC2 complex	Candida_glabrata@Seq_352	19_351	OG2387
+TORC2 complex	Candida_glabrata@Seq_3958	19_3957	OG4027
+TORC2 complex	Candida_glabrata@Seq_4262	19_4261	OG5111
+TORC2 complex	Candida_glabrata@Seq_4442	19_4441	OG3133
+TORC2 complex	Candida_glabrata@Seq_580	19_579	OG3780
+TORC2 complex	Candida_glabrata@Seq_815	19_814	OG2745
+TRAMP complex	Candida_glabrata@Seq_2085	19_2084	OG1295
+TRAMP complex	Candida_glabrata@Seq_4208	19_4207	OG187416
+TRAMP complex	Candida_glabrata@Seq_4265	19_4264	OG1295
+TRAMP complex	Candida_glabrata@Seq_4731	19_4730	OG2610
+TRAMP complex	Candida_glabrata@Seq_5125	19_5124	OG1036
+TRAPP complex	Candida_glabrata@Seq_2405	19_2404	OG3309
+TRAPP complex	Candida_glabrata@Seq_4072	19_4071	OG4039
+TRAPPI protein complex	Candida_glabrata@Seq_1531	19_1530	OG2811
+TRAPPI protein complex	Candida_glabrata@Seq_2405	19_2404	OG3309
+TRAPPI protein complex	Candida_glabrata@Seq_4072	19_4071	OG4039
+TRAPPI protein complex	Candida_glabrata@Seq_4633	19_4632	OG3975
+TRAPPII protein complex	Candida_glabrata@Seq_1531	19_1530	OG2811
+TRAPPII protein complex	Candida_glabrata@Seq_2338	19_2337	OG2318
+TRAPPII protein complex	Candida_glabrata@Seq_2405	19_2404	OG3309
+TRAPPII protein complex	Candida_glabrata@Seq_4072	19_4071	OG4039
+TRAPPII protein complex	Candida_glabrata@Seq_4247	19_4246	OG1925
+TRAPPII protein complex	Candida_glabrata@Seq_4633	19_4632	OG3975
+TRAPPII protein complex	Candida_glabrata@Seq_4794	19_4793	OG7068
+TRAPPII protein complex	Candida_glabrata@Seq_4998	19_4997	OG2234
+TRAPPII protein complex	Candida_glabrata@Seq_5025	19_5024	OG7274
+TRAPPIII protein complex	Candida_glabrata@Seq_1531	19_1530	OG2811
+TRAPPIII protein complex	Candida_glabrata@Seq_195	19_194	OG3730
+TRAPPIII protein complex	Candida_glabrata@Seq_2405	19_2404	OG3309
+TRAPPIII protein complex	Candida_glabrata@Seq_4072	19_4071	OG4039
+TRAPPIII protein complex	Candida_glabrata@Seq_4633	19_4632	OG3975
+TRC complex	Candida_glabrata@Seq_2543	19_2542	OG1037
+TRC complex	Candida_glabrata@Seq_390	19_389	OG5524
+TRC complex	Candida_glabrata@Seq_3968	19_3967	OG3316
+TRC complex	Candida_glabrata@Seq_4915	19_4914	OG1917
+TRC complex	Candida_glabrata@Seq_4944	19_4943	OG2536
+Tec1p-Ste12p-Dig1p complex	Candida_glabrata@Seq_17	19_16	OG28636
+Tec1p-Ste12p-Dig1p complex	Candida_glabrata@Seq_2558	19_2557	OG28658
+Tec1p-Ste12p-Dig1p complex	Candida_glabrata@Seq_645	19_644	OG26610
+Tor2-Mei2-Ste11 complex	Candida_glabrata@Seq_4887	19_4886	OG1035
+U1 snRNP	Candida_glabrata@Seq_1264	19_1263	OG3427
+U1 snRNP	Candida_glabrata@Seq_1332	19_1331	OG1084
+U1 snRNP	Candida_glabrata@Seq_2139	19_2138	OG2778
+U1 snRNP	Candida_glabrata@Seq_2660	19_2659	OG3543
+U1 snRNP	Candida_glabrata@Seq_2685	19_2684	OG4047
+U1 snRNP	Candida_glabrata@Seq_310	19_309	OG3454
+U1 snRNP	Candida_glabrata@Seq_3335	19_3334	OG2378
+U1 snRNP	Candida_glabrata@Seq_3347	19_3346	OG4990
+U1 snRNP	Candida_glabrata@Seq_335	19_334	OG6988
+U1 snRNP	Candida_glabrata@Seq_3355	19_3354	OG3423
+U1 snRNP	Candida_glabrata@Seq_391	19_390	OG2733
+U1 snRNP	Candida_glabrata@Seq_4533	19_4532	OG4179
+U1 snRNP	Candida_glabrata@Seq_4599	19_4598	OG2905
+U1 snRNP	Candida_glabrata@Seq_4893	19_4892	OG7076
+U1 snRNP	Candida_glabrata@Seq_5116	19_5115	OG4627
+U1 snRNP	Candida_glabrata@Seq_529	19_528	OG6589
+U2 snRNP	Candida_glabrata@Seq_2099	19_2098	OG3664
+U2 snRNP	Candida_glabrata@Seq_2660	19_2659	OG3543
+U2 snRNP	Candida_glabrata@Seq_310	19_309	OG3454
+U2 snRNP	Candida_glabrata@Seq_3347	19_3346	OG4990
+U2 snRNP	Candida_glabrata@Seq_3355	19_3354	OG3423
+U2 snRNP	Candida_glabrata@Seq_3744	19_3743	OG2975
+U2 snRNP	Candida_glabrata@Seq_3766	19_3765	OG1592
+U2 snRNP	Candida_glabrata@Seq_391	19_390	OG2733
+U2 snRNP	Candida_glabrata@Seq_4007	19_4006	OG2009
+U2 snRNP	Candida_glabrata@Seq_4283	19_4282	OG4217
+U2 snRNP	Candida_glabrata@Seq_5116	19_5115	OG4627
+U2 snRNP	Candida_glabrata@Seq_548	19_547	OG3264
+U2 snRNP	Candida_glabrata@Seq_58	19_57	OG3852
+U2 snRNP	Candida_glabrata@Seq_890	19_889	OG35680
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_1572	19_1571	OG2650
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_1865	19_1864	OG4013
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_226	19_225	OG3004
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_338	19_337	OG2773
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_356	19_355	OG3390
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_3682	19_3681	OG1790
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_3777	19_3776	OG2708
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_395	19_394	OG143223
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_4286	19_4285	OG3223
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_496	19_495	OG1004
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_4964	19_4963	OG3916
+U2-type catalytic step 1 spliceosome	Candida_glabrata@Seq_77	19_76	OG7329
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_1572	19_1571	OG2650
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_1865	19_1864	OG4013
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_226	19_225	OG3004
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_3190	19_3189	OG1004
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_3682	19_3681	OG1790
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_4964	19_4963	OG3916
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_5070	19_5069	OG1004
+U2-type catalytic step 2 spliceosome	Candida_glabrata@Seq_77	19_76	OG7329
+U2-type post-mRNA release spliceosomal complex	Candida_glabrata@Seq_1572	19_1571	OG2650
+U2-type post-mRNA release spliceosomal complex	Candida_glabrata@Seq_2167	19_2166	OG6340
+U2-type post-mRNA release spliceosomal complex	Candida_glabrata@Seq_3682	19_3681	OG1790
+U2-type post-mRNA release spliceosomal complex	Candida_glabrata@Seq_399	19_398	OG175037
+U2-type post-mRNA release spliceosomal complex	Candida_glabrata@Seq_77	19_76	OG7329
+U2-type post-spliceosomal complex	Candida_glabrata@Seq_2297	19_2296	OG4256
+U2-type post-spliceosomal complex	Candida_glabrata@Seq_3190	19_3189	OG1004
+U2-type prespliceosome	Candida_glabrata@Seq_1264	19_1263	OG3427
+U2-type prespliceosome	Candida_glabrata@Seq_1332	19_1331	OG1084
+U2-type prespliceosome	Candida_glabrata@Seq_1572	19_1571	OG2650
+U2-type prespliceosome	Candida_glabrata@Seq_1613	19_1612	OG2586
+U2-type prespliceosome	Candida_glabrata@Seq_2139	19_2138	OG2778
+U2-type prespliceosome	Candida_glabrata@Seq_2252	19_2251	OG3985
+U2-type prespliceosome	Candida_glabrata@Seq_2660	19_2659	OG3543
+U2-type prespliceosome	Candida_glabrata@Seq_2685	19_2684	OG4047
+U2-type prespliceosome	Candida_glabrata@Seq_2805	19_2804	OG2660
+U2-type prespliceosome	Candida_glabrata@Seq_310	19_309	OG3454
+U2-type prespliceosome	Candida_glabrata@Seq_3234	19_3233	OG4089
+U2-type prespliceosome	Candida_glabrata@Seq_3335	19_3334	OG2378
+U2-type prespliceosome	Candida_glabrata@Seq_335	19_334	OG6988
+U2-type prespliceosome	Candida_glabrata@Seq_3355	19_3354	OG3423
+U2-type prespliceosome	Candida_glabrata@Seq_3682	19_3681	OG1790
+U2-type prespliceosome	Candida_glabrata@Seq_3744	19_3743	OG2975
+U2-type prespliceosome	Candida_glabrata@Seq_3766	19_3765	OG1592
+U2-type prespliceosome	Candida_glabrata@Seq_391	19_390	OG2733
+U2-type prespliceosome	Candida_glabrata@Seq_4007	19_4006	OG2009
+U2-type prespliceosome	Candida_glabrata@Seq_4283	19_4282	OG4217
+U2-type prespliceosome	Candida_glabrata@Seq_4533	19_4532	OG4179
+U2-type prespliceosome	Candida_glabrata@Seq_4599	19_4598	OG2905
+U2-type prespliceosome	Candida_glabrata@Seq_4893	19_4892	OG7076
+U2-type prespliceosome	Candida_glabrata@Seq_529	19_528	OG6589
+U2-type prespliceosome	Candida_glabrata@Seq_58	19_57	OG3852
+U2-type prespliceosome	Candida_glabrata@Seq_77	19_76	OG7329
+U2-type spliceosomal complex	Candida_glabrata@Seq_1955	19_1954	OG3930
+U2-type spliceosomal complex	Candida_glabrata@Seq_2099	19_2098	OG3664
+U2-type spliceosomal complex	Candida_glabrata@Seq_2547	19_2546	OG1004
+U2-type spliceosomal complex	Candida_glabrata@Seq_3407	19_3406	OG6615
+U2-type spliceosomal complex	Candida_glabrata@Seq_4108	19_4107	OG3598
+U2-type spliceosomal complex	Candida_glabrata@Seq_4585	19_4584	OG3729
+U2-type spliceosomal complex	Candida_glabrata@Seq_4878	19_4877	OG3465
+U2-type spliceosomal complex	Candida_glabrata@Seq_494	19_493	OG6441
+U2-type spliceosomal complex	Candida_glabrata@Seq_810	19_809	OG2726
+U4/U6 snRNP	Candida_glabrata@Seq_3626	19_3625	OG2388
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_1212	19_1211	OG6488
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_1309	19_1308	OG1882
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_1404	19_1403	OG3758
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2013	19_2012	OG2153
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2253	19_2252	OG6411
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2297	19_2296	OG4256
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2620	19_2619	OG3330
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2660	19_2659	OG3543
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2845	19_2844	OG1643
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_2888	19_2887	OG1006
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_310	19_309	OG3454
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_321	19_320	OG7872
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_3219	19_3218	OG3888
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_3355	19_3354	OG3423
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_3626	19_3625	OG2388
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_3769	19_3768	OG3632
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_391	19_390	OG2733
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_4214	19_4213	OG2895
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_4449	19_4448	OG1538
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_4464	19_4463	OG4071
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_4599	19_4598	OG2905
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_480	19_479	OG1025
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_5116	19_5115	OG4627
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_87	19_86	OG4066
+U4/U6 x U5 tri-snRNP complex	Candida_glabrata@Seq_983	19_982	OG3971
+U5 snRNP	Candida_glabrata@Seq_2297	19_2296	OG4256
+U5 snRNP	Candida_glabrata@Seq_2660	19_2659	OG3543
+U5 snRNP	Candida_glabrata@Seq_2888	19_2887	OG1006
+U5 snRNP	Candida_glabrata@Seq_310	19_309	OG3454
+U5 snRNP	Candida_glabrata@Seq_3355	19_3354	OG3423
+U5 snRNP	Candida_glabrata@Seq_3861	19_3860	OG4028
+U5 snRNP	Candida_glabrata@Seq_391	19_390	OG2733
+U5 snRNP	Candida_glabrata@Seq_4352	19_4351	OG3777
+U5 snRNP	Candida_glabrata@Seq_4367	19_4366	OG4625
+U5 snRNP	Candida_glabrata@Seq_4449	19_4448	OG1538
+U5 snRNP	Candida_glabrata@Seq_4464	19_4463	OG4071
+U5 snRNP	Candida_glabrata@Seq_4599	19_4598	OG2905
+U5 snRNP	Candida_glabrata@Seq_480	19_479	OG1025
+U5 snRNP	Candida_glabrata@Seq_5116	19_5115	OG4627
+U6 snRNP	Candida_glabrata@Seq_1404	19_1403	OG3758
+U6 snRNP	Candida_glabrata@Seq_2013	19_2012	OG2153
+U6 snRNP	Candida_glabrata@Seq_2253	19_2252	OG6411
+U6 snRNP	Candida_glabrata@Seq_3219	19_3218	OG3888
+U6 snRNP	Candida_glabrata@Seq_3769	19_3768	OG3632
+U6 snRNP	Candida_glabrata@Seq_913	19_912	OG3586
+UBR1-RAD6 ubiquitin ligase complex	Candida_glabrata@Seq_3216	19_3215	OG3492
+UBR1-RAD6 ubiquitin ligase complex	Candida_glabrata@Seq_4898	19_4897	OG3979
+UDP-N-acetylglucosamine transferase complex	Candida_glabrata@Seq_1841	19_1840	OG2265
+UDP-N-acetylglucosamine transferase complex	Candida_glabrata@Seq_3505	19_3504	OG2913
+UTP-C complex	Candida_glabrata@Seq_1465	19_1464	OG3615
+UTP-C complex	Candida_glabrata@Seq_1793	19_1792	OG1712
+UTP-C complex	Candida_glabrata@Seq_1815	19_1814	OG1845
+UTP-C complex	Candida_glabrata@Seq_3002	19_3001	OG2667
+UTP-C complex	Candida_glabrata@Seq_4239	19_4238	OG2171
+Ubp3-Bre5 deubiquitination complex	Candida_glabrata@Seq_236	19_235	OG3203
+Ubp3-Bre5 deubiquitination complex	Candida_glabrata@Seq_4329	19_4328	OG5772
+VCP-NPL4-UFD1 AAA ATPase complex	Candida_glabrata@Seq_1821	19_1820	OG4176
+VCP-NPL4-UFD1 AAA ATPase complex	Candida_glabrata@Seq_2535	19_2534	OG1505
+Vma12-Vma22 assembly complex	Candida_glabrata@Seq_2323	19_2322	OG5712
+Vma12-Vma22 assembly complex	Candida_glabrata@Seq_4815	19_4814	OG3148
+Vps55/Vps68 complex	Candida_glabrata@Seq_1059	19_1058	OG4578
+Vps55/Vps68 complex	Candida_glabrata@Seq_2393	19_2392	OG4091
+WASH complex	Candida_glabrata@Seq_3133	19_3132	OG4064
+Yae1-Lto1 complex	Candida_glabrata@Seq_3590	19_3589	OG3079
+Yae1-Lto1 complex	Candida_glabrata@Seq_4730	19_4729	OG2915
+acetolactate synthase complex	Candida_glabrata@Seq_1688	19_1687	OG1388
+acetolactate synthase complex	Candida_glabrata@Seq_3928	19_3927	OG2577
+actin cytoskeleton-regulatory complex	Candida_glabrata@Seq_277	19_276	OG1627
+actin cytoskeleton-regulatory complex	Candida_glabrata@Seq_3834	19_3833	OG1278
+actin cytoskeleton-regulatory complex	Candida_glabrata@Seq_4950	19_4949	OG1837
+acyl-CoA ceramide synthase complex	Candida_glabrata@Seq_2299	19_2298	OG1303
+acyl-CoA ceramide synthase complex	Candida_glabrata@Seq_2735	19_2734	OG5735
+acyl-CoA ceramide synthase complex	Candida_glabrata@Seq_668	19_667	OG1303
+alpha DNA polymerase:primase complex	Candida_glabrata@Seq_300	19_299	OG2475
+alpha DNA polymerase:primase complex	Candida_glabrata@Seq_4368	19_4367	OG1911
+alpha DNA polymerase:primase complex	Candida_glabrata@Seq_4947	19_4946	OG3209
+alpha DNA polymerase:primase complex	Candida_glabrata@Seq_829	19_828	OG2681
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_glabrata@Seq_1843	19_1842	OG1753
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_glabrata@Seq_3775	19_3774	OG1314
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_glabrata@Seq_4678	19_4677	OG1314
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_glabrata@Seq_583	19_582	OG1634
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_1046	19_1045	OG1205
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_1400	19_1399	OG2675
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_1583	19_1582	OG4403
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_1616	19_1615	OG1450
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_4212	19_4211	OG2822
+alpha-1,6-mannosyltransferase complex	Candida_glabrata@Seq_4688	19_4687	OG2749
+anaphase-promoting complex	Candida_glabrata@Seq_1536	19_1535	OG4073
+anaphase-promoting complex	Candida_glabrata@Seq_1780	19_1779	OG2603
+anaphase-promoting complex	Candida_glabrata@Seq_2150	19_2149	OG2853
+anaphase-promoting complex	Candida_glabrata@Seq_2515	19_2514	OG25463
+anaphase-promoting complex	Candida_glabrata@Seq_2586	19_2585	OG4262
+anaphase-promoting complex	Candida_glabrata@Seq_3055	19_3054	OG2049
+anaphase-promoting complex	Candida_glabrata@Seq_3868	19_3867	OG26184
+anaphase-promoting complex	Candida_glabrata@Seq_4449	19_4448	OG1538
+anaphase-promoting complex	Candida_glabrata@Seq_4474	19_4473	OG7541
+anaphase-promoting complex	Candida_glabrata@Seq_4803	19_4802	OG2691
+anaphase-promoting complex	Candida_glabrata@Seq_4985	19_4984	OG9913
+anaphase-promoting complex	Candida_glabrata@Seq_65	19_64	OG2546
+anaphase-promoting complex	Candida_glabrata@Seq_80	19_79	OG1064
+anaphase-promoting complex	Candida_glabrata@Seq_809	19_808	OG6729
+anaphase-promoting complex	Candida_glabrata@Seq_942	19_941	OG2889
+anthranilate synthase complex	Candida_glabrata@Seq_3230	19_3229	OG2028
+box C/D snoRNP complex	Candida_glabrata@Seq_1309	19_1308	OG1882
+box C/D snoRNP complex	Candida_glabrata@Seq_2121	19_2120	OG1978
+box C/D snoRNP complex	Candida_glabrata@Seq_2984	19_2983	OG1626
+box C/D snoRNP complex	Candida_glabrata@Seq_5039	19_5038	OG1942
+box C/D snoRNP complex	Candida_glabrata@Seq_675	19_674	OG1459
+box H/ACA snoRNP complex	Candida_glabrata@Seq_2116	19_2115	OG2377
+box H/ACA snoRNP complex	Candida_glabrata@Seq_2993	19_2992	OG3983
+bub1-bub3 complex	Candida_glabrata@Seq_348	19_347	OG1577
+cAMP-dependent protein kinase complex	Candida_glabrata@Seq_3203	19_3202	OG4796
+cAMP-dependent protein kinase complex	Candida_glabrata@Seq_4695	19_4694	OG1827
+cAMP-dependent protein kinase complex	Candida_glabrata@Seq_4975	19_4974	OG52727
+calcineurin complex	Candida_glabrata@Seq_3421	19_3420	OG1368
+carbamoyl-phosphate synthase complex	Candida_glabrata@Seq_4593	19_4592	OG1038
+carbamoyl-phosphate synthase complex	Candida_glabrata@Seq_799	19_798	OG1032
+cellular bud neck polarisome	Candida_glabrata@Seq_2868	19_2867	OG2426
+cellular bud neck polarisome	Candida_glabrata@Seq_662	19_661	OG4313
+cellular bud tip polarisome	Candida_glabrata@Seq_2868	19_2867	OG2426
+cellular bud tip polarisome	Candida_glabrata@Seq_662	19_661	OG4313
+chaperonin-containing T-complex	Candida_glabrata@Seq_1642	19_1641	OG2050
+chaperonin-containing T-complex	Candida_glabrata@Seq_2197	19_2196	OG1998
+chaperonin-containing T-complex	Candida_glabrata@Seq_2575	19_2574	OG1480
+chaperonin-containing T-complex	Candida_glabrata@Seq_370	19_369	OG2111
+chaperonin-containing T-complex	Candida_glabrata@Seq_3795	19_3794	OG2405
+chaperonin-containing T-complex	Candida_glabrata@Seq_4554	19_4553	OG2039
+chaperonin-containing T-complex	Candida_glabrata@Seq_864	19_863	OG2021
+chaperonin-containing T-complex	Candida_glabrata@Seq_929	19_928	OG1922
+checkpoint clamp complex	Candida_glabrata@Seq_2761	19_2760	OG6406
+checkpoint clamp complex	Candida_glabrata@Seq_2863	19_2862	OG4382
+checkpoint clamp complex	Candida_glabrata@Seq_761	19_760	OG4417
+chromatin silencing complex	Candida_glabrata@Seq_1248	19_1247	OG1414
+chromatin silencing complex	Candida_glabrata@Seq_1671	19_1670	OG201055
+chromatin silencing complex	Candida_glabrata@Seq_3909	19_3908	OG27779
+chromosome passenger complex	Candida_glabrata@Seq_3440	19_3439	OG1686
+chromosome passenger complex	Candida_glabrata@Seq_4146	19_4145	OG6670
+clathrin adaptor complex	Candida_glabrata@Seq_1100	19_1099	OG4188
+clathrin adaptor complex	Candida_glabrata@Seq_4054	19_4053	OG3409
+clathrin adaptor complex	Candida_glabrata@Seq_4515	19_4514	OG2042
+clathrin adaptor complex	Candida_glabrata@Seq_4713	19_4712	OG2128
+clathrin adaptor complex	Candida_glabrata@Seq_4919	19_4918	OG1993
+clathrin adaptor complex	Candida_glabrata@Seq_4973	19_4972	OG1593
+clathrin adaptor complex	Candida_glabrata@Seq_5010	19_5009	OG4698
+clathrin adaptor complex	Candida_glabrata@Seq_85	19_84	OG3384
+clathrin coat	Candida_glabrata@Seq_2720	19_2719	OG1309
+clathrin coat	Candida_glabrata@Seq_4440	19_4439	OG1309
+clathrin coat of coated pit	Candida_glabrata@Seq_1347	19_1346	OG3257
+clathrin coat of coated pit	Candida_glabrata@Seq_291	19_290	OG1545
+clathrin coat of trans-Golgi network vesicle	Candida_glabrata@Seq_1347	19_1346	OG3257
+clathrin coat of trans-Golgi network vesicle	Candida_glabrata@Seq_291	19_290	OG1545
+clathrin vesicle coat	Candida_glabrata@Seq_1711	19_1710	OG1234
+commitment complex	Candida_glabrata@Seq_1264	19_1263	OG3427
+commitment complex	Candida_glabrata@Seq_1332	19_1331	OG1084
+commitment complex	Candida_glabrata@Seq_1644	19_1643	OG3347
+commitment complex	Candida_glabrata@Seq_1972	19_1971	OG3385
+commitment complex	Candida_glabrata@Seq_2815	19_2814	OG1726
+commitment complex	Candida_glabrata@Seq_310	19_309	OG3454
+commitment complex	Candida_glabrata@Seq_3335	19_3334	OG2378
+commitment complex	Candida_glabrata@Seq_335	19_334	OG6988
+commitment complex	Candida_glabrata@Seq_4599	19_4598	OG2905
+commitment complex	Candida_glabrata@Seq_4788	19_4787	OG2725
+commitment complex	Candida_glabrata@Seq_4893	19_4892	OG7076
+condensed nuclear chromosome inner kinetochore	Candida_glabrata@Seq_3440	19_3439	OG1686
+condensed nuclear chromosome outer kinetochore	Candida_glabrata@Seq_2098	19_2097	OG2563
+condensed nuclear chromosome outer kinetochore	Candida_glabrata@Seq_359	19_358	OG28677
+condensed nuclear chromosome outer kinetochore	Candida_glabrata@Seq_4491	19_4490	OG1672
+condensed nuclear chromosome outer kinetochore	Candida_glabrata@Seq_4889	19_4888	OG3290
+condensin complex	Candida_glabrata@Seq_7	19_6	OG1225
+core mediator complex	Candida_glabrata@Seq_1252	19_1251	OG3830
+core mediator complex	Candida_glabrata@Seq_131	19_130	OG3321
+core mediator complex	Candida_glabrata@Seq_2074	19_2073	OG4683
+core mediator complex	Candida_glabrata@Seq_2142	19_2141	OG2898
+core mediator complex	Candida_glabrata@Seq_2218	19_2217	OG3755
+core mediator complex	Candida_glabrata@Seq_2478	19_2477	OG3163
+core mediator complex	Candida_glabrata@Seq_28	19_27	OG132976
+core mediator complex	Candida_glabrata@Seq_2883	19_2882	OG3199
+core mediator complex	Candida_glabrata@Seq_3050	19_3049	OG3698
+core mediator complex	Candida_glabrata@Seq_3672	19_3671	OG6361
+core mediator complex	Candida_glabrata@Seq_3849	19_3848	OG3926
+core mediator complex	Candida_glabrata@Seq_3989	19_3988	OG4058
+core mediator complex	Candida_glabrata@Seq_410	19_409	OG7599
+core mediator complex	Candida_glabrata@Seq_4444	19_4443	OG2138
+core mediator complex	Candida_glabrata@Seq_4875	19_4874	OG2663
+core mediator complex	Candida_glabrata@Seq_5083	19_5082	OG4190
+core mediator complex	Candida_glabrata@Seq_513	19_512	OG6393
+cullin-RING ubiquitin ligase complex	Candida_glabrata@Seq_1312	19_1311	OG6915
+cullin-RING ubiquitin ligase complex	Candida_glabrata@Seq_3721	19_3720	OG2479
+cullin-RING ubiquitin ligase complex	Candida_glabrata@Seq_4566	19_4565	OG2623
+cullin-RING ubiquitin ligase complex	Candida_glabrata@Seq_4803	19_4802	OG2691
+cyclin-dependent protein kinase activating kinase holoenzyme complex	Candida_glabrata@Seq_2727	19_2726	OG2735
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_1245	19_1244	OG3344
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_146	19_145	OG4490
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_2277	19_2276	OG3948
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_2800	19_2799	OG6264
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_2939	19_2938	OG3949
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_3290	19_3289	OG3277
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_3737	19_3736	OG2284
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_3948	19_3947	OG6256
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_3964	19_3963	OG4587
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_4221	19_4220	OG3226
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_4447	19_4446	OG26204
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_4739	19_4738	OG3452
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_4933	19_4932	OG70738
+cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_946	19_945	OG1781
+cytoplasmic dynein complex	Candida_glabrata@Seq_2839	19_2838	OG7216
+cytoplasmic dynein complex	Candida_glabrata@Seq_3413	19_3412	OG2473
+cytoplasmic dynein complex	Candida_glabrata@Seq_5008	19_5007	OG3876
+cytoplasmic dynein complex	Candida_glabrata@Seq_713	19_712	OG7165
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_1325	19_1324	OG3117
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_2480	19_2479	OG2312
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_2639	19_2638	OG2886
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_4327	19_4326	OG3549
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_447	19_446	OG2066
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_563	19_562	OG2826
+cytoplasmic exosome (RNase complex)	Candida_glabrata@Seq_774	19_773	OG3312
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1105	19_1104	OG2437
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_119	19_118	OG3863
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1483	19_1482	OG1995
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1588	19_1587	OG2106
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1702	19_1701	OG1159
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1885	19_1884	OG2543
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_1992	19_1991	OG1385
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2329	19_2328	OG3402
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2396	19_2395	OG1117
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2429	19_2428	OG4650
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2461	19_2460	OG1670
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2462	19_2461	OG1120
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2554	19_2553	OG1692
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2613	19_2612	OG1573
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2676	19_2675	OG1478
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_29	19_28	OG1836
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2906	19_2905	OG3403
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2948	19_2947	OG3219
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_2964	19_2963	OG1140
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_3171	19_3170	OG3099
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_3252	19_3251	OG1633
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_3285	19_3284	OG1378
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_3395	19_3394	OG1222
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_357	19_356	OG1705
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_3789	19_3788	OG1481
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_405	19_404	OG3610
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_408	19_407	OG1243
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_409	19_408	OG2022
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_4145	19_4144	OG1419
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_4635	19_4634	OG1161
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_4649	19_4648	OG1506
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_498	19_497	OG1594
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_5011	19_5010	OG1133
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_5059	19_5058	OG1405
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_5142	19_5141	OG1290
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_646	19_645	OG1423
+cytosolic large ribosomal subunit	Candida_glabrata@Seq_993	19_992	OG1728
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_1047	19_1046	OG5106
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_1378	19_1377	OG2472
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_1517	19_1516	OG1188
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_1707	19_1706	OG1770
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_2021	19_2020	OG3558
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_2182	19_2181	OG2434
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_289	19_288	OG2918
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_2964	19_2963	OG1140
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_3006	19_3005	OG2064
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_3129	19_3128	OG1250
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_3382	19_3381	OG1009
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_340	19_339	OG2198
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_3680	19_3679	OG1981
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_3999	19_3998	OG2550
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4144	19_4143	OG1412
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4248	19_4247	OG1963
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_429	19_428	OG1323
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4461	19_4460	OG1404
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4660	19_4659	OG1223
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4690	19_4689	OG1284
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_4910	19_4909	OG1514
+cytosolic small ribosomal subunit	Candida_glabrata@Seq_5142	19_5141	OG1290
+cytosolic tRNA wobble base thiouridylase complex	Candida_glabrata@Seq_3994	19_3993	OG1930
+cytosolic tRNA wobble base thiouridylase complex	Candida_glabrata@Seq_661	19_660	OG2274
+decaprenyl diphosphate synthase complex	Candida_glabrata@Seq_2318	19_2317	OG3062
+dehydrodolichyl diphosphate synthase complex	Candida_glabrata@Seq_1130	19_1129	OG2869
+dehydrodolichyl diphosphate synthase complex	Candida_glabrata@Seq_2945	19_2944	OG3134
+dehydrodolichyl diphosphate synthase complex	Candida_glabrata@Seq_4256	19_4255	OG3858
+delta DNA polymerase complex	Candida_glabrata@Seq_2155	19_2154	OG3603
+delta DNA polymerase complex	Candida_glabrata@Seq_235	19_234	OG1987
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex	Candida_glabrata@Seq_4551	19_4550	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex	Candida_glabrata@Seq_734	19_733	OG1053
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt3p dimer complex	Candida_glabrata@Seq_4551	19_4550	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt3p dimer complex	Candida_glabrata@Seq_4762	19_4761	OG1053
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex	Candida_glabrata@Seq_2852	19_2851	OG1479
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt2p dimer complex	Candida_glabrata@Seq_4551	19_4550	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt2p dimer complex	Candida_glabrata@Seq_734	19_733	OG1053
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt3p dimer complex	Candida_glabrata@Seq_4551	19_4550	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt3p dimer complex	Candida_glabrata@Seq_4762	19_4761	OG1053
+dynactin complex	Candida_glabrata@Seq_1226	19_1225	OG35652
+dynactin complex	Candida_glabrata@Seq_3667	19_3666	OG4804
+dynactin complex	Candida_glabrata@Seq_421	19_420	OG5817
+dynein complex	Candida_glabrata@Seq_5008	19_5007	OG3876
+eRF1 methyltransferase complex	Candida_glabrata@Seq_1413	19_1412	OG3519
+eRF1 methyltransferase complex	Candida_glabrata@Seq_3514	19_3513	OG3486
+eisosome filament	Candida_glabrata@Seq_3960	19_3959	OG1591
+elongin complex	Candida_glabrata@Seq_249	19_248	OG3237
+elongin complex	Candida_glabrata@Seq_258	19_257	OG5736
+endoplasmic reticulum palmitoyltransferase complex	Candida_glabrata@Seq_1302	19_1301	OG2497
+endoplasmic reticulum palmitoyltransferase complex	Candida_glabrata@Seq_3981	19_3980	OG5241
+epsilon DNA polymerase complex	Candida_glabrata@Seq_1288	19_1287	OG12531
+epsilon DNA polymerase complex	Candida_glabrata@Seq_1369	19_1368	OG1737
+epsilon DNA polymerase complex	Candida_glabrata@Seq_3410	19_3409	OG2814
+epsilon DNA polymerase complex	Candida_glabrata@Seq_463	19_462	OG1863
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_1835	19_1834	OG1834
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_2061	19_2060	OG2109
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_2281	19_2280	OG2951
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_2326	19_2325	OG2160
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_3567	19_3566	OG2927
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_4096	19_4095	OG1460
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_4706	19_4705	OG2491
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_4891	19_4890	OG2024
+eukaryotic 43S preinitiation complex	Candida_glabrata@Seq_4977	19_4976	OG1776
+eukaryotic 48S preinitiation complex	Candida_glabrata@Seq_1707	19_1706	OG1770
+eukaryotic 48S preinitiation complex	Candida_glabrata@Seq_2267	19_2266	OG2461
+eukaryotic 48S preinitiation complex	Candida_glabrata@Seq_2326	19_2325	OG2160
+eukaryotic 48S preinitiation complex	Candida_glabrata@Seq_3567	19_3566	OG2927
+eukaryotic 48S preinitiation complex	Candida_glabrata@Seq_4977	19_4976	OG1776
+eukaryotic translation elongation factor 1 complex	Candida_glabrata@Seq_1189	19_1188	OG1213
+eukaryotic translation elongation factor 1 complex	Candida_glabrata@Seq_215	19_214	OG17501
+eukaryotic translation elongation factor 1 complex	Candida_glabrata@Seq_4251	19_4250	OG2124
+eukaryotic translation initiation factor 2 complex	Candida_glabrata@Seq_1835	19_1834	OG1834
+eukaryotic translation initiation factor 2 complex	Candida_glabrata@Seq_2267	19_2266	OG2461
+eukaryotic translation initiation factor 2 complex	Candida_glabrata@Seq_4977	19_4976	OG1776
+eukaryotic translation initiation factor 2B complex	Candida_glabrata@Seq_2165	19_2164	OG2242
+eukaryotic translation initiation factor 2B complex	Candida_glabrata@Seq_2433	19_2432	OG1623
+eukaryotic translation initiation factor 2B complex	Candida_glabrata@Seq_2510	19_2509	OG2184
+eukaryotic translation initiation factor 2B complex	Candida_glabrata@Seq_3459	19_3458	OG2964
+eukaryotic translation initiation factor 2B complex	Candida_glabrata@Seq_3496	19_3495	OG3783
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_1706	19_1705	OG3260
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_2061	19_2060	OG2109
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_2281	19_2280	OG2951
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_2326	19_2325	OG2160
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_4706	19_4705	OG2491
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_4891	19_4890	OG2024
+eukaryotic translation initiation factor 3 complex	Candida_glabrata@Seq_5079	19_5078	OG2059
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_glabrata@Seq_2061	19_2060	OG2109
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_glabrata@Seq_2281	19_2280	OG2951
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_glabrata@Seq_2326	19_2325	OG2160
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_glabrata@Seq_4706	19_4705	OG2491
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_glabrata@Seq_4891	19_4890	OG2024
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_glabrata@Seq_2061	19_2060	OG2109
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_glabrata@Seq_2281	19_2280	OG2951
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_glabrata@Seq_2326	19_2325	OG2160
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_glabrata@Seq_4706	19_4705	OG2491
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_glabrata@Seq_4891	19_4890	OG2024
+eukaryotic translation initiation factor 4F complex	Candida_glabrata@Seq_257	19_256	OG1669
+eukaryotic translation initiation factor 4F complex	Candida_glabrata@Seq_3374	19_3373	OG1289
+eukaryotic translation initiation factor 4F complex	Candida_glabrata@Seq_4827	19_4826	OG1289
+eukaryotic translation initiation factor 4F complex	Candida_glabrata@Seq_535	19_534	OG1009
+exocyst	Candida_glabrata@Seq_1725	19_1724	OG2630
+exocyst	Candida_glabrata@Seq_2690	19_2689	OG3485
+exocyst	Candida_glabrata@Seq_2958	19_2957	OG2239
+exocyst	Candida_glabrata@Seq_3425	19_3424	OG3055
+exocyst	Candida_glabrata@Seq_3850	19_3849	OG2314
+exocyst	Candida_glabrata@Seq_4335	19_4334	OG2944
+exocyst	Candida_glabrata@Seq_4646	19_4645	OG3724
+exocyst	Candida_glabrata@Seq_740	19_739	OG3815
+exomer complex	Candida_glabrata@Seq_1434	19_1433	OG5236
+exomer complex	Candida_glabrata@Seq_3156	19_3155	OG1542
+exomer complex	Candida_glabrata@Seq_3589	19_3588	OG2544
+exosome (RNase complex)	Candida_glabrata@Seq_1520	19_1519	OG1886
+exosome (RNase complex)	Candida_glabrata@Seq_1946	19_1945	OG2484
+exosome (RNase complex)	Candida_glabrata@Seq_2480	19_2479	OG2312
+exosome (RNase complex)	Candida_glabrata@Seq_2639	19_2638	OG2886
+exosome (RNase complex)	Candida_glabrata@Seq_2926	19_2925	OG1817
+exosome (RNase complex)	Candida_glabrata@Seq_4210	19_4209	OG2144
+exosome (RNase complex)	Candida_glabrata@Seq_4327	19_4326	OG3549
+exosome (RNase complex)	Candida_glabrata@Seq_447	19_446	OG2066
+exosome (RNase complex)	Candida_glabrata@Seq_774	19_773	OG3312
+fatty acid synthase complex	Candida_glabrata@Seq_1808	19_1807	OG1463
+fatty acid synthase complex	Candida_glabrata@Seq_3400	19_3399	OG1316
+filamentous actin	Candida_glabrata@Seq_2062	19_2061	OG1238
+filamentous actin	Candida_glabrata@Seq_850	19_849	OG1238
+gamma DNA polymerase complex	Candida_glabrata@Seq_1512	19_1511	OG1982
+gamma-tubulin complex	Candida_glabrata@Seq_4398	19_4397	OG3303
+gamma-tubulin complex	Candida_glabrata@Seq_4797	19_4796	OG3960
+gamma-tubulin complex	Candida_glabrata@Seq_4821	19_4820	OG3014
+gamma-tubulin small complex, spindle pole body	Candida_glabrata@Seq_4797	19_4796	OG3960
+gamma-tubulin small complex, spindle pole body	Candida_glabrata@Seq_4821	19_4820	OG3014
+glucosidase II complex	Candida_glabrata@Seq_2232	19_2231	OG2467
+glucosidase II complex	Candida_glabrata@Seq_2382	19_2381	OG1624
+glutamyl-tRNA(Gln) amidotransferase complex	Candida_glabrata@Seq_1034	19_1033	OG2104
+glutamyl-tRNA(Gln) amidotransferase complex	Candida_glabrata@Seq_2047	19_2046	OG2448
+glutamyl-tRNA(Gln) amidotransferase complex	Candida_glabrata@Seq_3346	19_3345	OG5080
+glutathione hydrolase complex	Candida_glabrata@Seq_2977	19_2976	OG3441
+glutathione hydrolase complex	Candida_glabrata@Seq_4770	19_4769	OG1784
+glutathione synthase complex	Candida_glabrata@Seq_473	19_472	OG2031
+glycerol-3-phosphate dehydrogenase complex	Candida_glabrata@Seq_30	19_29	OG3100
+glycerol-3-phosphate dehydrogenase complex	Candida_glabrata@Seq_633	19_632	OG1137
+glycerol-3-phosphate dehydrogenase complex	Candida_glabrata@Seq_800	19_799	OG1137
+glycine cleavage complex	Candida_glabrata@Seq_1504	19_1503	OG3429
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Candida_glabrata@Seq_739	19_738	OG3851
+glycosylphosphatidylinositol-mannosyltransferase I complex	Candida_glabrata@Seq_2943	19_2942	OG4057
+glycosylphosphatidylinositol-mannosyltransferase I complex	Candida_glabrata@Seq_3547	19_3546	OG3522
+guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_1067	19_1066	OG4737
+guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_2510	19_2509	OG2184
+guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_3459	19_3458	OG2964
+guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_3496	19_3495	OG3783
+guanyl-nucleotide exchange factor complex	Candida_glabrata@Seq_4293	19_4292	OG1254
+heterotrimeric G-protein complex	Candida_glabrata@Seq_1750	19_1749	OG3408
+heterotrimeric G-protein complex	Candida_glabrata@Seq_1914	19_1913	OG2226
+heterotrimeric G-protein complex	Candida_glabrata@Seq_2437	19_2436	OG4651
+heterotrimeric G-protein complex	Candida_glabrata@Seq_4200	19_4199	OG2926
+heterotrimeric G-protein complex	Candida_glabrata@Seq_4229	19_4228	OG5230
+high-affinity iron permease complex	Candida_glabrata@Seq_1586	19_1585	OG1059
+high-affinity iron permease complex	Candida_glabrata@Seq_3829	19_3828	OG1176
+high-affinity iron permease complex	Candida_glabrata@Seq_654	19_653	OG1224
+histone acetyltransferase complex	Candida_glabrata@Seq_3098	19_3097	OG2300
+histone acetyltransferase complex	Candida_glabrata@Seq_3339	19_3338	OG4989
+histone acetyltransferase complex	Candida_glabrata@Seq_4532	19_4531	OG28703
+histone acetyltransferase complex	Candida_glabrata@Seq_493	19_492	OG3903
+histone acetyltransferase complex	Candida_glabrata@Seq_945	19_944	OG1191
+histone deacetylase complex	Candida_glabrata@Seq_1125	19_1124	OG2728
+histone deacetylase complex	Candida_glabrata@Seq_2482	19_2481	OG3697
+histone deacetylase complex	Candida_glabrata@Seq_2496	19_2495	OG4971
+histone deacetylase complex	Candida_glabrata@Seq_4778	19_4777	OG6495
+hyphal tip polarisome	Candida_glabrata@Seq_4073	19_4072	OG3622
+hyphal tip polarisome	Candida_glabrata@Seq_662	19_661	OG4313
+i-AAA complex	Candida_glabrata@Seq_2606	19_2605	OG6487
+i-AAA complex	Candida_glabrata@Seq_4650	19_4649	OG1618
+i-AAA complex	Candida_glabrata@Seq_502	19_501	OG2817
+inositol phosphoceramide synthase complex	Candida_glabrata@Seq_1186	19_1185	OG1242
+inositol phosphoceramide synthase complex	Candida_glabrata@Seq_1670	19_1669	OG4259
+inositol phosphoceramide synthase complex	Candida_glabrata@Seq_720	19_719	OG1242
+kinesin I complex	Candida_glabrata@Seq_2174	19_2173	OG2729
+kinesin complex	Candida_glabrata@Seq_1884	19_1883	OG5843
+kinesin complex	Candida_glabrata@Seq_2537	19_2536	OG1583
+kinesin complex	Candida_glabrata@Seq_837	19_836	OG5843
+large ribosomal subunit	Candida_glabrata@Seq_1105	19_1104	OG2437
+large ribosomal subunit	Candida_glabrata@Seq_1648	19_1647	OG2452
+large ribosomal subunit	Candida_glabrata@Seq_1992	19_1991	OG1385
+large ribosomal subunit	Candida_glabrata@Seq_2554	19_2553	OG1692
+large ribosomal subunit	Candida_glabrata@Seq_3465	19_3464	OG4638
+large ribosomal subunit	Candida_glabrata@Seq_3539	19_3538	OG1895
+large ribosomal subunit	Candida_glabrata@Seq_3727	19_3726	OG3184
+large ribosomal subunit	Candida_glabrata@Seq_4114	19_4113	OG3364
+large ribosomal subunit	Candida_glabrata@Seq_425	19_424	OG3572
+large ribosomal subunit	Candida_glabrata@Seq_4579	19_4578	OG3222
+large ribosomal subunit	Candida_glabrata@Seq_4991	19_4990	OG3022
+large ribosomal subunit	Candida_glabrata@Seq_775	19_774	OG3140
+large ribosomal subunit	Candida_glabrata@Seq_993	19_992	OG1728
+lateral cortical node	Candida_glabrata@Seq_152	19_151	OG3144
+luminal surveillance complex	Candida_glabrata@Seq_2716	19_2715	OG5731
+luminal surveillance complex	Candida_glabrata@Seq_3772	19_3771	OG2998
+m-AAA complex	Candida_glabrata@Seq_2274	19_2273	OG1047
+m-AAA complex	Candida_glabrata@Seq_4407	19_4406	OG1047
+mRNA cap methyltransferase complex	Candida_glabrata@Seq_1705	19_1704	OG28639
+mRNA cap methyltransferase complex	Candida_glabrata@Seq_1786	19_1785	OG3247
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_1701	19_1700	OG5129
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_1903	19_1902	OG2143
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_2354	19_2353	OG2945
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_2553	19_2552	OG1066
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_3091	19_3090	OG1452
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_3196	19_3195	OG3795
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_339	19_338	OG2154
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_374	19_373	OG2081
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_3844	19_3843	OG3713
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_4119	19_4118	OG3590
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_4524	19_4523	OG2407
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_688	19_687	OG1609
+mRNA cleavage and polyadenylation specificity factor complex	Candida_glabrata@Seq_81	19_80	OG28723
+mRNA cleavage factor complex	Candida_glabrata@Seq_1468	19_1467	OG2490
+mRNA cleavage factor complex	Candida_glabrata@Seq_2395	19_2394	OG2298
+mRNA cleavage factor complex	Candida_glabrata@Seq_3036	19_3035	OG1853
+mRNA cleavage factor complex	Candida_glabrata@Seq_500	19_499	OG2827
+mRNA cleavage factor complex	Candida_glabrata@Seq_902	19_901	OG2033
+mannosyltransferase complex	Candida_glabrata@Seq_4648	19_4647	OG26445
+mediator complex	Candida_glabrata@Seq_1245	19_1244	OG3344
+mediator complex	Candida_glabrata@Seq_1252	19_1251	OG3830
+mediator complex	Candida_glabrata@Seq_131	19_130	OG3321
+mediator complex	Candida_glabrata@Seq_1549	19_1548	OG5104
+mediator complex	Candida_glabrata@Seq_1628	19_1627	OG4280
+mediator complex	Candida_glabrata@Seq_2074	19_2073	OG4683
+mediator complex	Candida_glabrata@Seq_2142	19_2141	OG2898
+mediator complex	Candida_glabrata@Seq_2218	19_2217	OG3755
+mediator complex	Candida_glabrata@Seq_2478	19_2477	OG3163
+mediator complex	Candida_glabrata@Seq_2629	19_2628	OG6465
+mediator complex	Candida_glabrata@Seq_28	19_27	OG132976
+mediator complex	Candida_glabrata@Seq_2883	19_2882	OG3199
+mediator complex	Candida_glabrata@Seq_3050	19_3049	OG3698
+mediator complex	Candida_glabrata@Seq_3672	19_3671	OG6361
+mediator complex	Candida_glabrata@Seq_3692	19_3691	OG4703
+mediator complex	Candida_glabrata@Seq_3849	19_3848	OG3926
+mediator complex	Candida_glabrata@Seq_3989	19_3988	OG4058
+mediator complex	Candida_glabrata@Seq_410	19_409	OG7599
+mediator complex	Candida_glabrata@Seq_4147	19_4146	OG6734
+mediator complex	Candida_glabrata@Seq_4444	19_4443	OG2138
+mediator complex	Candida_glabrata@Seq_4875	19_4874	OG2663
+mediator complex	Candida_glabrata@Seq_5083	19_5082	OG4190
+mediator complex	Candida_glabrata@Seq_513	19_512	OG6393
+mediator complex	Candida_glabrata@Seq_876	19_875	OG6818
+mediator complex	Candida_glabrata@Seq_975	19_974	OG3362
+meiotic septin complex	Candida_glabrata@Seq_1297	19_1296	OG2015
+membrane coat	Candida_glabrata@Seq_1341	19_1340	OG1846
+membrane coat	Candida_glabrata@Seq_1631	19_1630	OG2669
+membrane coat	Candida_glabrata@Seq_2201	19_2200	OG1766
+membrane coat	Candida_glabrata@Seq_3221	19_3220	OG1725
+membrane coat	Candida_glabrata@Seq_3436	19_3435	OG1994
+membrane coat	Candida_glabrata@Seq_3982	19_3981	OG3391
+membrane coat	Candida_glabrata@Seq_4054	19_4053	OG3409
+membrane coat	Candida_glabrata@Seq_4369	19_4368	OG1861
+membrane coat	Candida_glabrata@Seq_4456	19_4455	OG2264
+membrane coat	Candida_glabrata@Seq_4919	19_4918	OG1993
+methionyl glutamyl tRNA synthetase complex	Candida_glabrata@Seq_2396	19_2395	OG1117
+methionyl glutamyl tRNA synthetase complex	Candida_glabrata@Seq_4299	19_4298	OG1706
+methionyl glutamyl tRNA synthetase complex	Candida_glabrata@Seq_4879	19_4878	OG1512
+microtubule associated complex	Candida_glabrata@Seq_2174	19_2173	OG2729
+microtubule associated complex	Candida_glabrata@Seq_3292	19_3291	OG1173
+microtubule associated complex	Candida_glabrata@Seq_4402	19_4401	OG7879
+microtubule associated complex	Candida_glabrata@Seq_4987	19_4986	OG3819
+minus-end kinesin complex	Candida_glabrata@Seq_2537	19_2536	OG1583
+mitochondrial DNA-directed RNA polymerase complex	Candida_glabrata@Seq_1418	19_1417	OG3234
+mitochondrial DNA-directed RNA polymerase complex	Candida_glabrata@Seq_4654	19_4653	OG2077
+mitochondrial degradosome	Candida_glabrata@Seq_3359	19_3358	OG1897
+mitochondrial degradosome	Candida_glabrata@Seq_966	19_965	OG3992
+mitochondrial inner membrane peptidase complex	Candida_glabrata@Seq_2748	19_2747	OG3201
+mitochondrial inner membrane peptidase complex	Candida_glabrata@Seq_3427	19_3426	OG2840
+mitochondrial inner membrane peptidase complex	Candida_glabrata@Seq_4925	19_4924	OG28710
+mitochondrial intermembrane space protein transporter complex	Candida_glabrata@Seq_4190	19_4189	OG1382
+mitochondrial intermembrane space protein transporter complex	Candida_glabrata@Seq_4603	19_4602	OG4157
+mitochondrial intermembrane space protein transporter complex	Candida_glabrata@Seq_589	19_588	OG4142
+mitochondrial iron-sulfur cluster assembly complex	Candida_glabrata@Seq_4167	19_4166	OG1136
+mitochondrial isocitrate dehydrogenase complex (NAD+)	Candida_glabrata@Seq_2189	19_2188	OG1786
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1107	19_1106	OG4363
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1254	19_1253	OG4843
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1407	19_1406	OG5193
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1495	19_1494	OG2408
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1528	19_1527	OG3927
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1610	19_1609	OG6489
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1686	19_1685	OG3268
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_1953	19_1952	OG2131
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2067	19_2066	OG3496
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2114	19_2113	OG3976
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_218	19_217	OG4178
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2245	19_2244	OG3635
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2402	19_2401	OG3392
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2406	19_2405	OG2399
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_264	19_263	OG2764
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2695	19_2694	OG3176
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2747	19_2746	OG3085
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2845	19_2844	OG1643
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_2959	19_2958	OG2447
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3041	19_3040	OG4599
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3163	19_3162	OG5310
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_327	19_326	OG3339
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3353	19_3352	OG3015
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3370	19_3369	OG2662
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_338	19_337	OG2773
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3522	19_3521	OG2606
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3539	19_3538	OG1895
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3727	19_3726	OG3184
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_380	19_379	OG3156
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3817	19_3816	OG4052
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_3918	19_3917	OG2737
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4000	19_3999	OG3579
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4114	19_4113	OG3364
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_425	19_424	OG3572
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4280	19_4279	OG1956
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4579	19_4578	OG3222
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4616	19_4615	OG2496
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4635	19_4634	OG1161
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4662	19_4661	OG3608
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_4941	19_4940	OG4029
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_5037	19_5036	OG3726
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_641	19_640	OG3841
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_775	19_774	OG3140
+mitochondrial large ribosomal subunit	Candida_glabrata@Seq_901	19_900	OG3666
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_2169	19_2168	OG21784
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_2827	19_2826	OG1441
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_2979	19_2978	OG6295
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_3992	19_3991	OG1972
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_600	19_599	OG3798
+mitochondrial outer membrane translocase complex	Candida_glabrata@Seq_742	19_741	OG2071
+mitochondrial oxoglutarate dehydrogenase complex	Candida_glabrata@Seq_2132	19_2131	OG6392
+mitochondrial oxoglutarate dehydrogenase complex	Candida_glabrata@Seq_2561	19_2560	OG1924
+mitochondrial oxoglutarate dehydrogenase complex	Candida_glabrata@Seq_76	19_75	OG1585
+mitochondrial processing peptidase complex	Candida_glabrata@Seq_3275	19_3274	OG2540
+mitochondrial processing peptidase complex	Candida_glabrata@Seq_542	19_541	OG1608
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_1311	19_1310	OG3923
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_341	19_340	OG3958
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_3827	19_3826	OG3747
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_4110	19_4109	OG3794
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_4503	19_4502	OG2132
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_4578	19_4577	OG3378
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_glabrata@Seq_794	19_793	OG4243
+mitochondrial proton-transporting ATP synthase, catalytic core	Candida_glabrata@Seq_1198	19_1197	OG1533
+mitochondrial proton-transporting ATP synthase, catalytic core	Candida_glabrata@Seq_2486	19_2485	OG1802
+mitochondrial proton-transporting ATP synthase, central stalk	Candida_glabrata@Seq_2911	19_2910	OG2644
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_glabrata@Seq_3827	19_3826	OG3747
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_glabrata@Seq_4503	19_4502	OG2132
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_glabrata@Seq_4857	19_4856	OG2701
+mitochondrial pyruvate dehydrogenase complex	Candida_glabrata@Seq_1973	19_1972	OG3294
+mitochondrial pyruvate dehydrogenase complex	Candida_glabrata@Seq_3670	19_3669	OG1959
+mitochondrial pyruvate dehydrogenase complex	Candida_glabrata@Seq_4155	19_4154	OG2807
+mitochondrial pyruvate dehydrogenase complex	Candida_glabrata@Seq_742	19_741	OG2071
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	Candida_glabrata@Seq_3426	19_3425	OG2112
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	Candida_glabrata@Seq_521	19_520	OG2704
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_1420	19_1419	OG4552
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_1578	19_1577	OG3575
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_2038	19_2037	OG2248
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_2906	19_2905	OG3403
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_3026	19_3025	OG2006
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_3481	19_3480	OG4360
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_3630	19_3629	OG4150
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_478	19_477	OG3208
+mitochondrial respiratory chain complex III	Candida_glabrata@Seq_4898	19_4897	OG3979
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_1280	19_1279	OG4346
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_1281	19_1280	OG16479
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_1592	19_1591	OG4118
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_3478	19_3477	OG3505
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_3863	19_3862	OG4751
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_4334	19_4333	OG2714
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_4361	19_4360	OG4316
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_4559	19_4558	OG1254
+mitochondrial respiratory chain complex IV	Candida_glabrata@Seq_764	19_763	OG4555
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_1010	19_1009	OG2871
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_1232	19_1231	OG2534
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_129	19_128	OG2636
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_1680	19_1679	OG4433
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_1928	19_1927	OG3282
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_2041	19_2040	OG2231
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_2052	19_2051	OG3047
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_2658	19_2657	OG3153
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3127	19_3126	OG2922
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3242	19_3241	OG1831
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3258	19_3257	OG3034
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3308	19_3307	OG4279
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3386	19_3385	OG7262
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3531	19_3530	OG5580
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3656	19_3655	OG3158
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_373	19_372	OG2125
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_3778	19_3777	OG3533
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_38	19_37	OG94006
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4022	19_4021	OG3882
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4132	19_4131	OG3987
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4156	19_4155	OG3539
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4168	19_4167	OG2072
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4274	19_4273	OG3275
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4289	19_4288	OG3873
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4576	19_4575	OG3442
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4683	19_4682	OG3564
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4903	19_4902	OG2782
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4931	19_4930	OG4200
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_4963	19_4962	OG6577
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_5005	19_5004	OG3210
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_5122	19_5121	OG4914
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_514	19_513	OG2988
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_682	19_681	OG2393
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_908	19_907	OG3534
+mitochondrial small ribosomal subunit	Candida_glabrata@Seq_93	19_92	OG3464
+mitotic checkpoint complex	Candida_glabrata@Seq_1881	19_1880	OG3328
+mitotic checkpoint complex	Candida_glabrata@Seq_348	19_347	OG1577
+mitotic checkpoint complex	Candida_glabrata@Seq_5099	19_5098	OG4168
+mitotic checkpoint complex	Candida_glabrata@Seq_942	19_941	OG2889
+mitotic cohesin complex	Candida_glabrata@Seq_4207	19_4206	OG1715
+mitotic cohesin complex	Candida_glabrata@Seq_476	19_475	OG2067
+mitotic septin complex	Candida_glabrata@Seq_1026	19_1025	OG1923
+mitotic septin complex	Candida_glabrata@Seq_1297	19_1296	OG2015
+mitotic septin complex	Candida_glabrata@Seq_2536	19_2535	OG2370
+mitotic septin complex	Candida_glabrata@Seq_3492	19_3491	OG1474
+monopolin complex	Candida_glabrata@Seq_2522	19_2521	OG5805
+monopolin complex	Candida_glabrata@Seq_3487	19_3486	OG7666
+monopolin complex	Candida_glabrata@Seq_4429	19_4428	OG7172
+multi-eIF complex	Candida_glabrata@Seq_1835	19_1834	OG1834
+multi-eIF complex	Candida_glabrata@Seq_2267	19_2266	OG2461
+multi-eIF complex	Candida_glabrata@Seq_2326	19_2325	OG2160
+multi-eIF complex	Candida_glabrata@Seq_4096	19_4095	OG1460
+multi-eIF complex	Candida_glabrata@Seq_4706	19_4705	OG2491
+multi-eIF complex	Candida_glabrata@Seq_4891	19_4890	OG2024
+multi-eIF complex	Candida_glabrata@Seq_4977	19_4976	OG1776
+myosin I complex	Candida_glabrata@Seq_4097	19_4096	OG1202
+myosin II complex	Candida_glabrata@Seq_2868	19_2867	OG2426
+myosin II complex	Candida_glabrata@Seq_3361	19_3360	OG1747
+myosin II complex	Candida_glabrata@Seq_899	19_898	OG5123
+myosin complex	Candida_glabrata@Seq_2062	19_2061	OG1238
+myosin complex	Candida_glabrata@Seq_2133	19_2132	OG1202
+myosin complex	Candida_glabrata@Seq_3361	19_3360	OG1747
+myosin complex	Candida_glabrata@Seq_4097	19_4096	OG1202
+myosin complex	Candida_glabrata@Seq_850	19_849	OG1238
+nascent polypeptide-associated complex	Candida_glabrata@Seq_320	19_319	OG4149
+nascent polypeptide-associated complex	Candida_glabrata@Seq_3415	19_3414	OG2261
+nascent polypeptide-associated complex	Candida_glabrata@Seq_4521	19_4520	OG2410
+negative cofactor 2 complex	Candida_glabrata@Seq_3592	19_3591	OG4248
+negative cofactor 2 complex	Candida_glabrata@Seq_4395	19_4394	OG2699
+nuclear MIS12/MIND complex	Candida_glabrata@Seq_3210	19_3209	OG3295
+nuclear MIS12/MIND complex	Candida_glabrata@Seq_4428	19_4427	OG6386
+nuclear MIS12/MIND complex	Candida_glabrata@Seq_4590	19_4589	OG3440
+nuclear MIS12/MIND complex	Candida_glabrata@Seq_4848	19_4847	OG4654
+nuclear RNA export factor complex	Candida_glabrata@Seq_1710	19_1709	OG3272
+nuclear RNA export factor complex	Candida_glabrata@Seq_4292	19_4291	OG4210
+nuclear SCF ubiquitin ligase complex	Candida_glabrata@Seq_1796	19_1795	OG1489
+nuclear SCF ubiquitin ligase complex	Candida_glabrata@Seq_2268	19_2267	OG3070
+nuclear SCF ubiquitin ligase complex	Candida_glabrata@Seq_2921	19_2920	OG2575
+nuclear SCF ubiquitin ligase complex	Candida_glabrata@Seq_3721	19_3720	OG2479
+nuclear SCF ubiquitin ligase complex	Candida_glabrata@Seq_4899	19_4898	OG3051
+nuclear cap binding complex	Candida_glabrata@Seq_2815	19_2814	OG1726
+nuclear cap binding complex	Candida_glabrata@Seq_4788	19_4787	OG2725
+nuclear condensin complex	Candida_glabrata@Seq_256	19_255	OG1520
+nuclear condensin complex	Candida_glabrata@Seq_3591	19_3590	OG1699
+nuclear condensin complex	Candida_glabrata@Seq_4412	19_4411	OG2533
+nuclear condensin complex	Candida_glabrata@Seq_658	19_657	OG1820
+nuclear condensin complex	Candida_glabrata@Seq_7	19_6	OG1225
+nuclear cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_2296	19_2295	OG3468
+nuclear cyclin-dependent protein kinase holoenzyme complex	Candida_glabrata@Seq_3582	19_3581	OG3501
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_1325	19_1324	OG3117
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_1520	19_1519	OG1886
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_2480	19_2479	OG2312
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_2639	19_2638	OG2886
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_4327	19_4326	OG3549
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_447	19_446	OG2066
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_563	19_562	OG2826
+nuclear exosome (RNase complex)	Candida_glabrata@Seq_774	19_773	OG3312
+nuclear mitotic cohesin complex	Candida_glabrata@Seq_2168	19_2167	OG6375
+nuclear mitotic cohesin complex	Candida_glabrata@Seq_4207	19_4206	OG1715
+nuclear mitotic cohesin complex	Candida_glabrata@Seq_476	19_475	OG2067
+nuclear nucleosome	Candida_glabrata@Seq_1660	19_1659	OG1093
+nuclear origin of replication recognition complex	Candida_glabrata@Seq_1369	19_1368	OG1737
+nuclear origin of replication recognition complex	Candida_glabrata@Seq_1941	19_1940	OG3684
+nuclear origin of replication recognition complex	Candida_glabrata@Seq_2656	19_2655	OG4076
+nuclear origin of replication recognition complex	Candida_glabrata@Seq_5096	19_5095	OG1973
+nuclear origin of replication recognition complex	Candida_glabrata@Seq_894	19_893	OG6533
+nuclear pore	Candida_glabrata@Seq_1157	19_1156	OG2625
+nuclear pore	Candida_glabrata@Seq_1257	19_1256	OG1372
+nuclear pore	Candida_glabrata@Seq_1481	19_1480	OG2595
+nuclear pore	Candida_glabrata@Seq_1597	19_1596	OG2626
+nuclear pore	Candida_glabrata@Seq_1697	19_1696	OG2333
+nuclear pore	Candida_glabrata@Seq_1734	19_1733	OG1733
+nuclear pore	Candida_glabrata@Seq_1744	19_1743	OG2689
+nuclear pore	Candida_glabrata@Seq_1813	19_1812	OG4340
+nuclear pore	Candida_glabrata@Seq_1829	19_1828	OG1797
+nuclear pore	Candida_glabrata@Seq_1881	19_1880	OG3328
+nuclear pore	Candida_glabrata@Seq_2171	19_2170	OG2862
+nuclear pore	Candida_glabrata@Seq_2195	19_2194	OG4031
+nuclear pore	Candida_glabrata@Seq_2196	19_2195	OG2269
+nuclear pore	Candida_glabrata@Seq_2408	19_2407	OG3342
+nuclear pore	Candida_glabrata@Seq_255	19_254	OG2179
+nuclear pore	Candida_glabrata@Seq_2622	19_2621	OG5643
+nuclear pore	Candida_glabrata@Seq_2740	19_2739	OG1789
+nuclear pore	Candida_glabrata@Seq_277	19_276	OG1627
+nuclear pore	Candida_glabrata@Seq_2871	19_2870	OG2771
+nuclear pore	Candida_glabrata@Seq_2933	19_2932	OG2517
+nuclear pore	Candida_glabrata@Seq_2934	19_2933	OG4621
+nuclear pore	Candida_glabrata@Seq_3023	19_3022	OG2597
+nuclear pore	Candida_glabrata@Seq_3136	19_3135	OG3379
+nuclear pore	Candida_glabrata@Seq_3354	19_3353	OG2829
+nuclear pore	Candida_glabrata@Seq_3451	19_3450	OG3733
+nuclear pore	Candida_glabrata@Seq_3546	19_3545	OG3193
+nuclear pore	Candida_glabrata@Seq_377	19_376	OG6674
+nuclear pore	Candida_glabrata@Seq_3923	19_3922	OG2875
+nuclear pore	Candida_glabrata@Seq_406	19_405	OG1806
+nuclear pore	Candida_glabrata@Seq_4104	19_4103	OG2830
+nuclear pore	Candida_glabrata@Seq_423	19_422	OG3436
+nuclear pore	Candida_glabrata@Seq_4240	19_4239	OG26507
+nuclear pore	Candida_glabrata@Seq_4404	19_4403	OG6382
+nuclear pore	Candida_glabrata@Seq_441	19_440	OG4525
+nuclear pore	Candida_glabrata@Seq_4438	19_4437	OG5248
+nuclear pore	Candida_glabrata@Seq_4478	19_4477	OG2697
+nuclear pore	Candida_glabrata@Seq_4680	19_4679	OG4388
+nuclear pore	Candida_glabrata@Seq_4699	19_4698	OG3512
+nuclear pore	Candida_glabrata@Seq_483	19_482	OG1536
+nuclear pore	Candida_glabrata@Seq_5034	19_5033	OG2771
+nuclear pore	Candida_glabrata@Seq_5035	19_5034	OG1953
+nuclear pore	Candida_glabrata@Seq_664	19_663	OG6634
+nuclear pore	Candida_glabrata@Seq_678	19_677	OG3646
+nuclear pore	Candida_glabrata@Seq_788	19_787	OG28722
+nuclear pore central transport channel	Candida_glabrata@Seq_1157	19_1156	OG2625
+nuclear pore central transport channel	Candida_glabrata@Seq_1813	19_1812	OG4340
+nuclear pore central transport channel	Candida_glabrata@Seq_2622	19_2621	OG5643
+nuclear pore central transport channel	Candida_glabrata@Seq_2933	19_2932	OG2517
+nuclear pore central transport channel	Candida_glabrata@Seq_2934	19_2933	OG4621
+nuclear pore central transport channel	Candida_glabrata@Seq_3451	19_3450	OG3733
+nuclear pore central transport channel	Candida_glabrata@Seq_3923	19_3922	OG2875
+nuclear pore central transport channel	Candida_glabrata@Seq_4240	19_4239	OG26507
+nuclear pore central transport channel	Candida_glabrata@Seq_441	19_440	OG4525
+nuclear pore central transport channel	Candida_glabrata@Seq_4699	19_4698	OG3512
+nuclear pore central transport channel	Candida_glabrata@Seq_664	19_663	OG6634
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_2934	19_2933	OG4621
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_3354	19_3353	OG2829
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_3923	19_3922	OG2875
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_4104	19_4103	OG2830
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_441	19_440	OG4525
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_4438	19_4437	OG5248
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_59	19_58	OG3968
+nuclear pore cytoplasmic filaments	Candida_glabrata@Seq_630	19_629	OG2103
+nuclear pore inner ring	Candida_glabrata@Seq_1481	19_1480	OG2595
+nuclear pore inner ring	Candida_glabrata@Seq_1744	19_1743	OG2689
+nuclear pore inner ring	Candida_glabrata@Seq_483	19_482	OG1536
+nuclear pore linkers	Candida_glabrata@Seq_4438	19_4437	OG5248
+nuclear pore linkers	Candida_glabrata@Seq_5034	19_5033	OG2771
+nuclear pore nuclear basket	Candida_glabrata@Seq_2171	19_2170	OG2862
+nuclear pore nuclear basket	Candida_glabrata@Seq_2622	19_2621	OG5643
+nuclear pore nuclear basket	Candida_glabrata@Seq_3354	19_3353	OG2829
+nuclear pore nuclear basket	Candida_glabrata@Seq_4240	19_4239	OG26507
+nuclear pore nuclear basket	Candida_glabrata@Seq_4699	19_4698	OG3512
+nuclear pore nuclear basket	Candida_glabrata@Seq_5034	19_5033	OG2771
+nuclear pore nuclear basket	Candida_glabrata@Seq_664	19_663	OG6634
+nuclear pore outer ring	Candida_glabrata@Seq_1697	19_1696	OG2333
+nuclear pore outer ring	Candida_glabrata@Seq_2408	19_2407	OG3342
+nuclear pore outer ring	Candida_glabrata@Seq_3023	19_3022	OG2597
+nuclear pore outer ring	Candida_glabrata@Seq_3136	19_3135	OG3379
+nuclear pore outer ring	Candida_glabrata@Seq_3451	19_3450	OG3733
+nuclear pore outer ring	Candida_glabrata@Seq_4404	19_4403	OG6382
+nuclear pore outer ring	Candida_glabrata@Seq_678	19_677	OG3646
+nuclear pore transmembrane ring	Candida_glabrata@Seq_1597	19_1596	OG2626
+nuclear pore transmembrane ring	Candida_glabrata@Seq_3546	19_3545	OG3193
+nuclear pore transmembrane ring	Candida_glabrata@Seq_377	19_376	OG6674
+nuclear pre-replicative complex	Candida_glabrata@Seq_132	19_131	OG1049
+nuclear pre-replicative complex	Candida_glabrata@Seq_1369	19_1368	OG1737
+nuclear pre-replicative complex	Candida_glabrata@Seq_1900	19_1899	OG6443
+nuclear pre-replicative complex	Candida_glabrata@Seq_1941	19_1940	OG3684
+nuclear pre-replicative complex	Candida_glabrata@Seq_2173	19_2172	OG2135
+nuclear pre-replicative complex	Candida_glabrata@Seq_2387	19_2386	OG1830
+nuclear pre-replicative complex	Candida_glabrata@Seq_2656	19_2655	OG4076
+nuclear pre-replicative complex	Candida_glabrata@Seq_2907	19_2906	OG1824
+nuclear pre-replicative complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+nuclear pre-replicative complex	Candida_glabrata@Seq_3997	19_3996	OG2001
+nuclear pre-replicative complex	Candida_glabrata@Seq_5096	19_5095	OG1973
+nuclear pre-replicative complex	Candida_glabrata@Seq_68	19_67	OG1809
+nuclear pre-replicative complex	Candida_glabrata@Seq_802	19_801	OG2191
+nuclear pre-replicative complex	Candida_glabrata@Seq_894	19_893	OG6533
+nuclear proteasome complex	Candida_glabrata@Seq_318	19_317	OG2079
+nuclear proteasome complex	Candida_glabrata@Seq_544	19_543	OG2108
+nuclear proteasome complex	Candida_glabrata@Seq_851	19_850	OG2570
+nuclear replisome	Candida_glabrata@Seq_5042	19_5041	OG2454
+nuclear telomere cap complex	Candida_glabrata@Seq_4871	19_4870	OG7328
+nucleolar preribosome	Candida_glabrata@Seq_4493	19_4492	OG2267
+nucleolar preribosome	Candida_glabrata@Seq_671	19_670	OG2692
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_1460	19_1459	OG7524
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_2605	19_2604	OG4083
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_2999	19_2998	OG2398
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_3107	19_3106	OG4111
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_3264	19_3263	OG6529
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_3935	19_3934	OG4119
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_4526	19_4525	OG28702
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_4719	19_4718	OG2244
+nucleolar ribonuclease P complex	Candida_glabrata@Seq_976	19_975	OG2237
+nucleoplasmic THO complex	Candida_glabrata@Seq_150	19_149	OG7275
+nucleoplasmic THO complex	Candida_glabrata@Seq_164	19_163	OG2611
+nucleoplasmic THO complex	Candida_glabrata@Seq_284	19_283	OG6863
+nucleoplasmic THO complex	Candida_glabrata@Seq_4837	19_4836	OG6404
+nucleosome	Candida_glabrata@Seq_1660	19_1659	OG1093
+nucleosome	Candida_glabrata@Seq_3645	19_3644	OG4208
+nucleosome	Candida_glabrata@Seq_4159	19_4158	OG1088
+nucleosome	Candida_glabrata@Seq_4343	19_4342	OG1031
+nucleosome	Candida_glabrata@Seq_55	19_54	OG3375
+nucleosome	Candida_glabrata@Seq_820	19_819	OG3956
+nucleosome	Candida_glabrata@Seq_958	19_957	OG1027
+nucleotide-activated protein kinase complex	Candida_glabrata@Seq_2179	19_2178	OG5665
+nucleotide-activated protein kinase complex	Candida_glabrata@Seq_2425	19_2424	OG17004
+nucleotide-activated protein kinase complex	Candida_glabrata@Seq_2638	19_2637	OG2168
+nucleotide-activated protein kinase complex	Candida_glabrata@Seq_2675	19_2674	OG3097
+nucleotide-activated protein kinase complex	Candida_glabrata@Seq_4426	19_4425	OG3582
+nucleotide-excision repair complex	Candida_glabrata@Seq_2246	19_2245	OG2523
+nucleotide-excision repair complex	Candida_glabrata@Seq_3726	19_3725	OG1729
+nucleotide-excision repair factor 1 complex	Candida_glabrata@Seq_1000	19_999	OG3166
+nucleotide-excision repair factor 1 complex	Candida_glabrata@Seq_4112	19_4111	OG2119
+nucleotide-excision repair factor 1 complex	Candida_glabrata@Seq_5056	19_5055	OG4094
+nucleotide-excision repair factor 2 complex	Candida_glabrata@Seq_1328	19_1327	OG2017
+nucleotide-excision repair factor 2 complex	Candida_glabrata@Seq_25	19_24	OG1906
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_2032	19_2031	OG2328
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_2571	19_2570	OG2341
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_2946	19_2945	OG2768
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_385	19_384	OG2005
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_4177	19_4176	OG1006
+nucleotide-excision repair factor 3 complex	Candida_glabrata@Seq_4646	19_4645	OG3724
+nucleotide-excision repair factor 4 complex	Candida_glabrata@Seq_2246	19_2245	OG2523
+nucleotide-excision repair factor 4 complex	Candida_glabrata@Seq_249	19_248	OG3237
+nucleotide-excision repair factor 4 complex	Candida_glabrata@Seq_3726	19_3725	OG1729
+oligosaccharyltransferase complex	Candida_glabrata@Seq_2112	19_2111	OG1805
+oligosaccharyltransferase complex	Candida_glabrata@Seq_2251	19_2250	OG2541
+oligosaccharyltransferase complex	Candida_glabrata@Seq_2722	19_2721	OG1082
+oligosaccharyltransferase complex	Candida_glabrata@Seq_3173	19_3172	OG3152
+oligosaccharyltransferase complex	Candida_glabrata@Seq_4441	19_4440	OG2205
+oligosaccharyltransferase complex	Candida_glabrata@Seq_959	19_958	OG4923
+origin recognition complex	Candida_glabrata@Seq_1941	19_1940	OG3684
+oxoglutarate dehydrogenase complex	Candida_glabrata@Seq_2561	19_2560	OG1924
+peroxisomal importomer complex	Candida_glabrata@Seq_1868	19_1867	OG2690
+peroxisomal importomer complex	Candida_glabrata@Seq_2401	19_2400	OG4323
+peroxisomal importomer complex	Candida_glabrata@Seq_2864	19_2863	OG3547
+peroxisomal importomer complex	Candida_glabrata@Seq_3139	19_3138	OG3406
+peroxisomal importomer complex	Candida_glabrata@Seq_3330	19_3329	OG2756
+peroxisomal importomer complex	Candida_glabrata@Seq_3959	19_3958	OG6724
+peroxisomal importomer complex	Candida_glabrata@Seq_46	19_45	OG2823
+peroxisomal importomer complex	Candida_glabrata@Seq_5008	19_5007	OG3876
+peroxisomal importomer complex	Candida_glabrata@Seq_782	19_781	OG6819
+phenylalanine-tRNA ligase complex	Candida_glabrata@Seq_2488	19_2487	OG2014
+phenylalanine-tRNA ligase complex	Candida_glabrata@Seq_3879	19_3878	OG1856
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_glabrata@Seq_208	19_207	OG1663
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_glabrata@Seq_2455	19_2454	OG6916
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_glabrata@Seq_2777	19_2776	OG7884
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_glabrata@Seq_3152	19_3151	OG4322
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_glabrata@Seq_3806	19_3805	OG3258
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_glabrata@Seq_1988	19_1987	OG7223
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_glabrata@Seq_208	19_207	OG1663
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_glabrata@Seq_3152	19_3151	OG4322
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_glabrata@Seq_3806	19_3805	OG3258
+phospholipid-translocating ATPase complex	Candida_glabrata@Seq_3780	19_3779	OG1008
+phosphopantothenoylcysteine decarboxylase complex	Candida_glabrata@Seq_1915	19_1914	OG2084
+phosphopantothenoylcysteine decarboxylase complex	Candida_glabrata@Seq_2018	19_2017	OG2084
+phosphopantothenoylcysteine decarboxylase complex	Candida_glabrata@Seq_5048	19_5047	OG3008
+phosphopyruvate hydratase complex	Candida_glabrata@Seq_2874	19_2873	OG1193
+phosphopyruvate hydratase complex	Candida_glabrata@Seq_949	19_948	OG1193
+plus-end kinesin complex	Candida_glabrata@Seq_2174	19_2173	OG2729
+polarisome	Candida_glabrata@Seq_2688	19_2687	OG1431
+polarisome	Candida_glabrata@Seq_4073	19_4072	OG3622
+polarisome	Candida_glabrata@Seq_501	19_500	OG1465
+polarisome	Candida_glabrata@Seq_593	19_592	OG6391
+polarisome	Candida_glabrata@Seq_662	19_661	OG4313
+polysomal ribosome	Candida_glabrata@Seq_1484	19_1483	OG2297
+polysomal ribosome	Candida_glabrata@Seq_3415	19_3414	OG2261
+polysomal ribosome	Candida_glabrata@Seq_4521	19_4520	OG2410
+polysome	Candida_glabrata@Seq_1127	19_1126	OG6614
+polysome	Candida_glabrata@Seq_1324	19_1323	OG2204
+polysome	Candida_glabrata@Seq_1379	19_1378	OG2035
+polysome	Candida_glabrata@Seq_1951	19_1950	OG2306
+polysome	Candida_glabrata@Seq_2224	19_2223	OG2530
+polysome	Candida_glabrata@Seq_2411	19_2410	OG2942
+polysome	Candida_glabrata@Seq_2754	19_2753	OG5015
+polysome	Candida_glabrata@Seq_2815	19_2814	OG1726
+polysome	Candida_glabrata@Seq_329	19_328	OG3667
+polysome	Candida_glabrata@Seq_3297	19_3296	OG2526
+polysome	Candida_glabrata@Seq_3467	19_3466	OG6759
+polysome	Candida_glabrata@Seq_3855	19_3854	OG6628
+polysome	Candida_glabrata@Seq_40	19_39	OG2211
+polysome	Candida_glabrata@Seq_4994	19_4993	OG2381
+polysome	Candida_glabrata@Seq_5023	19_5022	OG4274
+polysome	Candida_glabrata@Seq_5078	19_5077	OG1002
+polysome	Candida_glabrata@Seq_5106	19_5105	OG22634
+polysome	Candida_glabrata@Seq_560	19_559	OG1002
+polysome	Candida_glabrata@Seq_603	19_602	OG4128
+polysome	Candida_glabrata@Seq_605	19_604	OG1026
+polysome	Candida_glabrata@Seq_630	19_629	OG2103
+polysome	Candida_glabrata@Seq_948	19_947	OG1374
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_1735	19_1734	OG1002
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_1865	19_1864	OG4013
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_2099	19_2098	OG3664
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_226	19_225	OG3004
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_2547	19_2546	OG1004
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_2660	19_2659	OG3543
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_2841	19_2840	OG3741
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_310	19_309	OG3454
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_3347	19_3346	OG4990
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_3355	19_3354	OG3423
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_3583	19_3582	OG2322
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_391	19_390	OG2733
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_3941	19_3940	OG1651
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_494	19_493	OG6441
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_4964	19_4963	OG3916
+post-mRNA release spliceosomal complex	Candida_glabrata@Seq_5116	19_5115	OG4627
+post-spliceosomal complex	Candida_glabrata@Seq_4964	19_4963	OG3916
+prefoldin complex	Candida_glabrata@Seq_1019	19_1018	OG3846
+prefoldin complex	Candida_glabrata@Seq_1803	19_1802	OG2712
+prefoldin complex	Candida_glabrata@Seq_1920	19_1919	OG3823
+prefoldin complex	Candida_glabrata@Seq_272	19_271	OG4343
+prefoldin complex	Candida_glabrata@Seq_329	19_328	OG3667
+prefoldin complex	Candida_glabrata@Seq_4415	19_4414	OG3340
+prefoldin complex	Candida_glabrata@Seq_709	19_708	OG6326
+preribosome	Candida_glabrata@Seq_2257	19_2256	OG2155
+preribosome	Candida_glabrata@Seq_640	19_639	OG2320
+preribosome, large subunit precursor	Candida_glabrata@Seq_1019	19_1018	OG3846
+preribosome, large subunit precursor	Candida_glabrata@Seq_1327	19_1326	OG1709
+preribosome, large subunit precursor	Candida_glabrata@Seq_1488	19_1487	OG2887
+preribosome, large subunit precursor	Candida_glabrata@Seq_1519	19_1518	OG2592
+preribosome, large subunit precursor	Candida_glabrata@Seq_1541	19_1540	OG2253
+preribosome, large subunit precursor	Candida_glabrata@Seq_1560	19_1559	OG4585
+preribosome, large subunit precursor	Candida_glabrata@Seq_1648	19_1647	OG2452
+preribosome, large subunit precursor	Candida_glabrata@Seq_1708	19_1707	OG2060
+preribosome, large subunit precursor	Candida_glabrata@Seq_1742	19_1741	OG4534
+preribosome, large subunit precursor	Candida_glabrata@Seq_1807	19_1806	OG2085
+preribosome, large subunit precursor	Candida_glabrata@Seq_1945	19_1944	OG2193
+preribosome, large subunit precursor	Candida_glabrata@Seq_1992	19_1991	OG1385
+preribosome, large subunit precursor	Candida_glabrata@Seq_2170	19_2169	OG4520
+preribosome, large subunit precursor	Candida_glabrata@Seq_2200	19_2199	OG1620
+preribosome, large subunit precursor	Candida_glabrata@Seq_2303	19_2302	OG6297
+preribosome, large subunit precursor	Candida_glabrata@Seq_2421	19_2420	OG3135
+preribosome, large subunit precursor	Candida_glabrata@Seq_2461	19_2460	OG1670
+preribosome, large subunit precursor	Candida_glabrata@Seq_2513	19_2512	OG1351
+preribosome, large subunit precursor	Candida_glabrata@Seq_259	19_258	OG1722
+preribosome, large subunit precursor	Candida_glabrata@Seq_265	19_264	OG3419
+preribosome, large subunit precursor	Candida_glabrata@Seq_3135	19_3134	OG3592
+preribosome, large subunit precursor	Candida_glabrata@Seq_3176	19_3175	OG2548
+preribosome, large subunit precursor	Candida_glabrata@Seq_3270	19_3269	OG1926
+preribosome, large subunit precursor	Candida_glabrata@Seq_3364	19_3363	OG2622
+preribosome, large subunit precursor	Candida_glabrata@Seq_3412	19_3411	OG2502
+preribosome, large subunit precursor	Candida_glabrata@Seq_3438	19_3437	OG2620
+preribosome, large subunit precursor	Candida_glabrata@Seq_3537	19_3536	OG4235
+preribosome, large subunit precursor	Candida_glabrata@Seq_3594	19_3593	OG2386
+preribosome, large subunit precursor	Candida_glabrata@Seq_3751	19_3750	OG3003
+preribosome, large subunit precursor	Candida_glabrata@Seq_3978	19_3977	OG1638
+preribosome, large subunit precursor	Candida_glabrata@Seq_4079	19_4078	OG3446
+preribosome, large subunit precursor	Candida_glabrata@Seq_4095	19_4094	OG1976
+preribosome, large subunit precursor	Candida_glabrata@Seq_4164	19_4163	OG2078
+preribosome, large subunit precursor	Candida_glabrata@Seq_4423	19_4422	OG1752
+preribosome, large subunit precursor	Candida_glabrata@Seq_4509	19_4508	OG4740
+preribosome, large subunit precursor	Candida_glabrata@Seq_460	19_459	OG3327
+preribosome, large subunit precursor	Candida_glabrata@Seq_4619	19_4618	OG5113
+preribosome, large subunit precursor	Candida_glabrata@Seq_4991	19_4990	OG3022
+preribosome, large subunit precursor	Candida_glabrata@Seq_5109	19_5108	OG2331
+preribosome, large subunit precursor	Candida_glabrata@Seq_595	19_594	OG1607
+preribosome, large subunit precursor	Candida_glabrata@Seq_646	19_645	OG1423
+preribosome, large subunit precursor	Candida_glabrata@Seq_752	19_751	OG3195
+preribosome, small subunit precursor	Candida_glabrata@Seq_135	19_134	OG3462
+preribosome, small subunit precursor	Candida_glabrata@Seq_15	19_14	OG2151
+preribosome, small subunit precursor	Candida_glabrata@Seq_166	19_165	OG2052
+preribosome, small subunit precursor	Candida_glabrata@Seq_1732	19_1731	OG1009
+preribosome, small subunit precursor	Candida_glabrata@Seq_1742	19_1741	OG4534
+preribosome, small subunit precursor	Candida_glabrata@Seq_2182	19_2181	OG2434
+preribosome, small subunit precursor	Candida_glabrata@Seq_2885	19_2884	OG2065
+preribosome, small subunit precursor	Candida_glabrata@Seq_3008	19_3007	OG1848
+preribosome, small subunit precursor	Candida_glabrata@Seq_3176	19_3175	OG2548
+preribosome, small subunit precursor	Candida_glabrata@Seq_4196	19_4195	OG1632
+preribosome, small subunit precursor	Candida_glabrata@Seq_5041	19_5040	OG4566
+preribosome, small subunit precursor	Candida_glabrata@Seq_889	19_888	OG2137
+prespliceosome	Candida_glabrata@Seq_3407	19_3406	OG6615
+proteasome complex	Candida_glabrata@Seq_2217	19_2216	OG3556
+proteasome complex	Candida_glabrata@Seq_2392	19_2391	OG2150
+proteasome complex	Candida_glabrata@Seq_3175	19_3174	OG3481
+proteasome complex	Candida_glabrata@Seq_3581	19_3580	OG2993
+proteasome complex	Candida_glabrata@Seq_4360	19_4359	OG2513
+proteasome complex	Candida_glabrata@Seq_497	19_496	OG2706
+proteasome complex	Candida_glabrata@Seq_851	19_850	OG2570
+proteasome core complex	Candida_glabrata@Seq_1377	19_1376	OG3655
+proteasome core complex	Candida_glabrata@Seq_204	19_203	OG2390
+proteasome core complex	Candida_glabrata@Seq_2126	19_2125	OG2236
+proteasome core complex	Candida_glabrata@Seq_2873	19_2872	OG2223
+proteasome core complex	Candida_glabrata@Seq_33	19_32	OG3947
+proteasome core complex	Candida_glabrata@Seq_344	19_343	OG2696
+proteasome core complex	Candida_glabrata@Seq_378	19_377	OG2187
+proteasome core complex	Candida_glabrata@Seq_4047	19_4046	OG2825
+proteasome core complex	Candida_glabrata@Seq_4215	19_4214	OG2953
+proteasome core complex	Candida_glabrata@Seq_4271	19_4270	OG2485
+proteasome core complex	Candida_glabrata@Seq_4435	19_4434	OG1198
+proteasome core complex	Candida_glabrata@Seq_4469	19_4468	OG2355
+proteasome core complex	Candida_glabrata@Seq_655	19_654	OG2558
+proteasome core complex	Candida_glabrata@Seq_885	19_884	OG2459
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_2873	19_2872	OG2223
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_33	19_32	OG3947
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_378	19_377	OG2187
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_4047	19_4046	OG2825
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_4469	19_4468	OG2355
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_655	19_654	OG2558
+proteasome core complex, alpha-subunit complex	Candida_glabrata@Seq_885	19_884	OG2459
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_1377	19_1376	OG3655
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_204	19_203	OG2390
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_2126	19_2125	OG2236
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_344	19_343	OG2696
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_4215	19_4214	OG2953
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_4271	19_4270	OG2485
+proteasome core complex, beta-subunit complex	Candida_glabrata@Seq_4435	19_4434	OG1198
+proteasome regulatory particle	Candida_glabrata@Seq_3052	19_3051	OG2130
+proteasome regulatory particle	Candida_glabrata@Seq_3175	19_3174	OG3481
+proteasome regulatory particle	Candida_glabrata@Seq_318	19_317	OG2079
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_1882	19_1881	OG2948
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_3052	19_3051	OG2130
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_318	19_317	OG2079
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_3303	19_3302	OG2419
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_4360	19_4359	OG2513
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_4632	19_4631	OG1984
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_4898	19_4897	OG3979
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_608	19_607	OG2069
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_762	19_761	OG2070
+proteasome regulatory particle, base subcomplex	Candida_glabrata@Seq_935	19_934	OG2212
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_2636	19_2635	OG3155
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_2913	19_2912	OG2323
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_3105	19_3104	OG2617
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_3320	19_3319	OG4120
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_3785	19_3784	OG7819
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_4360	19_4359	OG2513
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_4570	19_4569	OG2230
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_4849	19_4848	OG3373
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_497	19_496	OG2706
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_544	19_543	OG2108
+proteasome regulatory particle, lid subcomplex	Candida_glabrata@Seq_851	19_850	OG2570
+proteasome storage granule	Candida_glabrata@Seq_1882	19_1881	OG2948
+proteasome storage granule	Candida_glabrata@Seq_2088	19_2087	OG1490
+proteasome storage granule	Candida_glabrata@Seq_2126	19_2125	OG2236
+proteasome storage granule	Candida_glabrata@Seq_2636	19_2635	OG3155
+proteasome storage granule	Candida_glabrata@Seq_3105	19_3104	OG2617
+proteasome storage granule	Candida_glabrata@Seq_318	19_317	OG2079
+proteasome storage granule	Candida_glabrata@Seq_33	19_32	OG3947
+proteasome storage granule	Candida_glabrata@Seq_3303	19_3302	OG2419
+proteasome storage granule	Candida_glabrata@Seq_3320	19_3319	OG4120
+proteasome storage granule	Candida_glabrata@Seq_378	19_377	OG2187
+proteasome storage granule	Candida_glabrata@Seq_3785	19_3784	OG7819
+proteasome storage granule	Candida_glabrata@Seq_4047	19_4046	OG2825
+proteasome storage granule	Candida_glabrata@Seq_4215	19_4214	OG2953
+proteasome storage granule	Candida_glabrata@Seq_4570	19_4569	OG2230
+proteasome storage granule	Candida_glabrata@Seq_4849	19_4848	OG3373
+proteasome storage granule	Candida_glabrata@Seq_655	19_654	OG2558
+proteasome storage granule	Candida_glabrata@Seq_851	19_850	OG2570
+protein farnesyltransferase complex	Candida_glabrata@Seq_2769	19_2768	OG2682
+protein farnesyltransferase complex	Candida_glabrata@Seq_3078	19_3077	OG3200
+protein kinase CK2 complex	Candida_glabrata@Seq_1465	19_1464	OG3615
+protein kinase CK2 complex	Candida_glabrata@Seq_1815	19_1814	OG1845
+protein kinase CK2 complex	Candida_glabrata@Seq_4239	19_4238	OG2171
+protein kinase CK2 complex	Candida_glabrata@Seq_580	19_579	OG3780
+protein phosphatase 4 complex	Candida_glabrata@Seq_4826	19_4825	OG4589
+protein phosphatase 4 complex	Candida_glabrata@Seq_681	19_680	OG6484
+protein phosphatase type 1 complex	Candida_glabrata@Seq_2194	19_2193	OG6285
+protein phosphatase type 1 complex	Candida_glabrata@Seq_2552	19_2551	OG8894
+protein phosphatase type 1 complex	Candida_glabrata@Seq_3091	19_3090	OG1452
+protein phosphatase type 1 complex	Candida_glabrata@Seq_3730	19_3729	OG28680
+protein phosphatase type 1 complex	Candida_glabrata@Seq_4708	19_4707	OG3661
+protein phosphatase type 2A complex	Candida_glabrata@Seq_1355	19_1354	OG2857
+protein phosphatase type 2A complex	Candida_glabrata@Seq_157	19_156	OG1535
+protein phosphatase type 2A complex	Candida_glabrata@Seq_207	19_206	OG1992
+protein phosphatase type 2A complex	Candida_glabrata@Seq_3283	19_3282	OG1267
+protein phosphatase type 2A complex	Candida_glabrata@Seq_3704	19_3703	OG1711
+protein phosphatase type 2A complex	Candida_glabrata@Seq_698	19_697	OG2547
+protein serine/threonine phosphatase complex	Candida_glabrata@Seq_1747	19_1746	OG1362
+protein serine/threonine phosphatase complex	Candida_glabrata@Seq_698	19_697	OG2547
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_glabrata@Seq_1198	19_1197	OG1533
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_glabrata@Seq_2486	19_2485	OG1802
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_glabrata@Seq_2911	19_2910	OG2644
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_glabrata@Seq_3404	19_3403	OG2402
+proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_145	19_144	OG1449
+proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_2566	19_2565	OG2367
+proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_3619	19_3618	OG1046
+proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_446	19_445	OG3546
+proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_4598	19_4597	OG1046
+proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_1589	19_1588	OG2332
+proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_2127	19_2126	OG1842
+proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_2565	19_2564	OG2469
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_glabrata@Seq_1198	19_1197	OG1533
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_glabrata@Seq_1589	19_1588	OG2332
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_glabrata@Seq_2486	19_2485	OG1802
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_glabrata@Seq_3001	19_3000	OG1656
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_glabrata@Seq_4967	19_4966	OG4357
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_glabrata@Seq_145	19_144	OG1449
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_glabrata@Seq_2566	19_2565	OG2367
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_glabrata@Seq_446	19_445	OG3546
+pyruvate dehydrogenase complex	Candida_glabrata@Seq_3670	19_3669	OG1959
+pyruvate dehydrogenase complex	Candida_glabrata@Seq_4155	19_4154	OG2807
+pyruvate dehydrogenase complex	Candida_glabrata@Seq_742	19_741	OG2071
+replication fork protection complex	Candida_glabrata@Seq_113	19_112	OG3283
+replication fork protection complex	Candida_glabrata@Seq_132	19_131	OG1049
+replication fork protection complex	Candida_glabrata@Seq_1438	19_1437	OG1653
+replication fork protection complex	Candida_glabrata@Seq_1660	19_1659	OG1093
+replication fork protection complex	Candida_glabrata@Seq_1810	19_1809	OG3745
+replication fork protection complex	Candida_glabrata@Seq_2044	19_2043	OG2873
+replication fork protection complex	Candida_glabrata@Seq_2286	19_2285	OG3307
+replication fork protection complex	Candida_glabrata@Seq_2340	19_2339	OG5907
+replication fork protection complex	Candida_glabrata@Seq_2907	19_2906	OG1824
+replication fork protection complex	Candida_glabrata@Seq_3012	19_3011	OG3049
+replication fork protection complex	Candida_glabrata@Seq_3321	19_3320	OG2178
+replication fork protection complex	Candida_glabrata@Seq_3864	19_3863	OG2034
+replication fork protection complex	Candida_glabrata@Seq_3997	19_3996	OG2001
+replication fork protection complex	Candida_glabrata@Seq_4159	19_4158	OG1088
+replication fork protection complex	Candida_glabrata@Seq_4343	19_4342	OG1031
+replication fork protection complex	Candida_glabrata@Seq_4363	19_4362	OG2169
+replication fork protection complex	Candida_glabrata@Seq_594	19_593	OG6442
+replication fork protection complex	Candida_glabrata@Seq_802	19_801	OG2191
+replication fork protection complex	Candida_glabrata@Seq_958	19_957	OG1027
+replication fork protection complex	Candida_glabrata@Seq_997	19_996	OG3537
+replisome	Candida_glabrata@Seq_1821	19_1820	OG4176
+replisome	Candida_glabrata@Seq_2535	19_2534	OG1505
+retromer complex	Candida_glabrata@Seq_1537	19_1536	OG4133
+retromer complex	Candida_glabrata@Seq_1619	19_1618	OG1939
+retromer complex	Candida_glabrata@Seq_2686	19_2685	OG2723
+retromer complex	Candida_glabrata@Seq_2786	19_2785	OG3175
+retromer complex	Candida_glabrata@Seq_792	19_791	OG1735
+retromer, cargo-selective complex	Candida_glabrata@Seq_1537	19_1536	OG4133
+retromer, cargo-selective complex	Candida_glabrata@Seq_1619	19_1618	OG1939
+retromer, cargo-selective complex	Candida_glabrata@Seq_2786	19_2785	OG3175
+retromer, tubulation complex	Candida_glabrata@Seq_2686	19_2685	OG2723
+retromer, tubulation complex	Candida_glabrata@Seq_792	19_791	OG1735
+riboflavin synthase complex	Candida_glabrata@Seq_2093	19_2092	OG4010
+ribonuclease H2 complex	Candida_glabrata@Seq_1329	19_1328	OG6496
+ribonuclease H2 complex	Candida_glabrata@Seq_3660	19_3659	OG4137
+ribonuclease MRP complex	Candida_glabrata@Seq_1448	19_1447	OG5868
+ribonuclease MRP complex	Candida_glabrata@Seq_1460	19_1459	OG7524
+ribonuclease MRP complex	Candida_glabrata@Seq_2605	19_2604	OG4083
+ribonuclease MRP complex	Candida_glabrata@Seq_2999	19_2998	OG2398
+ribonuclease MRP complex	Candida_glabrata@Seq_3264	19_3263	OG6529
+ribonuclease MRP complex	Candida_glabrata@Seq_346	19_345	OG3619
+ribonuclease MRP complex	Candida_glabrata@Seq_3935	19_3934	OG4119
+ribonuclease MRP complex	Candida_glabrata@Seq_4526	19_4525	OG28702
+ribonuclease MRP complex	Candida_glabrata@Seq_4719	19_4718	OG2244
+ribonuclease MRP complex	Candida_glabrata@Seq_976	19_975	OG2237
+ribonuclease P complex	Candida_glabrata@Seq_2999	19_2998	OG2398
+ribonuclease P complex	Candida_glabrata@Seq_976	19_975	OG2237
+ribonucleoprotein complex	Candida_glabrata@Seq_3236	19_3235	OG3010
+ribonucleoprotein complex	Candida_glabrata@Seq_40	19_39	OG2211
+ribonucleoprotein complex	Candida_glabrata@Seq_527	19_526	OG19678
+ribonucleoside-diphosphate reductase complex	Candida_glabrata@Seq_2407	19_2406	OG1487
+ribonucleoside-diphosphate reductase complex	Candida_glabrata@Seq_2851	19_2850	OG1070
+ribonucleoside-diphosphate reductase complex	Candida_glabrata@Seq_3115	19_3114	OG8784
+ribose phosphate diphosphokinase complex	Candida_glabrata@Seq_1116	19_1115	OG2007
+ribose phosphate diphosphokinase complex	Candida_glabrata@Seq_4864	19_4863	OG2588
+ribose phosphate diphosphokinase complex	Candida_glabrata@Seq_4976	19_4975	OG1556
+septin complex	Candida_glabrata@Seq_1026	19_1025	OG1923
+septin complex	Candida_glabrata@Seq_1297	19_1296	OG2015
+septin complex	Candida_glabrata@Seq_2536	19_2535	OG2370
+septin complex	Candida_glabrata@Seq_2887	19_2886	OG5039
+septin complex	Candida_glabrata@Seq_3492	19_3491	OG1474
+septin complex	Candida_glabrata@Seq_75	19_74	OG4272
+sequestration of proteasome core complex in proteasome storage granule	Candida_glabrata@Seq_2088	19_2087	OG1490
+serine C-palmitoyltransferase complex	Candida_glabrata@Seq_4416	19_4415	OG1683
+shelterin complex	Candida_glabrata@Seq_1414	19_1413	OG2364
+shelterin complex	Candida_glabrata@Seq_2086	19_2085	OG4224
+signal peptidase complex	Candida_glabrata@Seq_1787	19_1786	OG6520
+signal peptidase complex	Candida_glabrata@Seq_1969	19_1968	OG4036
+signal peptidase complex	Candida_glabrata@Seq_4272	19_4271	OG2107
+signal peptidase complex	Candida_glabrata@Seq_4606	19_4605	OG2743
+signal recognition particle	Candida_glabrata@Seq_2036	19_2035	OG6472
+signal recognition particle	Candida_glabrata@Seq_2191	19_2190	OG6208
+signal recognition particle	Candida_glabrata@Seq_3440	19_3439	OG1686
+signal recognition particle	Candida_glabrata@Seq_3862	19_3861	OG2686
+signal recognition particle	Candida_glabrata@Seq_5072	19_5071	OG2289
+signal recognition particle receptor complex	Candida_glabrata@Seq_1563	19_1562	OG3261
+signal recognition particle receptor complex	Candida_glabrata@Seq_4041	19_4040	OG3743
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_1174	19_1173	OG4169
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_2036	19_2035	OG6472
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_2191	19_2190	OG6208
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_3440	19_3439	OG1686
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_3862	19_3861	OG2686
+signal recognition particle, endoplasmic reticulum targeting	Candida_glabrata@Seq_5072	19_5071	OG2289
+single-stranded DNA-dependent ATP-dependent DNA helicase complex	Candida_glabrata@Seq_2921	19_2920	OG2575
+small nuclear ribonucleoprotein complex	Candida_glabrata@Seq_5141	19_5140	OG6715
+small nucleolar ribonucleoprotein complex	Candida_glabrata@Seq_1404	19_1403	OG3758
+small nucleolar ribonucleoprotein complex	Candida_glabrata@Seq_2013	19_2012	OG2153
+small nucleolar ribonucleoprotein complex	Candida_glabrata@Seq_3219	19_3218	OG3888
+small nucleolar ribonucleoprotein complex	Candida_glabrata@Seq_3769	19_3768	OG3632
+small ribosomal subunit	Candida_glabrata@Seq_2182	19_2181	OG2434
+small ribosomal subunit	Candida_glabrata@Seq_2683	19_2682	OG1361
+small ribosomal subunit	Candida_glabrata@Seq_340	19_339	OG2198
+small ribosomal subunit	Candida_glabrata@Seq_3680	19_3679	OG1981
+small ribosomal subunit	Candida_glabrata@Seq_4152	19_4151	OG2580
+small ribosomal subunit	Candida_glabrata@Seq_4690	19_4689	OG1284
+small ribosomal subunit	Candida_glabrata@Seq_4910	19_4909	OG1514
+small ribosomal subunit	Candida_glabrata@Seq_5005	19_5004	OG3210
+small ribosomal subunit	Candida_glabrata@Seq_5142	19_5141	OG1290
+small ribosomal subunit	Candida_glabrata@Seq_682	19_681	OG2393
+small-subunit processome	Candida_glabrata@Seq_1078	19_1077	OG2430
+small-subunit processome	Candida_glabrata@Seq_116	19_115	OG3360
+small-subunit processome	Candida_glabrata@Seq_1163	19_1162	OG2553
+small-subunit processome	Candida_glabrata@Seq_1251	19_1250	OG2527
+small-subunit processome	Candida_glabrata@Seq_1309	19_1308	OG1882
+small-subunit processome	Candida_glabrata@Seq_1470	19_1469	OG1860
+small-subunit processome	Candida_glabrata@Seq_15	19_14	OG2151
+small-subunit processome	Candida_glabrata@Seq_1726	19_1725	OG1796
+small-subunit processome	Candida_glabrata@Seq_1793	19_1792	OG1712
+small-subunit processome	Candida_glabrata@Seq_1876	19_1875	OG2027
+small-subunit processome	Candida_glabrata@Seq_2040	19_2039	OG1946
+small-subunit processome	Candida_glabrata@Seq_2121	19_2120	OG1978
+small-subunit processome	Candida_glabrata@Seq_2474	19_2473	OG2401
+small-subunit processome	Candida_glabrata@Seq_2770	19_2769	OG1862
+small-subunit processome	Candida_glabrata@Seq_2832	19_2831	OG2923
+small-subunit processome	Candida_glabrata@Seq_2885	19_2884	OG2065
+small-subunit processome	Candida_glabrata@Seq_2984	19_2983	OG1626
+small-subunit processome	Candida_glabrata@Seq_3185	19_3184	OG3358
+small-subunit processome	Candida_glabrata@Seq_3242	19_3241	OG1831
+small-subunit processome	Candida_glabrata@Seq_3304	19_3303	OG1476
+small-subunit processome	Candida_glabrata@Seq_340	19_339	OG2198
+small-subunit processome	Candida_glabrata@Seq_3430	19_3429	OG2583
+small-subunit processome	Candida_glabrata@Seq_3659	19_3658	OG6664
+small-subunit processome	Candida_glabrata@Seq_3709	19_3708	OG3824
+small-subunit processome	Candida_glabrata@Seq_3714	19_3713	OG1531
+small-subunit processome	Candida_glabrata@Seq_3792	19_3791	OG3517
+small-subunit processome	Candida_glabrata@Seq_3805	19_3804	OG1961
+small-subunit processome	Candida_glabrata@Seq_3913	19_3912	OG2750
+small-subunit processome	Candida_glabrata@Seq_3996	19_3995	OG1757
+small-subunit processome	Candida_glabrata@Seq_4084	19_4083	OG1829
+small-subunit processome	Candida_glabrata@Seq_4303	19_4302	OG2201
+small-subunit processome	Candida_glabrata@Seq_454	19_453	OG6471
+small-subunit processome	Candida_glabrata@Seq_4626	19_4625	OG3180
+small-subunit processome	Candida_glabrata@Seq_4660	19_4659	OG1223
+small-subunit processome	Candida_glabrata@Seq_4980	19_4979	OG2325
+small-subunit processome	Candida_glabrata@Seq_50	19_49	OG2036
+small-subunit processome	Candida_glabrata@Seq_5039	19_5038	OG1942
+small-subunit processome	Candida_glabrata@Seq_5142	19_5141	OG1290
+small-subunit processome	Candida_glabrata@Seq_547	19_546	OG202011
+small-subunit processome	Candida_glabrata@Seq_590	19_589	OG1868
+small-subunit processome	Candida_glabrata@Seq_675	19_674	OG1459
+small-subunit processome	Candida_glabrata@Seq_791	19_790	OG1454
+small-subunit processome	Candida_glabrata@Seq_889	19_888	OG2137
+spitzenkorper	Candida_glabrata@Seq_2548	19_2547	OG3526
+spitzenkorper	Candida_glabrata@Seq_2688	19_2687	OG1431
+spitzenkorper	Candida_glabrata@Seq_2868	19_2867	OG2426
+spitzenkorper	Candida_glabrata@Seq_3164	19_3163	OG2582
+spitzenkorper	Candida_glabrata@Seq_537	19_536	OG2797
+spitzenkorper	Candida_glabrata@Seq_850	19_849	OG1238
+spliceosomal complex	Candida_glabrata@Seq_1865	19_1864	OG4013
+spliceosomal complex	Candida_glabrata@Seq_2099	19_2098	OG3664
+spliceosomal complex	Candida_glabrata@Seq_2167	19_2166	OG6340
+spliceosomal complex	Candida_glabrata@Seq_2252	19_2251	OG3985
+spliceosomal complex	Candida_glabrata@Seq_226	19_225	OG3004
+spliceosomal complex	Candida_glabrata@Seq_2297	19_2296	OG4256
+spliceosomal complex	Candida_glabrata@Seq_2841	19_2840	OG3741
+spliceosomal complex	Candida_glabrata@Seq_310	19_309	OG3454
+spliceosomal complex	Candida_glabrata@Seq_3347	19_3346	OG4990
+spliceosomal complex	Candida_glabrata@Seq_3355	19_3354	OG3423
+spliceosomal complex	Candida_glabrata@Seq_391	19_390	OG2733
+spliceosomal complex	Candida_glabrata@Seq_399	19_398	OG175037
+spliceosomal complex	Candida_glabrata@Seq_4108	19_4107	OG3598
+spliceosomal complex	Candida_glabrata@Seq_4449	19_4448	OG1538
+spliceosomal complex	Candida_glabrata@Seq_4464	19_4463	OG4071
+spliceosomal complex	Candida_glabrata@Seq_4516	19_4515	OG3781
+spliceosomal complex	Candida_glabrata@Seq_494	19_493	OG6441
+spliceosomal complex	Candida_glabrata@Seq_4983	19_4982	OG19644
+spliceosomal complex	Candida_glabrata@Seq_5116	19_5115	OG4627
+spliceosomal complex	Candida_glabrata@Seq_638	19_637	OG3229
+spliceosomal complex	Candida_glabrata@Seq_875	19_874	OG1717
+structural constituent of nuclear pore	Candida_glabrata@Seq_1157	19_1156	OG2625
+structural constituent of nuclear pore	Candida_glabrata@Seq_1481	19_1480	OG2595
+structural constituent of nuclear pore	Candida_glabrata@Seq_1597	19_1596	OG2626
+structural constituent of nuclear pore	Candida_glabrata@Seq_1744	19_1743	OG2689
+structural constituent of nuclear pore	Candida_glabrata@Seq_1813	19_1812	OG4340
+structural constituent of nuclear pore	Candida_glabrata@Seq_2408	19_2407	OG3342
+structural constituent of nuclear pore	Candida_glabrata@Seq_2622	19_2621	OG5643
+structural constituent of nuclear pore	Candida_glabrata@Seq_2871	19_2870	OG2771
+structural constituent of nuclear pore	Candida_glabrata@Seq_2933	19_2932	OG2517
+structural constituent of nuclear pore	Candida_glabrata@Seq_2934	19_2933	OG4621
+structural constituent of nuclear pore	Candida_glabrata@Seq_3023	19_3022	OG2597
+structural constituent of nuclear pore	Candida_glabrata@Seq_3136	19_3135	OG3379
+structural constituent of nuclear pore	Candida_glabrata@Seq_3354	19_3353	OG2829
+structural constituent of nuclear pore	Candida_glabrata@Seq_3451	19_3450	OG3733
+structural constituent of nuclear pore	Candida_glabrata@Seq_3546	19_3545	OG3193
+structural constituent of nuclear pore	Candida_glabrata@Seq_3923	19_3922	OG2875
+structural constituent of nuclear pore	Candida_glabrata@Seq_4240	19_4239	OG26507
+structural constituent of nuclear pore	Candida_glabrata@Seq_4404	19_4403	OG6382
+structural constituent of nuclear pore	Candida_glabrata@Seq_441	19_440	OG4525
+structural constituent of nuclear pore	Candida_glabrata@Seq_4699	19_4698	OG3512
+structural constituent of nuclear pore	Candida_glabrata@Seq_483	19_482	OG1536
+structural constituent of nuclear pore	Candida_glabrata@Seq_5034	19_5033	OG2771
+structural constituent of nuclear pore	Candida_glabrata@Seq_664	19_663	OG6634
+succinate dehydrogenase complex	Candida_glabrata@Seq_3426	19_3425	OG2112
+sulfite reductase complex (NADPH)	Candida_glabrata@Seq_2819	19_2818	OG1597
+sulfite reductase complex (NADPH)	Candida_glabrata@Seq_4068	19_4067	OG2147
+t-UTP complex	Candida_glabrata@Seq_15	19_14	OG2151
+t-UTP complex	Candida_glabrata@Seq_2040	19_2039	OG1946
+t-UTP complex	Candida_glabrata@Seq_2832	19_2831	OG2923
+t-UTP complex	Candida_glabrata@Seq_3792	19_3791	OG3517
+t-UTP complex	Candida_glabrata@Seq_454	19_453	OG6471
+t-UTP complex	Candida_glabrata@Seq_4980	19_4979	OG2325
+tRNA (m1A) methyltransferase complex	Candida_glabrata@Seq_3150	19_3149	OG1849
+tRNA (m1A) methyltransferase complex	Candida_glabrata@Seq_3211	19_3210	OG3431
+tRNA (m2G10) methyltransferase complex	Candida_glabrata@Seq_1818	19_1817	OG2424
+tRNA (m2G10) methyltransferase complex	Candida_glabrata@Seq_3514	19_3513	OG3486
+tRNA (m7G46) methyltransferase complex	Candida_glabrata@Seq_2489	19_2488	OG3732
+tRNA (m7G46) methyltransferase complex	Candida_glabrata@Seq_4300	19_4299	OG2174
+tRNA-intron endonuclease complex	Candida_glabrata@Seq_1458	19_1457	OG4411
+tRNA-intron endonuclease complex	Candida_glabrata@Seq_1776	19_1775	OG2793
+tRNA-intron endonuclease complex	Candida_glabrata@Seq_1779	19_1778	OG2935
+tRNA-intron endonuclease complex	Candida_glabrata@Seq_3671	19_3670	OG3507
+tRNA-specific adenosine-34 deaminase complex	Candida_glabrata@Seq_3466	19_3465	OG3599
+telomerase catalytic core complex	Candida_glabrata@Seq_3813	19_3812	OG3388
+telomerase holoenzyme complex	Candida_glabrata@Seq_2605	19_2604	OG4083
+telomerase holoenzyme complex	Candida_glabrata@Seq_3264	19_3263	OG6529
+telomerase holoenzyme complex	Candida_glabrata@Seq_3813	19_3812	OG3388
+telomerase holoenzyme complex	Candida_glabrata@Seq_451	19_450	OG28700
+telomerase holoenzyme complex	Candida_glabrata@Seq_838	19_837	OG4287
+telomerase holoenzyme complex	Candida_glabrata@Seq_976	19_975	OG2237
+transcription elongation factor complex	Candida_glabrata@Seq_4349	19_4348	OG3124
+transcription export complex	Candida_glabrata@Seq_1428	19_1427	OG2216
+transcription export complex	Candida_glabrata@Seq_3228	19_3227	OG1871
+transcription export complex	Candida_glabrata@Seq_3377	19_3376	OG3822
+transcription export complex 2	Candida_glabrata@Seq_2195	19_2194	OG4031
+transcription export complex 2	Candida_glabrata@Seq_3172	19_3171	OG2890
+transcription export complex 2	Candida_glabrata@Seq_3785	19_3784	OG7819
+transcription export complex 2	Candida_glabrata@Seq_59	19_58	OG3968
+transcription export complex 2	Candida_glabrata@Seq_910	19_909	OG3695
+transcription factor TFIIA complex	Candida_glabrata@Seq_140	19_139	OG3215
+transcription factor TFIIA complex	Candida_glabrata@Seq_4340	19_4339	OG2556
+transcription factor TFIID complex	Candida_glabrata@Seq_1139	19_1138	OG1794
+transcription factor TFIID complex	Candida_glabrata@Seq_1645	19_1644	OG5065
+transcription factor TFIID complex	Candida_glabrata@Seq_3254	19_3253	OG1941
+transcription factor TFIID complex	Candida_glabrata@Seq_3495	19_3494	OG3011
+transcription factor TFIID complex	Candida_glabrata@Seq_4179	19_4178	OG3712
+transcription factor TFIID complex	Candida_glabrata@Seq_4330	19_4329	OG1464
+transcription factor TFIID complex	Candida_glabrata@Seq_4798	19_4797	OG3289
+transcription factor TFIID complex	Candida_glabrata@Seq_4851	19_4850	OG4639
+transcription factor TFIID complex	Candida_glabrata@Seq_5073	19_5072	OG6606
+transcription factor TFIID complex	Candida_glabrata@Seq_552	19_551	OG2165
+transcription factor TFIID complex	Candida_glabrata@Seq_642	19_641	OG1560
+transcription factor TFIID complex	Candida_glabrata@Seq_753	19_752	OG3435
+transcription factor TFIID complex	Candida_glabrata@Seq_861	19_860	OG25364
+transcription factor TFIIE complex	Candida_glabrata@Seq_3269	19_3268	OG2591
+transcription factor TFIIE complex	Candida_glabrata@Seq_4359	19_4358	OG3675
+transcription factor TFIIF complex	Candida_glabrata@Seq_2279	19_2278	OG3238
+transcription factor TFIIF complex	Candida_glabrata@Seq_4330	19_4329	OG1464
+transcription factor TFIIF complex	Candida_glabrata@Seq_5027	19_5026	OG2195
+transcription factor TFIIH core complex	Candida_glabrata@Seq_2032	19_2031	OG2328
+transcription factor TFIIH core complex	Candida_glabrata@Seq_2571	19_2570	OG2341
+transcription factor TFIIH core complex	Candida_glabrata@Seq_2937	19_2936	OG3946
+transcription factor TFIIH core complex	Candida_glabrata@Seq_2946	19_2945	OG2768
+transcription factor TFIIH core complex	Candida_glabrata@Seq_4177	19_4176	OG1006
+transcription factor TFIIH core complex	Candida_glabrata@Seq_4646	19_4645	OG3724
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_1446	19_1445	OG4556
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_2032	19_2031	OG2328
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_2571	19_2570	OG2341
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_2727	19_2726	OG2735
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_2937	19_2936	OG3946
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_2946	19_2945	OG2768
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_4116	19_4115	OG3341
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_4177	19_4176	OG1006
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_4646	19_4645	OG3724
+transcription factor TFIIH holo complex	Candida_glabrata@Seq_874	19_873	OG2500
+transcription factor TFIIIB complex	Candida_glabrata@Seq_2559	19_2558	OG3686
+transcription factor TFIIIB complex	Candida_glabrata@Seq_3254	19_3253	OG1941
+transcription factor TFIIIB complex	Candida_glabrata@Seq_888	19_887	OG2878
+transcription factor TFIIIC complex	Candida_glabrata@Seq_2814	19_2813	OG5550
+transcription factor TFIIIC complex	Candida_glabrata@Seq_380	19_379	OG3156
+transcription factor TFIIIC complex	Candida_glabrata@Seq_4571	19_4570	OG1900
+transcription factor TFIIIC complex	Candida_glabrata@Seq_4949	19_4948	OG3380
+transcription factor TFIIIC complex	Candida_glabrata@Seq_598	19_597	OG1370
+transcription factor TFIIK complex	Candida_glabrata@Seq_2727	19_2726	OG2735
+transcription factor TFIIK complex	Candida_glabrata@Seq_4116	19_4115	OG3341
+transcription factor TFIIK complex	Candida_glabrata@Seq_874	19_873	OG2500
+transcription factor complex	Candida_glabrata@Seq_2446	19_2445	OG6652
+transcription factor complex	Candida_glabrata@Seq_3254	19_3253	OG1941
+transcriptional preinitiation complex	Candida_glabrata@Seq_3269	19_3268	OG2591
+transcriptional preinitiation complex	Candida_glabrata@Seq_4359	19_4358	OG3675
+transcriptional preinitiation complex	Candida_glabrata@Seq_607	19_606	OG1727
+translation release factor complex	Candida_glabrata@Seq_2211	19_2210	OG1804
+translation release factor complex	Candida_glabrata@Seq_2222	19_2221	OG1832
+tricarboxylic acid cycle enzyme complex	Candida_glabrata@Seq_193	19_192	OG1218
+tubulin complex	Candida_glabrata@Seq_631	19_630	OG1245
+tubulin complex	Candida_glabrata@Seq_812	19_811	OG1229
+ubiquitin conjugating enzyme complex	Candida_glabrata@Seq_3268	19_3267	OG2445
+ubiquitin conjugating enzyme complex	Candida_glabrata@Seq_3816	19_3815	OG2435
+ubiquitin ligase complex	Candida_glabrata@Seq_1576	19_1575	OG1986
+ubiquitin ligase complex	Candida_glabrata@Seq_2315	19_2314	OG1681
+ubiquitin ligase complex	Candida_glabrata@Seq_2388	19_2387	OG2073
+ubiquitin ligase complex	Candida_glabrata@Seq_3564	19_3563	OG3437
+ubiquitin ligase complex	Candida_glabrata@Seq_3987	19_3986	OG3538
+ubiquitin ligase complex	Candida_glabrata@Seq_4099	19_4098	OG4285
+ubiquitin ligase complex	Candida_glabrata@Seq_4162	19_4161	OG3538
+ubiquitin ligase complex	Candida_glabrata@Seq_4238	19_4237	OG3897
+ubiquitin ligase complex	Candida_glabrata@Seq_4286	19_4285	OG3223
+ubiquitin ligase complex	Candida_glabrata@Seq_484	19_483	OG3472
+ubiquitin ligase complex	Candida_glabrata@Seq_614	19_613	OG4635
+vacuolar proton-transporting V-type ATPase complex	Candida_glabrata@Seq_2359	19_2358	OG2635
+vacuolar proton-transporting V-type ATPase complex	Candida_glabrata@Seq_3851	19_3850	OG4068
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_3619	19_3618	OG1046
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_glabrata@Seq_4598	19_4597	OG1046
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_1589	19_1588	OG2332
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_3851	19_3850	OG4068
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_4384	19_4383	OG2820
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_glabrata@Seq_4967	19_4966	OG4357
+vacuolar transporter chaperone complex	Candida_glabrata@Seq_4924	19_4923	OG2068
+vacuolar transporter chaperone complex	Candida_glabrata@Seq_5	19_4	OG1602
+zeta DNA polymerase complex	Candida_glabrata@Seq_1230	19_1229	OG5646
+zeta DNA polymerase complex	Candida_glabrata@Seq_3916	19_3915	OG1964
