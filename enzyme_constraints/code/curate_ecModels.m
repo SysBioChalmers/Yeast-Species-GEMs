@@ -1,7 +1,7 @@
 function curate_ecModels(initModel,finalModel,resultsFile,fittingOption,getECC,fixEtOH)
-%analyze_ecModels
+%curate_ecModels
 %
-% Ivan Domenzain. 2020-05-07
+% Last modified. Ivan Domenzain. 2020-05-27
 %
 current = pwd;
 %Clone GECKO repository
@@ -138,7 +138,11 @@ for i=1:length(originalModels)
             unconst_model = ecModel_batch;
             unconst_model.ub(obj) = 1000;
             unconst_model.lb(obj) = 0;
-            [lim_growth,~] = findTopLimitationsAll(unconst_model,[],obj,1.01);
+            unconst_model.lb(cSource) = 0;
+            unconst_model.ub(cSource) = 1000;
+            unconst_model.ub(EtOH) = 1000;
+            unconst_model.lb(EtOH) = 0;
+            [lim_growth,~] = findTopLimitationsAll(unconst_model,[],obj,1.001);
             if ~isempty(lim_growth)
                 temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
                 writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
@@ -154,19 +158,23 @@ for i=1:length(originalModels)
         EtMax    = solution.x(EtOH);
         if fixEtOH
             if EtMax>0
+                tempM = ecModel_batch;
                 if EtMax>=yeastParam.EtOH
-                    ecModel_batch.lb(EtOH) = 0.95*yeastParam.EtOH;
+                    tempM.lb(EtOH) = 0.95*yeastParam.EtOH;
                 else
-                    ecModel_batch.lb(EtOH) = 0.95*EtMax;
+                    tempM.lb(EtOH) = 0.95*EtMax;
                 end
-                ecModel_batch.ub(EtOH) = 1.05*yeastParam.EtOH;
+                etProd = max(EtExc,yeastParam.EtOH);
+                tempM.ub(EtOH) = 1.01*etProd;
             end
             %Obtain definite exchange fluxes
-            solution = solveLP(ecModel_batch,1);
-            GUR      = solution.x(cSource);
-            acExc    = solution.x(acEx);
-            EtExc    = solution.x(EtOH);
-            
+            solution = solveLP(tempM,1);
+            if ~isempty(solution.x)
+                ecModel_batch = tempM;
+                GUR      = solution.x(cSource);
+                acExc    = solution.x(acEx);
+                EtExc    = solution.x(EtOH);
+            end
             disp(['The experimental EtOH production is: ' num2str(yeastParam.EtOH)])
             disp(['The predicted EtOH production is: ' num2str(EtExc)])
             disp(['The predicted max EtOH production is: ' num2str(EtMax)])
