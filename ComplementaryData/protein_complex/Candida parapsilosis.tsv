@@ -1,0 +1,2430 @@
+complex type	sequence id	index	ortholog
+1,3-beta-D-glucan synthase complex	Candida_parapsilosis@Seq_1205	24_1204	OG1014
+1,3-beta-D-glucan synthase complex	Candida_parapsilosis@Seq_2321	24_2320	OG1993
+1,3-beta-D-glucan synthase complex	Candida_parapsilosis@Seq_2844	24_2843	OG1014
+1,3-beta-D-glucan synthase complex	Candida_parapsilosis@Seq_4373	24_4372	OG1014
+3-isopropylmalate dehydratase complex	Candida_parapsilosis@Seq_4689	24_4688	OG1422
+6-phosphofructokinase complex	Candida_parapsilosis@Seq_1993	24_1992	OG1054
+6-phosphofructokinase complex	Candida_parapsilosis@Seq_384	24_383	OG1054
+90S preribosome	Candida_parapsilosis@Seq_1143	24_1142	OG3545
+90S preribosome	Candida_parapsilosis@Seq_1407	24_1406	OG2295
+90S preribosome	Candida_parapsilosis@Seq_1799	24_1798	OG1974
+90S preribosome	Candida_parapsilosis@Seq_1959	24_1958	OG2151
+90S preribosome	Candida_parapsilosis@Seq_2064	24_2063	OG1587
+90S preribosome	Candida_parapsilosis@Seq_2507	24_2506	OG3568
+90S preribosome	Candida_parapsilosis@Seq_2518	24_2517	OG4638
+90S preribosome	Candida_parapsilosis@Seq_2650	24_2649	OG4534
+90S preribosome	Candida_parapsilosis@Seq_2785	24_2784	OG3760
+90S preribosome	Candida_parapsilosis@Seq_2858	24_2857	OG8592
+90S preribosome	Candida_parapsilosis@Seq_3332	24_3331	OG2250
+90S preribosome	Candida_parapsilosis@Seq_3861	24_3860	OG2772
+90S preribosome	Candida_parapsilosis@Seq_404	24_403	OG2969
+90S preribosome	Candida_parapsilosis@Seq_4090	24_4089	OG2329
+90S preribosome	Candida_parapsilosis@Seq_4174	24_4173	OG2338
+90S preribosome	Candida_parapsilosis@Seq_4434	24_4433	OG4904
+90S preribosome	Candida_parapsilosis@Seq_4582	24_4581	OG2325
+90S preribosome	Candida_parapsilosis@Seq_4839	24_4838	OG1951
+90S preribosome	Candida_parapsilosis@Seq_4889	24_4888	OG1901
+90S preribosome	Candida_parapsilosis@Seq_5088	24_5087	OG2036
+90S preribosome	Candida_parapsilosis@Seq_738	24_737	OG2052
+AP-1 adaptor complex	Candida_parapsilosis@Seq_2321	24_2320	OG1993
+AP-1 adaptor complex	Candida_parapsilosis@Seq_3374	24_3373	OG5478
+AP-1 adaptor complex	Candida_parapsilosis@Seq_3868	24_3867	OG2042
+AP-1 adaptor complex	Candida_parapsilosis@Seq_5277	24_5276	OG2264
+AP-2 adaptor complex	Candida_parapsilosis@Seq_2041	24_2040	OG3784
+AP-2 adaptor complex	Candida_parapsilosis@Seq_2546	24_2545	OG3409
+AP-2 adaptor complex	Candida_parapsilosis@Seq_2668	24_2667	OG2007
+AP-2 adaptor complex	Candida_parapsilosis@Seq_4938	24_4937	OG3391
+AP-3 adaptor complex	Candida_parapsilosis@Seq_1532	24_1531	OG3384
+AP-3 adaptor complex	Candida_parapsilosis@Seq_2771	24_2770	OG1994
+AP-3 adaptor complex	Candida_parapsilosis@Seq_3431	24_3430	OG2005
+AP-3 adaptor complex	Candida_parapsilosis@Seq_4072	24_4071	OG2702
+ASTRA complex	Candida_parapsilosis@Seq_1296	24_1295	OG2932
+ASTRA complex	Candida_parapsilosis@Seq_1552	24_1551	OG1721
+ASTRA complex	Candida_parapsilosis@Seq_165	24_164	OG2745
+ASTRA complex	Candida_parapsilosis@Seq_2299	24_2298	OG2118
+ASTRA complex	Candida_parapsilosis@Seq_395	24_394	OG1427
+ASTRA complex	Candida_parapsilosis@Seq_4130	24_4129	OG2955
+ATR-ATRIP complex	Candida_parapsilosis@Seq_3368	24_3367	OG1616
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_1188	24_1187	OG2418
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_1265	24_1264	OG3528
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_1736	24_1735	OG2545
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_2825	24_2824	OG1099
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_3224	24_3223	OG4164
+Ada2/Gcn5/Ada3 transcription activator complex	Candida_parapsilosis@Seq_5209	24_5208	OG2923
+Aim21-Tda2 complex	Candida_parapsilosis@Seq_1591	24_1590	OG6503
+Aim21-Tda2 complex	Candida_parapsilosis@Seq_2874	24_2873	OG15011
+Arp2/3 protein complex	Candida_parapsilosis@Seq_1034	24_1033	OG2127
+Arp2/3 protein complex	Candida_parapsilosis@Seq_3400	24_3399	OG2181
+Arp2/3 protein complex	Candida_parapsilosis@Seq_4165	24_4164	OG2590
+Arp2/3 protein complex	Candida_parapsilosis@Seq_4175	24_4174	OG3502
+Arp2/3 protein complex	Candida_parapsilosis@Seq_4253	24_4252	OG1035
+Arp2/3 protein complex	Candida_parapsilosis@Seq_4651	24_4650	OG3427
+Arp2/3 protein complex	Candida_parapsilosis@Seq_4844	24_4843	OG2586
+Asi complex	Candida_parapsilosis@Seq_4309	24_4308	OG3757
+Atg1/ULK1 kinase complex	Candida_parapsilosis@Seq_1811	24_1810	OG3727
+Atg1/ULK1 kinase complex	Candida_parapsilosis@Seq_2046	24_2045	OG4810
+Atg1/ULK1 kinase complex	Candida_parapsilosis@Seq_3396	24_3395	OG5838
+Atg1/ULK1 kinase complex	Candida_parapsilosis@Seq_855	24_854	OG1879
+Atg12-Atg5-Atg16 complex	Candida_parapsilosis@Seq_1234	24_1233	OG5119
+Atg12-Atg5-Atg16 complex	Candida_parapsilosis@Seq_1290	24_1289	OG3627
+Atg12-Atg5-Atg16 complex	Candida_parapsilosis@Seq_2016	24_2015	OG3805
+BLOC-1 complex	Candida_parapsilosis@Seq_2739	24_2738	OG5882
+BLOC-1 complex	Candida_parapsilosis@Seq_2838	24_2837	OG5215
+BLOC-1 complex	Candida_parapsilosis@Seq_3786	24_3785	OG5984
+Bfa1-Bub2 complex	Candida_parapsilosis@Seq_3225	24_3224	OG1021
+Bfa1-Bub2 complex	Candida_parapsilosis@Seq_671	24_670	OG6566
+CAAX-protein geranylgeranyltransferase complex	Candida_parapsilosis@Seq_2929	24_2928	OG3200
+CAAX-protein geranylgeranyltransferase complex	Candida_parapsilosis@Seq_407	24_406	OG3911
+CAF-1 complex	Candida_parapsilosis@Seq_1866	24_1865	OG4099
+CAF-1 complex	Candida_parapsilosis@Seq_3519	24_3518	OG2093
+CAF-1 complex	Candida_parapsilosis@Seq_492	24_491	OG4144
+CBF3 complex	Candida_parapsilosis@Seq_512	24_511	OG2575
+CCAAT-binding factor complex	Candida_parapsilosis@Seq_2806	24_2805	OG3251
+CCAAT-binding factor complex	Candida_parapsilosis@Seq_2829	24_2828	OG4103
+CCAAT-binding factor complex	Candida_parapsilosis@Seq_3414	24_3413	OG2751
+CCAAT-binding factor complex	Candida_parapsilosis@Seq_4649	24_4648	OG4509
+CCR4-NOT complex	Candida_parapsilosis@Seq_1409	24_1408	OG3644
+CCR4-NOT complex	Candida_parapsilosis@Seq_1513	24_1512	OG1803
+CCR4-NOT complex	Candida_parapsilosis@Seq_1969	24_1968	OG4153
+CCR4-NOT complex	Candida_parapsilosis@Seq_4137	24_4136	OG2561
+CCR4-NOT complex	Candida_parapsilosis@Seq_4317	24_4316	OG1582
+CCR4-NOT complex	Candida_parapsilosis@Seq_488	24_487	OG1613
+CCR4-NOT core complex	Candida_parapsilosis@Seq_1513	24_1512	OG1803
+CCR4-NOT core complex	Candida_parapsilosis@Seq_1969	24_1968	OG4153
+CCR4-NOT core complex	Candida_parapsilosis@Seq_2918	24_2917	OG4560
+CCR4-NOT core complex	Candida_parapsilosis@Seq_4137	24_4136	OG2561
+CCR4-NOT core complex	Candida_parapsilosis@Seq_4317	24_4316	OG1582
+CCR4-NOT core complex	Candida_parapsilosis@Seq_4857	24_4856	OG1769
+CCR4-NOT core complex	Candida_parapsilosis@Seq_488	24_487	OG1613
+CCR4-NOT core complex	Candida_parapsilosis@Seq_839	24_838	OG1002
+CENP-A containing nucleosome	Candida_parapsilosis@Seq_4050	24_4049	OG3375
+CENP-A containing nucleosome	Candida_parapsilosis@Seq_676	24_675	OG1027
+CHRAC	Candida_parapsilosis@Seq_1573	24_1572	OG1038
+CHRAC	Candida_parapsilosis@Seq_2880	24_2879	OG2814
+CHRAC	Candida_parapsilosis@Seq_335	24_334	OG3451
+CIA complex	Candida_parapsilosis@Seq_1906	24_1905	OG2992
+CIA complex	Candida_parapsilosis@Seq_1951	24_1950	OG3813
+CIA complex	Candida_parapsilosis@Seq_441	24_440	OG2281
+CLRC ubiquitin ligase complex	Candida_parapsilosis@Seq_4347	24_4346	OG3051
+CMG complex	Candida_parapsilosis@Seq_2266	24_2265	OG1893
+CMG complex	Candida_parapsilosis@Seq_3186	24_3185	OG3537
+CMG complex	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+CMG complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+CMG complex	Candida_parapsilosis@Seq_3799	24_3798	OG1049
+CMG complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+CMG complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+CMG complex	Candida_parapsilosis@Seq_4655	24_4654	OG3283
+CMG complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+CMG complex	Candida_parapsilosis@Seq_5159	24_5158	OG1011
+CMG complex	Candida_parapsilosis@Seq_752	24_751	OG2873
+COMA complex	Candida_parapsilosis@Seq_3549	24_3548	OG4996
+COP9 signalosome	Candida_parapsilosis@Seq_1895	24_1894	OG3147
+COP9 signalosome	Candida_parapsilosis@Seq_5189	24_5188	OG1445
+COPI vesicle coat	Candida_parapsilosis@Seq_1332	24_1331	OG1861
+COPI vesicle coat	Candida_parapsilosis@Seq_1620	24_1619	OG1602
+COPI vesicle coat	Candida_parapsilosis@Seq_2752	24_2751	OG3935
+COPI vesicle coat	Candida_parapsilosis@Seq_3704	24_3703	OG1846
+COPI vesicle coat	Candida_parapsilosis@Seq_3983	24_3982	OG4574
+COPI vesicle coat	Candida_parapsilosis@Seq_4647	24_4646	OG1766
+COPI vesicle coat	Candida_parapsilosis@Seq_47	24_46	OG2128
+COPII vesicle coat	Candida_parapsilosis@Seq_1637	24_1636	OG1075
+COPII vesicle coat	Candida_parapsilosis@Seq_193	24_192	OG1717
+COPII vesicle coat	Candida_parapsilosis@Seq_3791	24_3790	OG1293
+COPII vesicle coat	Candida_parapsilosis@Seq_4182	24_4181	OG1075
+COPII vesicle coat	Candida_parapsilosis@Seq_4940	24_4939	OG3646
+COPII vesicle coat	Candida_parapsilosis@Seq_721	24_720	OG3118
+COPII vesicle coat	Candida_parapsilosis@Seq_941	24_940	OG1549
+CORVET complex	Candida_parapsilosis@Seq_2370	24_2369	OG2803
+CORVET complex	Candida_parapsilosis@Seq_258	24_257	OG2233
+CORVET complex	Candida_parapsilosis@Seq_3730	24_3729	OG2511
+CORVET complex	Candida_parapsilosis@Seq_5234	24_5233	OG6195
+CORVET complex	Candida_parapsilosis@Seq_78	24_77	OG3672
+CST complex	Candida_parapsilosis@Seq_1743	24_1742	OG44914
+CST complex	Candida_parapsilosis@Seq_4621	24_4620	OG4944
+CTDK-1 complex	Candida_parapsilosis@Seq_103	24_102	OG4397
+CTDK-1 complex	Candida_parapsilosis@Seq_1738	24_1737	OG3501
+CTDK-1 complex	Candida_parapsilosis@Seq_3796	24_3795	OG3468
+CURI complex	Candida_parapsilosis@Seq_2560	24_2559	OG2466
+CURI complex	Candida_parapsilosis@Seq_471	24_470	OG1712
+CURI complex	Candida_parapsilosis@Seq_4999	24_4998	OG2667
+Cbf1-Met4-Met28 complex	Candida_parapsilosis@Seq_1707	24_1706	OG2947
+Cbf1-Met4-Met28 complex	Candida_parapsilosis@Seq_1720	24_1719	OG5162
+Cbf1-Met4-Met28 complex	Candida_parapsilosis@Seq_3317	24_3316	OG4903
+Cbp3p-Cbp6 complex	Candida_parapsilosis@Seq_4602	24_4601	OG4641
+Cbp3p-Cbp6 complex	Candida_parapsilosis@Seq_5053	24_5052	OG2910
+Cdc24p-Far1p-Gbetagamma complex	Candida_parapsilosis@Seq_1297	24_1296	OG4289
+Cdc24p-Far1p-Gbetagamma complex	Candida_parapsilosis@Seq_1733	24_1732	OG2995
+Cdc24p-Far1p-Gbetagamma complex	Candida_parapsilosis@Seq_2502	24_2501	OG2926
+Cdc24p-Far1p-Gbetagamma complex	Candida_parapsilosis@Seq_623	24_622	OG4685
+Cdc42 GTPase complex	Candida_parapsilosis@Seq_2842	24_2841	OG1409
+Cdc42 GTPase complex	Candida_parapsilosis@Seq_4784	24_4783	OG1483
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Candida_parapsilosis@Seq_781	24_780	OG2062
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Candida_parapsilosis@Seq_931	24_930	OG4176
+Cdc50p-Drs2p complex	Candida_parapsilosis@Seq_340	24_339	OG2078
+Cdc50p-Drs2p complex	Candida_parapsilosis@Seq_3923	24_3922	OG1008
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_1513	24_1512	OG1803
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_2664	24_2663	OG3893
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_2954	24_2953	OG2301
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_3145	24_3144	OG3086
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_40	24_39	OG3293
+Cdc73/Paf1 complex	Candida_parapsilosis@Seq_461	24_460	OG1903
+Cdr2 medial cortical node complex	Candida_parapsilosis@Seq_186	24_185	OG4098
+Clr6 histone deacetylase complex I''	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+Clr6 histone deacetylase complex I''	Candida_parapsilosis@Seq_5009	24_5008	OG1453
+CoA-synthesizing protein complex	Candida_parapsilosis@Seq_1605	24_1604	OG1491
+CoA-synthesizing protein complex	Candida_parapsilosis@Seq_3283	24_3282	OG2578
+CoA-synthesizing protein complex	Candida_parapsilosis@Seq_3394	24_3393	OG3025
+CoA-synthesizing protein complex	Candida_parapsilosis@Seq_3646	24_3645	OG3008
+CoA-synthesizing protein complex	Candida_parapsilosis@Seq_4553	24_4552	OG2084
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_175	24_174	OG2996
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_1782	24_1781	OG2839
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_2592	24_2591	OG4443
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_3052	24_3051	OG2291
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_3811	24_3810	OG4339
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_4500	24_4499	OG2883
+Ctf18 RFC-like complex	Candida_parapsilosis@Seq_518	24_517	OG2330
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_1484	24_1483	OG2623
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_3078	24_3077	OG3237
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_3444	24_3443	OG4956
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_4347	24_4346	OG3051
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_5193	24_5192	OG2523
+Cul3-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_880	24_879	OG1729
+Cul8-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_1737	24_1736	OG2612
+Cul8-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_4347	24_4346	OG3051
+Cul8-RING ubiquitin ligase complex	Candida_parapsilosis@Seq_614	24_613	OG5389
+Cvt complex	Candida_parapsilosis@Seq_5248	24_5247	OG2851
+Cvt complex	Candida_parapsilosis@Seq_769	24_768	OG1297
+DASH complex	Candida_parapsilosis@Seq_1901	24_1900	OG5406
+DASH complex	Candida_parapsilosis@Seq_2229	24_2228	OG5085
+DASH complex	Candida_parapsilosis@Seq_2296	24_2295	OG4359
+DASH complex	Candida_parapsilosis@Seq_3509	24_3508	OG3279
+DASH complex	Candida_parapsilosis@Seq_3643	24_3642	OG3434
+DASH complex	Candida_parapsilosis@Seq_4228	24_4227	OG5135
+DASH complex	Candida_parapsilosis@Seq_4288	24_4287	OG4135
+DASH complex	Candida_parapsilosis@Seq_4293	24_4292	OG5079
+DASH complex	Candida_parapsilosis@Seq_4657	24_4656	OG5175
+DNA helicase A complex	Candida_parapsilosis@Seq_1773	24_1772	OG2454
+DNA ligase IV complex	Candida_parapsilosis@Seq_2112	24_2111	OG2668
+DNA replication factor A complex	Candida_parapsilosis@Seq_5266	24_5265	OG2220
+DNA replication factor A complex	Candida_parapsilosis@Seq_673	24_672	OG4022
+DNA replication factor C complex	Candida_parapsilosis@Seq_1220	24_1219	OG1554
+DNA replication factor C complex	Candida_parapsilosis@Seq_175	24_174	OG2996
+DNA replication factor C complex	Candida_parapsilosis@Seq_1782	24_1781	OG2839
+DNA replication factor C complex	Candida_parapsilosis@Seq_3052	24_3051	OG2291
+DNA replication factor C complex	Candida_parapsilosis@Seq_518	24_517	OG2330
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_1249	24_1248	OG4384
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_1360	24_1359	OG2479
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_1898	24_1897	OG1830
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_1918	24_1917	OG5493
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_2072	24_2071	OG3684
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_2266	24_2265	OG1893
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_2870	24_2869	OG1973
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_3186	24_3185	OG3537
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_337	24_336	OG1921
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_3799	24_3798	OG1049
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_4023	24_4022	OG5346
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_4655	24_4654	OG3283
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_4791	24_4790	OG4076
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_5159	24_5158	OG1011
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_5204	24_5203	OG5844
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_710	24_709	OG2439
+DNA replication preinitiation complex	Candida_parapsilosis@Seq_752	24_751	OG2873
+DPS complex	Candida_parapsilosis@Seq_774	24_773	OG1452
+DSIF complex	Candida_parapsilosis@Seq_5076	24_5075	OG4093
+DSIF complex	Candida_parapsilosis@Seq_933	24_932	OG2342
+DUBm complex	Candida_parapsilosis@Seq_1177	24_1176	OG6366
+DUBm complex	Candida_parapsilosis@Seq_1930	24_1929	OG1493
+DUBm complex	Candida_parapsilosis@Seq_2416	24_2415	OG4031
+DUBm complex	Candida_parapsilosis@Seq_4338	24_4337	OG3031
+Dbf4-dependent protein kinase complex	Candida_parapsilosis@Seq_1803	24_1802	OG1775
+Dbf4-dependent protein kinase complex	Candida_parapsilosis@Seq_3533	24_3532	OG3951
+Dcp1-Dcp2 complex	Candida_parapsilosis@Seq_3680	24_3679	OG3584
+Dcp1-Dcp2 complex	Candida_parapsilosis@Seq_885	24_884	OG1818
+Ddb1-Ckn1 complex	Candida_parapsilosis@Seq_2159	24_2158	OG3613
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_1154	24_1153	OG4220
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_3121	24_3120	OG2940
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_4515	24_4514	OG2892
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_875	24_874	OG4246
+Doa10p ubiquitin ligase complex	Candida_parapsilosis@Seq_931	24_930	OG4176
+Dom34-Hbs1 complex	Candida_parapsilosis@Seq_3425	24_3424	OG1079
+Dom34-Hbs1 complex	Candida_parapsilosis@Seq_683	24_682	OG1117
+Dsc E3 ubiquitin ligase complex	Candida_parapsilosis@Seq_3913	24_3912	OG4092
+Dsc E3 ubiquitin ligase complex	Candida_parapsilosis@Seq_4589	24_4588	OG3064
+Dsc E3 ubiquitin ligase complex	Candida_parapsilosis@Seq_4614	24_4613	OG3532
+Dsc E3 ubiquitin ligase complex	Candida_parapsilosis@Seq_825	24_824	OG2476
+Dsl1/NZR complex	Candida_parapsilosis@Seq_1382	24_1381	OG4784
+Dsl1/NZR complex	Candida_parapsilosis@Seq_2027	24_2026	OG5804
+Dsl1/NZR complex	Candida_parapsilosis@Seq_4928	24_4927	OG5858
+EGO complex	Candida_parapsilosis@Seq_1156	24_1155	OG2929
+EGO complex	Candida_parapsilosis@Seq_1807	24_1806	OG3009
+EGO complex	Candida_parapsilosis@Seq_4546	24_4545	OG4226
+EKC/KEOPS complex	Candida_parapsilosis@Seq_1779	24_1778	OG3997
+EKC/KEOPS complex	Candida_parapsilosis@Seq_2501	24_2500	OG2613
+EKC/KEOPS complex	Candida_parapsilosis@Seq_3530	24_3529	OG4626
+EKC/KEOPS complex	Candida_parapsilosis@Seq_3860	24_3859	OG1581
+EKC/KEOPS complex	Candida_parapsilosis@Seq_5129	24_5128	OG3649
+ER membrane protein complex	Candida_parapsilosis@Seq_2523	24_2522	OG2943
+ER membrane protein complex	Candida_parapsilosis@Seq_2845	24_2844	OG2344
+ER membrane protein complex	Candida_parapsilosis@Seq_3171	24_3170	OG3249
+ER membrane protein complex	Candida_parapsilosis@Seq_3991	24_3990	OG3977
+ER membrane protein complex	Candida_parapsilosis@Seq_410	24_409	OG4746
+ER membrane protein complex	Candida_parapsilosis@Seq_5149	24_5148	OG3931
+ERMES complex	Candida_parapsilosis@Seq_1123	24_1122	OG2214
+ERMES complex	Candida_parapsilosis@Seq_1514	24_1513	OG2368
+ERMES complex	Candida_parapsilosis@Seq_35	24_34	OG2158
+ERMES complex	Candida_parapsilosis@Seq_4941	24_4940	OG1798
+ERMES complex	Candida_parapsilosis@Seq_744	24_743	OG4455
+ESCRT I complex	Candida_parapsilosis@Seq_1162	24_1161	OG6312
+ESCRT I complex	Candida_parapsilosis@Seq_1413	24_1412	OG3628
+ESCRT I complex	Candida_parapsilosis@Seq_3082	24_3081	OG6448
+ESCRT II complex	Candida_parapsilosis@Seq_161	24_160	OG3324
+ESCRT II complex	Candida_parapsilosis@Seq_2434	24_2433	OG3705
+ESCRT II complex	Candida_parapsilosis@Seq_3287	24_3286	OG2800
+ESCRT III complex	Candida_parapsilosis@Seq_19	24_18	OG4081
+ESCRT III complex	Candida_parapsilosis@Seq_3203	24_3202	OG2789
+ESCRT III complex	Candida_parapsilosis@Seq_4491	24_4490	OG4051
+ESCRT III complex	Candida_parapsilosis@Seq_590	24_589	OG2203
+ESCRT III complex	Candida_parapsilosis@Seq_714	24_713	OG3461
+ESCRT III complex	Candida_parapsilosis@Seq_716	24_715	OG1082
+ESCRT-0 complex	Candida_parapsilosis@Seq_3115	24_3114	OG3181
+ESCRT-0 complex	Candida_parapsilosis@Seq_4506	24_4505	OG1894
+Elg1 RFC-like complex	Candida_parapsilosis@Seq_175	24_174	OG2996
+Elg1 RFC-like complex	Candida_parapsilosis@Seq_1782	24_1781	OG2839
+Elg1 RFC-like complex	Candida_parapsilosis@Seq_3052	24_3051	OG2291
+Elg1 RFC-like complex	Candida_parapsilosis@Seq_5163	24_5162	OG4958
+Elg1 RFC-like complex	Candida_parapsilosis@Seq_518	24_517	OG2330
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_1210	24_1209	OG2632
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_1475	24_1474	OG4974
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_5051	24_5050	OG3591
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_571	24_570	OG1885
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_674	24_673	OG1723
+Elongator holoenzyme complex	Candida_parapsilosis@Seq_845	24_844	OG2251
+F-actin capping protein complex	Candida_parapsilosis@Seq_3392	24_3391	OG3889
+F-actin capping protein complex	Candida_parapsilosis@Seq_3809	24_3808	OG4292
+FACT complex	Candida_parapsilosis@Seq_2758	24_2757	OG2063
+FACT complex	Candida_parapsilosis@Seq_5116	24_5115	OG2169
+FAL1-SGD1 complex	Candida_parapsilosis@Seq_2485	24_2484	OG2269
+FAL1-SGD1 complex	Candida_parapsilosis@Seq_5164	24_5163	OG1641
+FAR/SIN/STRIPAK complex	Candida_parapsilosis@Seq_16	24_15	OG1535
+FAR/SIN/STRIPAK complex	Candida_parapsilosis@Seq_3763	24_3762	OG2446
+G-protein beta/gamma-subunit complex	Candida_parapsilosis@Seq_1733	24_1732	OG2995
+G-protein beta/gamma-subunit complex	Candida_parapsilosis@Seq_2502	24_2501	OG2926
+GARP complex	Candida_parapsilosis@Seq_160	24_159	OG1958
+GARP complex	Candida_parapsilosis@Seq_2756	24_2755	OG2122
+GARP complex	Candida_parapsilosis@Seq_4045	24_4044	OG3536
+GARP complex	Candida_parapsilosis@Seq_757	24_756	OG6064
+GATOR1 complex	Candida_parapsilosis@Seq_1481	24_1480	OG3106
+GATOR1 complex	Candida_parapsilosis@Seq_4730	24_4729	OG3561
+GATOR1 complex	Candida_parapsilosis@Seq_4734	24_4733	OG1504
+GET complex	Candida_parapsilosis@Seq_3277	24_3276	OG5751
+GET complex	Candida_parapsilosis@Seq_3288	24_3287	OG2441
+GET complex	Candida_parapsilosis@Seq_3849	24_3848	OG3284
+GID complex	Candida_parapsilosis@Seq_1631	24_1630	OG5869
+GID complex	Candida_parapsilosis@Seq_4312	24_4311	OG4542
+GID complex	Candida_parapsilosis@Seq_450	24_449	OG3194
+GID complex	Candida_parapsilosis@Seq_466	24_465	OG4752
+GID complex	Candida_parapsilosis@Seq_5205	24_5204	OG2985
+GINS complex	Candida_parapsilosis@Seq_3186	24_3185	OG3537
+GINS complex	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+GINS complex	Candida_parapsilosis@Seq_4655	24_4654	OG3283
+GINS complex	Candida_parapsilosis@Seq_752	24_751	OG2873
+GPI-anchor transamidase complex	Candida_parapsilosis@Seq_1099	24_1098	OG3912
+GPI-anchor transamidase complex	Candida_parapsilosis@Seq_1557	24_1556	OG2568
+GPI-anchor transamidase complex	Candida_parapsilosis@Seq_2082	24_2081	OG2872
+GPI-anchor transamidase complex	Candida_parapsilosis@Seq_3136	24_3135	OG2254
+GPI-anchor transamidase complex	Candida_parapsilosis@Seq_3200	24_3199	OG1948
+Golgi transport complex	Candida_parapsilosis@Seq_1758	24_1757	OG4692
+Golgi transport complex	Candida_parapsilosis@Seq_2704	24_2703	OG2115
+Golgi transport complex	Candida_parapsilosis@Seq_2869	24_2868	OG2492
+Golgi transport complex	Candida_parapsilosis@Seq_4202	24_4201	OG2659
+Golgi transport complex	Candida_parapsilosis@Seq_457	24_456	OG3868
+Golgi transport complex	Candida_parapsilosis@Seq_467	24_466	OG3765
+Golgi transport complex	Candida_parapsilosis@Seq_634	24_633	OG4480
+Gtr1-Gtr2 GTPase complex	Candida_parapsilosis@Seq_1156	24_1155	OG2929
+Gtr1-Gtr2 GTPase complex	Candida_parapsilosis@Seq_4546	24_4545	OG4226
+H4/H2A histone acetyltransferase complex	Candida_parapsilosis@Seq_2798	24_2797	OG2949
+HDA1 complex	Candida_parapsilosis@Seq_2031	24_2030	OG5529
+HDA1 complex	Candida_parapsilosis@Seq_3433	24_3432	OG1736
+HDA1 complex	Candida_parapsilosis@Seq_3619	24_3618	OG3136
+HICS complex	Candida_parapsilosis@Seq_1334	24_1333	OG3763
+HICS complex	Candida_parapsilosis@Seq_1405	24_1404	OG5586
+HICS complex	Candida_parapsilosis@Seq_1732	24_1731	OG2283
+HICS complex	Candida_parapsilosis@Seq_4267	24_4266	OG3516
+HIR complex	Candida_parapsilosis@Seq_2491	24_2490	OG1377
+HIR complex	Candida_parapsilosis@Seq_3346	24_3345	OG3301
+HIR complex	Candida_parapsilosis@Seq_5184	24_5183	OG3972
+HIR complex	Candida_parapsilosis@Seq_776	24_775	OG4955
+HOPS complex	Candida_parapsilosis@Seq_2126	24_2125	OG1889
+HOPS complex	Candida_parapsilosis@Seq_2370	24_2369	OG2803
+HOPS complex	Candida_parapsilosis@Seq_3485	24_3484	OG2027
+HOPS complex	Candida_parapsilosis@Seq_3730	24_3729	OG2511
+HOPS complex	Candida_parapsilosis@Seq_78	24_77	OG3672
+HULC complex	Candida_parapsilosis@Seq_735	24_734	OG3492
+Holliday junction resolvase complex	Candida_parapsilosis@Seq_106	24_105	OG4947
+Holliday junction resolvase complex	Candida_parapsilosis@Seq_438	24_437	OG3963
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_1154	24_1153	OG4220
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_1478	24_1477	OG5840
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_3121	24_3120	OG2940
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_3395	24_3394	OG3550
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_5190	24_5189	OG2998
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_875	24_874	OG4246
+Hrd1p ubiquitin ligase ERAD-L complex	Candida_parapsilosis@Seq_931	24_930	OG4176
+Hrd1p ubiquitin ligase ERAD-M complex	Candida_parapsilosis@Seq_3395	24_3394	OG3550
+Hrd1p ubiquitin ligase ERAD-M complex	Candida_parapsilosis@Seq_5190	24_5189	OG2998
+Ino80 complex	Candida_parapsilosis@Seq_1419	24_1418	OG2366
+Ino80 complex	Candida_parapsilosis@Seq_1544	24_1543	OG3887
+Ino80 complex	Candida_parapsilosis@Seq_1552	24_1551	OG1721
+Ino80 complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+Ino80 complex	Candida_parapsilosis@Seq_1814	24_1813	OG2358
+Ino80 complex	Candida_parapsilosis@Seq_1917	24_1916	OG4891
+Ino80 complex	Candida_parapsilosis@Seq_2299	24_2298	OG2118
+Ino80 complex	Candida_parapsilosis@Seq_248	24_247	OG4208
+Ino80 complex	Candida_parapsilosis@Seq_2798	24_2797	OG2949
+Ino80 complex	Candida_parapsilosis@Seq_2971	24_2970	OG3084
+Ino80 complex	Candida_parapsilosis@Seq_3323	24_3322	OG3768
+Ino80 complex	Candida_parapsilosis@Seq_4034	24_4033	OG1896
+Ino80 complex	Candida_parapsilosis@Seq_4286	24_4285	OG2549
+Ino80 complex	Candida_parapsilosis@Seq_4567	24_4566	OG2601
+Isw1a complex	Candida_parapsilosis@Seq_4904	24_4903	OG1038
+Isw1a complex	Candida_parapsilosis@Seq_5011	24_5010	OG5462
+Isw1b complex	Candida_parapsilosis@Seq_2672	24_2671	OG6085
+Isw1b complex	Candida_parapsilosis@Seq_3911	24_3910	OG4851
+Isw1b complex	Candida_parapsilosis@Seq_4904	24_4903	OG1038
+Kelch-containing formin regulatory complex	Candida_parapsilosis@Seq_4450	24_4449	OG2047
+Kelch-containing formin regulatory complex	Candida_parapsilosis@Seq_4913	24_4912	OG31962
+Ku70:Ku80 complex	Candida_parapsilosis@Seq_1035	24_1034	OG3527
+Ku70:Ku80 complex	Candida_parapsilosis@Seq_1438	24_1437	OG2349
+L-cysteine desulfurase complex	Candida_parapsilosis@Seq_1545	24_1544	OG4269
+L-cysteine desulfurase complex	Candida_parapsilosis@Seq_2694	24_2693	OG1876
+Las1 complex	Candida_parapsilosis@Seq_4624	24_4623	OG4632
+Lid2 complex	Candida_parapsilosis@Seq_2511	24_2510	OG1678
+Lid2 complex	Candida_parapsilosis@Seq_3934	24_3933	OG2555
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_215	24_214	OG2153
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_29	24_28	OG3888
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_3291	24_3290	OG4096
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_3810	24_3809	OG4593
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_411	24_410	OG3612
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_4387	24_4386	OG3758
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_4726	24_4725	OG2918
+Lsm1-7-Pat1 complex	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+Lst4-Lst7 complex	Candida_parapsilosis@Seq_3408	24_3407	OG3915
+Lst4-Lst7 complex	Candida_parapsilosis@Seq_983	24_982	OG5326
+MBF transcription complex	Candida_parapsilosis@Seq_1076	24_1075	OG2991
+MBF transcription complex	Candida_parapsilosis@Seq_1289	24_1288	OG4929
+MBF transcription complex	Candida_parapsilosis@Seq_1939	24_1938	OG5986
+MBF transcription complex	Candida_parapsilosis@Seq_3342	24_3341	OG2185
+MCM complex	Candida_parapsilosis@Seq_2266	24_2265	OG1893
+MCM complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+MCM complex	Candida_parapsilosis@Seq_3799	24_3798	OG1049
+MCM complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+MCM complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+MCM complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+MCM core complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+MCM core complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+MCM core complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+MICOS complex	Candida_parapsilosis@Seq_251	24_250	OG5043
+MICOS complex	Candida_parapsilosis@Seq_2749	24_2748	OG2907
+MICOS complex	Candida_parapsilosis@Seq_3456	24_3455	OG2796
+MICOS complex	Candida_parapsilosis@Seq_5246	24_5245	OG3620
+MICOS complex	Candida_parapsilosis@Seq_567	24_566	OG3005
+MIH complex	Candida_parapsilosis@Seq_1732	24_1731	OG2283
+MIH complex	Candida_parapsilosis@Seq_413	24_412	OG2345
+MIH complex	Candida_parapsilosis@Seq_541	24_540	OG2426
+MIS12/MIND type complex	Candida_parapsilosis@Seq_632	24_631	OG4495
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_parapsilosis@Seq_4534	24_4533	OG2911
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_parapsilosis@Seq_677	24_676	OG1649
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Candida_parapsilosis@Seq_735	24_734	OG3492
+Mcs4 RR-MAPKKK complex	Candida_parapsilosis@Seq_2325	24_2324	OG1373
+Mei2 nuclear dot complex	Candida_parapsilosis@Seq_3287	24_3286	OG2800
+Mis6-Sim4 complex	Candida_parapsilosis@Seq_1479	24_1478	OG3290
+Mis6-Sim4 complex	Candida_parapsilosis@Seq_4305	24_4304	OG5807
+Mon1-Ccz1 complex	Candida_parapsilosis@Seq_1338	24_1337	OG6093
+Mon1-Ccz1 complex	Candida_parapsilosis@Seq_2698	24_2697	OG3515
+Mpp10 complex	Candida_parapsilosis@Seq_2124	24_2123	OG1757
+Mpp10 complex	Candida_parapsilosis@Seq_373	24_372	OG2583
+Mpp10 complex	Candida_parapsilosis@Seq_62	24_61	OG6090
+Mre11 complex	Candida_parapsilosis@Seq_203	24_202	OG1700
+Mre11 complex	Candida_parapsilosis@Seq_3681	24_3680	OG6157
+Mre11 complex	Candida_parapsilosis@Seq_990	24_989	OG2164
+MutLalpha complex	Candida_parapsilosis@Seq_1401	24_1400	OG2832
+MutLalpha complex	Candida_parapsilosis@Seq_2047	24_2046	OG1991
+MutLbeta complex	Candida_parapsilosis@Seq_2047	24_2046	OG1991
+MutLgamma complex	Candida_parapsilosis@Seq_1893	24_1892	OG4446
+MutLgamma complex	Candida_parapsilosis@Seq_2047	24_2046	OG1991
+MutSalpha complex	Candida_parapsilosis@Seq_2287	24_2286	OG1606
+MutSalpha complex	Candida_parapsilosis@Seq_2431	24_2430	OG2337
+MutSbeta complex	Candida_parapsilosis@Seq_2287	24_2286	OG1606
+MutSbeta complex	Candida_parapsilosis@Seq_569	24_568	OG1940
+MutSgamma complex	Candida_parapsilosis@Seq_2328	24_2327	OG5355
+MutSgamma complex	Candida_parapsilosis@Seq_4565	24_4564	OG5315
+Myo2p-Vac17p-Vac8p transport complex	Candida_parapsilosis@Seq_3480	24_3479	OG1739
+Myo2p-Vac17p-Vac8p transport complex	Candida_parapsilosis@Seq_681	24_680	OG1238
+NLS-dependent protein nuclear import complex	Candida_parapsilosis@Seq_1123	24_1122	OG2214
+NLS-dependent protein nuclear import complex	Candida_parapsilosis@Seq_2135	24_2134	OG1797
+NLS-dependent protein nuclear import complex	Candida_parapsilosis@Seq_4200	24_4199	OG1484
+NMS complex	Candida_parapsilosis@Seq_2067	24_2066	OG4933
+NMS complex	Candida_parapsilosis@Seq_419	24_418	OG3834
+NVT complex	Candida_parapsilosis@Seq_239	24_238	OG1041
+NVT complex	Candida_parapsilosis@Seq_3604	24_3603	OG1469
+NatA complex	Candida_parapsilosis@Seq_282	24_281	OG2519
+NatA complex	Candida_parapsilosis@Seq_297	24_296	OG1823
+NatA complex	Candida_parapsilosis@Seq_5105	24_5104	OG3793
+NatB complex	Candida_parapsilosis@Seq_3800	24_3799	OG4815
+NatC complex	Candida_parapsilosis@Seq_3451	24_3450	OG2779
+NatC complex	Candida_parapsilosis@Seq_5075	24_5074	OG2456
+Nbp35-Cfd1 ATPase complex	Candida_parapsilosis@Seq_1251	24_1250	OG1839
+Nbp35-Cfd1 ATPase complex	Candida_parapsilosis@Seq_4725	24_4724	OG2019
+Ndc80 complex	Candida_parapsilosis@Seq_2067	24_2066	OG4933
+Ndc80 complex	Candida_parapsilosis@Seq_419	24_418	OG3834
+Ndc80 complex	Candida_parapsilosis@Seq_4301	24_4300	OG32018
+Ndc80 complex	Candida_parapsilosis@Seq_694	24_693	OG2563
+Nem1-Spo7 phosphatase complex	Candida_parapsilosis@Seq_4957	24_4956	OG3769
+Nem1-Spo7 phosphatase complex	Candida_parapsilosis@Seq_4965	24_4964	OG2824
+Noc1p-Noc2p complex	Candida_parapsilosis@Seq_1748	24_1747	OG1957
+Noc1p-Noc2p complex	Candida_parapsilosis@Seq_659	24_658	OG2060
+Noc2p-Noc3p complex	Candida_parapsilosis@Seq_5071	24_5070	OG1809
+Noc2p-Noc3p complex	Candida_parapsilosis@Seq_659	24_658	OG2060
+Noc4p-Nop14p complex	Candida_parapsilosis@Seq_2928	24_2927	OG3217
+Noc4p-Nop14p complex	Candida_parapsilosis@Seq_4316	24_4315	OG2527
+Nrd1 complex	Candida_parapsilosis@Seq_1118	24_1117	OG2744
+Nrd1 complex	Candida_parapsilosis@Seq_5015	24_5014	OG4921
+Nrd1 complex	Candida_parapsilosis@Seq_887	24_886	OG1347
+NuA3 histone acetyltransferase complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+NuA3 histone acetyltransferase complex	Candida_parapsilosis@Seq_254	24_253	OG3444
+NuA3 histone acetyltransferase complex	Candida_parapsilosis@Seq_3111	24_3110	OG2855
+NuA3 histone acetyltransferase complex	Candida_parapsilosis@Seq_3606	24_3605	OG4174
+NuA3 histone acetyltransferase complex	Candida_parapsilosis@Seq_976	24_975	OG6137
+NuA3a histone acetyltransferase complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+NuA3a histone acetyltransferase complex	Candida_parapsilosis@Seq_254	24_253	OG3444
+NuA3a histone acetyltransferase complex	Candida_parapsilosis@Seq_3111	24_3110	OG2855
+NuA3a histone acetyltransferase complex	Candida_parapsilosis@Seq_3606	24_3605	OG4174
+NuA3b histone acetyltransferase complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+NuA3b histone acetyltransferase complex	Candida_parapsilosis@Seq_254	24_253	OG3444
+NuA3b histone acetyltransferase complex	Candida_parapsilosis@Seq_3111	24_3110	OG2855
+NuA3b histone acetyltransferase complex	Candida_parapsilosis@Seq_3606	24_3605	OG4174
+NuA3b histone acetyltransferase complex	Candida_parapsilosis@Seq_976	24_975	OG6137
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_1484	24_1483	OG2623
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_2798	24_2797	OG2949
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_2930	24_2929	OG3397
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3077	24_3076	OG3983
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3527	24_3526	OG2180
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3606	24_3605	OG4174
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3650	24_3649	OG3071
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_395	24_394	OG1427
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_4034	24_4033	OG1896
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_4071	24_4070	OG55335
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_4257	24_4256	OG2141
+NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_5157	24_5156	OG3717
+P-TEFb complex	Candida_parapsilosis@Seq_1441	24_1440	OG4846
+P-TEFb-cap methyltransferase complex	Candida_parapsilosis@Seq_1494	24_1493	OG2292
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_1175	24_1174	OG1002
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_2115	24_2114	OG3126
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_2752	24_2751	OG3935
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_3630	24_3629	OG2805
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_3827	24_3826	OG2746
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_511	24_510	OG2440
+PAM complex, Tim23 associated import motor	Candida_parapsilosis@Seq_586	24_585	OG4371
+PAN complex	Candida_parapsilosis@Seq_1954	24_1953	OG2055
+PAN complex	Candida_parapsilosis@Seq_2539	24_2538	OG1816
+PAS complex	Candida_parapsilosis@Seq_1400	24_1399	OG3481
+PAS complex	Candida_parapsilosis@Seq_2644	24_2643	OG6040
+PAS complex	Candida_parapsilosis@Seq_3977	24_3976	OG2213
+PAS complex	Candida_parapsilosis@Seq_5125	24_5124	OG2579
+PAS complex	Candida_parapsilosis@Seq_5220	24_5219	OG1495
+PCNA complex	Candida_parapsilosis@Seq_3937	24_3936	OG2159
+PTW/PP1 phosphatase complex	Candida_parapsilosis@Seq_1583	24_1582	OG3661
+PTW/PP1 phosphatase complex	Candida_parapsilosis@Seq_774	24_773	OG1452
+PeBoW complex	Candida_parapsilosis@Seq_1455	24_1454	OG1722
+PeBoW complex	Candida_parapsilosis@Seq_332	24_331	OG2140
+PeBoW complex	Candida_parapsilosis@Seq_3711	24_3710	OG2193
+Pex17p-Pex14p docking complex	Candida_parapsilosis@Seq_1460	24_1459	OG3607
+Pex17p-Pex14p docking complex	Candida_parapsilosis@Seq_4344	24_4343	OG2756
+Pex17p-Pex14p docking complex	Candida_parapsilosis@Seq_4853	24_4852	OG3547
+Pho85-Pho80 CDK-cyclin complex	Candida_parapsilosis@Seq_5205	24_5204	OG2985
+Piccolo NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3077	24_3076	OG3983
+Piccolo NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_3527	24_3526	OG2180
+Piccolo NuA4 histone acetyltransferase complex	Candida_parapsilosis@Seq_4257	24_4256	OG2141
+Pip2-Oaf1 complex	Candida_parapsilosis@Seq_3625	24_3624	OG4597
+Prp19 complex	Candida_parapsilosis@Seq_1169	24_1168	OG3223
+Prp19 complex	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+Prp19 complex	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+Prp19 complex	Candida_parapsilosis@Seq_2301	24_2300	OG1790
+Prp19 complex	Candida_parapsilosis@Seq_2740	24_2739	OG3229
+Prp19 complex	Candida_parapsilosis@Seq_3467	24_3466	OG4163
+Prp19 complex	Candida_parapsilosis@Seq_4136	24_4135	OG3004
+Prp19 complex	Candida_parapsilosis@Seq_4211	24_4210	OG4987
+Prp19 complex	Candida_parapsilosis@Seq_4959	24_4958	OG5025
+Prp19 complex	Candida_parapsilosis@Seq_856	24_855	OG2650
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_1701	24_1700	OG1961
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_2684	24_2683	OG2553
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_3334	24_3333	OG2750
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_3485	24_3484	OG2027
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_4617	24_4616	OG1868
+Pwp2p-containing subcomplex of 90S preribosome	Candida_parapsilosis@Seq_5088	24_5087	OG2036
+R2TP complex	Candida_parapsilosis@Seq_1552	24_1551	OG1721
+R2TP complex	Candida_parapsilosis@Seq_167	24_166	OG4467
+R2TP complex	Candida_parapsilosis@Seq_2299	24_2298	OG2118
+R2TP complex	Candida_parapsilosis@Seq_86	24_85	OG4514
+RAVE complex	Candida_parapsilosis@Seq_1275	24_1274	OG2287
+RAVE complex	Candida_parapsilosis@Seq_2952	24_2951	OG4414
+RAVE complex	Candida_parapsilosis@Seq_512	24_511	OG2575
+RENT complex	Candida_parapsilosis@Seq_4669	24_4668	OG1690
+RES complex	Candida_parapsilosis@Seq_3727	24_3726	OG3264
+RES complex	Candida_parapsilosis@Seq_4704	24_4703	OG2625
+RIC1-RGP1 guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_1978	24_1977	OG6212
+RIC1-RGP1 guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_810	24_809	OG5902
+RISC complex	Candida_parapsilosis@Seq_4879	24_4878	OG4394
+RNA N6-methyladenosine methyltransferase complex	Candida_parapsilosis@Seq_4284	24_4283	OG3722
+RNA N6-methyladenosine methyltransferase complex	Candida_parapsilosis@Seq_645	24_644	OG4854
+RNA polymerase I complex	Candida_parapsilosis@Seq_2143	24_2142	OG1568
+RNA polymerase I complex	Candida_parapsilosis@Seq_234	24_233	OG7203
+RNA polymerase I complex	Candida_parapsilosis@Seq_2361	24_2360	OG3302
+RNA polymerase I complex	Candida_parapsilosis@Seq_3282	24_3281	OG2030
+RNA polymerase I complex	Candida_parapsilosis@Seq_3540	24_3539	OG3160
+RNA polymerase I complex	Candida_parapsilosis@Seq_3716	24_3715	OG2847
+RNA polymerase I complex	Candida_parapsilosis@Seq_3770	24_3769	OG3400
+RNA polymerase I complex	Candida_parapsilosis@Seq_380	24_379	OG4213
+RNA polymerase I complex	Candida_parapsilosis@Seq_3921	24_3920	OG2731
+RNA polymerase I complex	Candida_parapsilosis@Seq_3976	24_3975	OG3002
+RNA polymerase I complex	Candida_parapsilosis@Seq_836	24_835	OG2018
+RNA polymerase I complex	Candida_parapsilosis@Seq_981	24_980	OG2828
+RNA polymerase I core factor complex	Candida_parapsilosis@Seq_1694	24_1693	OG4241
+RNA polymerase I core factor complex	Candida_parapsilosis@Seq_1723	24_1722	OG5063
+RNA polymerase I core factor complex	Candida_parapsilosis@Seq_4329	24_4328	OG1076
+RNA polymerase I transcription factor complex	Candida_parapsilosis@Seq_2595	24_2594	OG1941
+RNA polymerase I transcription factor complex	Candida_parapsilosis@Seq_4329	24_4328	OG1076
+RNA polymerase I upstream activating factor complex	Candida_parapsilosis@Seq_1770	24_1769	OG5715
+RNA polymerase I upstream activating factor complex	Candida_parapsilosis@Seq_68	24_67	OG5570
+RNA polymerase II transcription factor complex	Candida_parapsilosis@Seq_4121	24_4120	OG3671
+RNA polymerase II transcription factor complex	Candida_parapsilosis@Seq_427	24_426	OG2423
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_1379	24_1378	OG1028
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_1674	24_1673	OG1720
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_1916	24_1915	OG2299
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_2006	24_2005	OG1033
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_2361	24_2360	OG3302
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_2479	24_2478	OG2391
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_3921	24_3920	OG2731
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_3976	24_3975	OG3002
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_4346	24_4345	OG3080
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_4786	24_4785	OG3317
+RNA polymerase II, core complex	Candida_parapsilosis@Seq_981	24_980	OG2828
+RNA polymerase III complex	Candida_parapsilosis@Seq_1005	24_1004	OG3037
+RNA polymerase III complex	Candida_parapsilosis@Seq_166	24_165	OG3190
+RNA polymerase III complex	Candida_parapsilosis@Seq_2260	24_2259	OG2856
+RNA polymerase III complex	Candida_parapsilosis@Seq_2361	24_2360	OG3302
+RNA polymerase III complex	Candida_parapsilosis@Seq_2578	24_2577	OG2029
+RNA polymerase III complex	Candida_parapsilosis@Seq_3145	24_3144	OG3086
+RNA polymerase III complex	Candida_parapsilosis@Seq_3208	24_3207	OG3192
+RNA polymerase III complex	Candida_parapsilosis@Seq_3273	24_3272	OG4203
+RNA polymerase III complex	Candida_parapsilosis@Seq_3716	24_3715	OG2847
+RNA polymerase III complex	Candida_parapsilosis@Seq_3770	24_3769	OG3400
+RNA polymerase III complex	Candida_parapsilosis@Seq_3919	24_3918	OG3142
+RNA polymerase III complex	Candida_parapsilosis@Seq_3921	24_3920	OG2731
+RNA polymerase III complex	Candida_parapsilosis@Seq_3976	24_3975	OG3002
+RNA polymerase III complex	Candida_parapsilosis@Seq_5147	24_5146	OG1028
+RNA polymerase III complex	Candida_parapsilosis@Seq_544	24_543	OG3417
+RNA polymerase III complex	Candida_parapsilosis@Seq_666	24_665	OG1033
+RNA polymerase III complex	Candida_parapsilosis@Seq_981	24_980	OG2828
+RQC complex	Candida_parapsilosis@Seq_225	24_224	OG1884
+RQC complex	Candida_parapsilosis@Seq_2564	24_2563	OG1751
+RQC complex	Candida_parapsilosis@Seq_3121	24_3120	OG2940
+RQC complex	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+RQC complex	Candida_parapsilosis@Seq_4952	24_4951	OG2255
+RQC complex	Candida_parapsilosis@Seq_931	24_930	OG4176
+RSC-type complex	Candida_parapsilosis@Seq_1299	24_1298	OG8031
+RSC-type complex	Candida_parapsilosis@Seq_1682	24_1681	OG1415
+RSC-type complex	Candida_parapsilosis@Seq_1857	24_1856	OG1047
+RSC-type complex	Candida_parapsilosis@Seq_2476	24_2475	OG4992
+RSC-type complex	Candida_parapsilosis@Seq_2653	24_2652	OG2163
+RSC-type complex	Candida_parapsilosis@Seq_2997	24_2996	OG2710
+RSC-type complex	Candida_parapsilosis@Seq_3105	24_3104	OG1718
+RSC-type complex	Candida_parapsilosis@Seq_3696	24_3695	OG3922
+RSC-type complex	Candida_parapsilosis@Seq_4076	24_4075	OG1051
+RSC-type complex	Candida_parapsilosis@Seq_4846	24_4845	OG4684
+RSC-type complex	Candida_parapsilosis@Seq_5025	24_5024	OG3708
+RSC-type complex	Candida_parapsilosis@Seq_914	24_913	OG1051
+Rab-protein geranylgeranyltransferase complex	Candida_parapsilosis@Seq_3548	24_3547	OG1864
+Rab-protein geranylgeranyltransferase complex	Candida_parapsilosis@Seq_4140	24_4139	OG3510
+Rab-protein geranylgeranyltransferase complex	Candida_parapsilosis@Seq_838	24_837	OG2777
+Rad17 RFC-like complex	Candida_parapsilosis@Seq_175	24_174	OG2996
+Rad17 RFC-like complex	Candida_parapsilosis@Seq_1782	24_1781	OG2839
+Rad17 RFC-like complex	Candida_parapsilosis@Seq_3052	24_3051	OG2291
+Rad17 RFC-like complex	Candida_parapsilosis@Seq_4320	24_4319	OG4080
+Rad17 RFC-like complex	Candida_parapsilosis@Seq_518	24_517	OG2330
+Rad6-Rad18 complex	Candida_parapsilosis@Seq_4936	24_4935	OG3437
+Rad6-Rad18 complex	Candida_parapsilosis@Seq_735	24_734	OG3492
+RecQ family helicase-topoisomerase III complex	Candida_parapsilosis@Seq_1459	24_1458	OG1801
+RecQ family helicase-topoisomerase III complex	Candida_parapsilosis@Seq_2293	24_2292	OG5120
+RecQ family helicase-topoisomerase III complex	Candida_parapsilosis@Seq_3747	24_3746	OG1396
+Rhp55-Rhp57 complex	Candida_parapsilosis@Seq_18	24_17	OG4095
+Rix1 complex	Candida_parapsilosis@Seq_1472	24_1471	OG2135
+Rix1 complex	Candida_parapsilosis@Seq_3637	24_3636	OG2351
+Rix1 complex	Candida_parapsilosis@Seq_769	24_768	OG1297
+Rpd3L complex	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+Rpd3L complex	Candida_parapsilosis@Seq_1353	24_1352	OG51461
+Rpd3L complex	Candida_parapsilosis@Seq_1810	24_1809	OG3094
+Rpd3L complex	Candida_parapsilosis@Seq_2008	24_2007	OG3088
+Rpd3L complex	Candida_parapsilosis@Seq_232	24_231	OG3697
+Rpd3L complex	Candida_parapsilosis@Seq_2614	24_2613	OG3812
+Rpd3L complex	Candida_parapsilosis@Seq_2815	24_2814	OG4249
+Rpd3L complex	Candida_parapsilosis@Seq_4019	24_4018	OG2296
+Rpd3L complex	Candida_parapsilosis@Seq_421	24_420	OG1496
+Rpd3L complex	Candida_parapsilosis@Seq_4875	24_4874	OG6231
+Rpd3L complex	Candida_parapsilosis@Seq_5009	24_5008	OG1453
+Rpd3L-Expanded complex	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+Rpd3L-Expanded complex	Candida_parapsilosis@Seq_2008	24_2007	OG3088
+Rpd3L-Expanded complex	Candida_parapsilosis@Seq_4423	24_4422	OG3482
+Rpd3L-Expanded complex	Candida_parapsilosis@Seq_762	24_761	OG2000
+Rpd3S complex	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+Rpd3S complex	Candida_parapsilosis@Seq_2605	24_2604	OG2728
+Rpd3S complex	Candida_parapsilosis@Seq_2930	24_2929	OG3397
+Rpd3S complex	Candida_parapsilosis@Seq_5009	24_5008	OG1453
+Rvs161p-Rvs167p complex	Candida_parapsilosis@Seq_1750	24_1749	OG2754
+Rvs161p-Rvs167p complex	Candida_parapsilosis@Seq_5258	24_5257	OG1866
+SAGA complex	Candida_parapsilosis@Seq_1177	24_1176	OG6366
+SAGA complex	Candida_parapsilosis@Seq_1188	24_1187	OG2418
+SAGA complex	Candida_parapsilosis@Seq_1265	24_1264	OG3528
+SAGA complex	Candida_parapsilosis@Seq_127	24_126	OG3289
+SAGA complex	Candida_parapsilosis@Seq_1485	24_1484	OG2371
+SAGA complex	Candida_parapsilosis@Seq_15	24_14	OG3044
+SAGA complex	Candida_parapsilosis@Seq_1700	24_1699	OG2280
+SAGA complex	Candida_parapsilosis@Seq_1736	24_1735	OG2545
+SAGA complex	Candida_parapsilosis@Seq_1926	24_1925	OG1703
+SAGA complex	Candida_parapsilosis@Seq_1930	24_1929	OG1493
+SAGA complex	Candida_parapsilosis@Seq_2058	24_2057	OG1560
+SAGA complex	Candida_parapsilosis@Seq_2130	24_2129	OG2165
+SAGA complex	Candida_parapsilosis@Seq_2416	24_2415	OG4031
+SAGA complex	Candida_parapsilosis@Seq_2799	24_2798	OG2792
+SAGA complex	Candida_parapsilosis@Seq_2825	24_2824	OG1099
+SAGA complex	Candida_parapsilosis@Seq_2911	24_2910	OG3068
+SAGA complex	Candida_parapsilosis@Seq_3224	24_3223	OG4164
+SAGA complex	Candida_parapsilosis@Seq_395	24_394	OG1427
+SAGA complex	Candida_parapsilosis@Seq_4338	24_4337	OG3031
+SAGA complex	Candida_parapsilosis@Seq_4409	24_4408	OG1542
+SAM complex	Candida_parapsilosis@Seq_1514	24_1513	OG2368
+SAM complex	Candida_parapsilosis@Seq_1872	24_1871	OG4839
+SAM complex	Candida_parapsilosis@Seq_2327	24_2326	OG3173
+SAM complex	Candida_parapsilosis@Seq_445	24_444	OG2043
+SAS acetyltransferase complex	Candida_parapsilosis@Seq_1878	24_1877	OG5443
+SAS acetyltransferase complex	Candida_parapsilosis@Seq_2823	24_2822	OG3504
+SBF transcription complex	Candida_parapsilosis@Seq_1289	24_1288	OG4929
+SBF transcription complex	Candida_parapsilosis@Seq_1939	24_1938	OG5986
+SBF transcription complex	Candida_parapsilosis@Seq_3342	24_3341	OG2185
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_1360	24_1359	OG2479
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_1414	24_1413	OG3206
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_2738	24_2737	OG1648
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_2798	24_2797	OG2949
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_3093	24_3092	OG4309
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_3266	24_3265	OG1763
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_3281	24_3280	OG3595
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_3370	24_3369	OG1339
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4041	24_4040	OG1489
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4210	24_4209	OG3368
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4347	24_4346	OG3051
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_512	24_511	OG2575
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_5259	24_5258	OG5446
+SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_922	24_921	OG4464
+SHREC complex	Candida_parapsilosis@Seq_3433	24_3432	OG1736
+SHREC2 complex	Candida_parapsilosis@Seq_3433	24_3432	OG1736
+SLAC complex	Candida_parapsilosis@Seq_342	24_341	OG1627
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1188	24_1187	OG2418
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1265	24_1264	OG3528
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_127	24_126	OG3289
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_15	24_14	OG3044
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1700	24_1699	OG2280
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1736	24_1735	OG2545
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1926	24_1925	OG1703
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_1930	24_1929	OG1493
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_2058	24_2057	OG1560
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_2130	24_2129	OG2165
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_2799	24_2798	OG2792
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_2825	24_2824	OG1099
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_2911	24_2910	OG3068
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_395	24_394	OG1427
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_4338	24_4337	OG3031
+SLIK (SAGA-like) complex	Candida_parapsilosis@Seq_4409	24_4408	OG1542
+SMC loading complex	Candida_parapsilosis@Seq_3119	24_3118	OG2802
+SNARE complex	Candida_parapsilosis@Seq_1314	24_1313	OG5174
+SNARE complex	Candida_parapsilosis@Seq_1316	24_1315	OG4194
+SNARE complex	Candida_parapsilosis@Seq_1733	24_1732	OG2995
+SNARE complex	Candida_parapsilosis@Seq_1885	24_1884	OG2836
+SNARE complex	Candida_parapsilosis@Seq_2157	24_2156	OG1413
+SNARE complex	Candida_parapsilosis@Seq_2645	24_2644	OG4872
+SNARE complex	Candida_parapsilosis@Seq_2698	24_2697	OG3515
+SNARE complex	Candida_parapsilosis@Seq_3379	24_3378	OG3849
+SNARE complex	Candida_parapsilosis@Seq_3416	24_3415	OG4038
+SNARE complex	Candida_parapsilosis@Seq_3526	24_3525	OG5323
+SNARE complex	Candida_parapsilosis@Seq_3741	24_3740	OG2040
+SNARE complex	Candida_parapsilosis@Seq_3806	24_3805	OG2767
+SNARE complex	Candida_parapsilosis@Seq_3947	24_3946	OG3087
+SNARE complex	Candida_parapsilosis@Seq_400	24_399	OG5023
+SNARE complex	Candida_parapsilosis@Seq_4453	24_4452	OG2700
+SNARE complex	Candida_parapsilosis@Seq_4506	24_4505	OG1894
+SNARE complex	Candida_parapsilosis@Seq_4736	24_4735	OG5856
+SNARE complex	Candida_parapsilosis@Seq_4811	24_4810	OG2334
+SNARE complex	Candida_parapsilosis@Seq_4814	24_4813	OG2698
+SNARE complex	Candida_parapsilosis@Seq_641	24_640	OG2799
+SNARE complex	Candida_parapsilosis@Seq_714	24_713	OG3461
+SPOTS complex	Candida_parapsilosis@Seq_3906	24_3905	OG2382
+SPOTS complex	Candida_parapsilosis@Seq_4438	24_4437	OG3178
+SPOTS complex	Candida_parapsilosis@Seq_4871	24_4870	OG1743
+SPOTS complex	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+SUMO activating enzyme complex	Candida_parapsilosis@Seq_3162	24_3161	OG1672
+SUMO activating enzyme complex	Candida_parapsilosis@Seq_4613	24_4612	OG1713
+SUMO-targeted ubiquitin ligase complex	Candida_parapsilosis@Seq_1225	24_1224	OG4606
+SUMO-targeted ubiquitin ligase complex	Candida_parapsilosis@Seq_5110	24_5109	OG5209
+SWI/SNF complex	Candida_parapsilosis@Seq_1165	24_1164	OG3183
+SWI/SNF complex	Candida_parapsilosis@Seq_1299	24_1298	OG8031
+SWI/SNF complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+SWI/SNF complex	Candida_parapsilosis@Seq_2653	24_2652	OG2163
+SWI/SNF complex	Candida_parapsilosis@Seq_2744	24_2743	OG2422
+SWI/SNF complex	Candida_parapsilosis@Seq_2934	24_2933	OG6012
+SWI/SNF complex	Candida_parapsilosis@Seq_3105	24_3104	OG1718
+SWI/SNF complex	Candida_parapsilosis@Seq_3696	24_3695	OG3922
+SWI/SNF complex	Candida_parapsilosis@Seq_4319	24_4318	OG4037
+SWI/SNF complex	Candida_parapsilosis@Seq_77	24_76	OG3955
+SWI/SNF complex	Candida_parapsilosis@Seq_914	24_913	OG1051
+Sec61 translocon complex	Candida_parapsilosis@Seq_1270	24_1269	OG4207
+Sec61 translocon complex	Candida_parapsilosis@Seq_5070	24_5069	OG1391
+Sec62/Sec63 complex	Candida_parapsilosis@Seq_2056	24_2055	OG2876
+Sec62/Sec63 complex	Candida_parapsilosis@Seq_2348	24_2347	OG2962
+Sec62/Sec63 complex	Candida_parapsilosis@Seq_509	24_508	OG3936
+Seh1-associated complex	Candida_parapsilosis@Seq_1132	24_1131	OG3845
+Seh1-associated complex	Candida_parapsilosis@Seq_1481	24_1480	OG3106
+Seh1-associated complex	Candida_parapsilosis@Seq_1780	24_1779	OG2333
+Seh1-associated complex	Candida_parapsilosis@Seq_2271	24_2270	OG3742
+Seh1-associated complex	Candida_parapsilosis@Seq_4247	24_4246	OG1138
+Seh1-associated complex	Candida_parapsilosis@Seq_4730	24_4729	OG3561
+Seh1-associated complex	Candida_parapsilosis@Seq_4734	24_4733	OG1504
+Seh1-associated complex	Candida_parapsilosis@Seq_4940	24_4939	OG3646
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_116	24_115	OG4541
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_1651	24_1650	OG1097
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_3934	24_3933	OG2555
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_4348	24_4347	OG4300
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_5181	24_5180	OG2874
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_572	24_571	OG3650
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_954	24_953	OG2143
+Set1C/COMPASS complex	Candida_parapsilosis@Seq_968	24_967	OG5457
+Set3 complex	Candida_parapsilosis@Seq_2538	24_2537	OG1414
+Set3 complex	Candida_parapsilosis@Seq_2977	24_2976	OG3542
+Set3 complex	Candida_parapsilosis@Seq_3630	24_3629	OG2805
+Set3 complex	Candida_parapsilosis@Seq_4039	24_4038	OG1234
+Set3 complex	Candida_parapsilosis@Seq_4423	24_4422	OG3482
+Set3 complex	Candida_parapsilosis@Seq_5216	24_5215	OG3850
+Set3 complex	Candida_parapsilosis@Seq_762	24_761	OG2000
+Sid2-Mob1 complex	Candida_parapsilosis@Seq_1739	24_1738	OG3432
+Sid2-Mob1 complex	Candida_parapsilosis@Seq_4255	24_4254	OG1541
+Sin3-type complex	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+Sin3-type complex	Candida_parapsilosis@Seq_1939	24_1938	OG5986
+Sin3-type complex	Candida_parapsilosis@Seq_5009	24_5008	OG1453
+Ski complex	Candida_parapsilosis@Seq_3085	24_3084	OG2483
+Ski complex	Candida_parapsilosis@Seq_4169	24_4168	OG1036
+Ski complex	Candida_parapsilosis@Seq_4372	24_4371	OG1990
+Slx1-Slx4 complex	Candida_parapsilosis@Seq_2282	24_2281	OG31971
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_1705	24_1704	OG4635
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_2445	24_2444	OG3119
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_2836	24_2835	OG3326
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_3012	24_3011	OG1841
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_4851	24_4850	OG5997
+Smc5-Smc6 complex	Candida_parapsilosis@Seq_602	24_601	OG4687
+Ssh1 translocon complex	Candida_parapsilosis@Seq_1270	24_1269	OG4207
+Ssh1 translocon complex	Candida_parapsilosis@Seq_4831	24_4830	OG4221
+Ssh1 translocon complex	Candida_parapsilosis@Seq_506	24_505	OG2011
+Ste12p-Dig1p-Dig2p complex	Candida_parapsilosis@Seq_5146	24_5145	OG39750
+Ste12p-Dig1p-Dig2p complex	Candida_parapsilosis@Seq_551	24_550	OG3216
+Swr1 complex	Candida_parapsilosis@Seq_1190	24_1189	OG2481
+Swr1 complex	Candida_parapsilosis@Seq_1484	24_1483	OG2623
+Swr1 complex	Candida_parapsilosis@Seq_1552	24_1551	OG1721
+Swr1 complex	Candida_parapsilosis@Seq_180	24_179	OG3709
+Swr1 complex	Candida_parapsilosis@Seq_2252	24_2251	OG4049
+Swr1 complex	Candida_parapsilosis@Seq_2299	24_2298	OG2118
+Swr1 complex	Candida_parapsilosis@Seq_248	24_247	OG4208
+Swr1 complex	Candida_parapsilosis@Seq_2781	24_2780	OG1949
+Swr1 complex	Candida_parapsilosis@Seq_2798	24_2797	OG2949
+Swr1 complex	Candida_parapsilosis@Seq_3058	24_3057	OG3609
+Swr1 complex	Candida_parapsilosis@Seq_3850	24_3849	OG6284
+Swr1 complex	Candida_parapsilosis@Seq_4034	24_4033	OG1896
+Swr1 complex	Candida_parapsilosis@Seq_5157	24_5156	OG3717
+Swr1 complex	Candida_parapsilosis@Seq_56	24_55	OG2885
+Swr1 complex	Candida_parapsilosis@Seq_788	24_787	OG2813
+TACC/TOG complex	Candida_parapsilosis@Seq_3162	24_3161	OG1672
+THO complex part of transcription export complex	Candida_parapsilosis@Seq_4514	24_4513	OG2611
+TIM22 mitochondrial import inner membrane insertion complex	Candida_parapsilosis@Seq_2158	24_2157	OG3016
+TIM22 mitochondrial import inner membrane insertion complex	Candida_parapsilosis@Seq_2323	24_2322	OG4297
+TIM22 mitochondrial import inner membrane insertion complex	Candida_parapsilosis@Seq_2515	24_2514	OG3490
+TIM22 mitochondrial import inner membrane insertion complex	Candida_parapsilosis@Seq_3452	24_3451	OG4069
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_1197	24_1196	OG3077
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_2450	24_2449	OG3555
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_2732	24_2731	OG2694
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_3630	24_3629	OG2805
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_3887	24_3886	OG2080
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_429	24_428	OG2395
+TIM23 mitochondrial import inner membrane translocase complex	Candida_parapsilosis@Seq_511	24_510	OG2440
+TORC1 complex	Candida_parapsilosis@Seq_185	24_184	OG6322
+TORC1 complex	Candida_parapsilosis@Seq_2142	24_2141	OG2387
+TORC1 complex	Candida_parapsilosis@Seq_3127	24_3126	OG2171
+TORC1 complex	Candida_parapsilosis@Seq_4130	24_4129	OG2955
+TORC1 complex	Candida_parapsilosis@Seq_4253	24_4252	OG1035
+TORC1 complex	Candida_parapsilosis@Seq_4466	24_4465	OG1034
+TORC2 complex	Candida_parapsilosis@Seq_165	24_164	OG2745
+TORC2 complex	Candida_parapsilosis@Seq_2142	24_2141	OG2387
+TORC2 complex	Candida_parapsilosis@Seq_3127	24_3126	OG2171
+TORC2 complex	Candida_parapsilosis@Seq_3825	24_3824	OG3133
+TORC2 complex	Candida_parapsilosis@Seq_4130	24_4129	OG2955
+TORC2 complex	Candida_parapsilosis@Seq_4253	24_4252	OG1035
+TORC2 complex	Candida_parapsilosis@Seq_5141	24_5140	OG4027
+TORC2 complex	Candida_parapsilosis@Seq_700	24_699	OG1286
+TRAMP complex	Candida_parapsilosis@Seq_2125	24_2124	OG1295
+TRAMP complex	Candida_parapsilosis@Seq_238	24_237	OG5169
+TRAMP complex	Candida_parapsilosis@Seq_3073	24_3072	OG1036
+TRAPP complex	Candida_parapsilosis@Seq_297	24_296	OG1823
+TRAPPI protein complex	Candida_parapsilosis@Seq_1579	24_1578	OG4059
+TRAPPI protein complex	Candida_parapsilosis@Seq_2174	24_2173	OG1615
+TRAPPI protein complex	Candida_parapsilosis@Seq_297	24_296	OG1823
+TRAPPI protein complex	Candida_parapsilosis@Seq_4259	24_4258	OG3975
+TRAPPI protein complex	Candida_parapsilosis@Seq_4356	24_4355	OG1925
+TRAPPI protein complex	Candida_parapsilosis@Seq_4711	24_4710	OG4039
+TRAPPII protein complex	Candida_parapsilosis@Seq_1248	24_1247	OG2318
+TRAPPII protein complex	Candida_parapsilosis@Seq_1579	24_1578	OG4059
+TRAPPII protein complex	Candida_parapsilosis@Seq_2174	24_2173	OG1615
+TRAPPII protein complex	Candida_parapsilosis@Seq_297	24_296	OG1823
+TRAPPII protein complex	Candida_parapsilosis@Seq_3648	24_3647	OG5306
+TRAPPII protein complex	Candida_parapsilosis@Seq_3768	24_3767	OG2234
+TRAPPII protein complex	Candida_parapsilosis@Seq_4180	24_4179	OG4634
+TRAPPII protein complex	Candida_parapsilosis@Seq_4259	24_4258	OG3975
+TRAPPII protein complex	Candida_parapsilosis@Seq_4356	24_4355	OG1925
+TRAPPII protein complex	Candida_parapsilosis@Seq_4711	24_4710	OG4039
+TRAPPIII protein complex	Candida_parapsilosis@Seq_1579	24_1578	OG4059
+TRAPPIII protein complex	Candida_parapsilosis@Seq_2174	24_2173	OG1615
+TRAPPIII protein complex	Candida_parapsilosis@Seq_297	24_296	OG1823
+TRAPPIII protein complex	Candida_parapsilosis@Seq_4259	24_4258	OG3975
+TRAPPIII protein complex	Candida_parapsilosis@Seq_4356	24_4355	OG1925
+TRAPPIII protein complex	Candida_parapsilosis@Seq_4711	24_4710	OG4039
+TRAPPIII protein complex	Candida_parapsilosis@Seq_4803	24_4802	OG1228
+TRC complex	Candida_parapsilosis@Seq_1376	24_1375	OG1917
+TRC complex	Candida_parapsilosis@Seq_2140	24_2139	OG4818
+TRC complex	Candida_parapsilosis@Seq_2179	24_2178	OG1037
+TRC complex	Candida_parapsilosis@Seq_3594	24_3593	OG5637
+TRC complex	Candida_parapsilosis@Seq_5041	24_5040	OG2536
+TRC complex	Candida_parapsilosis@Seq_989	24_988	OG3372
+Tec1p-Ste12p-Dig1p complex	Candida_parapsilosis@Seq_3774	24_3773	OG4821
+Tec1p-Ste12p-Dig1p complex	Candida_parapsilosis@Seq_551	24_550	OG3216
+Tor2-Mei2-Ste11 complex	Candida_parapsilosis@Seq_4253	24_4252	OG1035
+U1 snRNP	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+U1 snRNP	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+U1 snRNP	Candida_parapsilosis@Seq_1502	24_1501	OG2974
+U1 snRNP	Candida_parapsilosis@Seq_1606	24_1605	OG4441
+U1 snRNP	Candida_parapsilosis@Seq_1922	24_1921	OG2905
+U1 snRNP	Candida_parapsilosis@Seq_24	24_23	OG4924
+U1 snRNP	Candida_parapsilosis@Seq_2775	24_2774	OG2778
+U1 snRNP	Candida_parapsilosis@Seq_3328	24_3327	OG4179
+U1 snRNP	Candida_parapsilosis@Seq_3411	24_3410	OG1084
+U1 snRNP	Candida_parapsilosis@Seq_3818	24_3817	OG2378
+U1 snRNP	Candida_parapsilosis@Seq_4156	24_4155	OG5290
+U1 snRNP	Candida_parapsilosis@Seq_4165	24_4164	OG2590
+U1 snRNP	Candida_parapsilosis@Seq_432	24_431	OG4627
+U1 snRNP	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+U1 snRNP	Candida_parapsilosis@Seq_718	24_717	OG3543
+U1 snRNP	Candida_parapsilosis@Seq_938	24_937	OG1351
+U2 snRNP	Candida_parapsilosis@Seq_1129	24_1128	OG2975
+U2 snRNP	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+U2 snRNP	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+U2 snRNP	Candida_parapsilosis@Seq_1740	24_1739	OG5778
+U2 snRNP	Candida_parapsilosis@Seq_2105	24_2104	OG2009
+U2 snRNP	Candida_parapsilosis@Seq_2219	24_2218	OG2660
+U2 snRNP	Candida_parapsilosis@Seq_3727	24_3726	OG3264
+U2 snRNP	Candida_parapsilosis@Seq_3813	24_3812	OG1592
+U2 snRNP	Candida_parapsilosis@Seq_3938	24_3937	OG4608
+U2 snRNP	Candida_parapsilosis@Seq_432	24_431	OG4627
+U2 snRNP	Candida_parapsilosis@Seq_4390	24_4389	OG3664
+U2 snRNP	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+U2 snRNP	Candida_parapsilosis@Seq_5057	24_5056	OG2146
+U2 snRNP	Candida_parapsilosis@Seq_718	24_717	OG3543
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_1169	24_1168	OG3223
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_1897	24_1896	OG4013
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_2101	24_2100	OG1004
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_2301	24_2300	OG1790
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_3467	24_3466	OG4163
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_4136	24_4135	OG3004
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_4211	24_4210	OG4987
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_856	24_855	OG2650
+U2-type catalytic step 1 spliceosome	Candida_parapsilosis@Seq_992	24_991	OG3390
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_1897	24_1896	OG4013
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_204	24_203	OG1004
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_2301	24_2300	OG1790
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_4136	24_4135	OG3004
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_4211	24_4210	OG4987
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_604	24_603	OG1004
+U2-type catalytic step 2 spliceosome	Candida_parapsilosis@Seq_856	24_855	OG2650
+U2-type post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+U2-type post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_2301	24_2300	OG1790
+U2-type post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4211	24_4210	OG4987
+U2-type post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4765	24_4764	OG6180
+U2-type post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_856	24_855	OG2650
+U2-type post-spliceosomal complex	Candida_parapsilosis@Seq_3152	24_3151	OG4256
+U2-type post-spliceosomal complex	Candida_parapsilosis@Seq_3633	24_3632	OG3796
+U2-type post-spliceosomal complex	Candida_parapsilosis@Seq_604	24_603	OG1004
+U2-type prespliceosome	Candida_parapsilosis@Seq_1075	24_1074	OG4590
+U2-type prespliceosome	Candida_parapsilosis@Seq_1129	24_1128	OG2975
+U2-type prespliceosome	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+U2-type prespliceosome	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+U2-type prespliceosome	Candida_parapsilosis@Seq_1502	24_1501	OG2974
+U2-type prespliceosome	Candida_parapsilosis@Seq_1606	24_1605	OG4441
+U2-type prespliceosome	Candida_parapsilosis@Seq_1922	24_1921	OG2905
+U2-type prespliceosome	Candida_parapsilosis@Seq_2105	24_2104	OG2009
+U2-type prespliceosome	Candida_parapsilosis@Seq_2219	24_2218	OG2660
+U2-type prespliceosome	Candida_parapsilosis@Seq_2301	24_2300	OG1790
+U2-type prespliceosome	Candida_parapsilosis@Seq_24	24_23	OG4924
+U2-type prespliceosome	Candida_parapsilosis@Seq_2775	24_2774	OG2778
+U2-type prespliceosome	Candida_parapsilosis@Seq_3328	24_3327	OG4179
+U2-type prespliceosome	Candida_parapsilosis@Seq_3411	24_3410	OG1084
+U2-type prespliceosome	Candida_parapsilosis@Seq_3428	24_3427	OG3074
+U2-type prespliceosome	Candida_parapsilosis@Seq_3813	24_3812	OG1592
+U2-type prespliceosome	Candida_parapsilosis@Seq_3818	24_3817	OG2378
+U2-type prespliceosome	Candida_parapsilosis@Seq_4156	24_4155	OG5290
+U2-type prespliceosome	Candida_parapsilosis@Seq_4165	24_4164	OG2590
+U2-type prespliceosome	Candida_parapsilosis@Seq_4211	24_4210	OG4987
+U2-type prespliceosome	Candida_parapsilosis@Seq_4241	24_4240	OG3385
+U2-type prespliceosome	Candida_parapsilosis@Seq_4740	24_4739	OG1394
+U2-type prespliceosome	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+U2-type prespliceosome	Candida_parapsilosis@Seq_5057	24_5056	OG2146
+U2-type prespliceosome	Candida_parapsilosis@Seq_718	24_717	OG3543
+U2-type prespliceosome	Candida_parapsilosis@Seq_856	24_855	OG2650
+U2-type prespliceosome	Candida_parapsilosis@Seq_938	24_937	OG1351
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_1735	24_1734	OG1004
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_2584	24_2583	OG4549
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_3828	24_3827	OG2726
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_3928	24_3927	OG4600
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_4075	24_4074	OG3598
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_4390	24_4389	OG3664
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_4424	24_4423	OG3930
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_584	24_583	OG43797
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_829	24_828	OG4462
+U2-type spliceosomal complex	Candida_parapsilosis@Seq_992	24_991	OG3390
+U2AF	Candida_parapsilosis@Seq_1075	24_1074	OG4590
+U2AF	Candida_parapsilosis@Seq_4241	24_4240	OG3385
+U4/U6 snRNP	Candida_parapsilosis@Seq_1252	24_1251	OG2388
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1252	24_1251	OG2388
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1293	24_1292	OG4066
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1820	24_1819	OG4936
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1823	24_1822	OG1538
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_1922	24_1921	OG2905
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_215	24_214	OG2153
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_2594	24_2593	OG1882
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_29	24_28	OG3888
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_2942	24_2941	OG1025
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_3152	24_3151	OG4256
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_3384	24_3383	OG4071
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_3810	24_3809	OG4593
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_3883	24_3882	OG4604
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_411	24_410	OG3612
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_4179	24_4178	OG1006
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_432	24_431	OG4627
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_4387	24_4386	OG3758
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_4978	24_4977	OG1332
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_553	24_552	OG3330
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_631	24_630	OG2895
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_643	24_642	OG4588
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_718	24_717	OG3543
+U4/U6 x U5 tri-snRNP complex	Candida_parapsilosis@Seq_938	24_937	OG1351
+U5 snRNP	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+U5 snRNP	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+U5 snRNP	Candida_parapsilosis@Seq_1714	24_1713	OG3777
+U5 snRNP	Candida_parapsilosis@Seq_1823	24_1822	OG1538
+U5 snRNP	Candida_parapsilosis@Seq_1922	24_1921	OG2905
+U5 snRNP	Candida_parapsilosis@Seq_2942	24_2941	OG1025
+U5 snRNP	Candida_parapsilosis@Seq_3152	24_3151	OG4256
+U5 snRNP	Candida_parapsilosis@Seq_3384	24_3383	OG4071
+U5 snRNP	Candida_parapsilosis@Seq_4179	24_4178	OG1006
+U5 snRNP	Candida_parapsilosis@Seq_432	24_431	OG4627
+U5 snRNP	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+U5 snRNP	Candida_parapsilosis@Seq_5133	24_5132	OG4028
+U5 snRNP	Candida_parapsilosis@Seq_718	24_717	OG3543
+U5 snRNP	Candida_parapsilosis@Seq_938	24_937	OG1351
+U6 snRNP	Candida_parapsilosis@Seq_215	24_214	OG2153
+U6 snRNP	Candida_parapsilosis@Seq_29	24_28	OG3888
+U6 snRNP	Candida_parapsilosis@Seq_3810	24_3809	OG4593
+U6 snRNP	Candida_parapsilosis@Seq_411	24_410	OG3612
+U6 snRNP	Candida_parapsilosis@Seq_4387	24_4386	OG3758
+U6 snRNP	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+U6 snRNP	Candida_parapsilosis@Seq_643	24_642	OG4588
+U6 snRNP	Candida_parapsilosis@Seq_794	24_793	OG1501
+UBR1-RAD6 ubiquitin ligase complex	Candida_parapsilosis@Seq_201	24_200	OG3979
+UBR1-RAD6 ubiquitin ligase complex	Candida_parapsilosis@Seq_735	24_734	OG3492
+UDP-N-acetylglucosamine transferase complex	Candida_parapsilosis@Seq_3265	24_3264	OG2913
+UDP-N-acetylglucosamine transferase complex	Candida_parapsilosis@Seq_3871	24_3870	OG2265
+UDP-N-acetylglucosamine transferase complex	Candida_parapsilosis@Seq_4959	24_4958	OG5025
+UTP-C complex	Candida_parapsilosis@Seq_1187	24_1186	OG3780
+UTP-C complex	Candida_parapsilosis@Seq_2560	24_2559	OG2466
+UTP-C complex	Candida_parapsilosis@Seq_3127	24_3126	OG2171
+UTP-C complex	Candida_parapsilosis@Seq_3821	24_3820	OG1845
+UTP-C complex	Candida_parapsilosis@Seq_471	24_470	OG1712
+UTP-C complex	Candida_parapsilosis@Seq_4999	24_4998	OG2667
+Ubp3-Bre5 deubiquitination complex	Candida_parapsilosis@Seq_2581	24_2580	OG5409
+Ubp3-Bre5 deubiquitination complex	Candida_parapsilosis@Seq_3601	24_3600	OG3203
+VCP-NPL4-UFD1 AAA ATPase complex	Candida_parapsilosis@Seq_3121	24_3120	OG2940
+VCP-NPL4-UFD1 AAA ATPase complex	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+VCP-NPL4-UFD1 AAA ATPase complex	Candida_parapsilosis@Seq_931	24_930	OG4176
+Vma12-Vma22 assembly complex	Candida_parapsilosis@Seq_1321	24_1320	OG6259
+Vma12-Vma22 assembly complex	Candida_parapsilosis@Seq_2866	24_2865	OG3148
+Vps55/Vps68 complex	Candida_parapsilosis@Seq_4418	24_4417	OG4277
+Vps55/Vps68 complex	Candida_parapsilosis@Seq_5162	24_5161	OG4578
+WASH complex	Candida_parapsilosis@Seq_3809	24_3808	OG4292
+Yae1-Lto1 complex	Candida_parapsilosis@Seq_2666	24_2665	OG3079
+Yae1-Lto1 complex	Candida_parapsilosis@Seq_4638	24_4637	OG2915
+acetolactate synthase complex	Candida_parapsilosis@Seq_1027	24_1026	OG2577
+acetolactate synthase complex	Candida_parapsilosis@Seq_2946	24_2945	OG1388
+actin cytoskeleton-regulatory complex	Candida_parapsilosis@Seq_2241	24_2240	OG1278
+actin cytoskeleton-regulatory complex	Candida_parapsilosis@Seq_342	24_341	OG1627
+actin cytoskeleton-regulatory complex	Candida_parapsilosis@Seq_37	24_36	OG1837
+acyl-CoA ceramide synthase complex	Candida_parapsilosis@Seq_2353	24_2352	OG1303
+alpha DNA polymerase:primase complex	Candida_parapsilosis@Seq_256	24_255	OG2681
+alpha DNA polymerase:primase complex	Candida_parapsilosis@Seq_3141	24_3140	OG2475
+alpha DNA polymerase:primase complex	Candida_parapsilosis@Seq_3687	24_3686	OG3209
+alpha DNA polymerase:primase complex	Candida_parapsilosis@Seq_961	24_960	OG1911
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_parapsilosis@Seq_1471	24_1470	OG1314
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_parapsilosis@Seq_2167	24_2166	OG1634
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Candida_parapsilosis@Seq_3872	24_3871	OG1753
+alpha-1,6-mannosyltransferase complex	Candida_parapsilosis@Seq_1670	24_1669	OG2749
+alpha-1,6-mannosyltransferase complex	Candida_parapsilosis@Seq_1828	24_1827	OG1205
+alpha-1,6-mannosyltransferase complex	Candida_parapsilosis@Seq_4254	24_4253	OG2822
+alpha-1,6-mannosyltransferase complex	Candida_parapsilosis@Seq_4681	24_4680	OG4403
+anaphase-promoting complex	Candida_parapsilosis@Seq_128	24_127	OG4073
+anaphase-promoting complex	Candida_parapsilosis@Seq_1305	24_1304	OG32704
+anaphase-promoting complex	Candida_parapsilosis@Seq_139	24_138	OG2546
+anaphase-promoting complex	Candida_parapsilosis@Seq_1854	24_1853	OG2049
+anaphase-promoting complex	Candida_parapsilosis@Seq_2628	24_2627	OG1064
+anaphase-promoting complex	Candida_parapsilosis@Seq_3617	24_3616	OG4473
+anaphase-promoting complex	Candida_parapsilosis@Seq_3717	24_3716	OG55312
+anaphase-promoting complex	Candida_parapsilosis@Seq_3874	24_3873	OG6043
+anaphase-promoting complex	Candida_parapsilosis@Seq_4219	24_4218	OG2889
+anaphase-promoting complex	Candida_parapsilosis@Seq_4753	24_4752	OG2691
+anaphase-promoting complex	Candida_parapsilosis@Seq_4761	24_4760	OG4900
+anaphase-promoting complex	Candida_parapsilosis@Seq_5188	24_5187	OG4130
+anaphase-promoting complex	Candida_parapsilosis@Seq_638	24_637	OG2853
+anaphase-promoting complex	Candida_parapsilosis@Seq_767	24_766	OG4845
+anthranilate synthase complex	Candida_parapsilosis@Seq_2893	24_2892	OG3108
+anthranilate synthase complex	Candida_parapsilosis@Seq_3989	24_3988	OG2028
+box C/D snoRNP complex	Candida_parapsilosis@Seq_1506	24_1505	OG1942
+box C/D snoRNP complex	Candida_parapsilosis@Seq_2594	24_2593	OG1882
+box C/D snoRNP complex	Candida_parapsilosis@Seq_2807	24_2806	OG1459
+box C/D snoRNP complex	Candida_parapsilosis@Seq_3376	24_3375	OG1978
+box C/D snoRNP complex	Candida_parapsilosis@Seq_4389	24_4388	OG1626
+box H/ACA snoRNP complex	Candida_parapsilosis@Seq_145	24_144	OG2094
+box H/ACA snoRNP complex	Candida_parapsilosis@Seq_1726	24_1725	OG4325
+box H/ACA snoRNP complex	Candida_parapsilosis@Seq_2332	24_2331	OG2377
+box H/ACA snoRNP complex	Candida_parapsilosis@Seq_4475	24_4474	OG2468
+bub1-bub3 complex	Candida_parapsilosis@Seq_3472	24_3471	OG1577
+cAMP-dependent protein kinase complex	Candida_parapsilosis@Seq_904	24_903	OG1827
+calcineurin complex	Candida_parapsilosis@Seq_3045	24_3044	OG3929
+calcineurin complex	Candida_parapsilosis@Seq_4562	24_4561	OG1368
+carbamoyl-phosphate synthase complex	Candida_parapsilosis@Seq_2674	24_2673	OG1032
+carbamoyl-phosphate synthase complex	Candida_parapsilosis@Seq_564	24_563	OG2721
+cellular bud neck polarisome	Candida_parapsilosis@Seq_541	24_540	OG2426
+cellular bud neck polarisome	Candida_parapsilosis@Seq_844	24_843	OG4313
+cellular bud tip polarisome	Candida_parapsilosis@Seq_541	24_540	OG2426
+cellular bud tip polarisome	Candida_parapsilosis@Seq_844	24_843	OG4313
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_2303	24_2302	OG2405
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_2661	24_2660	OG2021
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_2714	24_2713	OG1922
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_3488	24_3487	OG1480
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_351	24_350	OG2111
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_3896	24_3895	OG2039
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_4391	24_4390	OG2050
+chaperonin-containing T-complex	Candida_parapsilosis@Seq_517	24_516	OG1998
+checkpoint clamp complex	Candida_parapsilosis@Seq_1230	24_1229	OG2431
+checkpoint clamp complex	Candida_parapsilosis@Seq_2052	24_2051	OG4417
+checkpoint clamp complex	Candida_parapsilosis@Seq_4598	24_4597	OG4382
+chromosome passenger complex	Candida_parapsilosis@Seq_2193	24_2192	OG17934
+chromosome passenger complex	Candida_parapsilosis@Seq_2477	24_2476	OG32006
+chromosome passenger complex	Candida_parapsilosis@Seq_4758	24_4757	OG2838
+clathrin adaptor complex	Candida_parapsilosis@Seq_1532	24_1531	OG3384
+clathrin adaptor complex	Candida_parapsilosis@Seq_3719	24_3718	OG4698
+clathrin adaptor complex	Candida_parapsilosis@Seq_47	24_46	OG2128
+clathrin adaptor complex	Candida_parapsilosis@Seq_4960	24_4959	OG1593
+clathrin coat	Candida_parapsilosis@Seq_837	24_836	OG1309
+clathrin coat of coated pit	Candida_parapsilosis@Seq_1185	24_1184	OG1545
+clathrin coat of coated pit	Candida_parapsilosis@Seq_377	24_376	OG3257
+clathrin coat of trans-Golgi network vesicle	Candida_parapsilosis@Seq_1185	24_1184	OG1545
+clathrin coat of trans-Golgi network vesicle	Candida_parapsilosis@Seq_377	24_376	OG3257
+clathrin complex	Candida_parapsilosis@Seq_1185	24_1184	OG1545
+clathrin vesicle coat	Candida_parapsilosis@Seq_260	24_259	OG3836
+commitment complex	Candida_parapsilosis@Seq_1075	24_1074	OG4590
+commitment complex	Candida_parapsilosis@Seq_1502	24_1501	OG2974
+commitment complex	Candida_parapsilosis@Seq_1566	24_1565	OG1726
+commitment complex	Candida_parapsilosis@Seq_1922	24_1921	OG2905
+commitment complex	Candida_parapsilosis@Seq_24	24_23	OG4924
+commitment complex	Candida_parapsilosis@Seq_2484	24_2483	OG2725
+commitment complex	Candida_parapsilosis@Seq_3201	24_3200	OG3347
+commitment complex	Candida_parapsilosis@Seq_3411	24_3410	OG1084
+commitment complex	Candida_parapsilosis@Seq_3818	24_3817	OG2378
+commitment complex	Candida_parapsilosis@Seq_4241	24_4240	OG3385
+commitment complex	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+condensed nuclear chromosome inner kinetochore	Candida_parapsilosis@Seq_4758	24_4757	OG2838
+condensed nuclear chromosome outer kinetochore	Candida_parapsilosis@Seq_1479	24_1478	OG3290
+condensed nuclear chromosome outer kinetochore	Candida_parapsilosis@Seq_3162	24_3161	OG1672
+condensin complex	Candida_parapsilosis@Seq_5211	24_5210	OG1225
+core mediator complex	Candida_parapsilosis@Seq_1048	24_1047	OG2663
+core mediator complex	Candida_parapsilosis@Seq_1144	24_1143	OG4190
+core mediator complex	Candida_parapsilosis@Seq_1675	24_1674	OG2898
+core mediator complex	Candida_parapsilosis@Seq_2561	24_2560	OG35606
+core mediator complex	Candida_parapsilosis@Seq_2640	24_2639	OG3199
+core mediator complex	Candida_parapsilosis@Seq_3083	24_3082	OG4058
+core mediator complex	Candida_parapsilosis@Seq_3411	24_3410	OG1084
+core mediator complex	Candida_parapsilosis@Seq_4331	24_4330	OG1796
+core mediator complex	Candida_parapsilosis@Seq_5221	24_5220	OG3163
+core mediator complex	Candida_parapsilosis@Seq_66	24_65	OG3321
+core mediator complex	Candida_parapsilosis@Seq_867	24_866	OG2706
+core mediator complex	Candida_parapsilosis@Seq_906	24_905	OG4683
+core mediator complex	Candida_parapsilosis@Seq_926	24_925	OG2138
+core mediator complex	Candida_parapsilosis@Seq_988	24_987	OG3698
+cyclin-dependent protein kinase activating kinase holoenzyme complex	Candida_parapsilosis@Seq_2559	24_2558	OG2735
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_1441	24_1440	OG4846
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_1633	24_1632	OG2652
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_1890	24_1889	OG3277
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_2313	24_2312	OG4663
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_3115	24_3114	OG3181
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_3368	24_3367	OG1616
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_4379	24_4378	OG1509
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_4549	24_4548	OG2284
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_5205	24_5204	OG2985
+cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_585	24_584	OG3948
+cytoplasmic dynein complex	Candida_parapsilosis@Seq_2071	24_2070	OG3876
+cytoplasmic dynein complex	Candida_parapsilosis@Seq_3511	24_3510	OG4288
+cytoplasmic dynein complex	Candida_parapsilosis@Seq_840	24_839	OG2473
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_1057	24_1056	OG2144
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_1378	24_1377	OG3522
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_1932	24_1931	OG1817
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_302	24_301	OG2826
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_3426	24_3425	OG3117
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_3988	24_3987	OG2066
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_4224	24_4223	OG2312
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_5093	24_5092	OG3312
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_5200	24_5199	OG2484
+cytoplasmic exosome (RNase complex)	Candida_parapsilosis@Seq_5208	24_5207	OG2886
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1088	24_1087	OG1385
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_110	24_109	OG1594
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1119	24_1118	OG1478
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_123	24_122	OG2022
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1415	24_1414	OG2279
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1426	24_1425	OG1728
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1463	24_1462	OG4504
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1577	24_1576	OG1159
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_170	24_169	OG1290
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1721	24_1720	OG1995
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1800	24_1799	OG2106
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_1869	24_1868	OG3863
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2065	24_2064	OG1873
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2206	24_2205	OG1952
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2309	24_2308	OG1091
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2521	24_2520	OG3402
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2563	24_2562	OG1573
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2673	24_2672	OG1378
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_272	24_271	OG3099
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2794	24_2793	OG2437
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2900	24_2899	OG1405
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2943	24_2942	OG2372
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_2955	24_2954	OG3219
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_31	24_30	OG1692
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3106	24_3105	OG1133
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3132	24_3131	OG4787
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3139	24_3138	OG1423
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3152	24_3151	OG4256
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3508	24_3507	OG1140
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3585	24_3584	OG1670
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3588	24_3587	OG1633
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3632	24_3631	OG1320
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3673	24_3672	OG1091
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3720	24_3719	OG1661
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3769	24_3768	OG2543
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3840	24_3839	OG1419
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3903	24_3902	OG1836
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_3994	24_3993	OG1120
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_4590	24_4589	OG3610
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_4781	24_4780	OG1243
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_4850	24_4849	OG1222
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_4970	24_4969	OG1161
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_5010	24_5009	OG1705
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_5045	24_5044	OG1506
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_5048	24_5047	OG1481
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_5112	24_5111	OG1907
+cytosolic large ribosomal subunit	Candida_parapsilosis@Seq_975	24_974	OG3403
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_1328	24_1327	OG1250
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_1355	24_1354	OG1323
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_170	24_169	OG1290
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_1791	24_1790	OG1404
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_1970	24_1969	OG1284
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_247	24_246	OG1963
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_2557	24_2556	OG1514
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_3198	24_3197	OG2472
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_3508	24_3507	OG1140
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4164	24_4163	OG1981
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4370	24_4369	OG1770
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4695	24_4694	OG12515
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4726	24_4725	OG2918
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4902	24_4901	OG1361
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_4985	24_4984	OG2550
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_5027	24_5026	OG3201
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_5087	24_5086	OG1188
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_5175	24_5174	OG1658
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_5261	24_5260	OG2434
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_629	24_628	OG1412
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_706	24_705	OG2198
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_715	24_714	OG1223
+cytosolic small ribosomal subunit	Candida_parapsilosis@Seq_761	24_760	OG2064
+cytosolic tRNA wobble base thiouridylase complex	Candida_parapsilosis@Seq_1853	24_1852	OG1930
+cytosolic tRNA wobble base thiouridylase complex	Candida_parapsilosis@Seq_2749	24_2748	OG2907
+decaprenyl diphosphate synthase complex	Candida_parapsilosis@Seq_5085	24_5084	OG3062
+dehydrodolichyl diphosphate synthase complex	Candida_parapsilosis@Seq_1221	24_1220	OG3858
+dehydrodolichyl diphosphate synthase complex	Candida_parapsilosis@Seq_2451	24_2450	OG3134
+dehydrodolichyl diphosphate synthase complex	Candida_parapsilosis@Seq_2458	24_2457	OG3837
+delta DNA polymerase complex	Candida_parapsilosis@Seq_1524	24_1523	OG5752
+delta DNA polymerase complex	Candida_parapsilosis@Seq_4069	24_4068	OG1987
+delta DNA polymerase complex	Candida_parapsilosis@Seq_865	24_864	OG2592
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex	Candida_parapsilosis@Seq_224	24_223	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex	Candida_parapsilosis@Seq_4623	24_4622	OG1053
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt3p dimer complex	Candida_parapsilosis@Seq_224	24_223	OG1166
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex	Candida_parapsilosis@Seq_1614	24_1613	OG1479
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt2p dimer complex	Candida_parapsilosis@Seq_4623	24_4622	OG1053
+dynactin complex	Candida_parapsilosis@Seq_1610	24_1609	OG5040
+dynactin complex	Candida_parapsilosis@Seq_2600	24_2599	OG5817
+dynactin complex	Candida_parapsilosis@Seq_3258	24_3257	OG4804
+dynactin complex	Candida_parapsilosis@Seq_3511	24_3510	OG4288
+eRF1 methyltransferase complex	Candida_parapsilosis@Seq_3568	24_3567	OG3519
+eRF1 methyltransferase complex	Candida_parapsilosis@Seq_670	24_669	OG3486
+eisosome filament	Candida_parapsilosis@Seq_94	24_93	OG1591
+elongin complex	Candida_parapsilosis@Seq_3078	24_3077	OG3237
+elongin complex	Candida_parapsilosis@Seq_3444	24_3443	OG4956
+endoplasmic reticulum palmitoyltransferase complex	Candida_parapsilosis@Seq_2903	24_2902	OG4712
+endoplasmic reticulum palmitoyltransferase complex	Candida_parapsilosis@Seq_4103	24_4102	OG2812
+epsilon DNA polymerase complex	Candida_parapsilosis@Seq_1580	24_1579	OG1863
+epsilon DNA polymerase complex	Candida_parapsilosis@Seq_2880	24_2879	OG2814
+epsilon DNA polymerase complex	Candida_parapsilosis@Seq_483	24_482	OG1737
+epsilon DNA polymerase complex	Candida_parapsilosis@Seq_937	24_936	OG3176
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_1581	24_1580	OG2927
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_1888	24_1887	OG3770
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_2168	24_2167	OG1460
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_3490	24_3489	OG4345
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_3649	24_3648	OG1834
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_376	24_375	OG2491
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_5042	24_5041	OG1776
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_979	24_978	OG2109
+eukaryotic 43S preinitiation complex	Candida_parapsilosis@Seq_986	24_985	OG2951
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_1581	24_1580	OG2927
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_4370	24_4369	OG1770
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_4596	24_4595	OG1985
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_4763	24_4762	OG2461
+eukaryotic 48S preinitiation complex	Candida_parapsilosis@Seq_5042	24_5041	OG1776
+eukaryotic translation elongation factor 1 complex	Candida_parapsilosis@Seq_316	24_315	OG2124
+eukaryotic translation elongation factor 1 complex	Candida_parapsilosis@Seq_3522	24_3521	OG2085
+eukaryotic translation elongation factor 1 complex	Candida_parapsilosis@Seq_5179	24_5178	OG1213
+eukaryotic translation initiation factor 2 complex	Candida_parapsilosis@Seq_3649	24_3648	OG1834
+eukaryotic translation initiation factor 2 complex	Candida_parapsilosis@Seq_4763	24_4762	OG2461
+eukaryotic translation initiation factor 2 complex	Candida_parapsilosis@Seq_5042	24_5041	OG1776
+eukaryotic translation initiation factor 2B complex	Candida_parapsilosis@Seq_2111	24_2110	OG1623
+eukaryotic translation initiation factor 2B complex	Candida_parapsilosis@Seq_2377	24_2376	OG2964
+eukaryotic translation initiation factor 2B complex	Candida_parapsilosis@Seq_4690	24_4689	OG2184
+eukaryotic translation initiation factor 2B complex	Candida_parapsilosis@Seq_4783	24_4782	OG2242
+eukaryotic translation initiation factor 2B complex	Candida_parapsilosis@Seq_500	24_499	OG3783
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_1336	24_1335	OG3260
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_1888	24_1887	OG3770
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_3490	24_3489	OG4345
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_376	24_375	OG2491
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_746	24_745	OG2059
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_979	24_978	OG2109
+eukaryotic translation initiation factor 3 complex	Candida_parapsilosis@Seq_986	24_985	OG2951
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_3490	24_3489	OG4345
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_376	24_375	OG2491
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_979	24_978	OG2109
+eukaryotic translation initiation factor 3 complex, eIF3e	Candida_parapsilosis@Seq_986	24_985	OG2951
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_3490	24_3489	OG4345
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_376	24_375	OG2491
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_979	24_978	OG2109
+eukaryotic translation initiation factor 3 complex, eIF3m	Candida_parapsilosis@Seq_986	24_985	OG2951
+eukaryotic translation initiation factor 4F complex	Candida_parapsilosis@Seq_1209	24_1208	OG1289
+eukaryotic translation initiation factor 4F complex	Candida_parapsilosis@Seq_3229	24_3228	OG1669
+eukaryotic translation initiation factor 4F complex	Candida_parapsilosis@Seq_3551	24_3550	OG1009
+exocyst	Candida_parapsilosis@Seq_1468	24_1467	OG2630
+exocyst	Candida_parapsilosis@Seq_1768	24_1767	OG3815
+exocyst	Candida_parapsilosis@Seq_2141	24_2140	OG3055
+exocyst	Candida_parapsilosis@Seq_2223	24_2222	OG2314
+exocyst	Candida_parapsilosis@Seq_3341	24_3340	OG2944
+exocyst	Candida_parapsilosis@Seq_3369	24_3368	OG2239
+exocyst	Candida_parapsilosis@Seq_464	24_463	OG3724
+exocyst	Candida_parapsilosis@Seq_4896	24_4895	OG3485
+exomer complex	Candida_parapsilosis@Seq_4409	24_4408	OG1542
+exomer complex	Candida_parapsilosis@Seq_4810	24_4809	OG2544
+exosome (RNase complex)	Candida_parapsilosis@Seq_1057	24_1056	OG2144
+exosome (RNase complex)	Candida_parapsilosis@Seq_1378	24_1377	OG3522
+exosome (RNase complex)	Candida_parapsilosis@Seq_1932	24_1931	OG1817
+exosome (RNase complex)	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+exosome (RNase complex)	Candida_parapsilosis@Seq_3426	24_3425	OG3117
+exosome (RNase complex)	Candida_parapsilosis@Seq_3988	24_3987	OG2066
+exosome (RNase complex)	Candida_parapsilosis@Seq_5093	24_5092	OG3312
+exosome (RNase complex)	Candida_parapsilosis@Seq_5200	24_5199	OG2484
+exosome (RNase complex)	Candida_parapsilosis@Seq_5208	24_5207	OG2886
+fatty acid synthase complex	Candida_parapsilosis@Seq_2240	24_2239	OG1522
+fatty acid synthase complex	Candida_parapsilosis@Seq_3767	24_3766	OG1463
+filamentous actin	Candida_parapsilosis@Seq_681	24_680	OG1238
+gamma DNA polymerase complex	Candida_parapsilosis@Seq_2723	24_2722	OG1982
+gamma-tubulin complex	Candida_parapsilosis@Seq_1975	24_1974	OG3303
+gamma-tubulin complex	Candida_parapsilosis@Seq_5036	24_5035	OG3014
+gamma-tubulin small complex, spindle pole body	Candida_parapsilosis@Seq_1975	24_1974	OG3303
+gamma-tubulin small complex, spindle pole body	Candida_parapsilosis@Seq_202	24_201	OG1899
+gamma-tubulin small complex, spindle pole body	Candida_parapsilosis@Seq_5036	24_5035	OG3014
+glucosidase II complex	Candida_parapsilosis@Seq_2843	24_2842	OG2467
+glucosidase II complex	Candida_parapsilosis@Seq_559	24_558	OG1624
+glutaminase complex	Candida_parapsilosis@Seq_4734	24_4733	OG1504
+glutaminase complex	Candida_parapsilosis@Seq_4825	24_4824	OG4112
+glutamyl-tRNA(Gln) amidotransferase complex	Candida_parapsilosis@Seq_2063	24_2062	OG2448
+glutamyl-tRNA(Gln) amidotransferase complex	Candida_parapsilosis@Seq_2310	24_2309	OG2104
+glutathione hydrolase complex	Candida_parapsilosis@Seq_1827	24_1826	OG3441
+glutathione hydrolase complex	Candida_parapsilosis@Seq_4134	24_4133	OG1784
+glutathione synthase complex	Candida_parapsilosis@Seq_2724	24_2723	OG2031
+glycerol-3-phosphate dehydrogenase complex	Candida_parapsilosis@Seq_1011	24_1010	OG1137
+glycerol-3-phosphate dehydrogenase complex	Candida_parapsilosis@Seq_4243	24_4242	OG3100
+glycerol-3-phosphate dehydrogenase complex	Candida_parapsilosis@Seq_4420	24_4419	OG1137
+glycine cleavage complex	Candida_parapsilosis@Seq_2449	24_2448	OG1629
+glycine cleavage complex	Candida_parapsilosis@Seq_4481	24_4480	OG3429
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Candida_parapsilosis@Seq_2552	24_2551	OG3738
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Candida_parapsilosis@Seq_2710	24_2709	OG2420
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Candida_parapsilosis@Seq_4836	24_4835	OG3851
+glycosylphosphatidylinositol-mannosyltransferase I complex	Candida_parapsilosis@Seq_1378	24_1377	OG3522
+glycosylphosphatidylinositol-mannosyltransferase I complex	Candida_parapsilosis@Seq_2641	24_2640	OG4057
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_1978	24_1977	OG6212
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_2111	24_2110	OG1623
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_2377	24_2376	OG2964
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_4690	24_4689	OG2184
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_4783	24_4782	OG2242
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_500	24_499	OG3783
+guanyl-nucleotide exchange factor complex	Candida_parapsilosis@Seq_810	24_809	OG5902
+heterotrimeric G-protein complex	Candida_parapsilosis@Seq_1044	24_1043	OG2226
+heterotrimeric G-protein complex	Candida_parapsilosis@Seq_1733	24_1732	OG2995
+heterotrimeric G-protein complex	Candida_parapsilosis@Seq_2100	24_2099	OG3408
+heterotrimeric G-protein complex	Candida_parapsilosis@Seq_2502	24_2501	OG2926
+high-affinity iron permease complex	Candida_parapsilosis@Seq_1354	24_1353	OG1059
+high-affinity iron permease complex	Candida_parapsilosis@Seq_2482	24_2481	OG1176
+high-affinity iron permease complex	Candida_parapsilosis@Seq_3473	24_3472	OG1224
+high-affinity iron permease complex	Candida_parapsilosis@Seq_4606	24_4605	OG1176
+high-affinity iron permease complex	Candida_parapsilosis@Seq_5240	24_5239	OG1224
+histone acetyltransferase complex	Candida_parapsilosis@Seq_2930	24_2929	OG3397
+histone acetyltransferase complex	Candida_parapsilosis@Seq_3364	24_3363	OG1168
+histone acetyltransferase complex	Candida_parapsilosis@Seq_5094	24_5093	OG2300
+histone deacetylase complex	Candida_parapsilosis@Seq_1071	24_1070	OG1363
+histone deacetylase complex	Candida_parapsilosis@Seq_187	24_186	OG2524
+histone deacetylase complex	Candida_parapsilosis@Seq_2252	24_2251	OG4049
+histone deacetylase complex	Candida_parapsilosis@Seq_232	24_231	OG3697
+histone deacetylase complex	Candida_parapsilosis@Seq_2605	24_2604	OG2728
+hyphal tip polarisome	Candida_parapsilosis@Seq_1458	24_1457	OG3622
+hyphal tip polarisome	Candida_parapsilosis@Seq_2842	24_2841	OG1409
+hyphal tip polarisome	Candida_parapsilosis@Seq_844	24_843	OG4313
+i-AAA complex	Candida_parapsilosis@Seq_1984	24_1983	OG5239
+i-AAA complex	Candida_parapsilosis@Seq_3739	24_3738	OG1618
+i-AAA complex	Candida_parapsilosis@Seq_4892	24_4891	OG2817
+inositol phosphoceramide synthase complex	Candida_parapsilosis@Seq_3471	24_3470	OG4259
+inositol phosphoceramide synthase complex	Candida_parapsilosis@Seq_5104	24_5103	OG1242
+kinesin complex	Candida_parapsilosis@Seq_4538	24_4537	OG1583
+large ribosomal subunit	Candida_parapsilosis@Seq_2518	24_2517	OG4638
+large ribosomal subunit	Candida_parapsilosis@Seq_3041	24_3040	OG2452
+large ribosomal subunit	Candida_parapsilosis@Seq_4406	24_4405	OG3022
+luminal surveillance complex	Candida_parapsilosis@Seq_1478	24_1477	OG5840
+luminal surveillance complex	Candida_parapsilosis@Seq_5190	24_5189	OG2998
+luminal surveillance complex	Candida_parapsilosis@Seq_839	24_838	OG1002
+m-AAA complex	Candida_parapsilosis@Seq_1857	24_1856	OG1047
+m-AAA complex	Candida_parapsilosis@Seq_237	24_236	OG1047
+mRNA cap binding complex	Candida_parapsilosis@Seq_3680	24_3679	OG3584
+mRNA cap methyltransferase complex	Candida_parapsilosis@Seq_1013	24_1012	OG3247
+mRNA cap methyltransferase complex	Candida_parapsilosis@Seq_4652	24_4651	OG3000
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_1450	24_1449	OG5129
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_2068	24_2067	OG2081
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_226	24_225	OG3590
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_2654	24_2653	OG2154
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_2836	24_2835	OG3326
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_3454	24_3453	OG2407
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_3485	24_3484	OG2027
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_402	24_401	OG3795
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_4298	24_4297	OG2073
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_619	24_618	OG1609
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_774	24_773	OG1452
+mRNA cleavage and polyadenylation specificity factor complex	Candida_parapsilosis@Seq_954	24_953	OG2143
+mRNA cleavage factor complex	Candida_parapsilosis@Seq_1303	24_1302	OG2490
+mRNA cleavage factor complex	Candida_parapsilosis@Seq_3304	24_3303	OG2827
+mRNA cleavage factor complex	Candida_parapsilosis@Seq_4371	24_4370	OG2298
+mRNA cleavage factor complex	Candida_parapsilosis@Seq_5121	24_5120	OG2033
+mRNA cleavage factor complex	Candida_parapsilosis@Seq_853	24_852	OG1853
+mannosyltransferase complex	Candida_parapsilosis@Seq_3565	24_3564	OG5046
+mediator complex	Candida_parapsilosis@Seq_1048	24_1047	OG2663
+mediator complex	Candida_parapsilosis@Seq_1144	24_1143	OG4190
+mediator complex	Candida_parapsilosis@Seq_1675	24_1674	OG2898
+mediator complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+mediator complex	Candida_parapsilosis@Seq_2561	24_2560	OG35606
+mediator complex	Candida_parapsilosis@Seq_2640	24_2639	OG3199
+mediator complex	Candida_parapsilosis@Seq_2692	24_2691	OG3344
+mediator complex	Candida_parapsilosis@Seq_3040	24_3039	OG6117
+mediator complex	Candida_parapsilosis@Seq_3083	24_3082	OG4058
+mediator complex	Candida_parapsilosis@Seq_3411	24_3410	OG1084
+mediator complex	Candida_parapsilosis@Seq_3525	24_3524	OG5896
+mediator complex	Candida_parapsilosis@Seq_3956	24_3955	OG5396
+mediator complex	Candida_parapsilosis@Seq_4251	24_4250	OG3439
+mediator complex	Candida_parapsilosis@Seq_4331	24_4330	OG1796
+mediator complex	Candida_parapsilosis@Seq_4659	24_4658	OG1202
+mediator complex	Candida_parapsilosis@Seq_5221	24_5220	OG3163
+mediator complex	Candida_parapsilosis@Seq_66	24_65	OG3321
+mediator complex	Candida_parapsilosis@Seq_867	24_866	OG2706
+mediator complex	Candida_parapsilosis@Seq_906	24_905	OG4683
+mediator complex	Candida_parapsilosis@Seq_926	24_925	OG2138
+mediator complex	Candida_parapsilosis@Seq_933	24_932	OG2342
+mediator complex	Candida_parapsilosis@Seq_988	24_987	OG3698
+meiotic septin complex	Candida_parapsilosis@Seq_5021	24_5020	OG2015
+methionyl glutamyl tRNA synthetase complex	Candida_parapsilosis@Seq_102	24_101	OG1512
+methionyl glutamyl tRNA synthetase complex	Candida_parapsilosis@Seq_2620	24_2619	OG1706
+methionyl glutamyl tRNA synthetase complex	Candida_parapsilosis@Seq_2659	24_2658	OG1117
+microtubule associated complex	Candida_parapsilosis@Seq_1208	24_1207	OG7243
+microtubule associated complex	Candida_parapsilosis@Seq_2865	24_2864	OG3819
+microtubule associated complex	Candida_parapsilosis@Seq_3232	24_3231	OG2729
+microtubule associated complex	Candida_parapsilosis@Seq_4144	24_4143	OG1173
+mitochondrial DNA-directed RNA polymerase complex	Candida_parapsilosis@Seq_1646	24_1645	OG3234
+mitochondrial DNA-directed RNA polymerase complex	Candida_parapsilosis@Seq_4484	24_4483	OG2077
+mitochondrial degradosome	Candida_parapsilosis@Seq_3275	24_3274	OG3752
+mitochondrial degradosome	Candida_parapsilosis@Seq_3566	24_3565	OG3992
+mitochondrial inner membrane peptidase complex	Candida_parapsilosis@Seq_131	24_130	OG2840
+mitochondrial inner membrane peptidase complex	Candida_parapsilosis@Seq_2613	24_2612	OG1519
+mitochondrial inner membrane peptidase complex	Candida_parapsilosis@Seq_5027	24_5026	OG3201
+mitochondrial intermembrane space protein transporter complex	Candida_parapsilosis@Seq_1367	24_1366	OG4142
+mitochondrial intermembrane space protein transporter complex	Candida_parapsilosis@Seq_1664	24_1663	OG4157
+mitochondrial intermembrane space protein transporter complex	Candida_parapsilosis@Seq_2323	24_2322	OG4297
+mitochondrial intermembrane space protein transporter complex	Candida_parapsilosis@Seq_5144	24_5143	OG1382
+mitochondrial iron-sulfur cluster assembly complex	Candida_parapsilosis@Seq_3949	24_3948	OG1136
+mitochondrial isocitrate dehydrogenase complex (NAD+)	Candida_parapsilosis@Seq_3335	24_3334	OG2677
+mitochondrial isocitrate dehydrogenase complex (NAD+)	Candida_parapsilosis@Seq_547	24_546	OG1786
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1042	24_1041	OG3782
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1099	24_1098	OG3912
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1112	24_1111	OG3608
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_118	24_117	OG3841
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1277	24_1276	OG2890
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1295	24_1294	OG3943
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1432	24_1431	OG7105
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1553	24_1552	OG1386
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_1876	24_1875	OG2662
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2032	24_2031	OG3927
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2066	24_2065	OG3392
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2191	24_2190	OG3015
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2214	24_2213	OG2131
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2238	24_2237	OG3720
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2391	24_2390	OG3222
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2419	24_2418	OG2447
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2488	24_2487	OG2399
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2853	24_2852	OG2408
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_2908	24_2907	OG3496
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3228	24_3227	OG2383
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3241	24_3240	OG2496
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3261	24_3260	OG5381
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3435	24_3434	OG1956
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3515	24_3514	OG3579
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3516	24_3515	OG6797
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3543	24_3542	OG2773
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_3712	24_3711	OG4029
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_411	24_410	OG3612
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4117	24_4116	OG5418
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4216	24_4215	OG1895
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4304	24_4303	OG3184
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4396	24_4395	OG3085
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4403	24_4402	OG3335
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4645	24_4644	OG2764
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4699	24_4698	OG3726
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4777	24_4776	OG3111
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4845	24_4844	OG4363
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_4970	24_4969	OG1161
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_5	24_4	OG2606
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_502	24_501	OG4052
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_5151	24_5150	OG3140
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_7	24_6	OG3339
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_834	24_833	OG3364
+mitochondrial large ribosomal subunit	Candida_parapsilosis@Seq_937	24_936	OG3176
+mitochondrial outer membrane translocase complex	Candida_parapsilosis@Seq_1548	24_1547	OG1441
+mitochondrial outer membrane translocase complex	Candida_parapsilosis@Seq_1833	24_1832	OG3798
+mitochondrial outer membrane translocase complex	Candida_parapsilosis@Seq_2750	24_2749	OG5058
+mitochondrial outer membrane translocase complex	Candida_parapsilosis@Seq_4181	24_4180	OG2206
+mitochondrial oxoglutarate dehydrogenase complex	Candida_parapsilosis@Seq_2449	24_2448	OG1629
+mitochondrial oxoglutarate dehydrogenase complex	Candida_parapsilosis@Seq_3021	24_3020	OG1924
+mitochondrial oxoglutarate dehydrogenase complex	Candida_parapsilosis@Seq_3112	24_3111	OG5223
+mitochondrial oxoglutarate dehydrogenase complex	Candida_parapsilosis@Seq_503	24_502	OG1585
+mitochondrial processing peptidase complex	Candida_parapsilosis@Seq_290	24_289	OG2540
+mitochondrial processing peptidase complex	Candida_parapsilosis@Seq_4231	24_4230	OG1608
+mitochondrial proton-transporting ATP synthase complex	Candida_parapsilosis@Seq_1395	24_1394	OG4198
+mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	Candida_parapsilosis@Seq_3306	24_3305	OG2267
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_1043	24_1042	OG3794
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_1395	24_1394	OG4198
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_1997	24_1996	OG3378
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_3329	24_3328	OG2671
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_3557	24_3556	OG4243
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_parapsilosis@Seq_964	24_963	OG3958
+mitochondrial proton-transporting ATP synthase, catalytic core	Candida_parapsilosis@Seq_4762	24_4761	OG1802
+mitochondrial proton-transporting ATP synthase, catalytic core	Candida_parapsilosis@Seq_5165	24_5164	OG1533
+mitochondrial proton-transporting ATP synthase, central stalk	Candida_parapsilosis@Seq_2531	24_2530	OG2644
+mitochondrial proton-transporting ATP synthase, central stalk	Candida_parapsilosis@Seq_4428	24_4427	OG2402
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_parapsilosis@Seq_1529	24_1528	OG3747
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_parapsilosis@Seq_1648	24_1647	OG2132
+mitochondrial proton-transporting ATP synthase, stator stalk	Candida_parapsilosis@Seq_3019	24_3018	OG2701
+mitochondrial pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_1547	24_1546	OG1959
+mitochondrial pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_2294	24_2293	OG3294
+mitochondrial pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_2449	24_2448	OG1629
+mitochondrial pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_3893	24_3892	OG2071
+mitochondrial pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_923	24_922	OG2807
+mitochondrial respiratory chain complex I	Candida_parapsilosis@Seq_3560	24_3559	OG4785
+mitochondrial respiratory chain complex I	Candida_parapsilosis@Seq_3777	24_3776	OG4487
+mitochondrial respiratory chain complex I	Candida_parapsilosis@Seq_385	24_384	OG5131
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	Candida_parapsilosis@Seq_1282	24_1281	OG1275
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	Candida_parapsilosis@Seq_4436	24_4435	OG2704
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_1677	24_1676	OG4744
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_3008	24_3007	OG1601
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_355	24_354	OG2610
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_3700	24_3699	OG4552
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_4808	24_4807	OG4352
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_823	24_822	OG2006
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_865	24_864	OG2592
+mitochondrial respiratory chain complex III	Candida_parapsilosis@Seq_881	24_880	OG2248
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_1292	24_1291	OG4555
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_2440	24_2439	OG3505
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_2604	24_2603	OG6063
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_3312	24_3311	OG2714
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_3614	24_3613	OG4346
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_3881	24_3880	OG4118
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_4218	24_4217	OG4316
+mitochondrial respiratory chain complex IV	Candida_parapsilosis@Seq_4747	24_4746	OG1254
+mitochondrial ribonuclease P complex	Candida_parapsilosis@Seq_494	24_493	OG5809
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_1020	24_1019	OG3019
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_1032	24_1031	OG2782
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_1163	24_1162	OG3534
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_142	24_141	OG5912
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2065	24_2064	OG1873
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2161	24_2160	OG4433
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2167	24_2166	OG1634
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2255	24_2254	OG3539
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2257	24_2256	OG3275
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2489	24_2488	OG3442
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2549	24_2548	OG2125
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_283	24_282	OG2238
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_2916	24_2915	OG2231
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3060	24_3059	OG2636
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3069	24_3068	OG3210
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3107	24_3106	OG3464
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3420	24_3419	OG2072
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3722	24_3721	OG2988
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3886	24_3885	OG44777
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_3955	24_3954	OG2614
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4207	24_4206	OG3873
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4353	24_4352	OG3034
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4488	24_4487	OG2393
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4585	24_4584	OG2534
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4637	24_4636	OG3282
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_4727	24_4726	OG3987
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_5099	24_5098	OG3564
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_5222	24_5221	OG2626
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_803	24_802	OG3153
+mitochondrial small ribosomal subunit	Candida_parapsilosis@Seq_956	24_955	OG3076
+mitotic checkpoint complex	Candida_parapsilosis@Seq_3339	24_3338	OG4168
+mitotic checkpoint complex	Candida_parapsilosis@Seq_361	24_360	OG3328
+mitotic checkpoint complex	Candida_parapsilosis@Seq_4219	24_4218	OG2889
+mitotic cohesin complex	Candida_parapsilosis@Seq_2055	24_2054	OG4805
+mitotic cohesin complex	Candida_parapsilosis@Seq_3974	24_3973	OG1646
+mitotic cohesin complex	Candida_parapsilosis@Seq_4435	24_4434	OG2067
+mitotic septin complex	Candida_parapsilosis@Seq_3706	24_3705	OG1923
+mitotic septin complex	Candida_parapsilosis@Seq_5021	24_5020	OG2015
+mitotic septin complex	Candida_parapsilosis@Seq_799	24_798	OG2370
+mitotic septin complex	Candida_parapsilosis@Seq_802	24_801	OG3974
+monopolin complex	Candida_parapsilosis@Seq_2927	24_2926	OG1457
+monopolin complex	Candida_parapsilosis@Seq_3657	24_3656	OG5165
+multi-eIF complex	Candida_parapsilosis@Seq_1855	24_1854	OG2160
+multi-eIF complex	Candida_parapsilosis@Seq_2168	24_2167	OG1460
+multi-eIF complex	Candida_parapsilosis@Seq_3649	24_3648	OG1834
+multi-eIF complex	Candida_parapsilosis@Seq_376	24_375	OG2491
+multi-eIF complex	Candida_parapsilosis@Seq_4166	24_4165	OG2024
+multi-eIF complex	Candida_parapsilosis@Seq_4596	24_4595	OG1985
+multi-eIF complex	Candida_parapsilosis@Seq_4763	24_4762	OG2461
+multi-eIF complex	Candida_parapsilosis@Seq_5042	24_5041	OG1776
+multi-eIF complex	Candida_parapsilosis@Seq_979	24_978	OG2109
+multi-eIF complex	Candida_parapsilosis@Seq_986	24_985	OG2951
+myosin I complex	Candida_parapsilosis@Seq_2256	24_2255	OG1202
+myosin I complex	Candida_parapsilosis@Seq_3873	24_3872	OG3526
+myosin II complex	Candida_parapsilosis@Seq_1474	24_1473	OG5814
+myosin II complex	Candida_parapsilosis@Seq_470	24_469	OG1747
+myosin II complex	Candida_parapsilosis@Seq_541	24_540	OG2426
+myosin complex	Candida_parapsilosis@Seq_681	24_680	OG1238
+nascent polypeptide-associated complex	Candida_parapsilosis@Seq_1541	24_1540	OG2261
+nascent polypeptide-associated complex	Candida_parapsilosis@Seq_4708	24_4707	OG2410
+negative cofactor 2 complex	Candida_parapsilosis@Seq_3378	24_3377	OG2699
+negative cofactor 2 complex	Candida_parapsilosis@Seq_60	24_59	OG4248
+nuclear MIS12/MIND complex	Candida_parapsilosis@Seq_2207	24_2206	OG3440
+nuclear MIS12/MIND complex	Candida_parapsilosis@Seq_3357	24_3356	OG3295
+nuclear MIS12/MIND complex	Candida_parapsilosis@Seq_5195	24_5194	OG4654
+nuclear RNA export factor complex	Candida_parapsilosis@Seq_157	24_156	OG4210
+nuclear RNA export factor complex	Candida_parapsilosis@Seq_5118	24_5117	OG2136
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_1360	24_1359	OG2479
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_2981	24_2980	OG3070
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_3266	24_3265	OG1763
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4041	24_4040	OG1489
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_4347	24_4346	OG3051
+nuclear SCF ubiquitin ligase complex	Candida_parapsilosis@Seq_512	24_511	OG2575
+nuclear cap binding complex	Candida_parapsilosis@Seq_1566	24_1565	OG1726
+nuclear cap binding complex	Candida_parapsilosis@Seq_2484	24_2483	OG2725
+nuclear condensin complex	Candida_parapsilosis@Seq_1312	24_1311	OG2533
+nuclear condensin complex	Candida_parapsilosis@Seq_1988	24_1987	OG1520
+nuclear condensin complex	Candida_parapsilosis@Seq_214	24_213	OG1699
+nuclear condensin complex	Candida_parapsilosis@Seq_4910	24_4909	OG1820
+nuclear condensin complex	Candida_parapsilosis@Seq_5211	24_5210	OG1225
+nuclear cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_1738	24_1737	OG3501
+nuclear cyclin-dependent protein kinase holoenzyme complex	Candida_parapsilosis@Seq_3796	24_3795	OG3468
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_1057	24_1056	OG2144
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_1378	24_1377	OG3522
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_1932	24_1931	OG1817
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_302	24_301	OG2826
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_3426	24_3425	OG3117
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_3988	24_3987	OG2066
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_4224	24_4223	OG2312
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_5093	24_5092	OG3312
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_5200	24_5199	OG2484
+nuclear exosome (RNase complex)	Candida_parapsilosis@Seq_5208	24_5207	OG2886
+nuclear mitotic cohesin complex	Candida_parapsilosis@Seq_1569	24_1568	OG4404
+nuclear mitotic cohesin complex	Candida_parapsilosis@Seq_2055	24_2054	OG4805
+nuclear mitotic cohesin complex	Candida_parapsilosis@Seq_3974	24_3973	OG1646
+nuclear mitotic cohesin complex	Candida_parapsilosis@Seq_4435	24_4434	OG2067
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_1249	24_1248	OG4384
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_1360	24_1359	OG2479
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_2072	24_2071	OG3684
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_2870	24_2869	OG1973
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_337	24_336	OG1921
+nuclear origin of replication recognition complex	Candida_parapsilosis@Seq_4791	24_4790	OG4076
+nuclear pore	Candida_parapsilosis@Seq_1070	24_1069	OG92775
+nuclear pore	Candida_parapsilosis@Seq_1145	24_1144	OG4340
+nuclear pore	Candida_parapsilosis@Seq_1222	24_1221	OG5874
+nuclear pore	Candida_parapsilosis@Seq_1504	24_1503	OG2597
+nuclear pore	Candida_parapsilosis@Seq_153	24_152	OG1806
+nuclear pore	Candida_parapsilosis@Seq_1780	24_1779	OG2333
+nuclear pore	Candida_parapsilosis@Seq_2118	24_2117	OG2689
+nuclear pore	Candida_parapsilosis@Seq_2236	24_2235	OG3733
+nuclear pore	Candida_parapsilosis@Seq_2283	24_2282	OG2179
+nuclear pore	Candida_parapsilosis@Seq_2341	24_2340	OG2771
+nuclear pore	Candida_parapsilosis@Seq_2416	24_2415	OG4031
+nuclear pore	Candida_parapsilosis@Seq_2418	24_2417	OG1536
+nuclear pore	Candida_parapsilosis@Seq_2742	24_2741	OG5934
+nuclear pore	Candida_parapsilosis@Seq_2747	24_2746	OG4525
+nuclear pore	Candida_parapsilosis@Seq_2896	24_2895	OG1372
+nuclear pore	Candida_parapsilosis@Seq_2941	24_2940	OG1733
+nuclear pore	Candida_parapsilosis@Seq_3253	24_3252	OG1953
+nuclear pore	Candida_parapsilosis@Seq_342	24_341	OG1627
+nuclear pore	Candida_parapsilosis@Seq_3599	24_3598	OG3436
+nuclear pore	Candida_parapsilosis@Seq_361	24_360	OG3328
+nuclear pore	Candida_parapsilosis@Seq_365	24_364	OG2875
+nuclear pore	Candida_parapsilosis@Seq_3689	24_3688	OG4388
+nuclear pore	Candida_parapsilosis@Seq_4001	24_4000	OG1860
+nuclear pore	Candida_parapsilosis@Seq_4170	24_4169	OG4666
+nuclear pore	Candida_parapsilosis@Seq_4339	24_4338	OG3342
+nuclear pore	Candida_parapsilosis@Seq_4454	24_4453	OG4757
+nuclear pore	Candida_parapsilosis@Seq_4704	24_4703	OG2625
+nuclear pore	Candida_parapsilosis@Seq_4940	24_4939	OG3646
+nuclear pore	Candida_parapsilosis@Seq_501	24_500	OG2595
+nuclear pore	Candida_parapsilosis@Seq_5054	24_5053	OG3512
+nuclear pore	Candida_parapsilosis@Seq_5183	24_5182	OG4442
+nuclear pore	Candida_parapsilosis@Seq_5222	24_5221	OG2626
+nuclear pore	Candida_parapsilosis@Seq_730	24_729	OG2697
+nuclear pore	Candida_parapsilosis@Seq_747	24_746	OG2830
+nuclear pore	Candida_parapsilosis@Seq_749	24_748	OG2517
+nuclear pore	Candida_parapsilosis@Seq_993	24_992	OG3379
+nuclear pore central transport channel	Candida_parapsilosis@Seq_1070	24_1069	OG92775
+nuclear pore central transport channel	Candida_parapsilosis@Seq_1145	24_1144	OG4340
+nuclear pore central transport channel	Candida_parapsilosis@Seq_1222	24_1221	OG5874
+nuclear pore central transport channel	Candida_parapsilosis@Seq_2236	24_2235	OG3733
+nuclear pore central transport channel	Candida_parapsilosis@Seq_2747	24_2746	OG4525
+nuclear pore central transport channel	Candida_parapsilosis@Seq_365	24_364	OG2875
+nuclear pore central transport channel	Candida_parapsilosis@Seq_4454	24_4453	OG4757
+nuclear pore central transport channel	Candida_parapsilosis@Seq_4704	24_4703	OG2625
+nuclear pore central transport channel	Candida_parapsilosis@Seq_5054	24_5053	OG3512
+nuclear pore central transport channel	Candida_parapsilosis@Seq_749	24_748	OG2517
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_1070	24_1069	OG92775
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_1821	24_1820	OG2103
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_2742	24_2741	OG5934
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_2747	24_2746	OG4525
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_2804	24_2803	OG2829
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_365	24_364	OG2875
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_3948	24_3947	OG3968
+nuclear pore cytoplasmic filaments	Candida_parapsilosis@Seq_747	24_746	OG2830
+nuclear pore inner ring	Candida_parapsilosis@Seq_2118	24_2117	OG2689
+nuclear pore inner ring	Candida_parapsilosis@Seq_2418	24_2417	OG1536
+nuclear pore inner ring	Candida_parapsilosis@Seq_501	24_500	OG2595
+nuclear pore linkers	Candida_parapsilosis@Seq_2341	24_2340	OG2771
+nuclear pore linkers	Candida_parapsilosis@Seq_2742	24_2741	OG5934
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_1222	24_1221	OG5874
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_2114	24_2113	OG2862
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_2341	24_2340	OG2771
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_2804	24_2803	OG2829
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_4454	24_4453	OG4757
+nuclear pore nuclear basket	Candida_parapsilosis@Seq_5054	24_5053	OG3512
+nuclear pore outer ring	Candida_parapsilosis@Seq_1504	24_1503	OG2597
+nuclear pore outer ring	Candida_parapsilosis@Seq_1780	24_1779	OG2333
+nuclear pore outer ring	Candida_parapsilosis@Seq_2236	24_2235	OG3733
+nuclear pore outer ring	Candida_parapsilosis@Seq_4170	24_4169	OG4666
+nuclear pore outer ring	Candida_parapsilosis@Seq_4339	24_4338	OG3342
+nuclear pore outer ring	Candida_parapsilosis@Seq_4940	24_4939	OG3646
+nuclear pore outer ring	Candida_parapsilosis@Seq_993	24_992	OG3379
+nuclear pore transmembrane ring	Candida_parapsilosis@Seq_4001	24_4000	OG1860
+nuclear pore transmembrane ring	Candida_parapsilosis@Seq_5222	24_5221	OG2626
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_1249	24_1248	OG4384
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_1360	24_1359	OG2479
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_1472	24_1471	OG2135
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_1898	24_1897	OG1830
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_2072	24_2071	OG3684
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_2266	24_2265	OG1893
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_2870	24_2869	OG1973
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_337	24_336	OG1921
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_3799	24_3798	OG1049
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_4791	24_4790	OG4076
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_4948	24_4947	OG5695
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_5071	24_5070	OG1809
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+nuclear pre-replicative complex	Candida_parapsilosis@Seq_5159	24_5158	OG1011
+nuclear proteasome complex	Candida_parapsilosis@Seq_1603	24_1602	OG2108
+nuclear replisome	Candida_parapsilosis@Seq_1773	24_1772	OG2454
+nuclear telomere cap complex	Candida_parapsilosis@Seq_1743	24_1742	OG44914
+nuclear telomere cap complex	Candida_parapsilosis@Seq_4621	24_4620	OG4944
+nucleolar preribosome	Candida_parapsilosis@Seq_2237	24_2236	OG3248
+nucleolar preribosome	Candida_parapsilosis@Seq_3306	24_3305	OG2267
+nucleolar preribosome	Candida_parapsilosis@Seq_4239	24_4238	OG2692
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_1469	24_1468	OG4870
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_244	24_243	OG4119
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_3169	24_3168	OG4111
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_3780	24_3779	OG2398
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_4322	24_4321	OG1174
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_434	24_433	OG2237
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_5199	24_5198	OG4083
+nucleolar ribonuclease P complex	Candida_parapsilosis@Seq_5212	24_5211	OG2244
+nucleoplasmic THO complex	Candida_parapsilosis@Seq_4514	24_4513	OG2611
+nucleosome	Candida_parapsilosis@Seq_1623	24_1622	OG1088
+nucleosome	Candida_parapsilosis@Seq_248	24_247	OG4208
+nucleosome	Candida_parapsilosis@Seq_2688	24_2687	OG1093
+nucleosome	Candida_parapsilosis@Seq_2832	24_2831	OG3956
+nucleosome	Candida_parapsilosis@Seq_3084	24_3083	OG1031
+nucleosome	Candida_parapsilosis@Seq_676	24_675	OG1027
+nucleotide-activated protein kinase complex	Candida_parapsilosis@Seq_1090	24_1089	OG2168
+nucleotide-activated protein kinase complex	Candida_parapsilosis@Seq_2436	24_2435	OG3582
+nucleotide-activated protein kinase complex	Candida_parapsilosis@Seq_3001	24_3000	OG3097
+nucleotide-activated protein kinase complex	Candida_parapsilosis@Seq_967	24_966	OG5647
+nucleotide-excision repair complex	Candida_parapsilosis@Seq_5193	24_5192	OG2523
+nucleotide-excision repair complex	Candida_parapsilosis@Seq_880	24_879	OG1729
+nucleotide-excision repair factor 1 complex	Candida_parapsilosis@Seq_1795	24_1794	OG2119
+nucleotide-excision repair factor 1 complex	Candida_parapsilosis@Seq_3025	24_3024	OG3166
+nucleotide-excision repair factor 1 complex	Candida_parapsilosis@Seq_4081	24_4080	OG2357
+nucleotide-excision repair factor 2 complex	Candida_parapsilosis@Seq_178	24_177	OG1906
+nucleotide-excision repair factor 2 complex	Candida_parapsilosis@Seq_4554	24_4553	OG2017
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_2176	24_2175	OG1006
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_2374	24_2373	OG2768
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_2837	24_2836	OG1888
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_3120	24_3119	OG2341
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_3431	24_3430	OG2005
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_353	24_352	OG3231
+nucleotide-excision repair factor 3 complex	Candida_parapsilosis@Seq_4058	24_4057	OG2328
+nucleotide-excision repair factor 4 complex	Candida_parapsilosis@Seq_3078	24_3077	OG3237
+nucleotide-excision repair factor 4 complex	Candida_parapsilosis@Seq_5193	24_5192	OG2523
+nucleotide-excision repair factor 4 complex	Candida_parapsilosis@Seq_880	24_879	OG1729
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_2968	24_2967	OG4923
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_4194	24_4193	OG3152
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_4518	24_4517	OG1805
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_5028	24_5027	OG2205
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_5198	24_5197	OG2240
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_950	24_949	OG1082
+oligosaccharyltransferase complex	Candida_parapsilosis@Seq_970	24_969	OG2541
+peroxisomal importomer complex	Candida_parapsilosis@Seq_1687	24_1686	OG4833
+peroxisomal importomer complex	Candida_parapsilosis@Seq_2071	24_2070	OG3876
+peroxisomal importomer complex	Candida_parapsilosis@Seq_249	24_248	OG2690
+peroxisomal importomer complex	Candida_parapsilosis@Seq_4198	24_4197	OG3406
+peroxisomal importomer complex	Candida_parapsilosis@Seq_4254	24_4253	OG2822
+peroxisomal importomer complex	Candida_parapsilosis@Seq_4344	24_4343	OG2756
+peroxisomal importomer complex	Candida_parapsilosis@Seq_4853	24_4852	OG3547
+peroxisomal importomer complex	Candida_parapsilosis@Seq_4937	24_4936	OG2823
+phenylalanine-tRNA ligase complex	Candida_parapsilosis@Seq_1966	24_1965	OG2014
+phenylalanine-tRNA ligase complex	Candida_parapsilosis@Seq_984	24_983	OG1856
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_parapsilosis@Seq_2679	24_2678	OG7924
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_parapsilosis@Seq_3855	24_3854	OG3258
+phosphatidylinositol 3-kinase complex, class III, type I	Candida_parapsilosis@Seq_798	24_797	OG1663
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_parapsilosis@Seq_2679	24_2678	OG7924
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_parapsilosis@Seq_3855	24_3854	OG3258
+phosphatidylinositol 3-kinase complex, class III, type II	Candida_parapsilosis@Seq_798	24_797	OG1663
+phospholipid-translocating ATPase complex	Candida_parapsilosis@Seq_1892	24_1891	OG1008
+phospholipid-translocating ATPase complex	Candida_parapsilosis@Seq_230	24_229	OG1135
+phosphopantothenoylcysteine decarboxylase complex	Candida_parapsilosis@Seq_3646	24_3645	OG3008
+phosphopantothenoylcysteine decarboxylase complex	Candida_parapsilosis@Seq_4553	24_4552	OG2084
+phosphopyruvate hydratase complex	Candida_parapsilosis@Seq_4830	24_4829	OG1193
+phosphopyruvate hydratase complex	Candida_parapsilosis@Seq_4991	24_4990	OG1193
+polarisome	Candida_parapsilosis@Seq_1458	24_1457	OG3622
+polarisome	Candida_parapsilosis@Seq_2355	24_2354	OG1465
+polarisome	Candida_parapsilosis@Seq_304	24_303	OG1431
+polarisome	Candida_parapsilosis@Seq_5046	24_5045	OG5019
+polarisome	Candida_parapsilosis@Seq_844	24_843	OG4313
+polysomal ribosome	Candida_parapsilosis@Seq_1541	24_1540	OG2261
+polysomal ribosome	Candida_parapsilosis@Seq_2463	24_2462	OG2297
+polysomal ribosome	Candida_parapsilosis@Seq_4708	24_4707	OG2410
+polysome	Candida_parapsilosis@Seq_1279	24_1278	OG5015
+polysome	Candida_parapsilosis@Seq_1285	24_1284	OG2526
+polysome	Candida_parapsilosis@Seq_1566	24_1565	OG1726
+polysome	Candida_parapsilosis@Seq_1821	24_1820	OG2103
+polysome	Candida_parapsilosis@Seq_2240	24_2239	OG1522
+polysome	Candida_parapsilosis@Seq_2636	24_2635	OG1392
+polysome	Candida_parapsilosis@Seq_2879	24_2878	OG1374
+polysome	Candida_parapsilosis@Seq_3375	24_3374	OG2665
+polysome	Candida_parapsilosis@Seq_3434	24_3433	OG2204
+polysome	Candida_parapsilosis@Seq_3655	24_3654	OG1071
+polysome	Candida_parapsilosis@Seq_4114	24_4113	OG2424
+polysome	Candida_parapsilosis@Seq_4462	24_4461	OG1002
+polysome	Candida_parapsilosis@Seq_4471	24_4470	OG4274
+polysome	Candida_parapsilosis@Seq_448	24_447	OG2942
+polysome	Candida_parapsilosis@Seq_4720	24_4719	OG1026
+polysome	Candida_parapsilosis@Seq_4741	24_4740	OG1002
+polysome	Candida_parapsilosis@Seq_4848	24_4847	OG2306
+polysome	Candida_parapsilosis@Seq_4860	24_4859	OG2381
+polysome	Candida_parapsilosis@Seq_5038	24_5037	OG2035
+polysome	Candida_parapsilosis@Seq_5153	24_5152	OG6051
+polysome	Candida_parapsilosis@Seq_579	24_578	OG2211
+polysome	Candida_parapsilosis@Seq_583	24_582	OG24208
+polysome	Candida_parapsilosis@Seq_588	24_587	OG4128
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1169	24_1168	OG3223
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1735	24_1734	OG1004
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_1897	24_1896	OG4013
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_213	24_212	OG2322
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4136	24_4135	OG3004
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_432	24_431	OG4627
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4390	24_4389	OG3664
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4741	24_4740	OG1002
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_4959	24_4958	OG5025
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_5060	24_5059	OG1651
+post-mRNA release spliceosomal complex	Candida_parapsilosis@Seq_718	24_717	OG3543
+post-spliceosomal complex	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+prefoldin complex	Candida_parapsilosis@Seq_1831	24_1830	OG2712
+prefoldin complex	Candida_parapsilosis@Seq_2643	24_2642	OG3823
+prefoldin complex	Candida_parapsilosis@Seq_3097	24_3096	OG3224
+prefoldin complex	Candida_parapsilosis@Seq_3797	24_3796	OG4343
+prefoldin complex	Candida_parapsilosis@Seq_4114	24_4113	OG2424
+prefoldin complex	Candida_parapsilosis@Seq_4920	24_4919	OG3340
+preribosome	Candida_parapsilosis@Seq_4155	24_4154	OG2320
+preribosome	Candida_parapsilosis@Seq_446	24_445	OG2155
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1046	24_1045	OG3135
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1088	24_1087	OG1385
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1202	24_1201	OG4235
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1207	24_1206	OG5113
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1329	24_1328	OG1693
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_143	24_142	OG3327
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1455	24_1454	OG1722
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_149	24_148	OG1752
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1596	24_1595	OG1607
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1748	24_1747	OG1957
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_176	24_175	OG2386
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1861	24_1860	OG1709
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1943	24_1942	OG4740
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_1946	24_1945	OG2622
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2065	24_2064	OG1873
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2261	24_2260	OG1976
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2284	24_2283	OG3419
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2498	24_2497	OG2331
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2562	24_2561	OG2304
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2574	24_2573	OG2887
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2650	24_2649	OG4534
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2709	24_2708	OG3003
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_2899	24_2898	OG2620
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3041	24_3040	OG2452
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3139	24_3138	OG1423
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_332	24_331	OG2140
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3380	24_3379	OG1638
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_340	24_339	OG2078
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3442	24_3441	OG2600
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3457	24_3456	OG4520
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3522	24_3521	OG2085
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3585	24_3584	OG1670
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_369	24_368	OG3195
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3711	24_3710	OG2193
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3924	24_3923	OG1926
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3957	24_3956	OG3446
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_3964	24_3963	OG3846
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4066	24_4065	OG2502
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4162	24_4161	OG1999
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4406	24_4405	OG3022
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4558	24_4557	OG1620
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4624	24_4623	OG4632
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4839	24_4838	OG1951
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_4945	24_4944	OG2253
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_5251	24_5250	OG2488
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_5256	24_5255	OG3592
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_659	24_658	OG2060
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_865	24_864	OG2592
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_895	24_894	OG2548
+preribosome, large subunit precursor	Candida_parapsilosis@Seq_938	24_937	OG1351
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_1407	24_1406	OG2295
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_1807	24_1806	OG3009
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_1839	24_1838	OG2121
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_1959	24_1958	OG2151
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2064	24_2063	OG1587
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2237	24_2236	OG3248
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2350	24_2349	OG1632
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_243	24_242	OG2065
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2485	24_2484	OG2269
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2650	24_2649	OG4534
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2785	24_2784	OG3760
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2858	24_2857	OG8592
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2927	24_2926	OG1457
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_2928	24_2927	OG3217
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_327	24_326	OG1848
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_4316	24_4315	OG2527
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_436	24_435	OG2088
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_523	24_522	OG2137
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_5261	24_5260	OG2434
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_738	24_737	OG2052
+preribosome, small subunit precursor	Candida_parapsilosis@Seq_895	24_894	OG2548
+prespliceosome	Candida_parapsilosis@Seq_4755	24_4754	OG6278
+proteasome complex	Candida_parapsilosis@Seq_1400	24_1399	OG3481
+proteasome complex	Candida_parapsilosis@Seq_2104	24_2103	OG4544
+proteasome complex	Candida_parapsilosis@Seq_2891	24_2890	OG2150
+proteasome complex	Candida_parapsilosis@Seq_4290	24_4289	OG2513
+proteasome complex	Candida_parapsilosis@Seq_4627	24_4626	OG2993
+proteasome complex	Candida_parapsilosis@Seq_5189	24_5188	OG1445
+proteasome core complex	Candida_parapsilosis@Seq_2576	24_2575	OG2223
+proteasome core complex	Candida_parapsilosis@Seq_2907	24_2906	OG2825
+proteasome core complex	Candida_parapsilosis@Seq_3071	24_3070	OG2558
+proteasome core complex	Candida_parapsilosis@Seq_4062	24_4061	OG2459
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_1300	24_1299	OG2187
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_1567	24_1566	OG2355
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_2576	24_2575	OG2223
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_2907	24_2906	OG2825
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_3071	24_3070	OG2558
+proteasome core complex, alpha-subunit complex	Candida_parapsilosis@Seq_4062	24_4061	OG2459
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_1563	24_1562	OG3655
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_3618	24_3617	OG2390
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_3623	24_3622	OG2236
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_3892	24_3891	OG1210
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_3999	24_3998	OG2696
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_5069	24_5068	OG2953
+proteasome core complex, beta-subunit complex	Candida_parapsilosis@Seq_5279	24_5278	OG1198
+proteasome regulatory particle	Candida_parapsilosis@Seq_1400	24_1399	OG3481
+proteasome regulatory particle	Candida_parapsilosis@Seq_5275	24_5274	OG2130
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_1611	24_1610	OG2069
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_201	24_200	OG3979
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_277	24_276	OG2419
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_3143	24_3142	OG2070
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_3148	24_3147	OG2079
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_3814	24_3813	OG2212
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_4290	24_4289	OG2513
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_4749	24_4748	OG2948
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_5275	24_5274	OG2130
+proteasome regulatory particle, base subcomplex	Candida_parapsilosis@Seq_789	24_788	OG1984
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_1033	24_1032	OG1532
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_1603	24_1602	OG2108
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_2129	24_2128	OG3155
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_4005	24_4004	OG2323
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_4290	24_4289	OG2513
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_4900	24_4899	OG2230
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_5189	24_5188	OG1445
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_542	24_541	OG3460
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_611	24_610	OG3373
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_679	24_678	OG55304
+proteasome regulatory particle, lid subcomplex	Candida_parapsilosis@Seq_867	24_866	OG2706
+proteasome storage granule	Candida_parapsilosis@Seq_1033	24_1032	OG1532
+proteasome storage granule	Candida_parapsilosis@Seq_1300	24_1299	OG2187
+proteasome storage granule	Candida_parapsilosis@Seq_1341	24_1340	OG1490
+proteasome storage granule	Candida_parapsilosis@Seq_1603	24_1602	OG2108
+proteasome storage granule	Candida_parapsilosis@Seq_2129	24_2128	OG3155
+proteasome storage granule	Candida_parapsilosis@Seq_2576	24_2575	OG2223
+proteasome storage granule	Candida_parapsilosis@Seq_277	24_276	OG2419
+proteasome storage granule	Candida_parapsilosis@Seq_2907	24_2906	OG2825
+proteasome storage granule	Candida_parapsilosis@Seq_3071	24_3070	OG2558
+proteasome storage granule	Candida_parapsilosis@Seq_3148	24_3147	OG2079
+proteasome storage granule	Candida_parapsilosis@Seq_3623	24_3622	OG2236
+proteasome storage granule	Candida_parapsilosis@Seq_3892	24_3891	OG1210
+proteasome storage granule	Candida_parapsilosis@Seq_4062	24_4061	OG2459
+proteasome storage granule	Candida_parapsilosis@Seq_4749	24_4748	OG2948
+proteasome storage granule	Candida_parapsilosis@Seq_4900	24_4899	OG2230
+proteasome storage granule	Candida_parapsilosis@Seq_5069	24_5068	OG2953
+proteasome storage granule	Candida_parapsilosis@Seq_5189	24_5188	OG1445
+proteasome storage granule	Candida_parapsilosis@Seq_542	24_541	OG3460
+proteasome storage granule	Candida_parapsilosis@Seq_611	24_610	OG3373
+proteasome storage granule	Candida_parapsilosis@Seq_679	24_678	OG55304
+protein farnesyltransferase complex	Candida_parapsilosis@Seq_2929	24_2928	OG3200
+protein farnesyltransferase complex	Candida_parapsilosis@Seq_4509	24_4508	OG2682
+protein histidine kinase complex	Candida_parapsilosis@Seq_2768	24_2767	OG5255
+protein kinase CK2 complex	Candida_parapsilosis@Seq_1187	24_1186	OG3780
+protein kinase CK2 complex	Candida_parapsilosis@Seq_2560	24_2559	OG2466
+protein kinase CK2 complex	Candida_parapsilosis@Seq_3127	24_3126	OG2171
+protein kinase CK2 complex	Candida_parapsilosis@Seq_3821	24_3820	OG1845
+protein phosphatase 4 complex	Candida_parapsilosis@Seq_1980	24_1979	OG3053
+protein phosphatase 4 complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+protein phosphatase type 1 complex	Candida_parapsilosis@Seq_1583	24_1582	OG3661
+protein phosphatase type 1 complex	Candida_parapsilosis@Seq_5227	24_5226	OG6007
+protein phosphatase type 1 complex	Candida_parapsilosis@Seq_774	24_773	OG1452
+protein phosphatase type 2A complex	Candida_parapsilosis@Seq_1505	24_1504	OG1992
+protein phosphatase type 2A complex	Candida_parapsilosis@Seq_16	24_15	OG1535
+protein phosphatase type 2A complex	Candida_parapsilosis@Seq_2721	24_2720	OG1711
+protein phosphatase type 2A complex	Candida_parapsilosis@Seq_4812	24_4811	OG1267
+protein phosphatase type 2A complex	Candida_parapsilosis@Seq_4987	24_4986	OG2547
+protein serine/threonine phosphatase complex	Candida_parapsilosis@Seq_4646	24_4645	OG1362
+protein serine/threonine phosphatase complex	Candida_parapsilosis@Seq_4987	24_4986	OG2547
+protein-DNA complex	Candida_parapsilosis@Seq_292	24_291	OG3530
+proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_2094	24_2093	OG1449
+proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_3165	24_3164	OG1046
+proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_3177	24_3176	OG3546
+proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_3642	24_3641	OG2004
+proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_3733	24_3732	OG2367
+proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_1549	24_1548	OG1842
+proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_4662	24_4661	OG2469
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_parapsilosis@Seq_2094	24_2093	OG1449
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_parapsilosis@Seq_3177	24_3176	OG3546
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_parapsilosis@Seq_3733	24_3732	OG2367
+pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_1547	24_1546	OG1959
+pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_3893	24_3892	OG2071
+pyruvate dehydrogenase complex	Candida_parapsilosis@Seq_923	24_922	OG2807
+replication fork protection complex	Candida_parapsilosis@Seq_1623	24_1622	OG1088
+replication fork protection complex	Candida_parapsilosis@Seq_2266	24_2265	OG1893
+replication fork protection complex	Candida_parapsilosis@Seq_2409	24_2408	OG1653
+replication fork protection complex	Candida_parapsilosis@Seq_2758	24_2757	OG2063
+replication fork protection complex	Candida_parapsilosis@Seq_2917	24_2916	OG5660
+replication fork protection complex	Candida_parapsilosis@Seq_2922	24_2921	OG5848
+replication fork protection complex	Candida_parapsilosis@Seq_3084	24_3083	OG1031
+replication fork protection complex	Candida_parapsilosis@Seq_3186	24_3185	OG3537
+replication fork protection complex	Candida_parapsilosis@Seq_3215	24_3214	OG3049
+replication fork protection complex	Candida_parapsilosis@Seq_3236	24_3235	OG3745
+replication fork protection complex	Candida_parapsilosis@Seq_3351	24_3350	OG1886
+replication fork protection complex	Candida_parapsilosis@Seq_346	24_345	OG2191
+replication fork protection complex	Candida_parapsilosis@Seq_3799	24_3798	OG1049
+replication fork protection complex	Candida_parapsilosis@Seq_4115	24_4114	OG2001
+replication fork protection complex	Candida_parapsilosis@Seq_4446	24_4445	OG2003
+replication fork protection complex	Candida_parapsilosis@Seq_4479	24_4478	OG2178
+replication fork protection complex	Candida_parapsilosis@Seq_4655	24_4654	OG3283
+replication fork protection complex	Candida_parapsilosis@Seq_5116	24_5115	OG2169
+replication fork protection complex	Candida_parapsilosis@Seq_5158	24_5157	OG2034
+replication fork protection complex	Candida_parapsilosis@Seq_5159	24_5158	OG1011
+replication fork protection complex	Candida_parapsilosis@Seq_676	24_675	OG1027
+replication fork protection complex	Candida_parapsilosis@Seq_752	24_751	OG2873
+replisome	Candida_parapsilosis@Seq_3121	24_3120	OG2940
+replisome	Candida_parapsilosis@Seq_3388	24_3387	OG1505
+replisome	Candida_parapsilosis@Seq_931	24_930	OG4176
+retromer complex	Candida_parapsilosis@Seq_1762	24_1761	OG1939
+retromer complex	Candida_parapsilosis@Seq_1789	24_1788	OG4133
+retromer complex	Candida_parapsilosis@Seq_1974	24_1973	OG2723
+retromer complex	Candida_parapsilosis@Seq_4009	24_4008	OG3175
+retromer complex	Candida_parapsilosis@Seq_4780	24_4779	OG1735
+retromer, cargo-selective complex	Candida_parapsilosis@Seq_1762	24_1761	OG1939
+retromer, cargo-selective complex	Candida_parapsilosis@Seq_1789	24_1788	OG4133
+retromer, cargo-selective complex	Candida_parapsilosis@Seq_4009	24_4008	OG3175
+retromer, tubulation complex	Candida_parapsilosis@Seq_1974	24_1973	OG2723
+retromer, tubulation complex	Candida_parapsilosis@Seq_4780	24_4779	OG1735
+riboflavin synthase complex	Candida_parapsilosis@Seq_4443	24_4442	OG4010
+ribonuclease H2 complex	Candida_parapsilosis@Seq_2827	24_2826	OG4137
+ribonuclease H2 complex	Candida_parapsilosis@Seq_5219	24_5218	OG5018
+ribonuclease H2 complex	Candida_parapsilosis@Seq_9	24_8	OG5545
+ribonuclease MRP complex	Candida_parapsilosis@Seq_1469	24_1468	OG4870
+ribonuclease MRP complex	Candida_parapsilosis@Seq_244	24_243	OG4119
+ribonuclease MRP complex	Candida_parapsilosis@Seq_3065	24_3064	OG3619
+ribonuclease MRP complex	Candida_parapsilosis@Seq_3507	24_3506	OG32028
+ribonuclease MRP complex	Candida_parapsilosis@Seq_3780	24_3779	OG2398
+ribonuclease MRP complex	Candida_parapsilosis@Seq_4322	24_4321	OG1174
+ribonuclease MRP complex	Candida_parapsilosis@Seq_434	24_433	OG2237
+ribonuclease MRP complex	Candida_parapsilosis@Seq_5199	24_5198	OG4083
+ribonuclease MRP complex	Candida_parapsilosis@Seq_5212	24_5211	OG2244
+ribonuclease P complex	Candida_parapsilosis@Seq_3780	24_3779	OG2398
+ribonuclease P complex	Candida_parapsilosis@Seq_434	24_433	OG2237
+ribonuclease P complex	Candida_parapsilosis@Seq_494	24_493	OG5809
+ribonucleoprotein complex	Candida_parapsilosis@Seq_1258	24_1257	OG1120
+ribonucleoprotein complex	Candida_parapsilosis@Seq_242	24_241	OG5850
+ribonucleoprotein complex	Candida_parapsilosis@Seq_3687	24_3686	OG3209
+ribonucleoprotein complex	Candida_parapsilosis@Seq_3968	24_3967	OG46656
+ribonucleoprotein complex	Candida_parapsilosis@Seq_4977	24_4976	OG12692
+ribonucleoprotein complex	Candida_parapsilosis@Seq_579	24_578	OG2211
+ribonucleoside-diphosphate reductase complex	Candida_parapsilosis@Seq_2185	24_2184	OG1070
+ribonucleoside-diphosphate reductase complex	Candida_parapsilosis@Seq_3841	24_3840	OG1070
+ribonucleoside-diphosphate reductase complex	Candida_parapsilosis@Seq_4759	24_4758	OG1487
+ribose phosphate diphosphokinase complex	Candida_parapsilosis@Seq_101	24_100	OG2588
+ribose phosphate diphosphokinase complex	Candida_parapsilosis@Seq_2668	24_2667	OG2007
+ribose phosphate diphosphokinase complex	Candida_parapsilosis@Seq_2949	24_2948	OG1556
+ribose phosphate diphosphokinase complex	Candida_parapsilosis@Seq_4303	24_4302	OG2968
+septin complex	Candida_parapsilosis@Seq_2262	24_2261	OG1474
+septin complex	Candida_parapsilosis@Seq_3706	24_3705	OG1923
+septin complex	Candida_parapsilosis@Seq_5021	24_5020	OG2015
+septin complex	Candida_parapsilosis@Seq_799	24_798	OG2370
+sequestration of proteasome core complex in proteasome storage granule	Candida_parapsilosis@Seq_1341	24_1340	OG1490
+serine C-palmitoyltransferase complex	Candida_parapsilosis@Seq_3906	24_3905	OG2382
+serine C-palmitoyltransferase complex	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+shelterin complex	Candida_parapsilosis@Seq_2987	24_2986	OG4224
+shelterin complex	Candida_parapsilosis@Seq_607	24_606	OG5703
+signal peptidase complex	Candida_parapsilosis@Seq_2182	24_2181	OG10532
+signal peptidase complex	Candida_parapsilosis@Seq_3064	24_3063	OG4036
+signal peptidase complex	Candida_parapsilosis@Seq_4452	24_4451	OG2743
+signal peptidase complex	Candida_parapsilosis@Seq_5218	24_5217	OG3291
+signal recognition particle receptor complex	Candida_parapsilosis@Seq_2682	24_2681	OG3261
+signal recognition particle receptor complex	Candida_parapsilosis@Seq_4718	24_4717	OG3743
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_1140	24_1139	OG4808
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_1454	24_1453	OG2686
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_2553	24_2552	OG2289
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_3478	24_3477	OG2693
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_3626	24_3625	OG4811
+signal recognition particle, endoplasmic reticulum targeting	Candida_parapsilosis@Seq_45	24_44	OG3315
+single-stranded DNA-dependent ATP-dependent DNA helicase complex	Candida_parapsilosis@Seq_512	24_511	OG2575
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_215	24_214	OG2153
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_29	24_28	OG3888
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_3810	24_3809	OG4593
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_411	24_410	OG3612
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_4387	24_4386	OG3758
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_5191	24_5190	OG1683
+small nucleolar ribonucleoprotein complex	Candida_parapsilosis@Seq_62	24_61	OG6090
+small ribosomal subunit	Candida_parapsilosis@Seq_637	24_636	OG2580
+small-subunit processome	Candida_parapsilosis@Seq_1506	24_1505	OG1942
+small-subunit processome	Candida_parapsilosis@Seq_1586	24_1585	OG1476
+small-subunit processome	Candida_parapsilosis@Seq_170	24_169	OG1290
+small-subunit processome	Candida_parapsilosis@Seq_1701	24_1700	OG1961
+small-subunit processome	Candida_parapsilosis@Seq_1712	24_1711	OG2201
+small-subunit processome	Candida_parapsilosis@Seq_1713	24_1712	OG3360
+small-subunit processome	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+small-subunit processome	Candida_parapsilosis@Seq_1959	24_1958	OG2151
+small-subunit processome	Candida_parapsilosis@Seq_1972	24_1971	OG3180
+small-subunit processome	Candida_parapsilosis@Seq_2064	24_2063	OG1587
+small-subunit processome	Candida_parapsilosis@Seq_2075	24_2074	OG2430
+small-subunit processome	Candida_parapsilosis@Seq_2124	24_2123	OG1757
+small-subunit processome	Candida_parapsilosis@Seq_2206	24_2205	OG1952
+small-subunit processome	Candida_parapsilosis@Seq_243	24_242	OG2065
+small-subunit processome	Candida_parapsilosis@Seq_258	24_257	OG2233
+small-subunit processome	Candida_parapsilosis@Seq_2594	24_2593	OG1882
+small-subunit processome	Candida_parapsilosis@Seq_2606	24_2605	OG1614
+small-subunit processome	Candida_parapsilosis@Seq_2684	24_2683	OG2553
+small-subunit processome	Candida_parapsilosis@Seq_2807	24_2806	OG1459
+small-subunit processome	Candida_parapsilosis@Seq_2808	24_2807	OG17849
+small-subunit processome	Candida_parapsilosis@Seq_2928	24_2927	OG3217
+small-subunit processome	Candida_parapsilosis@Seq_31	24_30	OG1692
+small-subunit processome	Candida_parapsilosis@Seq_3334	24_3333	OG2750
+small-subunit processome	Candida_parapsilosis@Seq_3376	24_3375	OG1978
+small-subunit processome	Candida_parapsilosis@Seq_3485	24_3484	OG2027
+small-subunit processome	Candida_parapsilosis@Seq_3703	24_3702	OG1831
+small-subunit processome	Candida_parapsilosis@Seq_3720	24_3719	OG1661
+small-subunit processome	Candida_parapsilosis@Seq_373	24_372	OG2583
+small-subunit processome	Candida_parapsilosis@Seq_3986	24_3985	OG3517
+small-subunit processome	Candida_parapsilosis@Seq_4001	24_4000	OG1860
+small-subunit processome	Candida_parapsilosis@Seq_4174	24_4173	OG2338
+small-subunit processome	Candida_parapsilosis@Seq_4193	24_4192	OG1454
+small-subunit processome	Candida_parapsilosis@Seq_424	24_423	OG3358
+small-subunit processome	Candida_parapsilosis@Seq_4316	24_4315	OG2527
+small-subunit processome	Candida_parapsilosis@Seq_4331	24_4330	OG1796
+small-subunit processome	Candida_parapsilosis@Seq_4389	24_4388	OG1626
+small-subunit processome	Candida_parapsilosis@Seq_4513	24_4512	OG1531
+small-subunit processome	Candida_parapsilosis@Seq_4552	24_4551	OG2401
+small-subunit processome	Candida_parapsilosis@Seq_4582	24_4581	OG2325
+small-subunit processome	Candida_parapsilosis@Seq_4617	24_4616	OG1868
+small-subunit processome	Candida_parapsilosis@Seq_471	24_470	OG1712
+small-subunit processome	Candida_parapsilosis@Seq_4720	24_4719	OG1026
+small-subunit processome	Candida_parapsilosis@Seq_5047	24_5046	OG1946
+small-subunit processome	Candida_parapsilosis@Seq_5088	24_5087	OG2036
+small-subunit processome	Candida_parapsilosis@Seq_5107	24_5106	OG2978
+small-subunit processome	Candida_parapsilosis@Seq_5209	24_5208	OG2923
+small-subunit processome	Candida_parapsilosis@Seq_523	24_522	OG2137
+small-subunit processome	Candida_parapsilosis@Seq_62	24_61	OG6090
+small-subunit processome	Candida_parapsilosis@Seq_706	24_705	OG2198
+small-subunit processome	Candida_parapsilosis@Seq_715	24_714	OG1223
+spitzenkorper	Candida_parapsilosis@Seq_1874	24_1873	OG2797
+spitzenkorper	Candida_parapsilosis@Seq_2830	24_2829	OG3039
+spitzenkorper	Candida_parapsilosis@Seq_2842	24_2841	OG1409
+spitzenkorper	Candida_parapsilosis@Seq_304	24_303	OG1431
+spitzenkorper	Candida_parapsilosis@Seq_3873	24_3872	OG3526
+spitzenkorper	Candida_parapsilosis@Seq_541	24_540	OG2426
+spitzenkorper	Candida_parapsilosis@Seq_681	24_680	OG1238
+spitzenkorper	Candida_parapsilosis@Seq_925	24_924	OG2582
+spliceosomal complex	Candida_parapsilosis@Seq_1169	24_1168	OG3223
+spliceosomal complex	Candida_parapsilosis@Seq_1182	24_1181	OG1066
+spliceosomal complex	Candida_parapsilosis@Seq_1396	24_1395	OG2733
+spliceosomal complex	Candida_parapsilosis@Seq_1823	24_1822	OG1538
+spliceosomal complex	Candida_parapsilosis@Seq_1889	24_1888	OG1862
+spliceosomal complex	Candida_parapsilosis@Seq_2740	24_2739	OG3229
+spliceosomal complex	Candida_parapsilosis@Seq_3384	24_3383	OG4071
+spliceosomal complex	Candida_parapsilosis@Seq_3633	24_3632	OG3796
+spliceosomal complex	Candida_parapsilosis@Seq_4075	24_4074	OG3598
+spliceosomal complex	Candida_parapsilosis@Seq_4136	24_4135	OG3004
+spliceosomal complex	Candida_parapsilosis@Seq_432	24_431	OG4627
+spliceosomal complex	Candida_parapsilosis@Seq_4321	24_4320	OG3781
+spliceosomal complex	Candida_parapsilosis@Seq_4390	24_4389	OG3664
+spliceosomal complex	Candida_parapsilosis@Seq_4765	24_4764	OG6180
+spliceosomal complex	Candida_parapsilosis@Seq_4776	24_4775	OG3454
+spliceosomal complex	Candida_parapsilosis@Seq_4959	24_4958	OG5025
+spliceosomal complex	Candida_parapsilosis@Seq_829	24_828	OG4462
+spliceosomal complex	Candida_parapsilosis@Seq_871	24_870	OG12290
+spliceosomal complex	Candida_parapsilosis@Seq_992	24_991	OG3390
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_1070	24_1069	OG92775
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_1145	24_1144	OG4340
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_1222	24_1221	OG5874
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_1504	24_1503	OG2597
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2118	24_2117	OG2689
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2236	24_2235	OG3733
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2341	24_2340	OG2771
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2418	24_2417	OG1536
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2747	24_2746	OG4525
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_2804	24_2803	OG2829
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_365	24_364	OG2875
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_4001	24_4000	OG1860
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_4170	24_4169	OG4666
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_4339	24_4338	OG3342
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_4454	24_4453	OG4757
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_4704	24_4703	OG2625
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_501	24_500	OG2595
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_5054	24_5053	OG3512
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_5222	24_5221	OG2626
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_749	24_748	OG2517
+structural constituent of nuclear pore	Candida_parapsilosis@Seq_993	24_992	OG3379
+succinate dehydrogenase complex	Candida_parapsilosis@Seq_319	24_318	OG2112
+sulfite reductase complex (NADPH)	Candida_parapsilosis@Seq_2002	24_2001	OG2147
+sulfite reductase complex (NADPH)	Candida_parapsilosis@Seq_2403	24_2402	OG1597
+t-UTP complex	Candida_parapsilosis@Seq_1959	24_1958	OG2151
+t-UTP complex	Candida_parapsilosis@Seq_2808	24_2807	OG17849
+t-UTP complex	Candida_parapsilosis@Seq_3986	24_3985	OG3517
+t-UTP complex	Candida_parapsilosis@Seq_4582	24_4581	OG2325
+t-UTP complex	Candida_parapsilosis@Seq_5047	24_5046	OG1946
+t-UTP complex	Candida_parapsilosis@Seq_5107	24_5106	OG2978
+t-UTP complex	Candida_parapsilosis@Seq_5209	24_5208	OG2923
+tRNA (m1A) methyltransferase complex	Candida_parapsilosis@Seq_2085	24_2084	OG1849
+tRNA (m1A) methyltransferase complex	Candida_parapsilosis@Seq_4844	24_4843	OG2586
+tRNA (m2G10) methyltransferase complex	Candida_parapsilosis@Seq_4114	24_4113	OG2424
+tRNA (m2G10) methyltransferase complex	Candida_parapsilosis@Seq_670	24_669	OG3486
+tRNA (m7G46) methyltransferase complex	Candida_parapsilosis@Seq_4988	24_4987	OG2834
+tRNA (m7G46) methyltransferase complex	Candida_parapsilosis@Seq_504	24_503	OG2174
+tRNA-intron endonuclease complex	Candida_parapsilosis@Seq_1238	24_1237	OG4411
+tRNA-intron endonuclease complex	Candida_parapsilosis@Seq_3399	24_3398	OG2793
+tRNA-intron endonuclease complex	Candida_parapsilosis@Seq_3417	24_3416	OG3507
+tRNA-intron endonuclease complex	Candida_parapsilosis@Seq_4683	24_4682	OG2935
+tRNA-specific adenosine-34 deaminase complex	Candida_parapsilosis@Seq_2828	24_2827	OG3599
+telomerase catalytic core complex	Candida_parapsilosis@Seq_3192	24_3191	OG3388
+telomerase holoenzyme complex	Candida_parapsilosis@Seq_3192	24_3191	OG3388
+telomerase holoenzyme complex	Candida_parapsilosis@Seq_434	24_433	OG2237
+telomerase holoenzyme complex	Candida_parapsilosis@Seq_5172	24_5171	OG36372
+telomerase holoenzyme complex	Candida_parapsilosis@Seq_5199	24_5198	OG4083
+transcription elongation factor complex	Candida_parapsilosis@Seq_2758	24_2757	OG2063
+transcription elongation factor complex	Candida_parapsilosis@Seq_278	24_277	OG4686
+transcription export complex	Candida_parapsilosis@Seq_2076	24_2075	OG2216
+transcription export complex	Candida_parapsilosis@Seq_3792	24_3791	OG3822
+transcription export complex	Candida_parapsilosis@Seq_3869	24_3868	OG1871
+transcription export complex 2	Candida_parapsilosis@Seq_2416	24_2415	OG4031
+transcription export complex 2	Candida_parapsilosis@Seq_3948	24_3947	OG3968
+transcription export complex 2	Candida_parapsilosis@Seq_4672	24_4671	OG3695
+transcription export complex 2	Candida_parapsilosis@Seq_679	24_678	OG55304
+transcription factor TFIIA complex	Candida_parapsilosis@Seq_1704	24_1703	OG2556
+transcription factor TFIIA complex	Candida_parapsilosis@Seq_2855	24_2854	OG3215
+transcription factor TFIID complex	Candida_parapsilosis@Seq_127	24_126	OG3289
+transcription factor TFIID complex	Candida_parapsilosis@Seq_15	24_14	OG3044
+transcription factor TFIID complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+transcription factor TFIID complex	Candida_parapsilosis@Seq_1935	24_1934	OG6139
+transcription factor TFIID complex	Candida_parapsilosis@Seq_2058	24_2057	OG1560
+transcription factor TFIID complex	Candida_parapsilosis@Seq_2130	24_2129	OG2165
+transcription factor TFIID complex	Candida_parapsilosis@Seq_2351	24_2350	OG1596
+transcription factor TFIID complex	Candida_parapsilosis@Seq_2448	24_2447	OG4647
+transcription factor TFIID complex	Candida_parapsilosis@Seq_2595	24_2594	OG1941
+transcription factor TFIID complex	Candida_parapsilosis@Seq_3195	24_3194	OG4364
+transcription factor TFIID complex	Candida_parapsilosis@Seq_3709	24_3708	OG1749
+transcription factor TFIID complex	Candida_parapsilosis@Seq_4091	24_4090	OG3435
+transcription factor TFIID complex	Candida_parapsilosis@Seq_4105	24_4104	OG10344
+transcription factor TFIID complex	Candida_parapsilosis@Seq_4303	24_4302	OG2968
+transcription factor TFIID complex	Candida_parapsilosis@Seq_4409	24_4408	OG1542
+transcription factor TFIID complex	Candida_parapsilosis@Seq_5196	24_5195	OG1821
+transcription factor TFIIE complex	Candida_parapsilosis@Seq_1176	24_1175	OG2591
+transcription factor TFIIE complex	Candida_parapsilosis@Seq_2779	24_2778	OG3675
+transcription factor TFIIF complex	Candida_parapsilosis@Seq_1487	24_1486	OG2195
+transcription factor TFIIF complex	Candida_parapsilosis@Seq_1753	24_1752	OG1464
+transcription factor TFIIF complex	Candida_parapsilosis@Seq_4869	24_4868	OG3238
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_2176	24_2175	OG1006
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_2249	24_2248	OG3946
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_2374	24_2373	OG2768
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_2837	24_2836	OG1888
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_3120	24_3119	OG2341
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_353	24_352	OG3231
+transcription factor TFIIH core complex	Candida_parapsilosis@Seq_4058	24_4057	OG2328
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_1560	24_1559	OG3341
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_2176	24_2175	OG1006
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_2249	24_2248	OG3946
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_2374	24_2373	OG2768
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_2559	24_2558	OG2735
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_2837	24_2836	OG1888
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_3120	24_3119	OG2341
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_353	24_352	OG3231
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_4058	24_4057	OG2328
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_4263	24_4262	OG2500
+transcription factor TFIIH holo complex	Candida_parapsilosis@Seq_587	24_586	OG4556
+transcription factor TFIIIB complex	Candida_parapsilosis@Seq_2113	24_2112	OG3686
+transcription factor TFIIIB complex	Candida_parapsilosis@Seq_2595	24_2594	OG1941
+transcription factor TFIIIB complex	Candida_parapsilosis@Seq_4600	24_4599	OG2878
+transcription factor TFIIIC complex	Candida_parapsilosis@Seq_1097	24_1096	OG1745
+transcription factor TFIIIC complex	Candida_parapsilosis@Seq_1995	24_1994	OG3380
+transcription factor TFIIIC complex	Candida_parapsilosis@Seq_2847	24_2846	OG3156
+transcription factor TFIIIC complex	Candida_parapsilosis@Seq_3893	24_3892	OG2071
+transcription factor TFIIIC complex	Candida_parapsilosis@Seq_485	24_484	OG2584
+transcription factor TFIIK complex	Candida_parapsilosis@Seq_1560	24_1559	OG3341
+transcription factor TFIIK complex	Candida_parapsilosis@Seq_2559	24_2558	OG2735
+transcription factor TFIIK complex	Candida_parapsilosis@Seq_4263	24_4262	OG2500
+transcription factor complex	Candida_parapsilosis@Seq_1047	24_1046	OG3369
+transcription factor complex	Candida_parapsilosis@Seq_2595	24_2594	OG1941
+transcriptional preinitiation complex	Candida_parapsilosis@Seq_1176	24_1175	OG2591
+transcriptional preinitiation complex	Candida_parapsilosis@Seq_2779	24_2778	OG3675
+transcriptional preinitiation complex	Candida_parapsilosis@Seq_2837	24_2836	OG1888
+transcriptional repressor complex	Candida_parapsilosis@Seq_1276	24_1275	OG1440
+transcriptional repressor complex	Candida_parapsilosis@Seq_2033	24_2032	OG1645
+translation release factor complex	Candida_parapsilosis@Seq_4102	24_4101	OG1804
+translation release factor complex	Candida_parapsilosis@Seq_909	24_908	OG1832
+tricarboxylic acid cycle enzyme complex	Candida_parapsilosis@Seq_5092	24_5091	OG1218
+tricarboxylic acid cycle enzyme complex	Candida_parapsilosis@Seq_935	24_934	OG1218
+tubulin complex	Candida_parapsilosis@Seq_2959	24_2958	OG1229
+tubulin complex	Candida_parapsilosis@Seq_3087	24_3086	OG1245
+ubiquitin conjugating enzyme complex	Candida_parapsilosis@Seq_1562	24_1561	OG2435
+ubiquitin conjugating enzyme complex	Candida_parapsilosis@Seq_5123	24_5122	OG2445
+ubiquitin ligase complex	Candida_parapsilosis@Seq_1169	24_1168	OG3223
+ubiquitin ligase complex	Candida_parapsilosis@Seq_1751	24_1750	OG3897
+ubiquitin ligase complex	Candida_parapsilosis@Seq_2658	24_2657	OG1986
+ubiquitin ligase complex	Candida_parapsilosis@Seq_4441	24_4440	OG1681
+ubiquitin ligase complex	Candida_parapsilosis@Seq_4684	24_4683	OG4285
+ubiquitin ligase complex	Candida_parapsilosis@Seq_564	24_563	OG2721
+ubiquitin ligase complex	Candida_parapsilosis@Seq_674	24_673	OG1723
+ubiquitin ligase complex	Candida_parapsilosis@Seq_820	24_819	OG4331
+vacuolar proton-transporting V-type ATPase complex	Candida_parapsilosis@Seq_2964	24_2963	OG2635
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_3165	24_3164	OG1046
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_4027	24_4026	OG1046
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_parapsilosis@Seq_4078	24_4077	OG4491
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_1516	24_1515	OG2332
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_1575	24_1574	OG3467
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_4190	24_4189	OG4068
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_4976	24_4975	OG2820
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_parapsilosis@Seq_5274	24_5273	OG1656
+vacuolar transporter chaperone complex	Candida_parapsilosis@Seq_1620	24_1619	OG1602
+vacuolar transporter chaperone complex	Candida_parapsilosis@Seq_1849	24_1848	OG2068
+vacuolar transporter chaperone complex	Candida_parapsilosis@Seq_3823	24_3822	OG5834
+vacuolar transporter chaperone complex	Candida_parapsilosis@Seq_592	24_591	OG3092
+zeta DNA polymerase complex	Candida_parapsilosis@Seq_2729	24_2728	OG6033
+zeta DNA polymerase complex	Candida_parapsilosis@Seq_4678	24_4677	OG1964

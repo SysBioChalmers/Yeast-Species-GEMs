@@ -1,0 +1,525 @@
+complex type	sequence id	index	ortholog
+1,3-beta-D-glucan synthase complex	Candida_tropicalis@Seq_211	30_210	OG1014
+1,3-beta-D-glucan synthase complex	Candida_tropicalis@Seq_5210	30_5209	OG1014
+1,3-beta-D-glucan synthase complex	Candida_tropicalis@Seq_783	30_782	OG1014
+3-isopropylmalate dehydratase complex	Candida_tropicalis@Seq_3910	30_3909	OG1422
+6-phosphofructokinase complex	Candida_tropicalis@Seq_2128	30_2127	OG1054
+6-phosphofructokinase complex	Candida_tropicalis@Seq_4310	30_4309	OG1054
+90S preribosome	Candida_tropicalis@Seq_1248	30_1247	OG2052
+90S preribosome	Candida_tropicalis@Seq_5025	30_5024	OG4904
+AP-1 adaptor complex	Candida_tropicalis@Seq_3884	30_3883	OG1993
+AP-2 adaptor complex	Candida_tropicalis@Seq_2810	30_2809	OG3409
+AP-3 adaptor complex	Candida_tropicalis@Seq_2816	30_2815	OG1994
+AP-3 adaptor complex	Candida_tropicalis@Seq_5460	30_5459	OG2669
+Arp2/3 protein complex	Candida_tropicalis@Seq_2305	30_2304	OG3502
+Arp2/3 protein complex	Candida_tropicalis@Seq_3856	30_3855	OG3427
+Arp2/3 protein complex	Candida_tropicalis@Seq_4529	30_4528	OG2127
+Arp2/3 protein complex	Candida_tropicalis@Seq_5184	30_5183	OG2181
+Arp2/3 protein complex	Candida_tropicalis@Seq_72	30_71	OG2590
+Arp2/3 protein complex	Candida_tropicalis@Seq_862	30_861	OG1035
+Atg1/ULK1 kinase complex	Candida_tropicalis@Seq_5904	30_5903	OG3727
+CAAX-protein geranylgeranyltransferase complex	Candida_tropicalis@Seq_3498	30_3497	OG3911
+CAF-1 complex	Candida_tropicalis@Seq_1187	30_1186	OG2093
+CBF3 complex	Candida_tropicalis@Seq_1920	30_1919	OG2575
+CCAAT-binding factor complex	Candida_tropicalis@Seq_1483	30_1482	OG2751
+CCAAT-binding factor complex	Candida_tropicalis@Seq_2423	30_2422	OG4103
+CCAAT-binding factor complex	Candida_tropicalis@Seq_4142	30_4141	OG4509
+CCR4-NOT complex	Candida_tropicalis@Seq_3900	30_3899	OG1862
+CCR4-NOT core complex	Candida_tropicalis@Seq_4648	30_4647	OG1582
+CENP-A containing nucleosome	Candida_tropicalis@Seq_3580	30_3579	OG3375
+COPI vesicle coat	Candida_tropicalis@Seq_3247	30_3246	OG4574
+COPI vesicle coat	Candida_tropicalis@Seq_3991	30_3990	OG1766
+COPI vesicle coat	Candida_tropicalis@Seq_5148	30_5147	OG1861
+COPI vesicle coat	Candida_tropicalis@Seq_5566	30_5565	OG1846
+COPII vesicle coat	Candida_tropicalis@Seq_2387	30_2386	OG1549
+COPII vesicle coat	Candida_tropicalis@Seq_2968	30_2967	OG1075
+COPII vesicle coat	Candida_tropicalis@Seq_3895	30_3894	OG1075
+COPII vesicle coat	Candida_tropicalis@Seq_5327	30_5326	OG1293
+COPII vesicle coat	Candida_tropicalis@Seq_5693	30_5692	OG6305
+COPII vesicle coat	Candida_tropicalis@Seq_798	30_797	OG1075
+CST complex	Candida_tropicalis@Seq_3124	30_3123	OG6244
+Cdc73/Paf1 complex	Candida_tropicalis@Seq_1494	30_1493	OG3893
+Cdc73/Paf1 complex	Candida_tropicalis@Seq_4378	30_4377	OG3293
+Cdc73/Paf1 complex	Candida_tropicalis@Seq_5893	30_5892	OG3086
+Ctf18 RFC-like complex	Candida_tropicalis@Seq_2183	30_2182	OG4339
+Ctf18 RFC-like complex	Candida_tropicalis@Seq_4807	30_4806	OG4443
+DASH complex	Candida_tropicalis@Seq_1476	30_1475	OG5085
+DASH complex	Candida_tropicalis@Seq_2233	30_2232	OG4359
+DASH complex	Candida_tropicalis@Seq_2865	30_2864	OG5079
+DASH complex	Candida_tropicalis@Seq_3183	30_3182	OG3279
+DASH complex	Candida_tropicalis@Seq_4037	30_4036	OG5175
+DASH complex	Candida_tropicalis@Seq_4743	30_4742	OG5135
+DASH complex	Candida_tropicalis@Seq_721	30_720	OG3434
+DNA replication factor C complex	Candida_tropicalis@Seq_2135	30_2134	OG1554
+DNA-dependent protein kinase-DNA ligase 4 complex	Candida_tropicalis@Seq_1328	30_1327	OG2349
+Dbf4-dependent protein kinase complex	Candida_tropicalis@Seq_2	30_1	OG1775
+Dbf4-dependent protein kinase complex	Candida_tropicalis@Seq_4679	30_4678	OG3951
+ER membrane protein complex	Candida_tropicalis@Seq_1758	30_1757	OG2344
+ER membrane protein complex	Candida_tropicalis@Seq_5661	30_5660	OG3931
+ESCRT I complex	Candida_tropicalis@Seq_5026	30_5025	OG3628
+ESCRT II complex	Candida_tropicalis@Seq_649	30_648	OG3705
+ESCRT III complex	Candida_tropicalis@Seq_5398	30_5397	OG4072
+Elongator holoenzyme complex	Candida_tropicalis@Seq_2047	30_2046	OG2251
+Elongator holoenzyme complex	Candida_tropicalis@Seq_2341	30_2340	OG2414
+Elongator holoenzyme complex	Candida_tropicalis@Seq_3631	30_3630	OG1723
+F-actin capping protein complex	Candida_tropicalis@Seq_2482	30_2481	OG3889
+F-actin capping protein complex	Candida_tropicalis@Seq_2947	30_2946	OG4064
+GET complex	Candida_tropicalis@Seq_1168	30_1167	OG5751
+GINS complex	Candida_tropicalis@Seq_2811	30_2810	OG4008
+GPI-anchor transamidase complex	Candida_tropicalis@Seq_2840	30_2839	OG2568
+GPI-anchor transamidase complex	Candida_tropicalis@Seq_2873	30_2872	OG27063
+GPI-anchor transamidase complex	Candida_tropicalis@Seq_5088	30_5087	OG2872
+Golgi transport complex	Candida_tropicalis@Seq_2465	30_2464	OG3765
+Golgi transport complex	Candida_tropicalis@Seq_5743	30_5742	OG2115
+Golgi transport complex	Candida_tropicalis@Seq_819	30_818	OG3868
+H4/H2A histone acetyltransferase complex	Candida_tropicalis@Seq_1074	30_1073	OG1097
+HDA1 complex	Candida_tropicalis@Seq_2119	30_2118	OG3136
+HDA1 complex	Candida_tropicalis@Seq_4172	30_4171	OG5529
+HIR complex	Candida_tropicalis@Seq_4990	30_4989	OG4087
+Ino80 complex	Candida_tropicalis@Seq_3620	30_3619	OG4891
+Ino80 complex	Candida_tropicalis@Seq_4812	30_4811	OG6643
+Ku70:Ku80 complex	Candida_tropicalis@Seq_1328	30_1327	OG2349
+Las1 complex	Candida_tropicalis@Seq_1847	30_1846	OG4632
+MCM complex	Candida_tropicalis@Seq_2127	30_2126	OG2003
+MCM complex	Candida_tropicalis@Seq_2771	30_2770	OG2191
+MCM complex	Candida_tropicalis@Seq_362	30_361	OG2001
+MCM complex	Candida_tropicalis@Seq_5070	30_5069	OG1893
+MCM complex	Candida_tropicalis@Seq_5091	30_5090	OG1049
+MCM complex	Candida_tropicalis@Seq_851	30_850	OG2034
+MICOS complex	Candida_tropicalis@Seq_3074	30_3073	OG2796
+MICOS complex	Candida_tropicalis@Seq_4363	30_4362	OG5043
+MICOS complex	Candida_tropicalis@Seq_5141	30_5140	OG3620
+MIS12/MIND type complex	Candida_tropicalis@Seq_3783	30_3782	OG4495
+Mis6-Sim4 complex	Candida_tropicalis@Seq_3304	30_3303	OG5807
+Mon1-Ccz1 complex	Candida_tropicalis@Seq_600	30_599	OG6093
+Mpp10 complex	Candida_tropicalis@Seq_2668	30_2667	OG3824
+Mre11 complex	Candida_tropicalis@Seq_2568	30_2567	OG1700
+Mre11 complex	Candida_tropicalis@Seq_77	30_76	OG2164
+NatC complex	Candida_tropicalis@Seq_1136	30_1135	OG2456
+Ndc80 complex	Candida_tropicalis@Seq_4935	30_4934	OG3834
+Ndc80 complex	Candida_tropicalis@Seq_5851	30_5850	OG2563
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_1074	30_1073	OG1097
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_147	30_146	OG3071
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_2525	30_2524	OG2141
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_3861	30_3860	OG3397
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_3868	30_3867	OG4174
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_4301	30_4300	OG2653
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_4832	30_4831	OG3717
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_5319	30_5318	OG2180
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_5538	30_5537	OG2949
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_5890	30_5889	OG1427
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_905	30_904	OG1896
+NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_920	30_919	OG3983
+PAM complex, Tim23 associated import motor	Candida_tropicalis@Seq_204	30_203	OG3126
+PAS complex	Candida_tropicalis@Seq_415	30_414	OG2213
+PCNA complex	Candida_tropicalis@Seq_80	30_79	OG2159
+Piccolo NuA4 histone acetyltransferase complex	Candida_tropicalis@Seq_5319	30_5318	OG2180
+RISC complex	Candida_tropicalis@Seq_3595	30_3594	OG4394
+RNA polymerase II, core complex	Candida_tropicalis@Seq_4749	30_4748	OG1720
+RNA polymerase III complex	Candida_tropicalis@Seq_2855	30_2854	OG4203
+RNA polymerase III complex	Candida_tropicalis@Seq_4746	30_4745	OG3190
+RNA polymerase complex	Candida_tropicalis@Seq_2493	30_2492	OG3080
+RNA polymerase complex	Candida_tropicalis@Seq_5403	30_5402	OG2273
+RNA polymerase complex	Candida_tropicalis@Seq_5761	30_5760	OG3417
+SAGA complex	Candida_tropicalis@Seq_3255	30_3254	OG4031
+SAGA complex	Candida_tropicalis@Seq_3285	30_3284	OG2792
+SAGA complex	Candida_tropicalis@Seq_3713	30_3712	OG3068
+SAGA-type complex	Candida_tropicalis@Seq_3405	30_3404	OG3528
+SAM complex	Candida_tropicalis@Seq_675	30_674	OG3173
+SCF ubiquitin ligase complex	Candida_tropicalis@Seq_432	30_431	OG4309
+SWI/SNF complex	Candida_tropicalis@Seq_1779	30_1778	OG2822
+SWI/SNF complex	Candida_tropicalis@Seq_3666	30_3665	OG1051
+SWI/SNF complex	Candida_tropicalis@Seq_4526	30_4525	OG6012
+Sec62/Sec63 complex	Candida_tropicalis@Seq_4536	30_4535	OG2641
+Set1C/COMPASS complex	Candida_tropicalis@Seq_2739	30_2738	OG1097
+Slx1-Slx4 complex	Candida_tropicalis@Seq_5657	30_5656	OG17850
+Smc5-Smc6 complex	Candida_tropicalis@Seq_2377	30_2376	OG4635
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_2665	30_2664	OG2858
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_3215	30_3214	OG2395
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_368	30_367	OG3131
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_4287	30_4286	OG3077
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_459	30_458	OG2440
+TIM23 mitochondrial import inner membrane translocase complex	Candida_tropicalis@Seq_5273	30_5272	OG2694
+TORC1 complex	Candida_tropicalis@Seq_3450	30_3449	OG6322
+TORC1 complex	Candida_tropicalis@Seq_4628	30_4627	OG1034
+TRAPP complex	Candida_tropicalis@Seq_4081	30_4080	OG3994
+TRAPP complex	Candida_tropicalis@Seq_5778	30_5777	OG3309
+TRAPP complex	Candida_tropicalis@Seq_631	30_630	OG4039
+TRAPP complex	Candida_tropicalis@Seq_709	30_708	OG3083
+TRAPPII protein complex	Candida_tropicalis@Seq_2775	30_2774	OG5306
+U1 snRNP	Candida_tropicalis@Seq_1437	30_1436	OG2778
+U2AF	Candida_tropicalis@Seq_1409	30_1408	OG4742
+U2AF	Candida_tropicalis@Seq_2474	30_2473	OG3307
+U4/U6 x U5 tri-snRNP complex	Candida_tropicalis@Seq_1164	30_1163	OG4071
+anaphase-promoting complex	Candida_tropicalis@Seq_4314	30_4313	OG6043
+anaphase-promoting complex	Candida_tropicalis@Seq_4685	30_4684	OG15025
+anaphase-promoting complex	Candida_tropicalis@Seq_4747	30_4746	OG1064
+anaphase-promoting complex	Candida_tropicalis@Seq_4929	30_4928	OG4845
+anaphase-promoting complex	Candida_tropicalis@Seq_823	30_822	OG6153
+box H/ACA snoRNP complex	Candida_tropicalis@Seq_3532	30_3531	OG2094
+cAMP-dependent protein kinase complex	Candida_tropicalis@Seq_203	30_202	OG1827
+cellular bud neck polarisome	Candida_tropicalis@Seq_2439	30_2438	OG4313
+cellular bud tip polarisome	Candida_tropicalis@Seq_2439	30_2438	OG4313
+chaperonin-containing T-complex	Candida_tropicalis@Seq_3676	30_3675	OG1922
+checkpoint clamp complex	Candida_tropicalis@Seq_1224	30_1223	OG5195
+checkpoint clamp complex	Candida_tropicalis@Seq_5082	30_5081	OG4382
+clathrin adaptor complex	Candida_tropicalis@Seq_1377	30_1376	OG2042
+clathrin adaptor complex	Candida_tropicalis@Seq_1561	30_1560	OG2128
+clathrin adaptor complex	Candida_tropicalis@Seq_2443	30_2442	OG3384
+clathrin adaptor complex	Candida_tropicalis@Seq_2810	30_2809	OG3409
+clathrin adaptor complex	Candida_tropicalis@Seq_3286	30_3285	OG1593
+clathrin adaptor complex	Candida_tropicalis@Seq_3467	30_3466	OG4188
+clathrin adaptor complex	Candida_tropicalis@Seq_3884	30_3883	OG1993
+clathrin adaptor complex	Candida_tropicalis@Seq_4977	30_4976	OG4698
+clathrin coat	Candida_tropicalis@Seq_202	30_201	OG1309
+clathrin coat of coated pit	Candida_tropicalis@Seq_2630	30_2629	OG3257
+clathrin coat of coated pit	Candida_tropicalis@Seq_3467	30_3466	OG4188
+clathrin coat of coated pit	Candida_tropicalis@Seq_648	30_647	OG1545
+clathrin coat of trans-Golgi network vesicle	Candida_tropicalis@Seq_2630	30_2629	OG3257
+clathrin coat of trans-Golgi network vesicle	Candida_tropicalis@Seq_648	30_647	OG1545
+clathrin complex	Candida_tropicalis@Seq_648	30_647	OG1545
+condensin complex	Candida_tropicalis@Seq_1339	30_1338	OG1225
+core mediator complex	Candida_tropicalis@Seq_2709	30_2708	OG5957
+cullin-RING ubiquitin ligase complex	Candida_tropicalis@Seq_1425	30_1424	OG2479
+cullin-RING ubiquitin ligase complex	Candida_tropicalis@Seq_650	30_649	OG2691
+cullin-RING ubiquitin ligase complex	Candida_tropicalis@Seq_827	30_826	OG5389
+cullin-RING ubiquitin ligase complex	Candida_tropicalis@Seq_88	30_87	OG2623
+delta DNA polymerase complex	Candida_tropicalis@Seq_1851	30_1850	OG32697
+dynactin complex	Candida_tropicalis@Seq_1916	30_1915	OG5040
+dynactin complex	Candida_tropicalis@Seq_5833	30_5832	OG4804
+dynein complex	Candida_tropicalis@Seq_5911	30_5910	OG2473
+elongin complex	Candida_tropicalis@Seq_4099	30_4098	OG4956
+eukaryotic translation elongation factor 1 complex	Candida_tropicalis@Seq_963	30_962	OG1213
+eukaryotic translation initiation factor 2 complex	Candida_tropicalis@Seq_635	30_634	OG2461
+eukaryotic translation initiation factor 3 complex	Candida_tropicalis@Seq_1305	30_1304	OG2951
+eukaryotic translation initiation factor 3 complex	Candida_tropicalis@Seq_1768	30_1767	OG3260
+eukaryotic translation initiation factor 3 complex	Candida_tropicalis@Seq_5029	30_5028	OG2024
+eukaryotic translation initiation factor 3 complex	Candida_tropicalis@Seq_5823	30_5822	OG2160
+exocyst	Candida_tropicalis@Seq_1463	30_1462	OG3724
+exocyst	Candida_tropicalis@Seq_3236	30_3235	OG3485
+exocyst	Candida_tropicalis@Seq_5083	30_5082	OG2239
+exocyst	Candida_tropicalis@Seq_52	30_51	OG2630
+exocyst	Candida_tropicalis@Seq_5277	30_5276	OG3815
+exosome (RNase complex)	Candida_tropicalis@Seq_1304	30_1303	OG2484
+exosome (RNase complex)	Candida_tropicalis@Seq_4479	30_4478	OG2312
+exosome (RNase complex)	Candida_tropicalis@Seq_5921	30_5920	OG3312
+fatty acid synthase complex	Candida_tropicalis@Seq_2737	30_2736	OG1463
+gamma DNA polymerase complex	Candida_tropicalis@Seq_2011	30_2010	OG1982
+gamma-tubulin complex	Candida_tropicalis@Seq_3630	30_3629	OG3303
+glycerol-3-phosphate dehydrogenase complex	Candida_tropicalis@Seq_1159	30_1158	OG1137
+glycerol-3-phosphate dehydrogenase complex	Candida_tropicalis@Seq_2099	30_2098	OG1137
+glycerol-3-phosphate dehydrogenase complex	Candida_tropicalis@Seq_5168	30_5167	OG3100
+glycine cleavage complex	Candida_tropicalis@Seq_4438	30_4437	OG3429
+heterotrimeric G-protein complex	Candida_tropicalis@Seq_3188	30_3187	OG4651
+heterotrimeric G-protein complex	Candida_tropicalis@Seq_373	30_372	OG3408
+heterotrimeric G-protein complex	Candida_tropicalis@Seq_4121	30_4120	OG2226
+high-affinity iron permease complex	Candida_tropicalis@Seq_1008	30_1007	OG1176
+high-affinity iron permease complex	Candida_tropicalis@Seq_3744	30_3743	OG1224
+high-affinity iron permease complex	Candida_tropicalis@Seq_768	30_767	OG1176
+histone acetyltransferase complex	Candida_tropicalis@Seq_3868	30_3867	OG4174
+histone acetyltransferase complex	Candida_tropicalis@Seq_5445	30_5444	OG1168
+hyphal tip polarisome	Candida_tropicalis@Seq_1720	30_1719	OG3622
+hyphal tip polarisome	Candida_tropicalis@Seq_2439	30_2438	OG4313
+hyphal tip polarisome	Candida_tropicalis@Seq_672	30_671	OG1409
+kinesin complex	Candida_tropicalis@Seq_69	30_68	OG1583
+large ribosomal subunit	Candida_tropicalis@Seq_1028	30_1027	OG2452
+large ribosomal subunit	Candida_tropicalis@Seq_1466	30_1465	OG2606
+large ribosomal subunit	Candida_tropicalis@Seq_2167	30_2166	OG3364
+large ribosomal subunit	Candida_tropicalis@Seq_3017	30_3016	OG1728
+large ribosomal subunit	Candida_tropicalis@Seq_3368	30_3367	OG3140
+large ribosomal subunit	Candida_tropicalis@Seq_3437	30_3436	OG3222
+large ribosomal subunit	Candida_tropicalis@Seq_3623	30_3622	OG1385
+large ribosomal subunit	Candida_tropicalis@Seq_4820	30_4819	OG1895
+large ribosomal subunit	Candida_tropicalis@Seq_5336	30_5335	OG4638
+large ribosomal subunit	Candida_tropicalis@Seq_5479	30_5478	OG1692
+large ribosomal subunit	Candida_tropicalis@Seq_677	30_676	OG3184
+mRNA cap methyltransferase complex	Candida_tropicalis@Seq_31	30_30	OG3247
+mRNA cleavage factor complex	Candida_tropicalis@Seq_1279	30_1278	OG2827
+mediator complex	Candida_tropicalis@Seq_1285	30_1284	OG5896
+mediator complex	Candida_tropicalis@Seq_1334	30_1333	OG27027
+mediator complex	Candida_tropicalis@Seq_1605	30_1604	OG2663
+mediator complex	Candida_tropicalis@Seq_1857	30_1856	OG5396
+mediator complex	Candida_tropicalis@Seq_2435	30_2434	OG3163
+mediator complex	Candida_tropicalis@Seq_3309	30_3308	OG4058
+mediator complex	Candida_tropicalis@Seq_3777	30_3776	OG6117
+mediator complex	Candida_tropicalis@Seq_3857	30_3856	OG3830
+mediator complex	Candida_tropicalis@Seq_3964	30_3963	OG3755
+mediator complex	Candida_tropicalis@Seq_4217	30_4216	OG4683
+mediator complex	Candida_tropicalis@Seq_4255	30_4254	OG2898
+mediator complex	Candida_tropicalis@Seq_427	30_426	OG5944
+mediator complex	Candida_tropicalis@Seq_431	30_430	OG3199
+mediator complex	Candida_tropicalis@Seq_4692	30_4691	OG3321
+mediator complex	Candida_tropicalis@Seq_4811	30_4810	OG4190
+mediator complex	Candida_tropicalis@Seq_4861	30_4860	OG4703
+mediator complex	Candida_tropicalis@Seq_5097	30_5096	OG1202
+mediator complex	Candida_tropicalis@Seq_5937	30_5936	OG3698
+mediator complex	Candida_tropicalis@Seq_925	30_924	OG4280
+membrane coat	Candida_tropicalis@Seq_1696	30_1695	OG2264
+membrane coat	Candida_tropicalis@Seq_2810	30_2809	OG3409
+membrane coat	Candida_tropicalis@Seq_2816	30_2815	OG1994
+membrane coat	Candida_tropicalis@Seq_3	30_2	OG2702
+membrane coat	Candida_tropicalis@Seq_3884	30_3883	OG1993
+membrane coat	Candida_tropicalis@Seq_3991	30_3990	OG1766
+membrane coat	Candida_tropicalis@Seq_49	30_48	OG1725
+membrane coat	Candida_tropicalis@Seq_5148	30_5147	OG1861
+membrane coat	Candida_tropicalis@Seq_5460	30_5459	OG2669
+membrane coat	Candida_tropicalis@Seq_5566	30_5565	OG1846
+membrane coat	Candida_tropicalis@Seq_5662	30_5661	OG3391
+microtubule associated complex	Candida_tropicalis@Seq_136	30_135	OG4401
+microtubule associated complex	Candida_tropicalis@Seq_3474	30_3473	OG2729
+microtubule associated complex	Candida_tropicalis@Seq_3531	30_3530	OG7243
+microtubule associated complex	Candida_tropicalis@Seq_3665	30_3664	OG3819
+microtubule associated complex	Candida_tropicalis@Seq_4476	30_4475	OG4506
+microtubule associated complex	Candida_tropicalis@Seq_5182	30_5181	OG1173
+microtubule associated complex	Candida_tropicalis@Seq_69	30_68	OG1583
+mitochondrial degradosome	Candida_tropicalis@Seq_706	30_705	OG3752
+mitochondrial inner membrane peptidase complex	Candida_tropicalis@Seq_3537	30_3536	OG5536
+mitochondrial intermembrane space protein transporter complex	Candida_tropicalis@Seq_1219	30_1218	OG4069
+mitochondrial intermembrane space protein transporter complex	Candida_tropicalis@Seq_1461	30_1460	OG1382
+mitochondrial intermembrane space protein transporter complex	Candida_tropicalis@Seq_2537	30_2536	OG4297
+mitochondrial intermembrane space protein transporter complex	Candida_tropicalis@Seq_3677	30_3676	OG4157
+mitochondrial intermembrane space protein transporter complex	Candida_tropicalis@Seq_5555	30_5554	OG4142
+mitochondrial outer membrane translocase complex	Candida_tropicalis@Seq_4875	30_4874	OG1972
+mitochondrial outer membrane translocase complex	Candida_tropicalis@Seq_5583	30_5582	OG10446
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_tropicalis@Seq_1937	30_1936	OG2689
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_tropicalis@Seq_3597	30_3596	OG3923
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_tropicalis@Seq_4991	30_4990	OG2132
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_tropicalis@Seq_616	30_615	OG4243
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Candida_tropicalis@Seq_641	30_640	OG3747
+mitochondrial respiratory chain complex III	Candida_tropicalis@Seq_1746	30_1745	OG4744
+mitochondrial respiratory chain complex III	Candida_tropicalis@Seq_4298	30_4297	OG3208
+mitochondrial respiratory chain complex IV	Candida_tropicalis@Seq_946	30_945	OG4555
+mitochondrial small ribosomal subunit	Candida_tropicalis@Seq_5194	30_5193	OG3282
+mitochondrial small ribosomal subunit	Candida_tropicalis@Seq_948	30_947	OG2614
+myosin complex	Candida_tropicalis@Seq_1015	30_1014	OG1747
+myosin complex	Candida_tropicalis@Seq_2856	30_2855	OG1238
+myosin complex	Candida_tropicalis@Seq_4793	30_4792	OG1202
+nascent polypeptide-associated complex	Candida_tropicalis@Seq_3306	30_3305	OG2410
+nuclear SCF ubiquitin ligase complex	Candida_tropicalis@Seq_1108	30_1107	OG1763
+nuclear exosome (RNase complex)	Candida_tropicalis@Seq_5626	30_5625	OG1886
+nuclear origin of replication recognition complex	Candida_tropicalis@Seq_1816	30_1815	OG4420
+nuclear origin of replication recognition complex	Candida_tropicalis@Seq_4695	30_4694	OG4932
+nuclear pore	Candida_tropicalis@Seq_1196	30_1195	OG2517
+nuclear pore	Candida_tropicalis@Seq_156	30_155	OG1372
+nuclear pore	Candida_tropicalis@Seq_1906	30_1905	OG2829
+nuclear pore	Candida_tropicalis@Seq_1915	30_1914	OG2697
+nuclear pore	Candida_tropicalis@Seq_1937	30_1936	OG2689
+nuclear pore	Candida_tropicalis@Seq_2060	30_2059	OG2625
+nuclear pore	Candida_tropicalis@Seq_2637	30_2636	OG1797
+nuclear pore	Candida_tropicalis@Seq_266	30_265	OG1536
+nuclear pore	Candida_tropicalis@Seq_3255	30_3254	OG4031
+nuclear pore	Candida_tropicalis@Seq_3627	30_3626	OG2771
+nuclear pore	Candida_tropicalis@Seq_3789	30_3788	OG3512
+nuclear pore	Candida_tropicalis@Seq_3867	30_3866	OG1806
+nuclear pore	Candida_tropicalis@Seq_3978	30_3977	OG1733
+nuclear pore	Candida_tropicalis@Seq_4031	30_4030	OG2830
+nuclear pore	Candida_tropicalis@Seq_4651	30_4650	OG2862
+nuclear pore	Candida_tropicalis@Seq_4924	30_4923	OG1789
+nuclear pore	Candida_tropicalis@Seq_505	30_504	OG1953
+nuclear pore	Candida_tropicalis@Seq_5779	30_5778	OG2269
+nuclear pore	Candida_tropicalis@Seq_5966	30_5965	OG2875
+nuclear pore	Candida_tropicalis@Seq_689	30_688	OG4388
+nuclear pore	Candida_tropicalis@Seq_71	30_70	OG3733
+nuclear pore	Candida_tropicalis@Seq_908	30_907	OG2597
+nuclear telomere cap complex	Candida_tropicalis@Seq_3124	30_3123	OG6244
+nuclear telomere cap complex	Candida_tropicalis@Seq_3206	30_3205	OG5356
+nucleolar ribonuclease P complex	Candida_tropicalis@Seq_1013	30_1012	OG6394
+nucleolar ribonuclease P complex	Candida_tropicalis@Seq_2724	30_2723	OG2398
+nucleosome	Candida_tropicalis@Seq_2961	30_2960	OG4208
+nucleosome	Candida_tropicalis@Seq_3001	30_3000	OG1088
+nucleosome	Candida_tropicalis@Seq_3580	30_3579	OG3375
+nucleosome	Candida_tropicalis@Seq_3945	30_3944	OG1031
+nucleosome	Candida_tropicalis@Seq_4375	30_4374	OG1093
+nucleosome	Candida_tropicalis@Seq_4407	30_4406	OG1088
+nucleosome	Candida_tropicalis@Seq_886	30_885	OG1027
+oligosaccharyltransferase complex	Candida_tropicalis@Seq_1973	30_1972	OG4923
+oligosaccharyltransferase complex	Candida_tropicalis@Seq_3685	30_3684	OG2541
+oligosaccharyltransferase complex	Candida_tropicalis@Seq_3809	30_3808	OG3152
+oligosaccharyltransferase complex	Candida_tropicalis@Seq_5360	30_5359	OG1082
+origin recognition complex	Candida_tropicalis@Seq_3235	30_3234	OG4076
+origin recognition complex	Candida_tropicalis@Seq_541	30_540	OG4384
+origin recognition complex	Candida_tropicalis@Seq_5522	30_5521	OG3684
+origin recognition complex	Candida_tropicalis@Seq_5802	30_5801	OG1973
+oxoglutarate dehydrogenase complex	Candida_tropicalis@Seq_3193	30_3192	OG1924
+phosphopyruvate hydratase complex	Candida_tropicalis@Seq_5042	30_5041	OG1193
+phosphopyruvate hydratase complex	Candida_tropicalis@Seq_5110	30_5109	OG1193
+prefoldin complex	Candida_tropicalis@Seq_1571	30_1570	OG3823
+prefoldin complex	Candida_tropicalis@Seq_2467	30_2466	OG2712
+prefoldin complex	Candida_tropicalis@Seq_2657	30_2656	OG3340
+prefoldin complex	Candida_tropicalis@Seq_3641	30_3640	OG4343
+prefoldin complex	Candida_tropicalis@Seq_4128	30_4127	OG3667
+prefoldin complex	Candida_tropicalis@Seq_964	30_963	OG3224
+preribosome, small subunit precursor	Candida_tropicalis@Seq_1472	30_1471	OG2548
+proteasome complex	Candida_tropicalis@Seq_2612	30_2611	OG2706
+proteasome complex	Candida_tropicalis@Seq_4213	30_4212	OG2079
+proteasome complex	Candida_tropicalis@Seq_4632	30_4631	OG2948
+proteasome core complex	Candida_tropicalis@Seq_107	30_106	OG2459
+proteasome core complex	Candida_tropicalis@Seq_1166	30_1165	OG2953
+proteasome core complex	Candida_tropicalis@Seq_1359	30_1358	OG2223
+proteasome core complex	Candida_tropicalis@Seq_2009	30_2008	OG3947
+proteasome core complex	Candida_tropicalis@Seq_2926	30_2925	OG3655
+proteasome core complex	Candida_tropicalis@Seq_2987	30_2986	OG1198
+proteasome core complex	Candida_tropicalis@Seq_3027	30_3026	OG2696
+proteasome core complex	Candida_tropicalis@Seq_3101	30_3100	OG2355
+proteasome core complex	Candida_tropicalis@Seq_3423	30_3422	OG2236
+proteasome core complex	Candida_tropicalis@Seq_3853	30_3852	OG2390
+proteasome core complex	Candida_tropicalis@Seq_413	30_412	OG2558
+proteasome core complex	Candida_tropicalis@Seq_4736	30_4735	OG2825
+proteasome core complex	Candida_tropicalis@Seq_521	30_520	OG2485
+proteasome core complex, alpha-subunit complex	Candida_tropicalis@Seq_107	30_106	OG2459
+proteasome core complex, alpha-subunit complex	Candida_tropicalis@Seq_1359	30_1358	OG2223
+proteasome core complex, alpha-subunit complex	Candida_tropicalis@Seq_3101	30_3100	OG2355
+proteasome core complex, alpha-subunit complex	Candida_tropicalis@Seq_413	30_412	OG2558
+proteasome core complex, alpha-subunit complex	Candida_tropicalis@Seq_4736	30_4735	OG2825
+proteasome regulatory particle	Candida_tropicalis@Seq_1555	30_1554	OG3155
+proteasome regulatory particle, lid subcomplex	Candida_tropicalis@Seq_1393	30_1392	OG6108
+protein farnesyltransferase complex	Candida_tropicalis@Seq_5219	30_5218	OG2682
+protein kinase CK2 complex	Candida_tropicalis@Seq_2763	30_2762	OG3615
+protein kinase CK2 complex	Candida_tropicalis@Seq_782	30_781	OG1845
+protein phosphatase 4 complex	Candida_tropicalis@Seq_3533	30_3532	OG7460
+protein phosphatase type 2A complex	Candida_tropicalis@Seq_246	30_245	OG1992
+protein phosphatase type 2A complex	Candida_tropicalis@Seq_3399	30_3398	OG1711
+protein phosphatase type 2A complex	Candida_tropicalis@Seq_3896	30_3895	OG1267
+protein phosphatase type 2A complex	Candida_tropicalis@Seq_720	30_719	OG1535
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_tropicalis@Seq_1903	30_1902	OG2402
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_tropicalis@Seq_4001	30_4000	OG1533
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_tropicalis@Seq_4578	30_4577	OG1802
+proton-transporting ATP synthase complex, catalytic core F(1)	Candida_tropicalis@Seq_5842	30_5841	OG2644
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_2629	30_2628	OG2004
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_2638	30_2637	OG3546
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_3720	30_3719	OG1046
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_4720	30_4719	OG2367
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_5353	30_5352	OG1046
+proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_5840	30_5839	OG1449
+proton-transporting V-type ATPase, V1 domain	Candida_tropicalis@Seq_1683	30_1682	OG2469
+proton-transporting V-type ATPase, V1 domain	Candida_tropicalis@Seq_3800	30_3799	OG2332
+proton-transporting V-type ATPase, V1 domain	Candida_tropicalis@Seq_750	30_749	OG1842
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_2705	30_2704	OG1656
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_3800	30_3799	OG2332
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_4001	30_4000	OG1533
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_4578	30_4577	OG1802
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_4790	30_4789	OG4357
+proton-transporting two-sector ATPase complex, catalytic domain	Candida_tropicalis@Seq_750	30_749	OG1842
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_2629	30_2628	OG2004
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_2638	30_2637	OG3546
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_3720	30_3719	OG1046
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_4720	30_4719	OG2367
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_5353	30_5352	OG1046
+proton-transporting two-sector ATPase complex, proton-transporting domain	Candida_tropicalis@Seq_5840	30_5839	OG1449
+pyruvate dehydrogenase complex	Candida_tropicalis@Seq_4451	30_4450	OG2071
+retromer complex	Candida_tropicalis@Seq_1710	30_1709	OG2723
+retromer complex	Candida_tropicalis@Seq_4443	30_4442	OG1939
+retromer, cargo-selective complex	Candida_tropicalis@Seq_5085	30_5084	OG3175
+retromer, tubulation complex	Candida_tropicalis@Seq_1710	30_1709	OG2723
+riboflavin synthase complex	Candida_tropicalis@Seq_2173	30_2172	OG4010
+ribonuclease H2 complex	Candida_tropicalis@Seq_4161	30_4160	OG5545
+ribonuclease MRP complex	Candida_tropicalis@Seq_1013	30_1012	OG6394
+ribonuclease MRP complex	Candida_tropicalis@Seq_2724	30_2723	OG2398
+ribonuclease P complex	Candida_tropicalis@Seq_2724	30_2723	OG2398
+ribonucleoprotein complex	Candida_tropicalis@Seq_1852	30_1851	OG1120
+ribonucleoprotein complex	Candida_tropicalis@Seq_1985	30_1984	OG1882
+ribonucleoprotein complex	Candida_tropicalis@Seq_2054	30_2053	OG1120
+ribonucleoprotein complex	Candida_tropicalis@Seq_2101	30_2100	OG3010
+ribonucleoprotein complex	Candida_tropicalis@Seq_3810	30_3809	OG5850
+ribonucleoside-diphosphate reductase complex	Candida_tropicalis@Seq_4968	30_4967	OG1487
+ribonucleoside-diphosphate reductase complex	Candida_tropicalis@Seq_5007	30_5006	OG1070
+ribonucleoside-diphosphate reductase complex	Candida_tropicalis@Seq_5706	30_5705	OG193309
+ribonucleoside-diphosphate reductase complex	Candida_tropicalis@Seq_773	30_772	OG1070
+septin complex	Candida_tropicalis@Seq_1941	30_1940	OG1923
+septin complex	Candida_tropicalis@Seq_2282	30_2281	OG4272
+septin complex	Candida_tropicalis@Seq_3479	30_3478	OG3974
+septin complex	Candida_tropicalis@Seq_3544	30_3543	OG2015
+septin complex	Candida_tropicalis@Seq_751	30_750	OG1474
+septin complex	Candida_tropicalis@Seq_92	30_91	OG2370
+signal peptidase complex	Candida_tropicalis@Seq_2386	30_2385	OG2743
+signal peptidase complex	Candida_tropicalis@Seq_3409	30_3408	OG4036
+signal recognition particle	Candida_tropicalis@Seq_1099	30_1098	OG2686
+signal recognition particle	Candida_tropicalis@Seq_2514	30_2513	OG2289
+signal recognition particle	Candida_tropicalis@Seq_826	30_825	OG3315
+signal recognition particle	Candida_tropicalis@Seq_921	30_920	OG4808
+signal recognition particle receptor complex	Candida_tropicalis@Seq_4952	30_4951	OG3743
+signal recognition particle, endoplasmic reticulum targeting	Candida_tropicalis@Seq_1099	30_1098	OG2686
+signal recognition particle, endoplasmic reticulum targeting	Candida_tropicalis@Seq_1552	30_1551	OG4169
+signal recognition particle, endoplasmic reticulum targeting	Candida_tropicalis@Seq_921	30_920	OG4808
+small nucleolar ribonucleoprotein complex	Candida_tropicalis@Seq_2668	30_2667	OG3824
+small nucleolar ribonucleoprotein complex	Candida_tropicalis@Seq_4055	30_4054	OG2153
+small ribosomal subunit	Candida_tropicalis@Seq_1447	30_1446	OG1514
+small ribosomal subunit	Candida_tropicalis@Seq_183	30_182	OG2580
+small ribosomal subunit	Candida_tropicalis@Seq_1934	30_1933	OG3210
+small ribosomal subunit	Candida_tropicalis@Seq_372	30_371	OG1981
+small ribosomal subunit	Candida_tropicalis@Seq_4021	30_4020	OG2393
+small ribosomal subunit	Candida_tropicalis@Seq_5320	30_5319	OG1284
+small ribosomal subunit	Candida_tropicalis@Seq_5589	30_5588	OG2434
+small-subunit processome	Candida_tropicalis@Seq_1110	30_1109	OG1868
+small-subunit processome	Candida_tropicalis@Seq_1308	30_1307	OG2923
+small-subunit processome	Candida_tropicalis@Seq_1645	30_1644	OG2978
+small-subunit processome	Candida_tropicalis@Seq_2068	30_2067	OG3358
+small-subunit processome	Candida_tropicalis@Seq_2180	30_2179	OG1661
+small-subunit processome	Candida_tropicalis@Seq_2318	30_2317	OG2036
+small-subunit processome	Candida_tropicalis@Seq_2407	30_2406	OG3517
+small-subunit processome	Candida_tropicalis@Seq_2972	30_2971	OG4464
+small-subunit processome	Candida_tropicalis@Seq_3039	30_3038	OG1978
+small-subunit processome	Candida_tropicalis@Seq_3176	30_3175	OG2401
+small-subunit processome	Candida_tropicalis@Seq_3184	30_3183	OG2325
+small-subunit processome	Candida_tropicalis@Seq_3551	30_3550	OG1626
+small-subunit processome	Candida_tropicalis@Seq_3763	30_3762	OG1829
+small-subunit processome	Candida_tropicalis@Seq_3851	30_3850	OG1942
+small-subunit processome	Candida_tropicalis@Seq_4430	30_4429	OG17849
+small-subunit processome	Candida_tropicalis@Seq_5344	30_5343	OG2750
+small-subunit processome	Candida_tropicalis@Seq_5364	30_5363	OG1961
+small-subunit processome	Candida_tropicalis@Seq_5479	30_5478	OG1692
+small-subunit processome	Candida_tropicalis@Seq_551	30_550	OG1459
+small-subunit processome	Candida_tropicalis@Seq_5832	30_5831	OG2201
+small-subunit processome	Candida_tropicalis@Seq_617	30_616	OG2027
+small-subunit processome	Candida_tropicalis@Seq_898	30_897	OG1946
+spitzenkorper	Candida_tropicalis@Seq_1167	30_1166	OG1431
+spitzenkorper	Candida_tropicalis@Seq_2126	30_2125	OG2797
+spitzenkorper	Candida_tropicalis@Seq_5428	30_5427	OG2582
+spitzenkorper	Candida_tropicalis@Seq_672	30_671	OG1409
+spliceosomal complex	Candida_tropicalis@Seq_1164	30_1163	OG4071
+spliceosomal complex	Candida_tropicalis@Seq_1831	30_1830	OG4600
+spliceosomal complex	Candida_tropicalis@Seq_40	30_39	OG1538
+spliceosomal complex	Candida_tropicalis@Seq_4704	30_4703	OG4013
+spliceosomal complex	Candida_tropicalis@Seq_5444	30_5443	OG4256
+structural constituent of nuclear pore	Candida_tropicalis@Seq_2489	30_2488	OG2595
+structural constituent of nuclear pore	Candida_tropicalis@Seq_266	30_265	OG1536
+structural constituent of nuclear pore	Candida_tropicalis@Seq_3627	30_3626	OG2771
+structural constituent of nuclear pore	Candida_tropicalis@Seq_3789	30_3788	OG3512
+structural constituent of nuclear pore	Candida_tropicalis@Seq_5966	30_5965	OG2875
+structural constituent of nuclear pore	Candida_tropicalis@Seq_71	30_70	OG3733
+structural constituent of nuclear pore	Candida_tropicalis@Seq_908	30_907	OG2597
+succinate dehydrogenase complex	Candida_tropicalis@Seq_949	30_948	OG2112
+tRNA (m1A) methyltransferase complex	Candida_tropicalis@Seq_2999	30_2998	OG3431
+tRNA (m1A) methyltransferase complex	Candida_tropicalis@Seq_3432	30_3431	OG1849
+telomerase catalytic core complex	Candida_tropicalis@Seq_2527	30_2526	OG3388
+telomerase holoenzyme complex	Candida_tropicalis@Seq_2527	30_2526	OG3388
+telomerase holoenzyme complex	Candida_tropicalis@Seq_310	30_309	OG4020
+telomerase holoenzyme complex	Candida_tropicalis@Seq_5150	30_5149	OG1547
+transcription elongation factor complex	Candida_tropicalis@Seq_2151	30_2150	OG2063
+transcription export complex 2	Candida_tropicalis@Seq_1203	30_1202	OG3968
+transcription factor TFIIA complex	Candida_tropicalis@Seq_1052	30_1051	OG3215
+transcription factor TFIIA complex	Candida_tropicalis@Seq_1611	30_1610	OG2556
+transcription factor TFIID complex	Candida_tropicalis@Seq_1241	30_1240	OG3289
+transcription factor TFIID complex	Candida_tropicalis@Seq_4887	30_4886	OG3435
+transcription factor TFIID complex	Candida_tropicalis@Seq_5535	30_5534	OG27048
+transcription factor TFIID complex	Candida_tropicalis@Seq_884	30_883	OG3011
+transcription factor TFIIE complex	Candida_tropicalis@Seq_1253	30_1252	OG2591
+transcription factor TFIIF complex	Candida_tropicalis@Seq_3850	30_3849	OG2195
+transcription factor TFIIH core complex	Candida_tropicalis@Seq_3846	30_3845	OG3946
+transcription factor TFIIH core complex	Candida_tropicalis@Seq_5208	30_5207	OG3231
+transcription factor TFIIH core complex	Candida_tropicalis@Seq_5770	30_5769	OG2768
+transcription factor TFIIH core complex	Candida_tropicalis@Seq_877	30_876	OG2328
+transcription factor TFIIH holo complex	Candida_tropicalis@Seq_1354	30_1353	OG2500
+transcription factor TFIIH holo complex	Candida_tropicalis@Seq_311	30_310	OG3341
+transcription factor TFIIIB complex	Candida_tropicalis@Seq_5476	30_5475	OG3686
+transcription factor complex	Candida_tropicalis@Seq_2919	30_2918	OG3369
+transcription factor complex	Candida_tropicalis@Seq_3715	30_3714	OG1941
+tricarboxylic acid cycle enzyme complex	Candida_tropicalis@Seq_1403	30_1402	OG1218
+tubulin complex	Candida_tropicalis@Seq_5512	30_5511	OG1229
+ubiquitin ligase complex	Candida_tropicalis@Seq_3557	30_3556	OG8378
+ubiquitin ligase complex	Candida_tropicalis@Seq_5484	30_5483	OG1986
+ubiquitin ligase complex	Candida_tropicalis@Seq_5596	30_5595	OG3223
+vacuolar proton-transporting V-type ATPase complex	Candida_tropicalis@Seq_685	30_684	OG4068
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_3720	30_3719	OG1046
+vacuolar proton-transporting V-type ATPase, V0 domain	Candida_tropicalis@Seq_5353	30_5352	OG1046
+vacuolar proton-transporting V-type ATPase, V1 domain	Candida_tropicalis@Seq_3697	30_3696	OG2820
