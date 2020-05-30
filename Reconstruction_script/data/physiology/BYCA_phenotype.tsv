@@ -1,0 +1,45 @@
+Trait	Model ID	q01	q10	PP (0)	PP (1)
+Trehalose Fermentation	trehalose	0.38	1.55	0	1
+Raffinose	raffinose	0.23	2.13	0	1
+Melibiose	melibiose	0.06	2.89	0	1
+Methyl-D-glucoside		0.24	1.53	0	1
+D-Xylose	D-xylose	0.12	0.38	0	1
+L-Arabinose	L-arabinose	0.02	1.36	0	1
+Ethanol	ethanol	0.73	0.14	0	1
+Erythritol	erythritol	0.03	1.38	0	1
+D-Mannitol	Mannitol	0.11	0.27	0	1
+D-Glucitol	D-glucitol	0.04	0.23	0	1
+myo-Inositol	myo-inositol	0.01	1.43	0	1
+Succinate	succinate	0.35	0.2	0	1
+Galactose	D-galactose	0.49	0.31	0.01	0.99
+L-Sorbose	L-sorbose	0.5	0.51	0.01	0.99
+D-Glucosamine	D-Glucosamine	0.04	1.35	0.01	0.99
+Nitrate	nitrate	0.01	2.12	0.02	0.98
+L-Rhamnose	L-rhamnose	0.02	1.97	0.03	0.97
+Lactose	lactose	0.18	2.74	0.04	0.96
+Citrate	citrate	0.46	0.85	0.08	0.92
+Galactitol	galactitol	0.13	1.85	0.09	0.91
+Inulin	inulin	0.23	3.49	0.12	0.88
+Cellobiose	beta-cellobiose	0.24	0.75	0.17	0.83
+N-Acetyl-D-glucosamine	N-Acetyl-D-glucosamine	0.08	0.57	0.21	0.79
+Trehalose	trehalose	0.62	0.83	0.28	0.72
+Glycerol	glycerol	1.95	0.23	0.4	0.6
+Lactose Fermentation	lactose	0.17	78.03	0.5	0.5
+Maltose Fermentation	maltose	0.34	3.17	0.56	0.44
+D-Gluconate	D-gluconate	0.75	0.97	0.58	0.42
+DL-Lactate	(S)-lactate	0.68	0.89	0.66	0.34
+Maltose	maltose	0.27	0.92	0.67	0.33
+Sucrose	sucrose	0.21	0.92	0.68	0.32
+Raffinose Fermentation	raffinose	0.27	2.35	0.76	0.24
+Melezitose		0.43	1.22	0.83	0.17
+Galactose Fermentation	D-galactose	0.31	1.48	0.87	0.13
+2-Keto-D-gluconate	2-dehydro-D-gluconate	0.53	0.48	0.87	0.13
+Nitrite	Nitrite	0.16	1.18	0.95	0.05
+Glucose Fermentation	D-glucose	1.16	0.37	0.96	0.04
+Ribitol	D-ribitol	0.33	0.38	0.97	0.03
+Sucrose Fermentation	sucrose	0.4	2	0.98	0.02
+D-Arabinose	D-arabinose	0.18	2.27	0.99	0.01
+D-Ribose	D-ribose	0.17	0.96	0.99	0.01
+Methanol	methanol	0.03	0.27	1	0
+Hexadecane		0.17	0.89	0.91	0.09
+Salicin		0.1	0.76	0.2	0.8
