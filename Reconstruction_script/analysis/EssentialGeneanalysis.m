@@ -152,10 +152,10 @@ function model = complete_Y7(model)
     model.lb(unconstrainedUptakeRxnIndexes) = -1000;
 end
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [inviableORFs,verifiedORFs] = loaddata(strain)
-    cd ../data/EssentialGene/
-    
+cd ../data/EssentialGene/
+% load essential data
 fileName = [strain,'.csv'];
 fID       = fopen(fileName);
 temp  = textscan(fID,'%s%s%s','Delimiter','\t','HeaderLines',1);
@@ -169,6 +169,5 @@ inviableORFs = verifiedORFs(ismember(condition,'E'));% essential
     inviableORFs = upper(inviableORFs);
     inviableORFs = unique(inviableORFs);    
 end
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 end
