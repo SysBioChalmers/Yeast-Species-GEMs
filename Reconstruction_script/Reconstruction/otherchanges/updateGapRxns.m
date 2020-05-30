@@ -1,11 +1,17 @@
-function [newrxns,mets_test] = updateGapRxns(model_original,rxn,met,strains,inputpath,outputpath,type)
+function [newrxns,mets_test] = updateGapRxns(model_original,rxn,met,strains,inputpath,outputpath,type,checkmode)
 % This function is to find strains without the rxn but have this rxn in the
 % draft model and add that one back and save the model in the filefolder
 % specified.
 
+% type is for losse/strict. strict means that the model will only add reactions exist in both draft models from kegg/metacyc. loose will add gap-filling reactions with only one draft models
+% checkmode is for whether check the proMatrix or not. Default is 1. If no met is inputted, then it will use all precursors in all pseudo reactions
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 path = pwd;
-[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath,met); % model_original is cobra format panmodel is raven format.
+if ~exist('checkmode','var') || isempty(checkmode)
+    checkmode = 1; % which will test whether the model can produce all precursors; checkmode == 0  means no precursor will be test
+end
+
+[proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath,met,checkmode); % model_original is cobra format panmodel is raven format.
 save('allMatrix.mat')
 newrxns = [];
 if ~isempty(met)
@@ -14,7 +20,7 @@ if ~isempty(met)
         warning([met,'does not exist in the biomass, should be met in biomass or use false for no met here'])
     end
 end
-for j = 1:length(rxn)
+for j = 1:length(rxn(:,1))
     j
 [~,idx] = ismember(rxn(j,1),model_original.rxns);
 rxnexist = rxnMatrix(:,idx);
@@ -70,11 +76,11 @@ for i = 1:length(strains_specific)
     load([strains_specific{i},'.mat'])
     idx = find(contains(newrxns(:,2),strains_specific(i)));
     for j = 1:length(idx)
-     cd(path)   
+     cd(path)
     reducedModel = addrxnBack(reducedModel,model_original,newrxns(idx(j),1),newrxns(idx(j),3));
     end
     cd(outputpath)
-    save([strains_specific{i},'.mat'],'reducedModel')  
+    save([strains_specific{i},'.mat'],'reducedModel')
     %saveSSModel(reducedModel,'false');
 end
 end

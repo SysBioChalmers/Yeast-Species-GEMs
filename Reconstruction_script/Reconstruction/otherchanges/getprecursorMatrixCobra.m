@@ -1,4 +1,4 @@
-function [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,filefolder,met,checkmode)
+function [proMarix,rxnMatrix,mets_test,cannotProduce,solresult] = getprecursorMatrixCobra(model_original,strains,filefolder,met,checkmode)
 % This function is to get the rxnMatrix for rxn existence in the panmodel;
 % and also generate the matrix for biomass precursors production.
 % panmodel is raven format
@@ -10,7 +10,7 @@ function [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original
 
 
 if ~exist('checkmode','var') || isempty(checkmode)
-    checkmode = 1; % which will test whether the model can produce all precursors
+    checkmode = 1; % which will test whether the model can produce met input; checkmode == 0  means no precursor will be test, will only generate the rxnMatrix
 end
 
 if ~exist('met','var') || isempty(met)
@@ -28,8 +28,9 @@ else
     mets_test = met;
 end
 
-proMarix = [];
-rxnMatrix = [];
+proMarix = zeros(length(strains),length(mets_test));
+solresult = zeros(length(strains),length(mets_test));
+rxnMatrix = zeros(length(strains),length(model_original.rxns));
 path = pwd;
 
 for i = 1:length(strains)
@@ -40,16 +41,26 @@ for i = 1:length(strains)
     if isfield(model,'csense')
         model = rmfield(model,'csense');
     end
-    
+
     sol = solveLP(model);
     cd(path)
     if ~isempty(sol.x) && checkmode
-        [missingMets, presentMets] = PrecursorCheck(model,false,false,[],mets_test);
+        [~, presentMets,solTotal] = PrecursorCheck(model,false,false,[],mets_test);
         [results,~] = ismember(mets_test,presentMets);
         proMarix(i,:) = transpose(results);% strains x mets
+        solresult(i,:) = transpose(solTotal);% strains x mets
     end
     [index,~] = ismember(model_original.rxns,model.rxns);
     rxnMatrix(i,:) = transpose(index);% strains x rxn
+end
+
+cannotProduce = [];
+if checkmode
+    for j = 1:length(mets_test)
+        strianlist = strains(proMarix(:,j) == 0);
+        rep = repmat(mets_test(j),length(strianlist),1);
+        cannotProduce = [cannotProduce;[strianlist,rep]];
+    end
 end
 
 end

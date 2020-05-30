@@ -1,4 +1,4 @@
-function [accuracy] = SubstrateUsage(strains,model_original,panmodelTest,inputpath)
+function [accuracy,FBAresult] = SubstrateUsageTest(model_original,panmodelTest,inputpath)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SubstrateUsage
 %
@@ -32,8 +32,6 @@ data(:,1:4) = [];
 fclose(fid2);
 
 path = pwd;
-
-
 
 %% test for panmodel to see wether the panmodel can ultilize those metabolites or not.
 % Main loop:
@@ -111,15 +109,15 @@ if strcmp(panmodelTest,'true') || panmodelTest
             
             % Simulate model:
             sol = optimizeCbModel(newModel_test);
-            if sol.obj > 0.000001
+            if sol.f > 0.000001
                 model_original = newModel;
                 fprintf(metE,'can be used as solo substrate\n');
-                FBAresult = [FBAresult;{'1'}];
+                FBAresult = [FBAresult;{1}];
             else
-                FBAresult = [FBAresult;{'0'}];
+                FBAresult = [FBAresult;{0}];
             end
         else
-            FBAresult = [FBAresult;{'n'}];
+            FBAresult = [FBAresult;{nan}];
         end
     end
 end
@@ -176,22 +174,24 @@ for k = 1:length(strainlist)
             
             % Simulate model:
             sol = optimizeCbModel(newModel_test);
-            if sol.obj > 0.000001
+            if abs(sol.f) > 0.000001
                 model = newModel;
                 fprintf(metE,'can be used as solo substrate\n');
-                FBAresult(i,k) = {'1'};
+                FBAresult(i,k) = sol.f;
             else
-                FBAresult(i,k) = {'0'};
+                FBAresult(i,k) = 0;
             end
             end
         else
-            FBAresult(i,k) = {'n'};
+            FBAresult(i,k) = nan;
         end
-    
+ 
     reducedModel = model;
-    %cd(outputpath)
-    save([strainlist{k},'.mat'],'reducedModel')
     end
+    cd(inputpath)
+    save([strainlist{k},'.mat'],'reducedModel')
+    cd(current_path)
+
 end
 
 
@@ -202,6 +202,20 @@ for i = 1:length(strainlist)
     tn(i) = length(intersect(find(strcmp(FBAresult(:,i),'0')),setdiff(find(strcmp(data(:,i),'0')),nocheck)));
     fp(i) = length(intersect(find(strcmp(FBAresult(:,i),'1')),setdiff(find(strcmp(data(:,i),'0')),nocheck)));
     fn(i) = length(intersect(find(strcmp(FBAresult(:,i),'0')),setdiff(find(strcmp(data(:,i),'1')|strcmp(data(:,i),'v')),nocheck)));
+    accuracy(i) = (tp(i) + tn(i))/(tp(i) + tn(i) + fn(i) + fp(i));
+end
+
+data = strrep(data,'n','nan');
+data = strrep(data,'v','1');
+data = cellfun(@str2num, data, 'UniformOutput', false);
+
+% plot the difference
+for i = 1:length(strainlist)
+    nocheck = isnan(FBAresult(:,i));
+    tp(i) = length(FBAresult(abs(FBAresult(:,i))>0 & cell2mat(data(:,i)) > 0));
+    tn(i) = length(FBAresult(abs(FBAresult(:,i))== 0 & cell2mat(data(:,i)) == 0));
+    fp(i) = length(FBAresult(abs(FBAresult(:,i))>0 & cell2mat(data(:,i)) == 0));
+    fn(i) = length(FBAresult(abs(FBAresult(:,i))==0 & cell2mat(data(:,i)) > 0));
     accuracy(i) = (tp(i) + tn(i))/(tp(i) + tn(i) + fn(i) + fp(i));
 end
 % using clade information to collect this
@@ -243,17 +257,17 @@ set(gca,'position',[0.11 0.3 0.87 0.75]);
 
 % plot the difference
 for i = 1:75
-    nocheck = find(strcmp(FBAresult(i,:),'n'));
-    tp(i) = length(intersect(find(strcmp(FBAresult(i,:),'1')),setdiff(find(strcmp(data(i,:),'1')|strcmp(data(i,:),'v')),nocheck)));
-    tn(i) = length(intersect(find(strcmp(FBAresult(i,:),'0')),setdiff(find(strcmp(data(i,:),'0')),nocheck)));
-    fp(i) = length(intersect(find(strcmp(FBAresult(i,:),'1')),setdiff(find(strcmp(data(i,:),'0')),nocheck)));
-    fn(i) = length(intersect(find(strcmp(FBAresult(i,:),'0')),setdiff(find(strcmp(data(i,:),'1')|strcmp(data(i,:),'v')),nocheck)));
+    %nocheck = find(strcmp(FBAresult(i,:),'n'));
+    tp(i) = length(FBAresult(abs(FBAresult(i,:))>0 & cell2mat(data(i,:)) > 0));
+    tn(i) = length(FBAresult(abs(FBAresult(i,:))== 0 & cell2mat(data(i,:)) == 0));
+    fp(i) = length(FBAresult(abs(FBAresult(i,:))>0 & cell2mat(data(i,:)) == 0));
+    fn(i) = length(FBAresult(abs(FBAresult(:,i))==0 & cell2mat(data(:,i)) > 0));
     acc_sub(i) = (tp(i) + tn(i))/(tp(i) + tn(i) + fn(i) + fp(i));
 end
 hold on
 sub = SubModelName;
-sub(isnan(acc_sub)) = [];
-acc_sub(isnan(acc_sub)) = [];
+sub(acc_sub == 0) = [];
+acc_sub(acc_sub == 0) = [];
 bar([1:1:length(sub)],acc_sub)
 set(gca,'XTick',1:1:length(sub));
 set(gca,'XTickLabel',sub);
@@ -261,20 +275,5 @@ xtickangle(90);
 set(gca,'FontSize',12,'FontName','Helvetica');
 ylabel('Accuracy','FontSize',20,'FontName','Helvetica','Color','k');
 xlabel('Substrate','FontSize',20,'FontName','Helvetica','Color','k');
-%% fix the gap between the panmodel and the ssModels.
 
-
-Update results from model:
-cd ..
-fid2 = fopen('../ComplementaryData/physiology/Biolog_substrate.tsv','w');
-formatSpec = '%s\t%s\t%s\t%s\t%s\n';
-fprintf(fid2,formatSpec,'Substrate','Name_in_Model','Substrate_type','Growth_Biolog','Growth_Model');
-for i = 1:length(FBAresult)
-    fprintf(fid2,formatSpec,char(FBAresult(i,1)),char(FBAresult(i,2)),char(FBAresult(i,3)),char(FBAresult(i,4)),char(FBAresult(i,5)));
 end
-
-% Save model:
-saveYeastModel(model)
-cd modelCuration
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
