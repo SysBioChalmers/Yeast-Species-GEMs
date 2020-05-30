@@ -1,5 +1,6 @@
 function [model_original] = Convert2CoreBiomass(model_original,strains,inputpath,outputpath)
-% This function is to convert models to use the corebiomass
+% This function is to convert models to use the corebiomass based on the
+% clade, there should be an input for all phenotype information
 % strains should be cell array of strain IDs
 
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
@@ -23,7 +24,7 @@ currentpath = pwd;
 
 % mets to delete from biomass
 unusedMets = {'FAD [cytoplasm]','NAD [cytoplasm]','NADH [cytoplasm]','NADP(+) [cytoplasm]',...
-              'NADPH [cytoplasm]','riboflavin [cytoplasm]','TDP [cytoplasm]','THF [cytoplasm]','heme a [cytoplasm]'};
+              'NADPH [cytoplasm]','riboflavin [cytoplasm]','TDP [cytoplasm]','THF [cytoplasm]','heme a [cytoplasm]','coenzyme A [cytoplasm]'};
 
 % delete those unused mets from panmodel
 [~,mets_del_idx] = ismember(unusedMets,model_original.metNames);
@@ -66,6 +67,7 @@ for i = 1:length(strains)
     save([strains{i},'.mat'],'reducedModel')
 
 end
+cd(currentpath)
 cd ../
 end
     

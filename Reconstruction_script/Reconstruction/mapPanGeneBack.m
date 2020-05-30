@@ -59,7 +59,7 @@ for i = 1:length(strains)
     nomatchresult{i}     = nomatch;
     cd ..
     if changeUniprot
-        fileName       = ['../data/geneMap/',strains{i},'.csv'];
+        fileName       = ['../data/uniprot_geneMap/',strains{i},'.csv'];
         fID            = fopen(fileName);
         protData       = textscan(fID,'%s%s%s','Delimiter','\t','HeaderLines',1);
         SSIDList_core  = protData{1};% geneID in 343 yeast species with @seq

@@ -9,13 +9,6 @@ function [pathway,occuranceratio] = findAlternativePWY(strainsquery,target)
 % Step 4: add those rxns back into the model
 
 
-
-
-
-
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Step 1: identify all pwys related to the target
