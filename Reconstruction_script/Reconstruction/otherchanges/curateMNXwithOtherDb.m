@@ -1,10 +1,15 @@
 function [MNXrxn,MNXmet] = curateMNXwithOtherDb
 % This one generate the MNXrxn database with rev from seed and metacyc get
 % rxnNames from kegg and get chebi IDs KEGG ids for MNXmet
+% reactions.tsv from modelSEED database is downloaded directly from GitHub repository ModelSEEDDatabase
+% link: github.com/ModelSEED/ModelSEEDDatabase
+% reac_prop.tsv is downloaded from METAnetX database
+% MNXref.mat is loaded from RAVEN toolobx feature branch 'add_MetaNetX'
+% 'metaCycRxns.mat' and 'keggRxns.mat' are loaded from RAVEN/external
 
 %% rxn rev part
-path = pwd;
-fid2 = fopen('/Users/feiranl/Downloads/reac_prop.tsv'); %MNX reactions databse with equation
+current_path = pwd;
+downloadMNXdb('reac_prop',current_path) %MNX reactions databse with equation
 format = repmat('%s ',1,6);
 format = strtrim(format);
 rxn_temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',0);
@@ -16,14 +21,38 @@ commentLines = startsWith(MNXrxn(:,1),'#');
 MNXrxn(commentLines,:) = []; % MNX_ID	Equation	Description	Balance	EC	Source
 MNXrxn(:,2) = strrep(MNXrxn(:,2),'=','<=>');
 % load MNX databse ref ID mapping
-load('/Users/feiranl/Documents/GitHub/RAVEN/external/MetaNetX/MNXref.mat');
+% find RAVEN toolbox
+IDfile = 'ravenCobraWrapper.m';
+%Try to find root of toolbox:
+try
+    toolboxPath = which(IDfile);                %full file path
+    slashPos    = getSlashPos(toolboxPath);
+    toolboxPath = toolboxPath(1:slashPos(end)); %folder path
+    %Go up until the root is found:
+    D = dir(toolboxPath);
+    while ~ismember({'.git'},{D.name})
+        slashPos    = getSlashPos(toolboxPath);
+        toolboxPath = toolboxPath(1:slashPos(end-1));
+        D = dir(toolboxPath);
+    end
+    cd(toolboxPath);
+catch
+    disp([toolbox ' toolbox cannot be found'])
+end
+load('external/MetaNetX/MNXref.mat'); % requires RAVEN to checkout at feature branch of 'add_Metanetx'
 % load Metacyc rxns for rev
-metacycRxn = load('/Users/feiranl/Documents/GitHub/RAVEN/external/metacyc/metaCycRxns.mat');
+metacycRxn = load('/external/metacyc/metaCycRxns.mat');
 % load KEGG rxns to get rxnName
-load('/Users/feiranl/Documents/GitHub/RAVEN/external/kegg/keggRxns.mat')
+load('/external/kegg/keggRxns.mat')
+cd(current_path)
 
 % load Modelseed rxn and change rev according to that
-fid2 = fopen('/Users/feiranl/Box Sync/hongzhong/model_seed/reactions.tsv');
+try
+    websave('reactions.tsv','https://raw.githubusercontent.com/ModelSEED/ModelSEEDDatabase/dev/Biochemistry/reactions.tsv');
+catch
+    warning('reactions.tsv was not successfully downloaded, check if directory for reactions.tsv has changed on github.com/ModelSEED/ModelSEEDDatabase/Biochemistry');
+end
+fid2 = fopen('reactions.tsv');
 format = repmat('%s ',1,23);
 format = strtrim(format);
 rxn_temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
@@ -183,3 +212,49 @@ MNXmet(rxnIdx,11) = cellstr(aaa);
 rxnIdx = startsWith(MNXmet(:,8),'chebi');
 MNXmet(rxnIdx,11) = MNXmet(rxnIdx,8);
 save('../../data/databases/MNXmet.mat','MNXmet')
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function slashPos = getSlashPos(path)
+slashPos = strfind(path,'\');       %Windows
+if isempty(slashPos)
+    slashPos = strfind(path,'/');   %MAC/Linux
+end
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function downloadMNXdb(files,mnxPath)
+%downloadMNXdb  Download MetaNetX database files if they cannot be found.
+%
+%   files       string or cell array of strings, with the MetaNetX files to
+%               be downloaded. Options: 'chem_xref', 'chem_prop',
+%               'reac_xref', 'reac_prop' or 'all'.
+%   mnxPath     string of path where MetaNetX reference files are
+%               stored. (opt, default to RAVENdir/external/metanetx) To
+%               download to current folder, specify pwd().
+%
+% Usage: downloadMNXdb(files,mnxPath)
+%
+% Eduard Kerkhoven, 2020-05-04
+
+if nargin<2
+    [ST, I]=dbstack('-completenames');
+    mnxPath=fileparts(fileparts(fileparts(ST(I).file)));
+    mnxPath=fullfile(mnxPath,'external','metanetx');
+end
+
+if ischar(files)
+    if strcmp(files,'all')
+        files={'chem_xref','chem_prop','reac_prop','reac_xref'};
+    else
+        files={files};
+    end
+end
+
+for k=1:length(files)
+    if ~exist(fullfile(mnxPath,[files{k},'.tsv']), 'file')
+        fprintf('File %s.tsv cannot be found and will be downloaded from MetaNetX.org.\n',files{i});
+        websave(fullfile(mnxPath,[files{k},'.tsv']),...
+            ['https://www.metanetx.org/cgi-bin/mnxget/mnxref/',files{k},'.tsv']);
+    end
+end
+end
+
