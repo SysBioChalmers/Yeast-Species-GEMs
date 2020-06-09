@@ -1,7 +1,6 @@
-function [accuracy,FBAresult] = SubstrateUsageTest(model_original,panmodelTest,inputpath)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SubstrateUsage
-%
+% Figure S7cd are also ploted in this function
 % Automatically adds exchange reactions for every metabolite in
 % ComplementaryData/physiology/Biolog_substrate.tsv and checks whether
 % it can be used as a "solo" substrate.
@@ -13,6 +12,8 @@ function [accuracy,FBAresult] = SubstrateUsageTest(model_original,panmodelTest,i
 % change that into a function
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+load('../ModelFiles/model_original_new.mat')
+inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 
 % Load data:
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
@@ -36,7 +37,6 @@ path = pwd;
 %% test for panmodel to see wether the panmodel can ultilize those metabolites or not.
 % Main loop:
 cd ../Reconstruction/otherChanges
-if strcmp(panmodelTest,'true') || panmodelTest
     ExchRxn             = '';
     TransRxn            = '';
     GapfillMets         = '';
@@ -120,7 +120,6 @@ if strcmp(panmodelTest,'true') || panmodelTest
             FBAresult = [FBAresult;{nan}];
         end
     end
-end
 %% Test the ssModels subtrate usage information
 for k = 1:length(strainlist)
     cd(inputpath)
@@ -196,15 +195,6 @@ end
 
 
 % plot the difference
-for i = 1:length(strainlist)
-    nocheck = find(strcmp(FBAresult(:,i),'n'));
-    tp(i) = length(intersect(find(strcmp(FBAresult(:,i),'1')),setdiff(find(strcmp(data(:,i),'1')|strcmp(data(:,i),'v')),nocheck)));
-    tn(i) = length(intersect(find(strcmp(FBAresult(:,i),'0')),setdiff(find(strcmp(data(:,i),'0')),nocheck)));
-    fp(i) = length(intersect(find(strcmp(FBAresult(:,i),'1')),setdiff(find(strcmp(data(:,i),'0')),nocheck)));
-    fn(i) = length(intersect(find(strcmp(FBAresult(:,i),'0')),setdiff(find(strcmp(data(:,i),'1')|strcmp(data(:,i),'v')),nocheck)));
-    accuracy(i) = (tp(i) + tn(i))/(tp(i) + tn(i) + fn(i) + fp(i));
-end
-
 data = strrep(data,'n','nan');
 data = strrep(data,'v','1');
 data = cellfun(@str2num, data, 'UniformOutput', false);
@@ -229,9 +219,9 @@ xlabel('Substrate prediction accuracy','FontSize',24,'FontName','Helvetica','Col
 %% Figure S7d based on clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
-data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
-for i = 1:length(data)
-Strain_information(:,i) = data{i};
+tmp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+for i = 1:length(tmp)
+Strain_information(:,i) = tmp{i};
 end
 fclose(fid2);
 clades = unique(Strain_information(:,2));
@@ -275,4 +265,4 @@ set(gca,'FontSize',12,'FontName','Helvetica');
 ylabel('Accuracy','FontSize',20,'FontName','Helvetica','Color','k');
 xlabel('Substrate','FontSize',20,'FontName','Helvetica','Color','k');
 
-end
+

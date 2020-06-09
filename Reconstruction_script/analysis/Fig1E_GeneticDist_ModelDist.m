@@ -1,7 +1,5 @@
 % This function is to generate the figure 1e
 
-
-%% Figure 2C Substrate Usage test
 % load group information
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
@@ -44,11 +42,13 @@ temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',0);
 for i = 1:length(temp)
     genetic(:,i) = temp{i};
 end
+% we take sce as the first one and find all models toghther%
+strain_gene = genetic(1,2:end);
+genetic = genetic(2:end,2:end);
 
-% we take sce as the first one and find all models toghther
-sce = find(contains(genetic(1,2:end),'Saccharomyces_cerevisiae'));
-%sce = find(contains(genetic(1,2:end),'Schizosaccharomyces_pombe'));
-dis_gene = cellfun(@str2num, genetic(sce,2:end));
+sce = find(contains(strain_gene,'yHMPu5000034963_Hanseniaspora_clermontiae'));
+%sce = find(contains(strain_gene,'Schizosaccharomyces_pombe'));
+dis_gene = cellfun(@str2num, genetic(sce,1:end));
 
 % find the similarity of the phenotype data
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
@@ -59,15 +59,17 @@ for i = 1:length(substrate)
     data(:,i) = substrate{i};
 end
 strainlist = data(1,5:end);
-sce = find(contains(strainlist,'Saccharomyces_cerevisiae'));
+
+sce = find(contains(strainlist,'yHMPu5000034963_Hanseniaspora_clermontiae'));
 data(1,:) = [];
 SubModelName = data(:,2);
 data(:,1:4) = [];
 fclose(fid2);
 
 for i = 1:length(strainlist)
-    tempa = data(1:59,sce);
-    tempb = data(1:59,i);
+    for j = 1:length(strainlist)
+    tempa = data(1:59,i);
+    tempb = data(1:59,j);
     tempa = strrep(tempa,'n','NAN');
     tempb = strrep(tempb,'n','NAN');
     tempa = strrep(tempa,'v','1');
@@ -79,36 +81,42 @@ for i = 1:length(strainlist)
     tempb(noexist) = [];
     tempa = cellfun(@str2num, tempa);
     tempb = cellfun(@str2num, tempb);
-    temp = 1-squareform(pdist([tempa,tempb]','jaccard'));
-    dis_p(i,1) = temp(1,2);
+    temp = 1-pdist([tempa,tempb]','jaccard');
+    dis_p(i,j) = temp(1,1);
+    dis_p(j,i) = temp(1,1);
+    end
 end
-
-sce = find(contains(strainlist,'Saccharomyces_cerevisiae'));
+sce = find(contains(strainlist,'yHMPu5000034963_Hanseniaspora_clermontiae'));
 %sce = find(contains(strainlist,'Schizosaccharomyces_pombe'));
 
-% figure out the model predicted phenotype distance
-load('../Reconstruction/FBAresult5.mat')
+% figure out the model predicted phenotype distance % FBAresult is based on
+% strainlist
+load('../Reconstruction/FBAresult6.mat')
+FBAresult(find(abs(FBAresult)>0)) = 1;
 for i = 1:length(strainlist)
-    tempa = FBAresult(1:59,sce);
+    for j = 1:length(strainlist)
+    tempa = FBAresult(1:59,j);
     tempb = FBAresult(1:59,i);
-    noexista = find(strcmp(tempa,'n'));
-    noexistb = find(strcmp(tempb,'n'));
+    noexista = find(isnan(tempa));
+    noexistb = find(isnan(tempb));
     noexist = union(noexista,noexistb);
     tempa(noexist) = [];
     tempb(noexist) = [];
-    temp = 1-squareform(pdist([tempa,tempb]','jaccard'));
-    dis_p_model(i,1) = temp(1,2);
+    temp = 1-pdist([tempa,tempb]','jaccard');
+    dis_p_model(i,j) = temp(1,1);
+    dis_p_model(j,i) = temp(1,1);
+    end
 end
 
 % compare the distance with sce and other strains
-[~,ID] = ismember(strainlist,genetic(2:end,1));
-dis_gene = dis_gene(ID); % reorder the dis_rxn based on the phenotype
+[~,ID] = ismember(strainlist,strain_gene);
+dis_gene_new = dis_gene(ID); % reorder the dis_rxn based on the phenotype
 
 %plot https://blog.csdn.net/weixin_42943114/article/details/90074259
 %??????
 Nx=500;
 Ny=500;
-X = dis_gene;
+X = dis_gene_new;
 Y = dis_p';
 hold on
 Xedge=linspace(min(X),max(X),Nx);
@@ -152,31 +160,3 @@ scatter(X,dis_p_model',50,'s','filled','MarkerFaceAlpha',0.7)
 P = polyfit(X,log(dis_p_model'),1);
 yi = exp(polyval(P,linspace(min(X),max(X),100)));
 plot(linspace(min(X),max(X),100),yi)
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Figure 2E
-[a, b, Strain_information]=xlsread('../../ComplementaryData/genome_summary_332_yeasts.xlsx','clades');
-Strain_information = Strain_information(2:end,:);
-clades = unique(Strain_information(:,2));
-strains = Strain_information(:,1);
-compStruct = compareMultipleModels(models,true,true,Strain_information(I,2));
-
-
-%%%%%%%%
-% Addtional function
-function [id,compMat] = compareModelField(models,field)
-% Generates a list of unique field entries and a matrix quantifying the
-% number of appearances of each field entry in each model
-
-% get unique list of field entries
-hasfield = cellfun(@(m) isfield(m,field),models);
-id = cellfun(@(m) m.(field),models(hasfield),'UniformOutput',false);
-id = unique(vertcat(id{:}));
-
-% assemble matrix comparing frequency of each entry in each model
-compMat = zeros(numel(id),numel(models));
-for i = 1:numel(models)
-    [~,entryIndex] = ismember(models{i}.(field),id);  % get index of each field entry in the unique id list
-    compMat(:,i) = histcounts(entryIndex, 0.5:1:(numel(id)+0.5));  % determine the frequency at which each index appears
-end
-end
