@@ -1,10 +1,11 @@
-function [model,nonatchresult] = mapPanGeneBack(strains,inputpath,changeUniprot)
+function [nomatchresult,multimatchresult] = mapPanGeneBack(strains,inputpath,outputpath,changeUniprot)
 % This function is to map gene names back to the original genes
-if nargin < 3
+if nargin < 4
     changeUniprot = false;
 end
 currentpath = pwd;
-nonatchresult = cell(0,1);
+nomatchresult = cell(0,1);
+multimatchresult = cell(0,1);
 for i = 1:length(strains)
     i
     cd(inputpath)
@@ -23,7 +24,7 @@ for i = 1:length(strains)
     panID_final = strrep(panID_final,'Saccharomyces_cerevisiae@','');
     
     [~,idx] = ismember(draftgeneID,model.genes);
-    model.genes(idx(idx~=0)) = geneID_core(idx~=0); % fix the geneID by gapfilling
+    model.genes(idx(idx~=0)) = geneID_core(idx~=0); % fix the geneID by gapfilling so that the strange RNA gene ID can be changed back
     
     para = [];
     for j = 1:length(model.genes)
@@ -31,31 +32,34 @@ for i = 1:length(strains)
         for m = 1:length(a)
             para = [para;model.genes(j),geneID_core(a(1)),geneID_core(a(m))];
         end
-    end
-    % replace the model.genes with the first match
-    nomatch     = setdiff(model.genes,panID_final);
-    model       = removeGenesFromModel(model,nomatch); % use cobra one so taht the reaction will be kept
-    
+    end   
     
     [~,idx] = ismember(para(:,1),model.genes);
     model.genes(idx(idx~=0)) = para((idx~=0),2); % replace gene ID by the first paralog
     para        = para(:,2:3);
     idx         = cellfun(@strcmp,para(:,1),para(:,2));% find paralog 
-    para        = para(~idx,:);
+    para        = para(~idx,:); % generate paralog info for the next step update
 
     cd otherchanges/
     model.grRules = rulesTogrrules(model);
-    [grRules,~]   = standardizeGrRules(model,true);
+    [grRules,rxnGeneMat]   = standardizeGrRules(model,true);
     model.grRules = grRules;
+    model.rxnGeneMat = rxnGeneMat;
+    
+    % combine the same genes, for example: Sa matched to PANa and PANb
+    model = deleteDuplicateGenes(model);
     
     % update the paralog information
-    model = UpdatePanGPR(para,model);
+    model = UpdatePanGPR(para,model); % not update the protein so that panID can be saved there
     
+    
+    % find not matched genes and delete those genes, but keep those rxns
+    nomatch     = setdiff(model.genes,geneID_core);
+    model       = removeGenesFromModel(model,nomatch); % use cobra one so taht the reaction will be kept
+ 
     %Incorporate a rxnGeneMat consistent with standardized grRules
     model.grRules        = rulesTogrrules(model);
-    [grRules,rxnGeneMat] = standardizeGrRules(model,true);
-    model.grRules        = grRules;
-    model.rxnGeneMat     = rxnGeneMat;
+    model = slimGPR(model);
     nomatchresult{i}     = nomatch;
     cd ..
     if changeUniprot
@@ -79,7 +83,14 @@ for i = 1:length(strains)
         model.grRules        = grRules;
         model.rxnGeneMat     = rxnGeneMat;
     end
+    
+    % get panID as proteins
+    model.proteins = model.genes;
+    [~,idx] = ismember(geneID_core,model.genes);
+    model.proteins(idx(idx~=0)) = panID_final(idx~=0);
+    
     reducedModel = model;
+    cd(outputpath)
     save([strains{i},'.mat'],'reducedModel')
 end
 

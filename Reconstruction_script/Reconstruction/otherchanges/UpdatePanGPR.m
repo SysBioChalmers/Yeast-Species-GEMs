@@ -40,7 +40,11 @@ NEWGPRList = AddOrthologGPRrules(model,ortholog(:,1),ortholog(:,2));
 
 
 for i = 1:length(NEWGPRList(:,1))
+    if length(NEWGPRList{i,3}) > 1000000
+        warning(['please check the orthlog info for this reaction: ',model.rxns{NEWGPRList{i,1}}])
+    else
     model    = changeGeneAssociation(model, model.rxns{NEWGPRList{i,1}}, NEWGPRList{i,3});
+    end
 end
 % Delete unused genes (if any)
 model = removeUnusedGenes(model);

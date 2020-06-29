@@ -212,15 +212,10 @@ MNXmet(rxnIdx,11) = cellstr(aaa);
 rxnIdx = startsWith(MNXmet(:,8),'chebi');
 MNXmet(rxnIdx,11) = MNXmet(rxnIdx,8);
 save('../../data/databases/MNXmet.mat','MNXmet')
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function slashPos = getSlashPos(path)
-slashPos = strfind(path,'\');       %Windows
-if isempty(slashPos)
-    slashPos = strfind(path,'/');   %MAC/Linux
 end
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function downloadMNXdb(files,mnxPath)
 %downloadMNXdb  Download MetaNetX database files if they cannot be found.
 %
@@ -255,6 +250,13 @@ for k=1:length(files)
         websave(fullfile(mnxPath,[files{k},'.tsv']),...
             ['https://www.metanetx.org/cgi-bin/mnxget/mnxref/',files{k},'.tsv']);
     end
+end
+end
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function slashPos = getSlashPos(path)
+slashPos = strfind(path,'\');       %Windows
+if isempty(slashPos)
+    slashPos = strfind(path,'/');   %MAC/Linux
 end
 end
 
