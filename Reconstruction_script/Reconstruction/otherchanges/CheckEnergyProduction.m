@@ -21,10 +21,10 @@ if rxnID ~= 0
                              mets,coefs,false,0,1000);
     model_test = changeObjective(model_test,'GenerateATP', 1);
     sol = optimizeCbModel(model_test);
-    if sol.obj <= 360 && sol.obj > 0 %later can be changed to the experimental value
-        energyResults = [energyResults; model.rxns(rxnID),'pass',num2str(sol.obj)];
-    elseif sol.obj > 360
-        energyResults = [energyResults; model.rxns(rxnID),'Fail',num2str(sol.obj)];
+    if sol.f <= 360 && sol.f > 0 %later can be changed to the experimental value
+        energyResults = [energyResults; model.rxns(rxnID),'pass',num2str(sol.f)];
+    elseif sol.f > 360
+        energyResults = [energyResults; model.rxns(rxnID),'Fail',num2str(sol.f)];
     else
         energyResults = [energyResults; model.rxns(rxnID),'error','error'];
     end
@@ -39,11 +39,11 @@ if rxnID ~= 0
                              mets,coefs,false,0,1000);
     model_test = changeObjective(model_test, model_test.rxns(end), 1);
     sol = optimizeCbModel(model_test);
-    if sol.obj <= 120 && sol.obj > 0 %later can be changed to the experimental value
-        redoxResults = [redoxResults; model.rxns(rxnID),'pass',num2str(sol.obj)];
-    elseif sol.obj > 120
-        redoxResults = [redoxResults; model.rxns(rxnID),'Fail',num2str(sol.obj)];
-    elseif sol.obj <= 0
+    if sol.f <= 120 && sol.f > 0 %later can be changed to the experimental value
+        redoxResults = [redoxResults; model.rxns(rxnID),'pass',num2str(sol.f)];
+    elseif sol.f > 120
+        redoxResults = [redoxResults; model.rxns(rxnID),'Fail',num2str(sol.f)];
+    elseif sol.f <= 0
         redoxResults = [redoxResults; model.rxns(rxnID),'error','error'];
     end
 else

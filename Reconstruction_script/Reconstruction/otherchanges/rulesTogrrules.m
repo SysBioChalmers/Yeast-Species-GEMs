@@ -11,4 +11,6 @@ grRules = strrep(grRules,'( ','(');
 grRules = strrep(grRules,' )',')');
 grRules = regexprep(grRules,'^(',''); %rules that start with a "("
 grRules = regexprep(grRules,')$',''); %rules that end with a ")"
+model.grRules= grRules;
+[grRules,~] = standardizeGrRules(model,true);
 end

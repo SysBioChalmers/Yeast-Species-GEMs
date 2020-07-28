@@ -1,7 +1,16 @@
-function model = changerxn(model,rxnID,rxnformula)
+function model = changerxn(model,rxnID,rxnformula,grRule)
 
 
 [~,idx] = ismember(rxnID,model.rxns); 
+if nargin < 4
+    if isfield(model,'grRules')
+        grRule = model.grRules{idx};
+    else
+        model1 = ravenCobraWrapper(model);
+         grRule = model1.grRules{idx};       
+    end
+end
+
 % This function is to change new rxns
 rxnformula = strrep(rxnformula,' [','[');
 [metaboliteList, stoichCoeffList, revFlag] = parseRxnFormula(rxnformula);
@@ -34,6 +43,7 @@ end
                                     'metaboliteList',mets,...
                                     'stoichCoeffList',stoichCoeffList,...
                                     'reversible',revFlag,...
+                                    'geneRule',grRule,...
                                     'checkDuplicate',1);
  
 end

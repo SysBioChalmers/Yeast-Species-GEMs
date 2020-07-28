@@ -4,7 +4,7 @@
 addpath(genpath('/Users/feiranl/Documents/GitHub/RAVEN'))
 addpath(genpath('/Users/feiranl/Documents/GitHub/cobratoolbox'))
 addpath(genpath('/Users/feiranl/Documents/GitHub/MATLAB-git'))
-addpath(genpath('/Users/feiranl/Library/gurobi751/mac64/matlab/'))   
+addpath(genpath('/Users/feiranl/Library/gurobi901/mac64/matlab/'))
 
 initCobraToolbox
 git('clone https://github.com/SysBioChalmers/yeast-GEM.git')
@@ -16,7 +16,7 @@ model    = model.model;
 yeastVer = model.modelID(strfind(model.modelID,'_v')+1:end);
 cd ..
 
-% modify the rules field
+% modify the rules field to avoid the useless brackets
 model1 = ravenCobraWrapper(model);
 grRules = model1.grRules;
 model1 = ravenCobraWrapper(model1);
@@ -24,7 +24,7 @@ model.rules = model1.rules;
 model.grRules = grRules; %get a field of grRules
 clear model1
 
-% change the grRules to be paralogs in each gpr rules
+% expand the grRules to be paralogs in each gpr rules
 git('clone https://github.com/SysBioChalmers/Multi_scale_evolution.git')
 
 fileName = 'Multi_scale_evolution/pan_genome/result/id_mapping/Saccharomyces_cerevisiae.tsv';
@@ -36,9 +36,10 @@ panID_final = strrep(panID_final,'Saccharomyces_cerevisiae@','');
 geneID_core = strrep(geneID_core,'Saccharomyces_cerevisiae@','');
 [~,ID] = ismember(geneID_core,model.genes);
 para = [model.genes(ID(ID~=0)),panID_final(ID~=0)];
-para_idx = setdiff(para(:,1),para(:,2));
+para_idx = setdiff(para(:,1),para(:,2)); % find the paralogs in sce
 [~,ID] = ismember(para_idx,para(:,1));
 para = para(ID,:);
+
 for i = 1:length(para(:,1))
     if ~ismember(para(i,2),model.genes)
         [~,ID] = ismember(para(i,1),model.genes);
@@ -49,26 +50,29 @@ for i = 1:length(para(:,1))
     ID = find(endsWith(model.grRules,para{i,1}));
     model.grRules(ID(ID~=0)) = strrep(model.grRules(ID(ID~=0)),para{i,1},para{i,2});
 end
-
+%cd Yeast-Species-GEMs/Reconstruction_script/Reconstruction/
 cd otherchanges/
 model = slimGPR(model); % now the model.grRules has been changed to only the representative IDs
 cd ../
 
-%change orthlog information
+%change orthlog information to the representative IDs
 fid      = fopen('../../find_homolog_for_panID_py/result/pan_hit_mapping_panYeast_v2_PI@70.tsv');
 orth     = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
 ortholog(:,1)     = orth{1};
 ortholog(:,2) = orth{2};
-ortholog(:,1) = replace(ortholog(:,1),para(:,1),para(:,2)); %replace the ortholog with panID
+for i = 1:length(para(:,1))
+    idx = ismember(ortholog(:,1),para(i,1));
+    ortholog(idx,1) = para(i,2); %replace the ortholog with panID
+end
 fclose(fid);
+save('ortholog_changedtoPanID.mat','ortholog');
 
-
-clearvars -except model ortholog
-%% Panmodel expansion 
+clearvars -except model ortholog geneID_core panID_final
+%% Panmodel expansion
 % Three input: new rxn; ortholog information for existing rxns; strain x
 % gene matrix.
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
-% mapping metaNetIDs 
+% mapping metaNetIDs
 format = '%s %s %s %s %s %s %s %s %s %s ';
 fID       = fopen('../../rxn_annotate/result/new_met_information_from MNX_database.txt');
 matrixData  = textscan(fID,format,'Delimiter','\t','HeaderLines',1);
@@ -101,7 +105,7 @@ newrxn.GPR = replace(newrxn.GPR,'NA',',');
 newrxn.GPR = replace(newrxn.GPR,'"','');
 newrxn.rxnNames     = rxnData{12};
 newrxn.rxnNamesKEGG     = rxnData{11};
-newrxn.rxnpathway = rxnData{27}; % please do make sure that happen 
+newrxn.rxnpathway = rxnData{27}; % please do make sure that happen
 % find empty rxnnames, 1) replace that with keggrxnname 2) replace that
 % with MNXID
 idx=cellfun('isempty',newrxn.rxnNames);
@@ -153,7 +157,7 @@ for i = 1:length(newrxn.ID)
     if length(met_new) < length(Met)
         met_rep = j(setdiff(1:numel(Met), idx));
         if length(met_rep) == 1
-            if strcmp(matrix.metIDs(met_rep),'H+') 
+            if strcmp(matrix.metIDs(met_rep),'H+')
                 met_rep = [];
             end
         end
@@ -173,36 +177,43 @@ end
 cd otherchanges/
 [model,rxnUpdateGPR,EnergyResults,RedoxResults,MassChargeresults] = addPanModelRxn(model,matrix,newmet,newrxn);
 
+%% update the grRules for existing reactions
 % We found there are 63 rxns are exisitng in the original model, will check
 % that and then decide whthether we should update gpr or not.
 model = rmfield(model,'grRules');
 model.grRules = printGPRForRxns(model,model.rxns);
 [~,ID] = ismember(rxnUpdateGPR(:,1),model.rxns);
 oldGPR = printGPRForRxns(model,model.rxns(ID));
+
 % if old GPR is empty, we update the rxn with new GPR and the rxn is essential, it will cause the
 % problem of maybe deleting this one will lead to no growth.
-rxnUpdateGPR(cellfun(@isempty,oldGPR),:) = [];
-oldGPR(cellfun(@isempty,oldGPR)) = [];
+% rxnUpdateGPR(cellfun(@isempty,oldGPR),:) = [];
+% oldGPR(cellfun(@isempty,oldGPR)) = [];
 
 linker = repmat({' or '},length(oldGPR(:,1)),1);
 linker(cellfun(@isempty,oldGPR))= {''};
 oldGPR = [oldGPR,linker];
 newGPR = [oldGPR,rxnUpdateGPR(:,3)];
 newGPR = join(newGPR);
+newGPR = strrep(newGPR,'  ',' ');
 newGPR = strtrim(newGPR);
 mapping.rxnIDs  = rxnUpdateGPR(:,1);
 mapping.new_GPR  = newGPR;
 model = AddMissingOrthologsInYeastGEM(model,mapping);
 
-%manual curation for model reversibilities 
+%% manual curation for model reversibilities
 [model,changes] = ManualCuration(model);
 cd ../
 
-
+%% load matrix information and Generate the specific models
+load('ortholog_changedtoPanID.mat') % load all orthologs which will be added back to the specific models
 Genes_Query = [model.genes;ortholog(:,1);ortholog(:,2)];
 Genes_Query = unique(Genes_Query);
+
 % % update the gpr rules by including orthlogs: A or B to A or B or Panortholog
-% model = UpdatePanGPR(ortholog);
+% model = UpdatePanGPR(ortholog);% cause updating the orthlogs will
+% generate a lot of grRules, so we would rather add the ortholog back at
+% the specific models section
 
 % load mapping IDs for the variables mappingID.OGIDs are standard IDs in the strain-gene presenceAvsence data,
 % mappingID.panIDs are panIDs that we used to construct the panmodel
@@ -214,12 +225,13 @@ mappingID.panIDs = mapping{2};
 fclose(fID);
 
 %load presenceAvsence data
-RecName = '../aaaa/gene_pa_table.csv'; % setting file name
+RecName = '../data/343_gene_pa_table.csv'; % setting file name
 RecStore = datastore(RecName,'ReadVariableNames',true); % set whether should we read variables name
-RecStore.Delimiter = ','; 
+RecStore.Delimiter = ',';
 
 % find columns that match model.genes. There is a problem with the
-% variableN 
+% variableName, fix the gene name by replaceing '_' to '-' to map the gene
+% name in the model
 m = RecStore.VariableNames(2:end);
 [~,ID] = ismember(m,mappingID.OGIDs);
 x = find(ID~=0);
@@ -229,11 +241,19 @@ for i = 1:length(m)
         m(i) = strrep(m(i),'_','-');
     end
 end
+
+% there is a issue of panID selection, should be fixed using all panID we
+% set as in the species specific file
+[~,ID] = ismember(geneID_core,m);
+m(ID(ID~=0)) = panID_final(ID~=0);
 [~,ID] = ismember(Genes_Query,m);
+if  ~all(ID)
+    warning([Genes_Query{ID ==0},' not in the geneExistence Matrix, please check that.'])
+end
 selected = find(ID~=0);
-selected_mapping = m(ID(selected));
+selected_mapping = m(ID(selected)); % mapping back to OG name
 m =RecStore.VariableNames(2:end);
-selected = m(ID(selected));
+selected = m(ID(selected)); % matach back the pangenes
 
 RecStore.SelectedVariableNames = selected; % select variables to read
 genesMatrix = readall(RecStore);% read selected variables
@@ -244,8 +264,12 @@ genesMatrix = readall(RecStore);% read the strain name
 StrianData.strains = table2cell(genesMatrix(:,1));
 rxnMatrix = zeros(length(model.rxns),1);
 panmodel = model;
+
+clearvars -except model ortholog StrianData
+
 cd otherchanges/
 for i = 1:length(StrianData.strains)
+    disp([StrianData.strains{i},' No.',num2str(i)])
     [~,ID] = ismember(StrianData.strains(i),StrianData.strains);
     lvl = StrianData.levels(:,ID);
     lvl_temp = logical(lvl);
@@ -257,13 +281,6 @@ for i = 1:length(StrianData.strains)
     model_temp = UpdatePanGPR(ortholog_strian,model);
     end
     [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i),'../../ModelFiles/mat');
-    reducedModel = rmfield(reducedModel,'metSBOTerms');
-    reducedModel = rmfield(reducedModel,'rxnSBOTerms');
     [index,~] = ismember(model.rxns,reducedModel.rxns);
     rxnMatrix(:,i) = index;
 end
-
-    
-
-        
-

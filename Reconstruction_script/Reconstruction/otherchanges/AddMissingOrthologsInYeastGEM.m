@@ -1,19 +1,19 @@
 function model = AddMissingOrthologsInYeastGEM(model,mapping)
 %This function is to change genes that only exist in GEM to PanID. There are only
 %one geneID kept in PanID for duplicate genes.
-% This is to fill the gap for the yeastGEM, actually these oethologs should
+% This is to fill the gap for the yeastGEM, actually these orthologs should
 % exist in yeastGEM but not. Later if this gap is filled in yeastGEM, we
 % can skip this step.
 %input: a new gpr list for rxns: Missingortholog_S288c, this is generated based on GenesOnlyinGEMPanIDMapping.tsv; a cobra model
 %output: new model with updated GPR rules.
 
-if nargin < 2
-%Load mapping list:
-fid = fopen('../../ComplementaryData/SpecificModelData/Missingortholog_S288c.tsv');
-mapplist = textscan(fid,'%s %s %s %s %s','Delimiter','\t','HeaderLines',1);
-mapping.rxnIDs  = mapplist{3};
-mapping.new_GPR  = mapplist{5};
-fclose(fid);
+if nargin < 2 % This is the
+    %Load mapping list:
+    fid = fopen('../../ComplementaryData/SpecificModelData/Missingortholog_S288c.tsv');
+    mapplist = textscan(fid,'%s %s %s %s %s','Delimiter','\t','HeaderLines',1);
+    mapping.rxnIDs  = mapplist{3};
+    mapping.new_GPR  = mapplist{5};
+    fclose(fid);
 end
 
 [~,rxnindex] = ismember(mapping.rxnIDs,model.rxns);
@@ -39,10 +39,6 @@ for i = 1:length(model.genes)
     model.proteins{i} = strcat('COBRAProtein',num2str(i));
 end
 
-
 % Save model:
 model = removeUnusedGenes(model);
-%cd ../
-%saveYeastModel(model)
-
 end
