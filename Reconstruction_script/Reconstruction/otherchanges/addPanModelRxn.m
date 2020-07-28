@@ -170,6 +170,8 @@ for i = startidx:endidx
     end
     [EnergyResults,RedoxResults] = CheckEnergyProduction(model,{['r_' newID]},EnergyResults,RedoxResults);
     [MassChargeresults] = CheckBalanceforSce(model,{['r_' newID]},MassChargeresults);
+    printRxnFormula(model,'rxnAbbrList',['r_' newID],'metNameFlag',true);
+
 end
 
 % add gene standard name for new genes

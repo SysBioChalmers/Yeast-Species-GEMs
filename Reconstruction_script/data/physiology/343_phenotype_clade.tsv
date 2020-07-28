@@ -3,7 +3,7 @@ Alloascoidea_hylecoeti	Alloascoideaceae	Normal
 Ambrosiozyma_kashinagacola	Pichiaceae	Normal
 Ambrosiozyma_monospora	Pichiaceae	Normal
 Arthrobotrys_oligospora	Ascomycota	Normal
-Arxula_adeninivorans	Dipodascaceae/Trichomonascaceae	"Heat,Lipid"
+Arxula_adeninivorans	Dipodascaceae/Trichomonascaceae	Heat,Lipid
 Ascoidea_asiatica	CUG-Ser2	Normal
 Ascoidea_rubescens	CUG-Ser2	Normal
 Ashbya_aceri	Saccharomycetaceae	Normal
@@ -14,7 +14,7 @@ Brettanomyces_anomalus	Pichiaceae	Normal
 Candida_albicans	CUG-Ser1	Pathogen
 Candida_apicola	Dipodascaceae/Trichomonascaceae	Normal
 Candida_arabinofermentans	Pichiaceae	Normal
-Candida_auris	CUG-Ser1	"Pathogen,Heat"
+Candida_auris	CUG-Ser1	Pathogen,Heat
 Candida_boidinii_JCM9604	Pichiaceae	Normal
 Candida_carpophila	CUG-Ser1	Normal
 Candida_dubliniensis	CUG-Ser1	Pathogen
@@ -22,8 +22,8 @@ Candida_glabrata	Saccharomycetaceae	Pathogen
 Candida_homilentoma	CUG-Ser1	Normal
 Candida_infanticola	Dipodascaceae/Trichomonascaceae	Normal
 Candida_intermedia	CUG-Ser1	Pathogen
-Candida_orthopsilosis	CUG-Ser1	"Heat,Lipid,Pathogen"
-Candida_parapsilosis	CUG-Ser1	"Pathogen,Lipid"
+Candida_orthopsilosis	CUG-Ser1	Heat,Lipid,Pathogen
+Candida_parapsilosis	CUG-Ser1	Pathogen,Lipid
 Candida_sojae	CUG-Ser1	Normal
 Candida_sorboxylosa	Pichiaceae	Normal
 Candida_succiphila	Pichiaceae	Normal
@@ -127,7 +127,7 @@ Spathaspora_girioi	CUG-Ser1	Normal
 Spathaspora_gorwiae	CUG-Ser1	Normal
 Spathaspora_hagerdaliae	CUG-Ser1	Normal
 Spathaspora_passalidarum	CUG-Ser1	Normal
-Sporopachydermia_quercuum	Sporopachydermia clade	Normal
+Sporopachydermia_quercuum	Sporopachydermia	Normal
 Stagonospora_nodorum	Ascomycota	Normal
 Starmerella_bombicola_JCM9596	Dipodascaceae/Trichomonascaceae	Normal
 Sugiyamaella_lignohabitans	Dipodascaceae/Trichomonascaceae	Normal
@@ -171,7 +171,7 @@ yHMPu5000026256_Zygotorulaspora_mrakii	Saccharomycetaceae	Normal
 yHMPu5000026274_Komagataella_populi	Pichiaceae	Normal
 yHMPu5000034594_Starmera_quercuum	Phaffomycetaceae	Normal
 yHMPu5000034597_Candida_stellimalicola	Phaffomycetaceae	Normal
-yHMPu5000034604_Sporopachydermia_lactativora	Sporopachydermia clade	Normal
+yHMPu5000034604_Sporopachydermia_lactativora	Sporopachydermia	Normal
 yHMPu5000034605_Spencermartinsiella_europaea	Dipodascaceae/Trichomonascaceae	Normal
 yHMPu5000034606_Priceomyces_medius	CUG-Ser1	Normal
 yHMPu5000034607_Saccharomycopsis_capsularis	CUG-Ser2	Normal

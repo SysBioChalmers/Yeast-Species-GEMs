@@ -48,7 +48,7 @@ model.lb(idx) = 0;
 printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'reason not found'}];
 
-% the direction cannot uptake exthanol
+% the direction cannot uptake ,methanol
 [~,idx] = ismember('MNXR101464',model.rxnMetaNetXID);
 model.lb(idx) = -1000;
 printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
@@ -84,13 +84,51 @@ printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 changes = [changes; model.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
 
 [~,idx] = ismember('MNXR96241',model.rxnMetaNetXID); % beta-cellobiose
-model = removeReactions(model,model.rxns(idx),removeUnusedMets,true);
+oldgpr = model.grRules(idx);
+model = removeReactions(model,model.rxns(idx),'removeUnusedMets',true);
 [~,idx] = ismember('MNXR106343',model.rxnMetaNetXID); % beta-cellobiose
+newgpr = join([oldgpr,' or ',model.grRules(idx)]);
 rxnformula = 'H2O [cytoplasm] + beta-cellobiose [cytoplasm]  <=> 2 D-glucose [cytoplasm]'; 
+model = changerxn(model,model.rxns{idx},rxnformula,cell2mat(newgpr));
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+
+[~,idx] = ismember('MNXR106516',model.rxnMetaNetXID); % ATP generation cycle
+rxnformula = 'fumarate [mitochondrion] + H+ [mitochondrion] + NADH [mitochondrion] => NAD [mitochondrion] + succinate [mitochondrion]'; 
 model = changerxn(model,model.rxns{idx},rxnformula);
 printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
 
+% curate the grRule for rxn r_4042 raffinose degradation
+[~,idx] = ismember('MNXR103420',model.rxnMetaNetXID);
+rxnformula = 'raffinose [extracellular] -> D-fructose [extracellular] + melibiose [extracellular]';
+model = changerxn(model,model.rxns{idx},rxnformula,'YIL162W');
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'r_4042'}];
 
+% curate the grRule for rxn r_4491 for D_arabionse degradation the same as
+% xylose XR(PMID: 27400037)
+[~,idx] = ismember('r_4491',model.rxns);
+rxnformula = 'D-arabinose [cytoplasm] + H+ [cytoplasm] + NADPH [cytoplasm] => NADP(+) [cytoplasm] + D-arabinitol [cytoplasm]';
+model = changerxn(model,model.rxns{idx},rxnformula,'YHR104W or yHAB160_Kazachstania_kunashirensis@Seq_5180 or yHMPu5000026142_Citeromyces_matritensis@Seq_4894 or yHMPu5000035046_Barnettozyma_populi@Seq_3049');
+printRxnFormula(model,'rxnAbbrList',model.rxns(idx),'metNameFlag',true)
+changes = [changes; model.rxnMetaNetXID(idx),{'changerev'},{'r_4491'}];
+
+% get gene name
+fid = fopen('../../data/databases/SGDgeneNames.tsv');
+yeast_gene_annotation = textscan(fid,'%s %s','Delimiter','\t','HeaderLines',1);
+fclose(fid);
+
+for i = 1: length(model.genes)
+geneIndex = strcmp(yeast_gene_annotation{1}, model.genes{i});
+if sum(geneIndex) == 1 && ~isempty(yeast_gene_annotation{2}{geneIndex})
+model.geneNames{i} = yeast_gene_annotation{2}{geneIndex};
+else
+model.geneNames{i} = model.genes{i};
+end
+end
+for i = 1:length(model.genes)
+model.proteins{i} = strcat('COBRAProtein',num2str(i));
+end
+model = removeUnusedGenes(model);
 % [~,idx] = ismember('MNXR101023',model.rxnMetaNetXID); %lactose
 % rxnformula = 'H2O [cytoplasm] + lactose [cytoplasm]  <=> D-galactose [cytoplasm] + D-glucose [cytoplasm]';
 % model = changerxn(model,model.rxns{idx},rxnformula);

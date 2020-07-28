@@ -5,8 +5,8 @@ EnergyResults     = {};
 MassChargeresults = {};
 RedoxResults      = {};
 addedrxn = [];
-load('MNXmet.mat')
-load('MNXrxn.mat')
+load('../../data/databases/MNXmet.mat')
+load('../../data/databases/MNXrxn.mat')
 if nargin < 5
     GPR = cell(length(rxnID),1);
 end
@@ -129,7 +129,6 @@ for i = 1:length(rxnID)
             [EnergyResults,RedoxResults] = CheckEnergyProduction(model,{['r_' newID]},EnergyResults,RedoxResults);
             [MassChargeresults] = CheckBalanceforSce(model,{['r_' newID]},MassChargeresults);
             
-            
             %add rxn annotation
             [~,idx] = ismember(newrxn.ID,model.rxnNames);
             if idx ~= 0
@@ -150,7 +149,3 @@ for i = 1:length(rxnID)
     end
 end
 end
-
-
-
-

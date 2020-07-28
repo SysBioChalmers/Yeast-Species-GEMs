@@ -38,8 +38,8 @@ for i = 1:length(model.grRules)
             NewGPR = cell2mat(genesSets);
         else
             NewGPR = strjoin(genesSets,') or (');
-            NewGPR = ['(', NewGPR, ')'];
-            NewGPR = strrep(NewGPR,'  ',' ');
+            tmp = ['(', NewGPR, ')'];
+            NewGPR = strrep(tmp,'  ',' ');
         end
         NewGPR = strtrim(NewGPR);
         model.grRules{i} = NewGPR;
@@ -72,6 +72,16 @@ if ~isempty(originalSTR)
     %Split all the different genesSets
     genesSets = strsplit(originalSTR,'&%');
     genesSets = unique(genesSets,'stable');
+     for m=1:length(genesSets)
+        simpleSet  = genesSets{m};
+        simpleSet = strtrim(simpleSet);
+        %        rxnGeneMat = modifyRxnGeneMat(simpleSet,model.genes,rxnGeneMat,i);
+        %Get individual genes
+        STR   = strrep(simpleSet,' and ',' ');
+        genes = strsplit(STR,' ');
+        genes = unique(genes,'stable');
+        genesSets{m} = strjoin(genes,' and ');
+     end
 end
 end
 

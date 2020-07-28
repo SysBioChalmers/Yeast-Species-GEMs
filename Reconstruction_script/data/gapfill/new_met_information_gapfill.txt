@@ -9,3 +9,9 @@ R12216	reactant	1	MNXM4	O2	0	oxygen	chebi:15379	C00007	reactant	cytoplasm
 R12216	product	1	MNXM1210	C5H6O5	-2	(2S)-hydroxyglutarate	chebi:11596	C03196	product	cytoplasm
 R12216	product	1	MNXM25	C4H4O4	0	succinate	chebi:30031	C00042	product	cytoplasm
 R12216	product	1	MNXM13	CO2	0	carbon dioxide	chebi:16526	C00011	product	cytoplasm
+R11945	reactant	2.1394	MNXM1	H	1	H+	CHEBI:24636	C00080	reactant	mitochondrion
+R11945	product	1	MNXM8	C21H26N7O14P2	-1	NAD	CHEBI:57540	C00003	product	cytoplasm
+R11945	reactant	1	MNXM10	C21H27N7O14P2	-2	NADH	CHEBI:57945	C00004	reactant	cytoplasm
+R11945	product	1	MNXM5319	C39H60O4	0	ubiquinol-6	CHEBI:52970	C00390	product	mitochondrion
+R11945	reactant	1	MNXM1783	C39H58O4	0	ubiquinone-6	CHEBI:52971	C17568	reactant	mitochondrion
+R11945	product	1.1394	MNXM1	H	1	H+	CHEBI:24636	C00080	product	cytoplasm
