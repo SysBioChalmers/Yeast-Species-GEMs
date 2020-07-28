@@ -17,8 +17,8 @@ Contributions are always welcome! Please firstly establish a new branch based on
 
 * Main Model Descriptors:
 
-* Template Model | Yeast8.3
-* Generation date | 2020-06-25
+** Template Model | Yeast8.3
+** Generation date | 2020-06-25
 
 |Taxonomy | Rxns | Mets | Genes |
 |:-------:|:--------------:|:------:|:------:|
