@@ -1,4 +1,4 @@
-function [accurancy,sensitivity,specificity,mcc] = EssentialGeneanalysis(strains,inputpath)
+function [accurancy,sensitivity,specificity,mcc] = FigS7b_EssentialGeneanalysis(strains,inputpath)
 % This function is to perform essential analysis and plot the figure
 
 % essential data is loaded from the data filefolder
@@ -69,7 +69,7 @@ fn = intersect(exp_viable,mod_inviable); n_fn = length(fn);
 %compare the prediction performances of two models
 %prediction accuracy was used to evaluate the quality of model update in
 %each step
-accurancy(i) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
+accurancy(i,1) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
 sensitivity(i) = (n_tp/(n_tp+n_fn));
 specificity(i) = (n_tn/(n_tn+n_fp));
 positivePredictive(i) = (n_tp/(n_tp+n_fp));
@@ -85,6 +85,29 @@ n_fns(i) = n_fn;
 acc(i) = accurancy(i);
 end
 
+% combine with published model result
+% load mapping list published model/species
+fid2 = fopen('../data/PublishedModel_list.tsv');
+format = '%s %s %s %s %s %s %s';
+tmp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+for i = 1:length(tmp)
+data(:,i) = tmp{i};
+end
+fclose(fid2);
+[~,species_idx] = ismember(strains,data(:,2));
+accuray_published = zeros(length(strains),1);
+accuray_published(species_idx~=0) = cellfun(@str2num,data(species_idx(species_idx~=0),6));
+accuracy_final = [accurancy,accuray_published];
+h = bar(accuracy_final);
+h(2).FaceColor = [178,24,43]/255;
+h(1).FaceColor = [33,102,172]/255;
+xticklabels(strrep(strains,'_',' '))
+xtickangle(45);
+legend({'Models this work','Published models'})
+yticks([0:0.2:1])
+ylim([0,1])
+set(gca,'FontSize',12,'FontName','Helvetica');
+ylabel('Essential gene prediction accuracy','FontSize',24,'FontName','Helvetica','Color','k');
 
 % plot the figure
 P = [accurancy;specificity;sensitivity;mcc];
@@ -154,7 +177,7 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [inviableORFs,verifiedORFs] = loaddata(strain)
-cd ../data/EssentialGene/
+cd ../data/physiology/EssentialGene/
 % load essential data
 fileName = [strain,'.csv'];
 fID       = fopen(fileName);
@@ -168,6 +191,7 @@ inviableORFs = verifiedORFs(ismember(condition,'E'));% essential
     verifiedORFs = unique(verifiedORFs);
     inviableORFs = upper(inviableORFs);
     inviableORFs = unique(inviableORFs);    
+    cd ../../../analysis/
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 end
