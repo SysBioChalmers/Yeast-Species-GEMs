@@ -3,8 +3,7 @@ function [result,gpr] = rxnExistDraft(strains,rxns,type)
 % type here should be 'kegg' or 'metacyc'.
 cd ../../../draft_GEM_all_yeast_species/
 gpr = cell(1,length(strains)); % create empty cell array for gpr.
-for i = 1:length(rxns)
-    for j = 1:length(strains)
+for j = 1:length(strains)
         if strcmp(type,'metacyc')
         cd 'strain specific model from RAVEN_biocyc_55_110'/
         elseif strcmp(type,'kegg')
@@ -20,15 +19,10 @@ for i = 1:length(rxns)
         fclose(fid);
         cd ../
         % index whether the rxn is in the draft
-        [~,idx] = ismember(rxns(i),draft(:,1));
-        if ~isempty(idx) && idx ~= 0
-            result(i,j) = 1;
-            gpr(i,j) = draft(idx,5);
-        else
-            result(i,j) = 0;
-        end
+        [~,idx] = ismember(rxns,draft(:,1));
+        result(:,j) = any(idx,2);
+        gpr(idx~=0,j) = draft(idx(idx~=0),5);
         cd ../
-    end
 end
 cd ../Reconstruction_script/Reconstruction/otherchanges
 end

@@ -102,7 +102,7 @@ scatter(clade_idx,y,50,'x','k')
 legend({'URA1[mito]','URA1[both]','URA1[c]','Crabtree postive species','Anaerobic species'},'FontSize',6,'FontName','Helvetica','location','se');
 
 %% complex I existence
-fid2 = fopen('../../data/physiology/complexI_existence.tsv');
+fid2 = fopen('../data/physiology/complexI_existence.tsv');
 format = '%s %s';
 data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
 strain_withoutcomplexI = data{1};
