@@ -924,169 +924,173 @@
 	Protein-N-terminal-N-Ac-L-threonine[s]	Protein-N-terminal-N-Ac-L-threonine					s	m923	Protein-N-terminal-N-Ac-L-threonine	0	
 	Protein-N5-methyl-arginine[s]	Protein-N5-methyl-arginine					s	m924	Protein-N5-methyl-arginine	0	
 	Protein-Phosphoserines[s]	Protein-Phosphoserines					s	m925	Protein-Phosphoserines	0	
-	Protein-With-N-Terminal-Met[s]	Protein-With-N-Terminal-Met					s	m926	Protein-With-N-Terminal-Met	0	
-	Purine-Bases[s]	Purine-Bases					s	m927	Purine-Bases	0	
-	Purine-Ribonucleosides[s]	Purine-Ribonucleosides					s	m928	Purine-Ribonucleosides	0	
-	Pyruvate-dehydrogenase-acetylDHlipoyl[s]	Pyruvate-dehydrogenase-acetylDHlipoyl					s	m929	Pyruvate-dehydrogenase-acetylDHlipoyl	0	
-	Pyruvate-dehydrogenase-dihydrolipoate[s]	Pyruvate-dehydrogenase-dihydrolipoate					s	m930	Pyruvate-dehydrogenase-dihydrolipoate	0	
-	Pyruvate-dehydrogenase-lipoate[s]	Pyruvate-dehydrogenase-lipoate					s	m931	Pyruvate-dehydrogenase-lipoate	0	
-	quinolinate[s]	quinolinate		pubchem.compound/5460301;chebi/CHEBI:9959;SMILES/C1(=CC=C(C(C([O-])=O)=N1)C([O-])=O)	C7H3N1O4	1S/C7H5NO4/c9-6(10)4-2-1-3-8-5(4)7(11)12/h1-3H,(H,9,10)(H,11,12)/p-2	s	m932	QUINOLINATE	-2	
-	(R)-2-hydroxyglutarate[s]	(R)-2-hydroxyglutarate		chebi/CHEBI:5801;pubchem.compound/5460200;SMILES/C(CCC(C([O-])=O)O)([O-])=O	C5H6O5	1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)/p-2/t3-/m1/s1	s	m933	R-2-HYDROXYGLUTARATE	-2	
-	R-3-Hydroxypalmitoyl-ACPs[s]	R-3-Hydroxypalmitoyl-ACPs					s	m934	R-3-Hydroxypalmitoyl-ACPs	0	
-	R-3-hydroxydodecanoyl-ACPs[s]	R-3-hydroxydodecanoyl-ACPs					s	m935	R-3-hydroxydodecanoyl-ACPs	0	
-	R-3-hydroxyhexanoyl-ACPs[s]	R-3-hydroxyhexanoyl-ACPs					s	m936	R-3-hydroxyhexanoyl-ACPs	0	
-	R-3-hydroxymyristoyl-ACPs[s]	R-3-hydroxymyristoyl-ACPs					s	m937	R-3-hydroxymyristoyl-ACPs	0	
-	R-3-hydroxystearoyl-ACPs[s]	R-3-hydroxystearoyl-ACPs					s	m938	R-3-hydroxystearoyl-ACPs	0	
-	(R)-4'-phosphopantothenoyl-L-cysteine[s]	(R)-4'-phosphopantothenoyl-L-cysteine		chebi/CHEBI:9458;pubchem.compound/25245609;SMILES/CC(C)(COP(=O)([O-])[O-])C(O)C(=O)NCCC(=O)NC(CS)C(=O)[O-]	C12H20N2O9P1S1	1S/C12H23N2O9PS/c1-12(2,6-23-24(20,21)22)9(16)10(17)13-4-3-8(15)14-7(5-25)11(18)19/h7,9,16,25H,3-6H2,1-2H3,(H,13,17)(H,14,15)(H,18,19)(H2,20,21,22)/p-3/t7-,9-/m0/s1	s	m939	R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE	-3	
-	riboflavin[s]	riboflavin		pubchem.compound/45480541;chebi/CHEBI:7986;SMILES/CC1(C=C3(C(=CC(C)=1)N(CC(O)C(O)C(O)CO)C2(C(C(=O)[N-]C(=O)N=2)=N3)))	C17H19N4O6	1S/C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(24)6-22)15-13(18-9)16(26)20-17(27)19-15/h3-4,11-12,14,22-25H,5-6H2,1-2H3,(H,20,26,27)/p-1/t11-,12+,14-/m0/s1	s	m940	RIBOFLAVIN	-1	
-	ribose-1-arsenate[s]	ribose-1-arsenate		pubchem.compound/90657387;SMILES/C(O)C1(C(O)C(O)C(O[As]([O-])(=O)[O-])O1)	C5H9O8AS1	1S/C5H11AsO8/c7-1-2-3(8)4(9)5(13-2)14-6(10,11)12/h2-5,7-9H,1H2,(H2,10,11,12)/p-2/t2-,3-,4-,5-/m1/s1	s	m941	RIBOSE-1-ARSENATE	-2	
-	alpha-D-ribose-1-phosphate[s]	alpha-D-ribose-1-phosphate		chebi/CHEBI:7720;pubchem.compound/23615443;SMILES/C(O)C1(C(O)C(O)C(OP(=O)([O-])[O-])O1)	C5H9O8P1	1S/C5H11O8P/c6-1-2-3(7)4(8)5(12-2)13-14(9,10)11/h2-8H,1H2,(H2,9,10,11)/p-2/t2-,3-,4-,5-/m1/s1	s	m942	RIBOSE-1P	-2	
-	RIBOSE-5P[s]	RIBOSE-5P					s	m943	RIBOSE-5P	0	
-	D-ribulose 5-phosphate[s]	D-ribulose 5-phosphate		chebi/CHEBI:8121;pubchem.compound/21144996;SMILES/C(C(C(C(CO)=O)O)O)OP([O-])([O-])=O	C5H9O8P1	1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/p-2/t4-,5+/m1/s1	s	m944	RIBULOSE-5P	-2	
-	RX[s]	RX		SMILES/[R]X			s	m945	RX	0	
-	Red-NADPH-Hemoprotein-Reductases[s]	Red-NADPH-Hemoprotein-Reductases					s	m946	Red-NADPH-Hemoprotein-Reductases	0	
-	Red-Thioredoxin[s]	Red-Thioredoxin					s	m947	Red-Thioredoxin	0	
-	Reduced-2Fe-2S-Ferredoxins[s]	Reduced-2Fe-2S-Ferredoxins					s	m948	Reduced-2Fe-2S-Ferredoxins	0	
-	Reduced-ferredoxins[s]	Reduced-ferredoxins					s	m949	Reduced-ferredoxins	0	
-	Ribonucleoside-Diphosphates[s]	Ribonucleoside-Diphosphates					s	m950	Ribonucleoside-Diphosphates	0	
-	2,4-dinitrophenyl-S-glutathione[s]	2,4-dinitrophenyl-S-glutathione		chebi/CHEBI:33977;pubchem.compound/25322932;SMILES/C(SC1(C=CC([N+]([O-])=O)=CC([N+]([O-])=O)=1))C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C16H18N5O10S1	1S/C16H19N5O10S/c17-9(16(26)27)2-4-13(22)19-10(15(25)18-6-14(23)24)7-32-12-3-1-8(20(28)29)5-11(12)21(30)31/h1,3,5,9-10H,2,4,6-7,17H2,(H,18,25)(H,19,22)(H,23,24)(H,26,27)/p-1/t9-,10-/m0/s1	s	m951	S-24-DINITROPHENYLGLUTATHIONE	-1	
-	S-adenosyl 3-(methylsulfanyl)propylamine[s]	S-adenosyl 3-(methylsulfanyl)propylamine		chebi/CHEBI:7443;pubchem.compound/25203490;SMILES/C[S+](CCC[N+])CC1(OC(C(O)C(O)1)N3(C=NC2(=C(N)N=CN=C23)))	C14H24N6O3S1	1S/C14H23N6O3S/c1-24(4-2-3-15)5-8-10(21)11(22)14(23-8)20-7-19-9-12(16)17-6-18-13(9)20/h6-8,10-11,14,21-22H,2-5,15H2,1H3,(H2,16,17,18)/q+1/p+1/t8-,10-,11-,14-,24?/m1/s1	s	m952	S-ADENOSYLMETHIONINAMINE	2	
-	S-ADENOSYLMETHIONINE[s]	S-ADENOSYLMETHIONINE					s	m953	S-ADENOSYLMETHIONINE	0	
-	(S)-(+)-allantoin[s]	(S)-(+)-allantoin		pubchem.compound/439714;chebi/CHEBI:5678;SMILES/C(=O)(N)N[CH]1(NC(=O)NC(=O)1)	C4H6N4O3	1S/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)/t1-/m0/s1	s	m954	S-ALLANTOIN	0	
-	S-(hydroxymethyl)glutathione[s]	S-(hydroxymethyl)glutathione		chebi/CHEBI:8758;pubchem.compound/25244017;SMILES/C(NC(=O)C(CSCO)NC(=O)CCC([N+])C(=O)[O-])C(=O)[O-]	C11H18N3O7S1	1S/C11H19N3O7S/c12-6(11(20)21)1-2-8(16)14-7(4-22-5-15)10(19)13-3-9(17)18/h6-7,15H,1-5,12H2,(H,13,19)(H,14,16)(H,17,18)(H,20,21)/p-1/t6-,7-/m0/s1	s	m955	S-HYDROXYMETHYLGLUTATHIONE	-1	
-	(R)-S-lactoylglutathione[s]	(R)-S-lactoylglutathione		chebi/CHEBI:7474;pubchem.compound/46878377;SMILES/CC(O)C(=O)SCC(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C13H20N3O8S1	1S/C13H21N3O8S/c1-6(17)13(24)25-5-8(11(21)15-4-10(19)20)16-9(18)3-2-7(14)12(22)23/h6-8,17H,2-5,14H2,1H3,(H,15,21)(H,16,18)(H,19,20)(H,22,23)/p-1/t6-,7+,8+/m1/s1	s	m956	S-LACTOYL-GLUTATHIONE	-1	
-	S-NEDD8-yl-NEDD8-E1-L-cysteine[s]	S-NEDD8-yl-NEDD8-E1-L-cysteine					s	m957	S-NEDD8-yl-NEDD8-E1-L-cysteine	0	
-	S-NEDD8-yl-NEDD8-E2-L-cysteine[s]	S-NEDD8-yl-NEDD8-E2-L-cysteine					s	m958	S-NEDD8-yl-NEDD8-E2-L-cysteine	0	
-	S-nitrosoglutathione[s]	S-nitrosoglutathione		pubchem.compound/7059524;chebi/CHEBI:0091;SMILES/C(SN=O)C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C10H15N4O7S1	1S/C10H16N4O7S/c11-5(10(19)20)1-2-7(15)13-6(4-22-14-21)9(18)12-3-8(16)17/h5-6H,1-4,11H2,(H,12,18)(H,13,15)(H,16,17)(H,19,20)/p-1/t5-,6-/m0/s1	s	m959	S-NITROSOGLUTATHIONE	-1	
-	S-Substituted-Glutamyl-Cysteine[s]	S-Substituted-Glutamyl-Cysteine					s	m960	S-Substituted-Glutamyl-Cysteine	0	
-	S-Substituted-Glutathione[s]	S-Substituted-Glutathione					s	m961	S-Substituted-Glutathione	0	
-	S-Substituted-L-Cysteines[s]	S-Substituted-L-Cysteines					s	m962	S-Substituted-L-Cysteines	0	
-	S-ubi-N-term-specific-UCP-E2-L-cysteine[s]	S-ubi-N-term-specific-UCP-E2-L-cysteine					s	m963	S-ubi-N-term-specific-UCP-E2-L-cysteine	0	
-	S-ubiquitinyl-HECT-E3-UCP-L-cysteine[s]	S-ubiquitinyl-HECT-E3-UCP-L-cysteine					s	m964	S-ubiquitinyl-HECT-E3-UCP-L-cysteine	0	
-	S-ubiquitinyl-UAP-E1-L-cysteine[s]	S-ubiquitinyl-UAP-E1-L-cysteine					s	m965	S-ubiquitinyl-UAP-E1-L-cysteine	0	
-	S-ubiquitinyl-UCP-E2-L-cysteine[s]	S-ubiquitinyl-UCP-E2-L-cysteine					s	m966	S-ubiquitinyl-UCP-E2-L-cysteine	0	
-	thiosulfate[s]	thiosulfate		chebi/CHEBI:3539;pubchem.compound/439208;SMILES/O=S(=O)([O-])S	H1O3S2	1S/H2O3S2/c1-5(2,3)4/h(H2,1,2,3,4)/p-1	s	m967	S2O3	-1	
-	L-saccharopine[s]	L-saccharopine		chebi/CHEBI:7951;pubchem.compound/49791954;SMILES/C(CC[N+]C(CCC([O-])=O)C([O-])=O)CC([N+])C([O-])=O	C11H19N2O6	1S/C11H20N2O6/c12-7(10(16)17)3-1-2-6-13-8(11(18)19)4-5-9(14)15/h7-8,13H,1-6,12H2,(H,14,15)(H,16,17)(H,18,19)/p-1/t7-,8-/m0/s1	s	m968	SACCHAROPINE	-1	
-	L-serine[s]	L-serine		chebi/CHEBI:3384;pubchem.compound/6857581;SMILES/C(O)C([N+])C(=O)[O-]	C3H7N1O3	1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1	s	m969	SER	0	
-	shikimate[s]	shikimate		chebi/CHEBI:6208;pubchem.compound/7057976;SMILES/C1(=C(CC(C(O)C(O)1)O)C(=O)[O-])	C7H9O5	1S/C7H10O5/c8-4-1-3(7(11)12)2-5(9)6(4)10/h1,4-6,8-10H,2H2,(H,11,12)/p-1/t4-,5-,6-/m1/s1	s	m970	SHIKIMATE	-1	
-	shikimate 3-phosphate[s]	shikimate 3-phosphate		chebi/CHEBI:45989;pubchem.compound/14506806;SMILES/C(=O)([O-])C1(=CC(OP(=O)([O-])[O-])C(O)C(O)C1)	C7H8O8P1	1S/C7H11O8P/c8-4-1-3(7(10)11)2-5(6(4)9)15-16(12,13)14/h2,4-6,8-9H,1H2,(H,10,11)(H2,12,13,14)/p-3/t4-,5-,6+/m1/s1	s	m971	SHIKIMATE-5P	-3	
-	siroheme[s]	siroheme		pubchem.compound/70678579;chebi/CHEBI:0052;SMILES/CC4(CC(=O)[O-])(C(CCC(=O)[O-])C6(=CC8(=C(CC([O-])=O)C(CCC(=O)[O-])=C7(N([Fe--]25([N+]1(C(C(CCC([O-])=O)=C(CC(=O)[O-])C=1C=C3(C(C)(CC(=O)[O-])C(CCC(=O)[O-])C(N23)=CC4=[N+]56))=C7)))8))))	C42H36N4O16FE1	1S/C42H46N4O16.Fe/c1-41(17-39(59)60)23(5-9-35(51)52)29-14-27-21(11-37(55)56)19(3-7-33(47)48)25(43-27)13-26-20(4-8-34(49)50)22(12-38(57)58)28(44-26)15-31-42(2,18-40(61)62)24(6-10-36(53)54)30(46-31)16-32(41)45-29;/h13-16,23-24H,3-12,17-18H2,1-2H3,(H10,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62);/q;+2/p-10/t23-,24-,41+,42+;/m1./s1	s	m972	SIROHEME	-8	
-	sirohydrochlorin[s]	sirohydrochlorin		chebi/CHEBI:8351;pubchem.compound/25245154;SMILES/CC2(CC(=O)[O-])(C1(=CC5(=NC(=CC4(NC(C=C3(N=C(C=C(N1)C(CCC(=O)[O-])2)C(CC(=O)[O-])=C(CCC(=O)[O-])3))=C(CCC(=O)[O-])C(CC(=O)[O-])=4))C(C)(CC(=O)[O-])C(CCC(=O)[O-])5)))	C42H38N4O16	1S/C42H46N4O16/c1-41(17-39(59)60)23(5-9-35(51)52)29-14-27-21(11-37(55)56)19(3-7-33(47)48)25(43-27)13-26-20(4-8-34(49)50)22(12-38(57)58)28(44-26)15-31-42(2,18-40(61)62)24(6-10-36(53)54)30(46-31)16-32(41)45-29/h13-16,23-24,44-45H,3-12,17-18H2,1-2H3,(H,47,48)(H,49,50)(H,51,52)(H,53,54)(H,55,56)(H,57,58)(H,59,60)(H,61,62)/p-8/b25-13-,29-14-,31-15-,32-16-/t23-,24-,41+,42+/m1/s1	s	m973	SIROHYDROCHLORIN	-8	
-	sulfite[s]	sulfite		pubchem.compound/1099;chebi/CHEBI:7359;SMILES/[O-]S([O-])=O	O3S1	1S/H2O3S/c1-4(2)3/h(H2,1,2,3)/p-2	s	m974	SO3	-2	
-	D-sorbitol[s]	D-sorbitol		chebi/CHEBI:7924;pubchem.compound/5780;SMILES/C(C(C(C(C(CO)O)O)O)O)O	C6H14O6	1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4+,5-,6-/m1/s1	s	m975	SORBITOL	0	
-	spermidine[s]	spermidine		chebi/CHEBI:7834;pubchem.compound/6992097;SMILES/C([N+])CC[N+]CCCC[N+]	C7H22N3	1S/C7H19N3/c8-4-1-2-6-10-7-3-5-9/h10H,1-9H2/p+3	s	m976	SPERMIDINE	3	
-	spermine[s]	spermine		chebi/CHEBI:5725;pubchem.compound/446718;SMILES/C(CCC[N+]CCC[N+])[N+]CCC[N+]	C10H30N4	1S/C10H26N4/c11-5-3-9-13-7-1-2-8-14-10-4-6-12/h13-14H,1-12H2/p+4	s	m977	SPERMINE	4	
-	squalene[s]	squalene		pubchem.compound/638072;chebi/CHEBI:5440;SMILES/CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C	C30H50	1S/C30H50/c1-25(2)15-11-19-29(7)23-13-21-27(5)17-9-10-18-28(6)22-14-24-30(8)20-12-16-26(3)4/h15-18,23-24H,9-14,19-22H2,1-8H3/b27-17+,28-18+,29-23+,30-24+	s	m978	SQUALENE	0	
-	stearoyl-CoA[s]	stearoyl-CoA		pubchem.compound/45266614;chebi/CHEBI:7394;SMILES/CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O	C39H66N7O17P3S1	1S/C39H70N7O17P3S/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-30(48)67-23-22-41-29(47)20-21-42-37(51)34(50)39(2,3)25-60-66(57,58)63-65(55,56)59-24-28-33(62-64(52,53)54)32(49)38(61-28)46-27-45-31-35(40)43-26-44-36(31)46/h26-28,32-34,38,49-50H,4-25H2,1-3H3,(H,41,47)(H,42,51)(H,55,56)(H,57,58)(H2,40,43,44)(H2,52,53,54)/p-4/t28-,32-,33-,34+,38-/m1/s1	s	m979	STEAROYL-COA	-4	
-	succinate[s]	succinate		chebi/CHEBI:0031;pubchem.compound/160419;SMILES/C(C([O-])=O)CC([O-])=O	C4H4O4	1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)/p-2	s	m980	SUC	-2	
-	succinyl-CoA[s]	succinyl-CoA		pubchem.compound/45266545;chebi/CHEBI:7292;SMILES/CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C25H35N7O19P3S1	1S/C25H40N7O19P3S/c1-25(2,20(38)23(39)28-6-5-14(33)27-7-8-55-16(36)4-3-15(34)35)10-48-54(45,46)51-53(43,44)47-9-13-19(50-52(40,41)42)18(37)24(49-13)32-12-31-17-21(26)29-11-30-22(17)32/h11-13,18-20,24,37-38H,3-10H2,1-2H3,(H,27,33)(H,28,39)(H,34,35)(H,43,44)(H,45,46)(H2,26,29,30)(H2,40,41,42)/p-5/t13-,18-,19-,20+,24-/m1/s1	s	m981	SUC-COA	-5	
-	succinate semialdehyde[s]	succinate semialdehyde		chebi/CHEBI:7706;pubchem.compound/9543238;SMILES/C([CH]=O)CC(=O)[O-]	C4H5O3	1S/C4H6O3/c5-3-1-2-4(6)7/h3H,1-2H2,(H,6,7)/p-1	s	m982	SUCC-S-ALD	-1	
-	sulfate[s]	sulfate		chebi/CHEBI:6189;pubchem.compound/1117;SMILES/O=S(=O)([O-])[O-]	O4S1	1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2	s	m983	SULFATE	-2	
-	sulfoacetaldehyde[s]	sulfoacetaldehyde		chebi/CHEBI:8246;pubchem.compound/5093039;SMILES/[CH](=O)CS([O-])(=O)=O	C2H3O4S1	1S/C2H4O4S/c3-1-2-7(4,5)6/h1H,2H2,(H,4,5,6)/p-1	s	m984	SULFOACETALDEHYDE	-1	
-	superoxide[s]	superoxide		pubchem.compound/5359597;chebi/CHEBI:8421;SMILES/[O-]O	O2	1S/HO2/c1-2/h1H/p-1	s	m985	SUPER-OXIDE	-1	
-	Saturated-Fatty-Acyl-ACPs[s]	Saturated-Fatty-Acyl-ACPs					s	m986	Saturated-Fatty-Acyl-ACPs	0	
-	Saturated-Fatty-Acyl-CoA[s]	Saturated-Fatty-Acyl-CoA					s	m987	Saturated-Fatty-Acyl-CoA	0	
-	Sphinga-4E-8E-dienine-Ceramides[s]	Sphinga-4E-8E-dienine-Ceramides					s	m988	Sphinga-4E-8E-dienine-Ceramides	0	
-	Spliced-tRNA-precursor[s]	Spliced-tRNA-precursor					s	m989	Spliced-tRNA-precursor	0	
-	Stearoyl-ACPs[s]	Stearoyl-ACPs					s	m990	Stearoyl-ACPs	0	
-	Sterols[s]	Sterols					s	m991	Sterols	0	
-	Steryl-Esters[s]	Steryl-Esters					s	m992	Steryl-Esters	0	
-	Sulfurated-Sulfur-Acceptors[s]	Sulfurated-Sulfur-Acceptors					s	m993	Sulfurated-Sulfur-Acceptors	0	
-	trans-Delta2, cis-Delta4-decadienoyl-CoA[s]	trans-Delta2, cis-Delta4-decadienoyl-CoA		chebi/CHEBI:37593;pubchem.compound/90658212;SMILES/CCCCCC=CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C31H46N7O17P3S1	1S/C31H50N7O17P3S/c1-4-5-6-7-8-9-10-11-22(40)59-15-14-33-21(39)12-13-34-29(43)26(42)31(2,3)17-52-58(49,50)55-57(47,48)51-16-20-25(54-56(44,45)46)24(41)30(53-20)38-19-37-23-27(32)35-18-36-28(23)38/h8-11,18-20,24-26,30,41-42H,4-7,12-17H2,1-3H3,(H,33,39)(H,34,43)(H,47,48)(H,49,50)(H2,32,35,36)(H2,44,45,46)/p-4/b9-8-,11-10+/t20-,24-,25-,26+,30-/m1/s1	s	m994	T2-C4-DECADIENYL-COA	-4	
-	(2E)-dec-2-enoyl-CoA[s]	(2E)-dec-2-enoyl-CoA		pubchem.compound/50909850;chebi/CHEBI:1406;SMILES/CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C31H48N7O17P3S1	1S/C31H52N7O17P3S/c1-4-5-6-7-8-9-10-11-22(40)59-15-14-33-21(39)12-13-34-29(43)26(42)31(2,3)17-52-58(49,50)55-57(47,48)51-16-20-25(54-56(44,45)46)24(41)30(53-20)38-19-37-23-27(32)35-18-36-28(23)38/h10-11,18-20,24-26,30,41-42H,4-9,12-17H2,1-3H3,(H,33,39)(H,34,43)(H,47,48)(H,49,50)(H2,32,35,36)(H2,44,45,46)/p-4/b11-10+/t20-,24-,25-,26+,30-/m1/s1	s	m995	T2-DECENOYL-COA	-4	
-	dTDP[s]	dTDP		chebi/CHEBI:8369;pubchem.compound/21124327;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])[O-])O2))	C10H13N2O11P2	1S/C10H16N2O11P2/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(22-8)4-21-25(19,20)23-24(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,11,14,15)(H2,16,17,18)/p-3/t6-,7+,8+/m0/s1	s	m996	TDP	-3	
-	THF-GLU-N[s]	THF-GLU-N					s	m997	THF-GLU-N	0	
-	thiamine phosphate[s]	thiamine phosphate		pubchem.compound/15942892;chebi/CHEBI:7575;SMILES/CC1([N+](=CSC(CCOP([O-])(=O)[O-])=1)CC2(C=NC(C)=NC(N)=2))	C12H16N4O4P1S1	1S/C12H17N4O4PS/c1-8-11(3-4-20-21(17,18)19)22-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7H,3-4,6H2,1-2H3,(H3-,13,14,15,17,18,19)/p-1	s	m998	THIAMINE-P	-1	
-	thiamine diphosphate[s]	thiamine diphosphate		pubchem.compound/15938963;chebi/CHEBI:8937;SMILES/CC1([N+](=CSC(CCOP([O-])(=O)OP([O-])(=O)[O-])=1)CC2(C=NC(C)=NC(N)=2))	C12H16N4O7P2S1	1S/C12H18N4O7P2S/c1-8-11(3-4-22-25(20,21)23-24(17,18)19)26-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7H,3-4,6H2,1-2H3,(H4-,13,14,15,17,18,19,20,21)/p-2	s	m999	THIAMINE-PYROPHOSPHATE	-2	
-	L-threonine[s]	L-threonine		chebi/CHEBI:7926;pubchem.compound/6971019;SMILES/CC(O)C([N+])C(=O)[O-]	C4H9N1O3	1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1	s	m1000	THR	0	
-	THR-tRNAs[s]	THR-tRNAs					s	m1001	THR-tRNAs	0	
-	D-threo-isocitrate[s]	D-threo-isocitrate		pubchem.compound/5459771;chebi/CHEBI:5562;SMILES/C(=O)(C(CC([O-])=O)C(O)C([O-])=O)[O-]	C6H5O7	1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/p-3/t2-,4+/m0/s1	s	m1002	THREO-DS-ISO-CITRATE	-3	
-	thymine[s]	thymine		pubchem.compound/1135;chebi/CHEBI:7821;SMILES/CC1(C(=O)NC(NC=1)=O)	C5H6N2O2	1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h2H,1H3,(H2,6,7,8,9)	s	m1003	THYMINE	0	
-	5-(2-hydroxyethyl)-4-methylthiazole[s]	5-(2-hydroxyethyl)-4-methylthiazole		pubchem.compound/1136;chebi/CHEBI:7957;SMILES/CC1(N=CSC(CCO)=1)	C6H9N1O1S1	1S/C6H9NOS/c1-5-6(2-3-8)9-4-7-5/h4,8H,2-3H2,1H3	s	m1004	THZ	0	
-	4-methyl-5-(2-phosphooxyethyl)thiazole[s]	4-methyl-5-(2-phosphooxyethyl)thiazole		chebi/CHEBI:8296;pubchem.compound/25245616;SMILES/CC1(N=CSC(CCOP([O-])(=O)[O-])=1)	C6H8N1O4P1S1	1S/C6H10NO4PS/c1-5-6(13-4-7-5)2-3-11-12(8,9)10/h4H,2-3H2,1H3,(H2,8,9,10)/p-2	s	m1005	THZ-P	-2	
-	dTMP[s]	dTMP		chebi/CHEBI:3528;pubchem.compound/16755631;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])[O-])O2))	C10H13N2O8P1	1S/C10H15N2O8P/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(20-8)4-19-21(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,11,14,15)(H2,16,17,18)/p-2/t6-,7+,8+/m0/s1	s	m1006	TMP	-2	
-	trans-2,3-dehydroadipyl-coA[s]	trans-2,3-dehydroadipyl-coA		chebi/CHEBI:1044;pubchem.compound/70679154;SMILES/CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C=CCCC(=O)[O-])=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C27H37N7O19P3S1	1S/C27H42N7O19P3S/c1-27(2,22(40)25(41)30-8-7-16(35)29-9-10-57-18(38)6-4-3-5-17(36)37)12-50-56(47,48)53-55(45,46)49-11-15-21(52-54(42,43)44)20(39)26(51-15)34-14-33-19-23(28)31-13-32-24(19)34/h4,6,13-15,20-22,26,39-40H,3,5,7-12H2,1-2H3,(H,29,35)(H,30,41)(H,36,37)(H,45,46)(H,47,48)(H2,28,31,32)(H2,42,43,44)/p-5/b6-4+/t15-,20-,21-,22+,26-/m1/s1	s	m1007	TRANS-23-DEHYDROADIPYL-COA	-5	
-	TRANS-D2-ENOYL-ACP[s]	TRANS-D2-ENOYL-ACP					s	m1008	TRANS-D2-ENOYL-ACP	0	
-	TRANS-D2-ENOYL-COA[s]	TRANS-D2-ENOYL-COA					s	m1009	TRANS-D2-ENOYL-COA	0	
-	alpha,alpha-trehalose[s]	alpha,alpha-trehalose		pubchem.compound/7427;chebi/CHEBI:6551;SMILES/C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))O	C12H22O11	1S/C12H22O11/c13-1-3-5(15)7(17)9(19)11(21-3)23-12-10(20)8(18)6(16)4(2-14)22-12/h3-20H,1-2H2/t3-,4-,5-,6-,7+,8+,9-,10-,11-,12-/m1/s1	s	m1010	TREHALOSE	0	
-	alpha,alpha-trehalose 6-phosphate[s]	alpha,alpha-trehalose 6-phosphate		chebi/CHEBI:8429;pubchem.compound/25246105;SMILES/C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))O	C12H21O14P1	1S/C12H23O14P/c13-1-3-5(14)7(16)9(18)11(24-3)26-12-10(19)8(17)6(15)4(25-12)2-23-27(20,21)22/h3-19H,1-2H2,(H2,20,21,22)/p-2/t3-,4-,5-,6-,7+,8+,9-,10-,11-,12-/m1/s1	s	m1011	TREHALOSE-6P	-2	
-	TRIPEPTIDES[s]	TRIPEPTIDES					s	m1012	TRIPEPTIDES	0	
-	L-tryptophan[s]	L-tryptophan		chebi/CHEBI:7912;pubchem.compound/6923516;SMILES/C2(NC1(C=CC=CC=1C(CC([N+])C(=O)[O-])=2))	C11H12N2O2	1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1	s	m1013	TRP	0	
-	TRP-tRNAs[s]	TRP-tRNAs					s	m1014	TRP-tRNAs	0	
-	dTTP[s]	dTTP		pubchem.compound/11988283;chebi/CHEBI:7568;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))	C10H13N2O14P3	1S/C10H17N2O14P3/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(24-8)4-23-28(19,20)26-29(21,22)25-27(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,21,22)(H,11,14,15)(H2,16,17,18)/p-4/t6-,7+,8+/m0/s1	s	m1015	TTP	-4	
-	TUM1-L-cysteine[s]	TUM1-L-cysteine					s	m1016	TUM1-L-cysteine	0	
-	TUM1-S-sulfanylcysteine[s]	TUM1-S-sulfanylcysteine					s	m1017	TUM1-S-sulfanylcysteine	0	
-	L-tyrosine[s]	L-tyrosine		chebi/CHEBI:8315;pubchem.compound/6942100;SMILES/C(C(CC1(C=CC(O)=CC=1))[N+])(=O)[O-]	C9H11N1O3	1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1	s	m1018	TYR	0	
-	Tetradec-2-enoyl-ACPs[s]	Tetradec-2-enoyl-ACPs					s	m1019	Tetradec-2-enoyl-ACPs	0	
-	Thiocarboxylated-MPT-synthases[s]	Thiocarboxylated-MPT-synthases					s	m1020	Thiocarboxylated-MPT-synthases	0	
-	Thiocarboxylated-URM1[s]	Thiocarboxylated-URM1					s	m1021	Thiocarboxylated-URM1	0	
-	Thiols[s]	Thiols					s	m1022	Thiols	0	
-	Trans-3-enoyl-CoAs[s]	Trans-3-enoyl-CoAs					s	m1023	Trans-3-enoyl-CoAs	0	
-	Trans-D2-decenoyl-ACPs[s]	Trans-D2-decenoyl-ACPs					s	m1024	Trans-D2-decenoyl-ACPs	0	
-	Triacylglycerides[s]	Triacylglycerides					s	m1025	Triacylglycerides	0	
-	Triacylglycerols[s]	Triacylglycerols					s	m1026	Triacylglycerols	0	
-	ubiquinol-6[s]	ubiquinol-6		pubchem.compound/5813154;chebi/CHEBI:2970;SMILES/CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCC1(=C(C)C(=C(OC)C(OC)=C(O)1)O)	C39H60O4	1S/C39H60O4/c1-28(2)16-11-17-29(3)18-12-19-30(4)20-13-21-31(5)22-14-23-32(6)24-15-25-33(7)26-27-35-34(8)36(40)38(42-9)39(43-10)37(35)41/h16,18,20,22,24,26,40-41H,11-15,17,19,21,23,25,27H2,1-10H3/b29-18+,30-20+,31-22+,32-24+,33-26+	s	m1027	UBIQUINOL-30	0	
-	UDP[s]	UDP		pubchem.compound/20056717;chebi/CHEBI:8223;SMILES/C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O12P2	1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/p-3/t4-,6-,7-,8-/m1/s1	s	m1028	UDP	-3	
-	UDP-beta-L-rhamnose[s]	UDP-beta-L-rhamnose		chebi/CHEBI:3836;pubchem.compound/86290151;SMILES/CC3(OC(OP(OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))([O-])=O)C(O)C(O)C(O)3)	C15H22N2O16P2	1S/C15H24N2O16P2/c1-5-8(19)10(21)12(23)14(30-5)32-35(27,28)33-34(25,26)29-4-6-9(20)11(22)13(31-6)17-3-2-7(18)16-15(17)24/h2-3,5-6,8-14,19-23H,4H2,1H3,(H,25,26)(H,27,28)(H,16,18,24)/p-2/t5-,6+,8-,9+,10+,11+,12+,13+,14+/m0/s1	s	m1029	UDP-L-RHAMNOSE	-2	
-	UDP-N-acetyl-alpha-D-glucosamine[s]	UDP-N-acetyl-alpha-D-glucosamine		chebi/CHEBI:7705;pubchem.compound/16667373;SMILES/CC(=O)NC3(C(OP(OP(OCC1(C(C(C(O1)N2(C=CC(NC2=O)=O))O)O))([O-])=O)([O-])=O)OC(C(C3O)O)CO)	C17H25N3O17P2	1S/C17H27N3O17P2/c1-6(22)18-10-13(26)11(24)7(4-21)35-16(10)36-39(31,32)37-38(29,30)33-5-8-12(25)14(27)15(34-8)20-3-2-9(23)19-17(20)28/h2-3,7-8,10-16,21,24-27H,4-5H2,1H3,(H,18,22)(H,29,30)(H,31,32)(H,19,23,28)/p-2/t7-,8-,10-,11-,12-,13-,14-,15-,16-/m1/s1	s	m1030	UDP-N-ACETYL-D-GLUCOSAMINE	-2	
-	UMP[s]	UMP		chebi/CHEBI:7865;pubchem.compound/1778309;SMILES/C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O9P1	1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/p-2/t4-,6-,7-,8-/m1/s1	s	m1031	UMP	-2	
-	uracil[s]	uracil		pubchem.compound/1174;chebi/CHEBI:7568;SMILES/C1(=CC(NC(=O)N1)=O)	C4H4N2O2	1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)	s	m1032	URACIL	0	
-	urea[s]	urea		pubchem.compound/1176;chebi/CHEBI:6199;SMILES/C(=O)(N)N	C1H4N2O1	1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	s	m1033	UREA	0	
-	uridine[s]	uridine		pubchem.compound/6029;chebi/CHEBI:6704;SMILES/C(O)C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H12N2O6	1S/C9H12N2O6/c12-3-4-6(14)7(15)8(17-4)11-2-1-5(13)10-9(11)16/h1-2,4,6-8,12,14-15H,3H2,(H,10,13,16)/t4-,6-,7-,8-/m1/s1	s	m1034	URIDINE	0	
-	URM1[s]	URM1					s	m1035	URM1	0	
-	uroporphyrinogen-III[s]	uroporphyrinogen-III		chebi/CHEBI:7308;pubchem.compound/25202645;SMILES/C(=O)([O-])CCC3(C(=C2(CC5(NC(CC4(NC(CC1(NC(=C(C=1CC(=O)[O-])CCC(=O)[O-])CC(N2)=3))=C(CC(=O)[O-])C=4CCC(=O)[O-]))=C(CC([O-])=O)C(CCC(=O)[O-])=5)))CC(=O)[O-])	C40H36N4O16	1S/C40H44N4O16/c45-33(46)5-1-17-21(9-37(53)54)29-14-27-19(3-7-35(49)50)22(10-38(55)56)30(43-27)15-28-20(4-8-36(51)52)24(12-40(59)60)32(44-28)16-31-23(11-39(57)58)18(2-6-34(47)48)26(42-31)13-25(17)41-29/h41-44H,1-16H2,(H,45,46)(H,47,48)(H,49,50)(H,51,52)(H,53,54)(H,55,56)(H,57,58)(H,59,60)/p-8	s	m1036	UROPORPHYRINOGEN-III	-8	
-	UTP[s]	UTP		pubchem.compound/7058168;chebi/CHEBI:6398;SMILES/C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O15P3	1S/C9H15N2O15P3/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(24-8)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,21,22)(H,10,12,15)(H2,16,17,18)/p-4/t4-,6-,7-,8-/m1/s1	s	m1037	UTP	-4	
-	Ubiquinols[s]	Ubiquinols					s	m1038	Ubiquinols	0	
-	Ubiquinones[s]	Ubiquinones					s	m1039	Ubiquinones	0	
-	Ubiquitin-C-Terminal-Glycine[s]	Ubiquitin-C-Terminal-Glycine					s	m1040	Ubiquitin-C-Terminal-Glycine	0	
-	Ubiquitin-activating-protein-E1-L-cys[s]	Ubiquitin-activating-protein-E1-L-cys					s	m1041	Ubiquitin-activating-protein-E1-L-cys	0	
-	Ubiquitin-carrier-protein-E2-L-cysteine[s]	Ubiquitin-carrier-protein-E2-L-cysteine					s	m1042	Ubiquitin-carrier-protein-E2-L-cysteine	0	
-	Unsulfurated-Sulfur-Acceptors[s]	Unsulfurated-Sulfur-Acceptors					s	m1043	Unsulfurated-Sulfur-Acceptors	0	
-	Uracil16-in-tRNAs[s]	Uracil16-in-tRNAs					s	m1044	Uracil16-in-tRNAs	0	
-	Uracil17-in-tRNAs[s]	Uracil17-in-tRNAs					s	m1045	Uracil17-in-tRNAs	0	
-	Uracil20-in-tRNAs[s]	Uracil20-in-tRNAs					s	m1046	Uracil20-in-tRNAs	0	
-	Uracil20a-in-tRNAs[s]	Uracil20a-in-tRNAs					s	m1047	Uracil20a-in-tRNAs	0	
-	Uracil20b-in-tRNAs[s]	Uracil20b-in-tRNAs					s	m1048	Uracil20b-in-tRNAs	0	
-	Uracil47-in-tRNAs[s]	Uracil47-in-tRNAs					s	m1049	Uracil47-in-tRNAs	0	
-	Uridine44-in-tRNA-Ser[s]	Uridine44-in-tRNA-Ser					s	m1050	Uridine44-in-tRNA-Ser	0	
-	L-valine[s]	L-valine		chebi/CHEBI:7762;pubchem.compound/6971018;SMILES/CC(C)C([N+])C([O-])=O	C5H11N1O2	1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)/t4-/m0/s1	s	m1051	VAL	0	
-	VAL-tRNAs[s]	VAL-tRNAs					s	m1052	VAL-tRNAs	0	
-	vanillate[s]	vanillate		pubchem.compound/54675858;chebi/CHEBI:6632;SMILES/COC1(=CC(=CC=C(O)1)C(=O)[O-])	C8H7O4	1S/C8H8O4/c1-12-7-4-5(8(10)11)2-3-6(7)9/h2-4,9H,1H3,(H,10,11)/p-1	s	m1053	VANILLATE	-1	
-	Very-Long-Chain-3-Hydroxyacyl-CoAs[s]	Very-Long-Chain-3-Hydroxyacyl-CoAs					s	m1054	Very-Long-Chain-3-Hydroxyacyl-CoAs	0	
-	Very-Long-Chain-Trans-23-Dehydroacyl-CoA[s]	Very-Long-Chain-Trans-23-Dehydroacyl-CoA					s	m1055	Very-Long-Chain-Trans-23-Dehydroacyl-CoA	0	
-	Very-Long-Chain-oxoacyl-CoAs[s]	Very-Long-Chain-oxoacyl-CoAs					s	m1056	Very-Long-Chain-oxoacyl-CoAs	0	
-	H2O[s]	H2O		chebi/CHEBI:5377;pubchem.compound/962;SMILES/[OH2]	H2O1	1S/H2O/h1H2	s	m1057	WATER	0	
-	xanthine[s]	xanthine		pubchem.compound/1188;chebi/CHEBI:7712;SMILES/C12(NC(=O)NC(C=1N=CN2)=O)	C5H4N4O2	1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)	s	m1058	XANTHINE	0	
-	xanthosine[s]	xanthosine		pubchem.compound/64959;chebi/CHEBI:8107;SMILES/C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(=O)NC=23)))	C10H12N4O6	1S/C10H12N4O6/c15-1-3-5(16)6(17)9(20-3)14-2-11-4-7(14)12-10(19)13-8(4)18/h2-3,5-6,9,15-17H,1H2,(H2,12,13,18,19)/t3-,5-,6-,9-/m1/s1	s	m1059	XANTHOSINE	0	
-	XMP[s]	XMP		pubchem.compound/23421208;chebi/CHEBI:7464;SMILES/C(OP(=O)([O-])[O-])C1(C(O)C(O)C(O1)N3(C=NC2(C(=O)NC(=O)NC=23)))	C10H11N4O9P1	1S/C10H13N4O9P/c15-5-3(1-22-24(19,20)21)23-9(6(5)16)14-2-11-4-7(14)12-10(18)13-8(4)17/h2-3,5-6,9,15-16H,1H2,(H2,19,20,21)(H2,12,13,17,18)/p-2/t3-,5-,6-,9-/m1/s1	s	m1060	XANTHOSINE-5-PHOSPHATE	-2	
-	xylitol[s]	xylitol		chebi/CHEBI:7151;pubchem.compound/6912;SMILES/C(O)C(O)C(O)C(O)CO	C5H12O5	1S/C5H12O5/c6-1-3(8)5(10)4(9)2-7/h3-10H,1-2H2/t3-,4+,5+	s	m1061	XYLITOL	0	
-	alpha-D-xylopyranose[s]	alpha-D-xylopyranose		chebi/CHEBI:8518;pubchem.compound/6027;SMILES/C1(OC(O)C(O)C(O)C(O)1)	C5H10O5	1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5+/m1/s1	s	m1062	XYLOSE	0	
-	D-xylulose 5-phosphate[s]	D-xylulose 5-phosphate		chebi/CHEBI:7737;pubchem.compound/5459820;SMILES/C(OP([O-])(=O)[O-])C(O)C(O)C(=O)CO	C5H9O8P1	1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/p-2/t4-,5-/m1/s1	s	m1063	XYLULOSE-5-PHOSPHATE	-2	
-	zymosterol[s]	zymosterol		pubchem.compound/92746;chebi/CHEBI:8252;SMILES/CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(CC(O)CCC(C)1C=2CCC(C)34))))	C27H44O1	1S/C27H44O/c1-18(2)7-6-8-19(3)23-11-12-24-22-10-9-20-17-21(28)13-15-26(20,4)25(22)14-16-27(23,24)5/h7,19-21,23-24,28H,6,8-17H2,1-5H3/t19-,20+,21+,23-,24+,26+,27-/m1/s1	s	m1064	ZYMOSTEROL	0	
-	a-2-oxoglutarate-dehydrogenase-E2-protei[s]	a-2-oxoglutarate-dehydrogenase-E2-protei					s	m1065	a-2-oxoglutarate-dehydrogenase-E2-protei	0	
-	a-pyruvate-dehydrogenase-E2-protein-Nsup[s]	a-pyruvate-dehydrogenase-E2-protein-Nsup					s	m1066	a-pyruvate-dehydrogenase-E2-protein-Nsup	0	
-	carbo-me-ur-34-tRNA[s]	carbo-me-ur-34-tRNA					s	m1067	carbo-me-ur-34-tRNA	0	
-	cis-5-enoyl-CoA[s]	cis-5-enoyl-CoA					s	m1068	cis-5-enoyl-CoA	0	
-	eEF-2-Histidines[s]	eEF-2-Histidines					s	m1069	eEF-2-Histidines	0	
-	guanosine-34-tRNAs[s]	guanosine-34-tRNAs					s	m1070	guanosine-34-tRNAs	0	
-	m7G5-pppR-mRNAs[s]	m7G5-pppR-mRNAs					s	m1071	m7G5-pppR-mRNAs	0	
-	mcm5s2U-34-tRNA[s]	mcm5s2U-34-tRNA					s	m1072	mcm5s2U-34-tRNA	0	
-	p-his-tRNAS[s]	p-his-tRNAS					s	m1073	p-his-tRNAS	0	
-	pppGp-his-tRNAs[s]	pppGp-his-tRNAs					s	m1074	pppGp-his-tRNAs	0	
-	pyruvate-dehydrogenase-E2-lipoyl-carrier[s]	pyruvate-dehydrogenase-E2-lipoyl-carrier					s	m1075	pyruvate-dehydrogenase-E2-lipoyl-carrier	0	
-	tRNA-Adenine-58[s]	tRNA-Adenine-58					s	m1076	tRNA-Adenine-58	0	
-	tRNA-Containing-N1-MethylAdenine-58[s]	tRNA-Containing-N1-MethylAdenine-58					s	m1077	tRNA-Containing-N1-MethylAdenine-58	0	
-	tRNA-Containing-N1-Methylguanine-37[s]	tRNA-Containing-N1-Methylguanine-37					s	m1078	tRNA-Containing-N1-Methylguanine-37	0	
-	tRNA-Containing-N1-Methylguanine-9[s]	tRNA-Containing-N1-Methylguanine-9					s	m1079	tRNA-Containing-N1-Methylguanine-9	0	
-	tRNA-Containing-N2-Methylguanine-10[s]	tRNA-Containing-N2-Methylguanine-10					s	m1080	tRNA-Containing-N2-Methylguanine-10	0	
-	tRNA-Containing-N2-Methylguanine-26[s]	tRNA-Containing-N2-Methylguanine-26					s	m1081	tRNA-Containing-N2-Methylguanine-26	0	
-	tRNA-Containing-N2-dimethylguanine-26[s]	tRNA-Containing-N2-dimethylguanine-26					s	m1082	tRNA-Containing-N2-dimethylguanine-26	0	
-	tRNA-containing-5-CarbMeAminome-2-ThioU[s]	tRNA-containing-5-CarbMeAminome-2-ThioU					s	m1083	tRNA-containing-5-CarbMeAminome-2-ThioU	0	
-	tRNA-containing-5-CarbMeAminome-uridine[s]	tRNA-containing-5-CarbMeAminome-uridine					s	m1084	tRNA-containing-5-CarbMeAminome-uridine	0	
-	tRNA-uridine34[s]	tRNA-uridine34					s	m1085	tRNA-uridine34	0	
-	tRNAPhe-Containing-4-demethylwyosine-37[s]	tRNAPhe-Containing-4-demethylwyosine-37					s	m1086	tRNAPhe-Containing-4-demethylwyosine-37	0	
-	tRNAPhe-Containing-N1-Methylguanine-37[s]	tRNAPhe-Containing-N1-Methylguanine-37					s	m1087	tRNAPhe-Containing-N1-Methylguanine-37	0	
-	trans-2-cis-5-dienoyl-CoA[s]	trans-2-cis-5-dienoyl-CoA					s	m1088	trans-2-cis-5-dienoyl-CoA	0	
-	trans-3-cis-5-dienoyl-CoA[s]	trans-3-cis-5-dienoyl-CoA					s	m1089	trans-3-cis-5-dienoyl-CoA	0	
-	yW-72[s]	yW-72					s	m1090	yW-72	0	
-	yW-86[s]	yW-86					s	m1091	yW-86	0	
+	Protein-Ser-or-Thr-phosphate[s]	Protein-Ser-or-Thr-phosphate					s	m926	Protein-Ser-or-Thr-phosphate	0	
+	Protein-Tyrosines[s]	Protein-Tyrosines					s	m927	Protein-Tyrosines	0	
+	Protein-With-N-Terminal-Met[s]	Protein-With-N-Terminal-Met					s	m928	Protein-With-N-Terminal-Met	0	
+	Protein-tyrosine-phosphates[s]	Protein-tyrosine-phosphates					s	m929	Protein-tyrosine-phosphates	0	
+	Purine-Bases[s]	Purine-Bases					s	m930	Purine-Bases	0	
+	Purine-Ribonucleosides[s]	Purine-Ribonucleosides					s	m931	Purine-Ribonucleosides	0	
+	Pyruvate-dehydrogenase-acetylDHlipoyl[s]	Pyruvate-dehydrogenase-acetylDHlipoyl					s	m932	Pyruvate-dehydrogenase-acetylDHlipoyl	0	
+	Pyruvate-dehydrogenase-dihydrolipoate[s]	Pyruvate-dehydrogenase-dihydrolipoate					s	m933	Pyruvate-dehydrogenase-dihydrolipoate	0	
+	Pyruvate-dehydrogenase-lipoate[s]	Pyruvate-dehydrogenase-lipoate					s	m934	Pyruvate-dehydrogenase-lipoate	0	
+	quinolinate[s]	quinolinate		pubchem.compound/5460301;chebi/CHEBI:9959;SMILES/C1(=CC=C(C(C([O-])=O)=N1)C([O-])=O)	C7H3N1O4	1S/C7H5NO4/c9-6(10)4-2-1-3-8-5(4)7(11)12/h1-3H,(H,9,10)(H,11,12)/p-2	s	m935	QUINOLINATE	-2	
+	(R)-2-hydroxyglutarate[s]	(R)-2-hydroxyglutarate		chebi/CHEBI:5801;pubchem.compound/5460200;SMILES/C(CCC(C([O-])=O)O)([O-])=O	C5H6O5	1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)/p-2/t3-/m1/s1	s	m936	R-2-HYDROXYGLUTARATE	-2	
+	R-3-Hydroxypalmitoyl-ACPs[s]	R-3-Hydroxypalmitoyl-ACPs					s	m937	R-3-Hydroxypalmitoyl-ACPs	0	
+	R-3-hydroxydodecanoyl-ACPs[s]	R-3-hydroxydodecanoyl-ACPs					s	m938	R-3-hydroxydodecanoyl-ACPs	0	
+	R-3-hydroxyhexanoyl-ACPs[s]	R-3-hydroxyhexanoyl-ACPs					s	m939	R-3-hydroxyhexanoyl-ACPs	0	
+	R-3-hydroxymyristoyl-ACPs[s]	R-3-hydroxymyristoyl-ACPs					s	m940	R-3-hydroxymyristoyl-ACPs	0	
+	R-3-hydroxystearoyl-ACPs[s]	R-3-hydroxystearoyl-ACPs					s	m941	R-3-hydroxystearoyl-ACPs	0	
+	(R)-4'-phosphopantothenoyl-L-cysteine[s]	(R)-4'-phosphopantothenoyl-L-cysteine		chebi/CHEBI:9458;pubchem.compound/25245609;SMILES/CC(C)(COP(=O)([O-])[O-])C(O)C(=O)NCCC(=O)NC(CS)C(=O)[O-]	C12H20N2O9P1S1	1S/C12H23N2O9PS/c1-12(2,6-23-24(20,21)22)9(16)10(17)13-4-3-8(15)14-7(5-25)11(18)19/h7,9,16,25H,3-6H2,1-2H3,(H,13,17)(H,14,15)(H,18,19)(H2,20,21,22)/p-3/t7-,9-/m0/s1	s	m942	R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE	-3	
+	riboflavin[s]	riboflavin		pubchem.compound/45480541;chebi/CHEBI:7986;SMILES/CC1(C=C3(C(=CC(C)=1)N(CC(O)C(O)C(O)CO)C2(C(C(=O)[N-]C(=O)N=2)=N3)))	C17H19N4O6	1S/C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(24)6-22)15-13(18-9)16(26)20-17(27)19-15/h3-4,11-12,14,22-25H,5-6H2,1-2H3,(H,20,26,27)/p-1/t11-,12+,14-/m0/s1	s	m943	RIBOFLAVIN	-1	
+	ribose-1-arsenate[s]	ribose-1-arsenate		pubchem.compound/90657387;SMILES/C(O)C1(C(O)C(O)C(O[As]([O-])(=O)[O-])O1)	C5H9O8AS1	1S/C5H11AsO8/c7-1-2-3(8)4(9)5(13-2)14-6(10,11)12/h2-5,7-9H,1H2,(H2,10,11,12)/p-2/t2-,3-,4-,5-/m1/s1	s	m944	RIBOSE-1-ARSENATE	-2	
+	alpha-D-ribose-1-phosphate[s]	alpha-D-ribose-1-phosphate		chebi/CHEBI:7720;pubchem.compound/23615443;SMILES/C(O)C1(C(O)C(O)C(OP(=O)([O-])[O-])O1)	C5H9O8P1	1S/C5H11O8P/c6-1-2-3(7)4(8)5(12-2)13-14(9,10)11/h2-8H,1H2,(H2,9,10,11)/p-2/t2-,3-,4-,5-/m1/s1	s	m945	RIBOSE-1P	-2	
+	RIBOSE-5P[s]	RIBOSE-5P					s	m946	RIBOSE-5P	0	
+	D-ribulose 5-phosphate[s]	D-ribulose 5-phosphate		chebi/CHEBI:8121;pubchem.compound/21144996;SMILES/C(C(C(C(CO)=O)O)O)OP([O-])([O-])=O	C5H9O8P1	1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/p-2/t4-,5+/m1/s1	s	m947	RIBULOSE-5P	-2	
+	RX[s]	RX		SMILES/[R]X			s	m948	RX	0	
+	Red-NADPH-Hemoprotein-Reductases[s]	Red-NADPH-Hemoprotein-Reductases					s	m949	Red-NADPH-Hemoprotein-Reductases	0	
+	Red-Thioredoxin[s]	Red-Thioredoxin					s	m950	Red-Thioredoxin	0	
+	Reduced-2Fe-2S-Ferredoxins[s]	Reduced-2Fe-2S-Ferredoxins					s	m951	Reduced-2Fe-2S-Ferredoxins	0	
+	Reduced-ferredoxins[s]	Reduced-ferredoxins					s	m952	Reduced-ferredoxins	0	
+	Ribonucleoside-Diphosphates[s]	Ribonucleoside-Diphosphates					s	m953	Ribonucleoside-Diphosphates	0	
+	2,4-dinitrophenyl-S-glutathione[s]	2,4-dinitrophenyl-S-glutathione		chebi/CHEBI:33977;pubchem.compound/25322932;SMILES/C(SC1(C=CC([N+]([O-])=O)=CC([N+]([O-])=O)=1))C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C16H18N5O10S1	1S/C16H19N5O10S/c17-9(16(26)27)2-4-13(22)19-10(15(25)18-6-14(23)24)7-32-12-3-1-8(20(28)29)5-11(12)21(30)31/h1,3,5,9-10H,2,4,6-7,17H2,(H,18,25)(H,19,22)(H,23,24)(H,26,27)/p-1/t9-,10-/m0/s1	s	m954	S-24-DINITROPHENYLGLUTATHIONE	-1	
+	S-adenosyl 3-(methylsulfanyl)propylamine[s]	S-adenosyl 3-(methylsulfanyl)propylamine		chebi/CHEBI:7443;pubchem.compound/25203490;SMILES/C[S+](CCC[N+])CC1(OC(C(O)C(O)1)N3(C=NC2(=C(N)N=CN=C23)))	C14H24N6O3S1	1S/C14H23N6O3S/c1-24(4-2-3-15)5-8-10(21)11(22)14(23-8)20-7-19-9-12(16)17-6-18-13(9)20/h6-8,10-11,14,21-22H,2-5,15H2,1H3,(H2,16,17,18)/q+1/p+1/t8-,10-,11-,14-,24?/m1/s1	s	m955	S-ADENOSYLMETHIONINAMINE	2	
+	S-ADENOSYLMETHIONINE[s]	S-ADENOSYLMETHIONINE					s	m956	S-ADENOSYLMETHIONINE	0	
+	(S)-(+)-allantoin[s]	(S)-(+)-allantoin		pubchem.compound/439714;chebi/CHEBI:5678;SMILES/C(=O)(N)N[CH]1(NC(=O)NC(=O)1)	C4H6N4O3	1S/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)/t1-/m0/s1	s	m957	S-ALLANTOIN	0	
+	S-(hydroxymethyl)glutathione[s]	S-(hydroxymethyl)glutathione		chebi/CHEBI:8758;pubchem.compound/25244017;SMILES/C(NC(=O)C(CSCO)NC(=O)CCC([N+])C(=O)[O-])C(=O)[O-]	C11H18N3O7S1	1S/C11H19N3O7S/c12-6(11(20)21)1-2-8(16)14-7(4-22-5-15)10(19)13-3-9(17)18/h6-7,15H,1-5,12H2,(H,13,19)(H,14,16)(H,17,18)(H,20,21)/p-1/t6-,7-/m0/s1	s	m958	S-HYDROXYMETHYLGLUTATHIONE	-1	
+	(R)-S-lactoylglutathione[s]	(R)-S-lactoylglutathione		chebi/CHEBI:7474;pubchem.compound/46878377;SMILES/CC(O)C(=O)SCC(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C13H20N3O8S1	1S/C13H21N3O8S/c1-6(17)13(24)25-5-8(11(21)15-4-10(19)20)16-9(18)3-2-7(14)12(22)23/h6-8,17H,2-5,14H2,1H3,(H,15,21)(H,16,18)(H,19,20)(H,22,23)/p-1/t6-,7+,8+/m1/s1	s	m959	S-LACTOYL-GLUTATHIONE	-1	
+	S-NEDD8-yl-NEDD8-E1-L-cysteine[s]	S-NEDD8-yl-NEDD8-E1-L-cysteine					s	m960	S-NEDD8-yl-NEDD8-E1-L-cysteine	0	
+	S-NEDD8-yl-NEDD8-E2-L-cysteine[s]	S-NEDD8-yl-NEDD8-E2-L-cysteine					s	m961	S-NEDD8-yl-NEDD8-E2-L-cysteine	0	
+	S-nitrosoglutathione[s]	S-nitrosoglutathione		pubchem.compound/7059524;chebi/CHEBI:0091;SMILES/C(SN=O)C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O	C10H15N4O7S1	1S/C10H16N4O7S/c11-5(10(19)20)1-2-7(15)13-6(4-22-14-21)9(18)12-3-8(16)17/h5-6H,1-4,11H2,(H,12,18)(H,13,15)(H,16,17)(H,19,20)/p-1/t5-,6-/m0/s1	s	m962	S-NITROSOGLUTATHIONE	-1	
+	S-Substituted-Glutamyl-Cysteine[s]	S-Substituted-Glutamyl-Cysteine					s	m963	S-Substituted-Glutamyl-Cysteine	0	
+	S-Substituted-Glutathione[s]	S-Substituted-Glutathione					s	m964	S-Substituted-Glutathione	0	
+	S-Substituted-L-Cysteines[s]	S-Substituted-L-Cysteines					s	m965	S-Substituted-L-Cysteines	0	
+	S-ubi-N-term-specific-UCP-E2-L-cysteine[s]	S-ubi-N-term-specific-UCP-E2-L-cysteine					s	m966	S-ubi-N-term-specific-UCP-E2-L-cysteine	0	
+	S-ubiquitinyl-HECT-E3-UCP-L-cysteine[s]	S-ubiquitinyl-HECT-E3-UCP-L-cysteine					s	m967	S-ubiquitinyl-HECT-E3-UCP-L-cysteine	0	
+	S-ubiquitinyl-UAP-E1-L-cysteine[s]	S-ubiquitinyl-UAP-E1-L-cysteine					s	m968	S-ubiquitinyl-UAP-E1-L-cysteine	0	
+	S-ubiquitinyl-UCP-E2-L-cysteine[s]	S-ubiquitinyl-UCP-E2-L-cysteine					s	m969	S-ubiquitinyl-UCP-E2-L-cysteine	0	
+	thiosulfate[s]	thiosulfate		chebi/CHEBI:3539;pubchem.compound/439208;SMILES/O=S(=O)([O-])S	H1O3S2	1S/H2O3S2/c1-5(2,3)4/h(H2,1,2,3,4)/p-1	s	m970	S2O3	-1	
+	L-saccharopine[s]	L-saccharopine		chebi/CHEBI:7951;pubchem.compound/49791954;SMILES/C(CC[N+]C(CCC([O-])=O)C([O-])=O)CC([N+])C([O-])=O	C11H19N2O6	1S/C11H20N2O6/c12-7(10(16)17)3-1-2-6-13-8(11(18)19)4-5-9(14)15/h7-8,13H,1-6,12H2,(H,14,15)(H,16,17)(H,18,19)/p-1/t7-,8-/m0/s1	s	m971	SACCHAROPINE	-1	
+	L-serine[s]	L-serine		chebi/CHEBI:3384;pubchem.compound/6857581;SMILES/C(O)C([N+])C(=O)[O-]	C3H7N1O3	1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1	s	m972	SER	0	
+	shikimate[s]	shikimate		chebi/CHEBI:6208;pubchem.compound/7057976;SMILES/C1(=C(CC(C(O)C(O)1)O)C(=O)[O-])	C7H9O5	1S/C7H10O5/c8-4-1-3(7(11)12)2-5(9)6(4)10/h1,4-6,8-10H,2H2,(H,11,12)/p-1/t4-,5-,6-/m1/s1	s	m973	SHIKIMATE	-1	
+	shikimate 3-phosphate[s]	shikimate 3-phosphate		chebi/CHEBI:45989;pubchem.compound/14506806;SMILES/C(=O)([O-])C1(=CC(OP(=O)([O-])[O-])C(O)C(O)C1)	C7H8O8P1	1S/C7H11O8P/c8-4-1-3(7(10)11)2-5(6(4)9)15-16(12,13)14/h2,4-6,8-9H,1H2,(H,10,11)(H2,12,13,14)/p-3/t4-,5-,6+/m1/s1	s	m974	SHIKIMATE-5P	-3	
+	siroheme[s]	siroheme		pubchem.compound/70678579;chebi/CHEBI:0052;SMILES/CC4(CC(=O)[O-])(C(CCC(=O)[O-])C6(=CC8(=C(CC([O-])=O)C(CCC(=O)[O-])=C7(N([Fe--]25([N+]1(C(C(CCC([O-])=O)=C(CC(=O)[O-])C=1C=C3(C(C)(CC(=O)[O-])C(CCC(=O)[O-])C(N23)=CC4=[N+]56))=C7)))8))))	C42H36N4O16FE1	1S/C42H46N4O16.Fe/c1-41(17-39(59)60)23(5-9-35(51)52)29-14-27-21(11-37(55)56)19(3-7-33(47)48)25(43-27)13-26-20(4-8-34(49)50)22(12-38(57)58)28(44-26)15-31-42(2,18-40(61)62)24(6-10-36(53)54)30(46-31)16-32(41)45-29;/h13-16,23-24H,3-12,17-18H2,1-2H3,(H10,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62);/q;+2/p-10/t23-,24-,41+,42+;/m1./s1	s	m975	SIROHEME	-8	
+	sirohydrochlorin[s]	sirohydrochlorin		chebi/CHEBI:8351;pubchem.compound/25245154;SMILES/CC2(CC(=O)[O-])(C1(=CC5(=NC(=CC4(NC(C=C3(N=C(C=C(N1)C(CCC(=O)[O-])2)C(CC(=O)[O-])=C(CCC(=O)[O-])3))=C(CCC(=O)[O-])C(CC(=O)[O-])=4))C(C)(CC(=O)[O-])C(CCC(=O)[O-])5)))	C42H38N4O16	1S/C42H46N4O16/c1-41(17-39(59)60)23(5-9-35(51)52)29-14-27-21(11-37(55)56)19(3-7-33(47)48)25(43-27)13-26-20(4-8-34(49)50)22(12-38(57)58)28(44-26)15-31-42(2,18-40(61)62)24(6-10-36(53)54)30(46-31)16-32(41)45-29/h13-16,23-24,44-45H,3-12,17-18H2,1-2H3,(H,47,48)(H,49,50)(H,51,52)(H,53,54)(H,55,56)(H,57,58)(H,59,60)(H,61,62)/p-8/b25-13-,29-14-,31-15-,32-16-/t23-,24-,41+,42+/m1/s1	s	m976	SIROHYDROCHLORIN	-8	
+	sulfite[s]	sulfite		pubchem.compound/1099;chebi/CHEBI:7359;SMILES/[O-]S([O-])=O	O3S1	1S/H2O3S/c1-4(2)3/h(H2,1,2,3)/p-2	s	m977	SO3	-2	
+	D-sorbitol[s]	D-sorbitol		chebi/CHEBI:7924;pubchem.compound/5780;SMILES/C(C(C(C(C(CO)O)O)O)O)O	C6H14O6	1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4+,5-,6-/m1/s1	s	m978	SORBITOL	0	
+	spermidine[s]	spermidine		chebi/CHEBI:7834;pubchem.compound/6992097;SMILES/C([N+])CC[N+]CCCC[N+]	C7H22N3	1S/C7H19N3/c8-4-1-2-6-10-7-3-5-9/h10H,1-9H2/p+3	s	m979	SPERMIDINE	3	
+	spermine[s]	spermine		chebi/CHEBI:5725;pubchem.compound/446718;SMILES/C(CCC[N+]CCC[N+])[N+]CCC[N+]	C10H30N4	1S/C10H26N4/c11-5-3-9-13-7-1-2-8-14-10-4-6-12/h13-14H,1-12H2/p+4	s	m980	SPERMINE	4	
+	squalene[s]	squalene		pubchem.compound/638072;chebi/CHEBI:5440;SMILES/CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C	C30H50	1S/C30H50/c1-25(2)15-11-19-29(7)23-13-21-27(5)17-9-10-18-28(6)22-14-24-30(8)20-12-16-26(3)4/h15-18,23-24H,9-14,19-22H2,1-8H3/b27-17+,28-18+,29-23+,30-24+	s	m981	SQUALENE	0	
+	stearoyl-CoA[s]	stearoyl-CoA		pubchem.compound/45266614;chebi/CHEBI:7394;SMILES/CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O	C39H66N7O17P3S1	1S/C39H70N7O17P3S/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-30(48)67-23-22-41-29(47)20-21-42-37(51)34(50)39(2,3)25-60-66(57,58)63-65(55,56)59-24-28-33(62-64(52,53)54)32(49)38(61-28)46-27-45-31-35(40)43-26-44-36(31)46/h26-28,32-34,38,49-50H,4-25H2,1-3H3,(H,41,47)(H,42,51)(H,55,56)(H,57,58)(H2,40,43,44)(H2,52,53,54)/p-4/t28-,32-,33-,34+,38-/m1/s1	s	m982	STEAROYL-COA	-4	
+	succinate[s]	succinate		chebi/CHEBI:0031;pubchem.compound/160419;SMILES/C(C([O-])=O)CC([O-])=O	C4H4O4	1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)/p-2	s	m983	SUC	-2	
+	succinyl-CoA[s]	succinyl-CoA		pubchem.compound/45266545;chebi/CHEBI:7292;SMILES/CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C25H35N7O19P3S1	1S/C25H40N7O19P3S/c1-25(2,20(38)23(39)28-6-5-14(33)27-7-8-55-16(36)4-3-15(34)35)10-48-54(45,46)51-53(43,44)47-9-13-19(50-52(40,41)42)18(37)24(49-13)32-12-31-17-21(26)29-11-30-22(17)32/h11-13,18-20,24,37-38H,3-10H2,1-2H3,(H,27,33)(H,28,39)(H,34,35)(H,43,44)(H,45,46)(H2,26,29,30)(H2,40,41,42)/p-5/t13-,18-,19-,20+,24-/m1/s1	s	m984	SUC-COA	-5	
+	succinate semialdehyde[s]	succinate semialdehyde		chebi/CHEBI:7706;pubchem.compound/9543238;SMILES/C([CH]=O)CC(=O)[O-]	C4H5O3	1S/C4H6O3/c5-3-1-2-4(6)7/h3H,1-2H2,(H,6,7)/p-1	s	m985	SUCC-S-ALD	-1	
+	sulfate[s]	sulfate		chebi/CHEBI:6189;pubchem.compound/1117;SMILES/O=S(=O)([O-])[O-]	O4S1	1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2	s	m986	SULFATE	-2	
+	sulfoacetaldehyde[s]	sulfoacetaldehyde		chebi/CHEBI:8246;pubchem.compound/5093039;SMILES/[CH](=O)CS([O-])(=O)=O	C2H3O4S1	1S/C2H4O4S/c3-1-2-7(4,5)6/h1H,2H2,(H,4,5,6)/p-1	s	m987	SULFOACETALDEHYDE	-1	
+	superoxide[s]	superoxide		pubchem.compound/5359597;chebi/CHEBI:8421;SMILES/[O-]O	O2	1S/HO2/c1-2/h1H/p-1	s	m988	SUPER-OXIDE	-1	
+	Saturated-Fatty-Acyl-ACPs[s]	Saturated-Fatty-Acyl-ACPs					s	m989	Saturated-Fatty-Acyl-ACPs	0	
+	Saturated-Fatty-Acyl-CoA[s]	Saturated-Fatty-Acyl-CoA					s	m990	Saturated-Fatty-Acyl-CoA	0	
+	Sphinga-4E-8E-dienine-Ceramides[s]	Sphinga-4E-8E-dienine-Ceramides					s	m991	Sphinga-4E-8E-dienine-Ceramides	0	
+	Spliced-tRNA-precursor[s]	Spliced-tRNA-precursor					s	m992	Spliced-tRNA-precursor	0	
+	Stearoyl-ACPs[s]	Stearoyl-ACPs					s	m993	Stearoyl-ACPs	0	
+	Sterols[s]	Sterols					s	m994	Sterols	0	
+	Steryl-Esters[s]	Steryl-Esters					s	m995	Steryl-Esters	0	
+	Sulfurated-Sulfur-Acceptors[s]	Sulfurated-Sulfur-Acceptors					s	m996	Sulfurated-Sulfur-Acceptors	0	
+	trans-Delta2, cis-Delta4-decadienoyl-CoA[s]	trans-Delta2, cis-Delta4-decadienoyl-CoA		chebi/CHEBI:37593;pubchem.compound/90658212;SMILES/CCCCCC=CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C31H46N7O17P3S1	1S/C31H50N7O17P3S/c1-4-5-6-7-8-9-10-11-22(40)59-15-14-33-21(39)12-13-34-29(43)26(42)31(2,3)17-52-58(49,50)55-57(47,48)51-16-20-25(54-56(44,45)46)24(41)30(53-20)38-19-37-23-27(32)35-18-36-28(23)38/h8-11,18-20,24-26,30,41-42H,4-7,12-17H2,1-3H3,(H,33,39)(H,34,43)(H,47,48)(H,49,50)(H2,32,35,36)(H2,44,45,46)/p-4/b9-8-,11-10+/t20-,24-,25-,26+,30-/m1/s1	s	m997	T2-C4-DECADIENYL-COA	-4	
+	(2E)-dec-2-enoyl-CoA[s]	(2E)-dec-2-enoyl-CoA		pubchem.compound/50909850;chebi/CHEBI:1406;SMILES/CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C31H48N7O17P3S1	1S/C31H52N7O17P3S/c1-4-5-6-7-8-9-10-11-22(40)59-15-14-33-21(39)12-13-34-29(43)26(42)31(2,3)17-52-58(49,50)55-57(47,48)51-16-20-25(54-56(44,45)46)24(41)30(53-20)38-19-37-23-27(32)35-18-36-28(23)38/h10-11,18-20,24-26,30,41-42H,4-9,12-17H2,1-3H3,(H,33,39)(H,34,43)(H,47,48)(H,49,50)(H2,32,35,36)(H2,44,45,46)/p-4/b11-10+/t20-,24-,25-,26+,30-/m1/s1	s	m998	T2-DECENOYL-COA	-4	
+	dTDP[s]	dTDP		chebi/CHEBI:8369;pubchem.compound/21124327;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])[O-])O2))	C10H13N2O11P2	1S/C10H16N2O11P2/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(22-8)4-21-25(19,20)23-24(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,11,14,15)(H2,16,17,18)/p-3/t6-,7+,8+/m0/s1	s	m999	TDP	-3	
+	THF-GLU-N[s]	THF-GLU-N					s	m1000	THF-GLU-N	0	
+	thiamine[s]	thiamine		pubchem.compound/1130;chebi/CHEBI:8385;SMILES/CC1([N+](=CSC(CCO)=1)CC2(C=NC(C)=NC(N)=2))	C12H17N4O1S1	1S/C12H17N4OS/c1-8-11(3-4-17)18-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7,17H,3-4,6H2,1-2H3,(H2,13,14,15)/q+1	s	m1001	THIAMINE	1	
+	thiamine phosphate[s]	thiamine phosphate		pubchem.compound/15942892;chebi/CHEBI:7575;SMILES/CC1([N+](=CSC(CCOP([O-])(=O)[O-])=1)CC2(C=NC(C)=NC(N)=2))	C12H16N4O4P1S1	1S/C12H17N4O4PS/c1-8-11(3-4-20-21(17,18)19)22-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7H,3-4,6H2,1-2H3,(H3-,13,14,15,17,18,19)/p-1	s	m1002	THIAMINE-P	-1	
+	thiamine diphosphate[s]	thiamine diphosphate		pubchem.compound/15938963;chebi/CHEBI:8937;SMILES/CC1([N+](=CSC(CCOP([O-])(=O)OP([O-])(=O)[O-])=1)CC2(C=NC(C)=NC(N)=2))	C12H16N4O7P2S1	1S/C12H18N4O7P2S/c1-8-11(3-4-22-25(20,21)23-24(17,18)19)26-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7H,3-4,6H2,1-2H3,(H4-,13,14,15,17,18,19,20,21)/p-2	s	m1003	THIAMINE-PYROPHOSPHATE	-2	
+	L-threonine[s]	L-threonine		chebi/CHEBI:7926;pubchem.compound/6971019;SMILES/CC(O)C([N+])C(=O)[O-]	C4H9N1O3	1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1	s	m1004	THR	0	
+	THR-tRNAs[s]	THR-tRNAs					s	m1005	THR-tRNAs	0	
+	D-threo-isocitrate[s]	D-threo-isocitrate		pubchem.compound/5459771;chebi/CHEBI:5562;SMILES/C(=O)(C(CC([O-])=O)C(O)C([O-])=O)[O-]	C6H5O7	1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/p-3/t2-,4+/m0/s1	s	m1006	THREO-DS-ISO-CITRATE	-3	
+	thymine[s]	thymine		pubchem.compound/1135;chebi/CHEBI:7821;SMILES/CC1(C(=O)NC(NC=1)=O)	C5H6N2O2	1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h2H,1H3,(H2,6,7,8,9)	s	m1007	THYMINE	0	
+	5-(2-hydroxyethyl)-4-methylthiazole[s]	5-(2-hydroxyethyl)-4-methylthiazole		pubchem.compound/1136;chebi/CHEBI:7957;SMILES/CC1(N=CSC(CCO)=1)	C6H9N1O1S1	1S/C6H9NOS/c1-5-6(2-3-8)9-4-7-5/h4,8H,2-3H2,1H3	s	m1008	THZ	0	
+	4-methyl-5-(2-phosphooxyethyl)thiazole[s]	4-methyl-5-(2-phosphooxyethyl)thiazole		chebi/CHEBI:8296;pubchem.compound/25245616;SMILES/CC1(N=CSC(CCOP([O-])(=O)[O-])=1)	C6H8N1O4P1S1	1S/C6H10NO4PS/c1-5-6(13-4-7-5)2-3-11-12(8,9)10/h4H,2-3H2,1H3,(H2,8,9,10)/p-2	s	m1009	THZ-P	-2	
+	dTMP[s]	dTMP		chebi/CHEBI:3528;pubchem.compound/16755631;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])[O-])O2))	C10H13N2O8P1	1S/C10H15N2O8P/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(20-8)4-19-21(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,11,14,15)(H2,16,17,18)/p-2/t6-,7+,8+/m0/s1	s	m1010	TMP	-2	
+	trans-2,3-dehydroadipyl-coA[s]	trans-2,3-dehydroadipyl-coA		chebi/CHEBI:1044;pubchem.compound/70679154;SMILES/CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C=CCCC(=O)[O-])=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]	C27H37N7O19P3S1	1S/C27H42N7O19P3S/c1-27(2,22(40)25(41)30-8-7-16(35)29-9-10-57-18(38)6-4-3-5-17(36)37)12-50-56(47,48)53-55(45,46)49-11-15-21(52-54(42,43)44)20(39)26(51-15)34-14-33-19-23(28)31-13-32-24(19)34/h4,6,13-15,20-22,26,39-40H,3,5,7-12H2,1-2H3,(H,29,35)(H,30,41)(H,36,37)(H,45,46)(H,47,48)(H2,28,31,32)(H2,42,43,44)/p-5/b6-4+/t15-,20-,21-,22+,26-/m1/s1	s	m1011	TRANS-23-DEHYDROADIPYL-COA	-5	
+	TRANS-D2-ENOYL-ACP[s]	TRANS-D2-ENOYL-ACP					s	m1012	TRANS-D2-ENOYL-ACP	0	
+	TRANS-D2-ENOYL-COA[s]	TRANS-D2-ENOYL-COA					s	m1013	TRANS-D2-ENOYL-COA	0	
+	alpha,alpha-trehalose[s]	alpha,alpha-trehalose		pubchem.compound/7427;chebi/CHEBI:6551;SMILES/C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))O	C12H22O11	1S/C12H22O11/c13-1-3-5(15)7(17)9(19)11(21-3)23-12-10(20)8(18)6(16)4(2-14)22-12/h3-20H,1-2H2/t3-,4-,5-,6-,7+,8+,9-,10-,11-,12-/m1/s1	s	m1014	TREHALOSE	0	
+	alpha,alpha-trehalose 6-phosphate[s]	alpha,alpha-trehalose 6-phosphate		chebi/CHEBI:8429;pubchem.compound/25246105;SMILES/C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))O	C12H21O14P1	1S/C12H23O14P/c13-1-3-5(14)7(16)9(18)11(24-3)26-12-10(19)8(17)6(15)4(25-12)2-23-27(20,21)22/h3-19H,1-2H2,(H2,20,21,22)/p-2/t3-,4-,5-,6-,7+,8+,9-,10-,11-,12-/m1/s1	s	m1015	TREHALOSE-6P	-2	
+	TRIPEPTIDES[s]	TRIPEPTIDES					s	m1016	TRIPEPTIDES	0	
+	L-tryptophan[s]	L-tryptophan		chebi/CHEBI:7912;pubchem.compound/6923516;SMILES/C2(NC1(C=CC=CC=1C(CC([N+])C(=O)[O-])=2))	C11H12N2O2	1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1	s	m1017	TRP	0	
+	TRP-tRNAs[s]	TRP-tRNAs					s	m1018	TRP-tRNAs	0	
+	dTTP[s]	dTTP		pubchem.compound/11988283;chebi/CHEBI:7568;SMILES/CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))	C10H13N2O14P3	1S/C10H17N2O14P3/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(24-8)4-23-28(19,20)26-29(21,22)25-27(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,21,22)(H,11,14,15)(H2,16,17,18)/p-4/t6-,7+,8+/m0/s1	s	m1019	TTP	-4	
+	TUM1-L-cysteine[s]	TUM1-L-cysteine					s	m1020	TUM1-L-cysteine	0	
+	TUM1-S-sulfanylcysteine[s]	TUM1-S-sulfanylcysteine					s	m1021	TUM1-S-sulfanylcysteine	0	
+	L-tyrosine[s]	L-tyrosine		chebi/CHEBI:8315;pubchem.compound/6942100;SMILES/C(C(CC1(C=CC(O)=CC=1))[N+])(=O)[O-]	C9H11N1O3	1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1	s	m1022	TYR	0	
+	Tetradec-2-enoyl-ACPs[s]	Tetradec-2-enoyl-ACPs					s	m1023	Tetradec-2-enoyl-ACPs	0	
+	Thiocarboxylated-MPT-synthases[s]	Thiocarboxylated-MPT-synthases					s	m1024	Thiocarboxylated-MPT-synthases	0	
+	Thiocarboxylated-URM1[s]	Thiocarboxylated-URM1					s	m1025	Thiocarboxylated-URM1	0	
+	Thiols[s]	Thiols					s	m1026	Thiols	0	
+	Trans-3-enoyl-CoAs[s]	Trans-3-enoyl-CoAs					s	m1027	Trans-3-enoyl-CoAs	0	
+	Trans-D2-decenoyl-ACPs[s]	Trans-D2-decenoyl-ACPs					s	m1028	Trans-D2-decenoyl-ACPs	0	
+	Triacylglycerides[s]	Triacylglycerides					s	m1029	Triacylglycerides	0	
+	Triacylglycerols[s]	Triacylglycerols					s	m1030	Triacylglycerols	0	
+	ubiquinol-6[s]	ubiquinol-6		pubchem.compound/5813154;chebi/CHEBI:2970;SMILES/CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCC1(=C(C)C(=C(OC)C(OC)=C(O)1)O)	C39H60O4	1S/C39H60O4/c1-28(2)16-11-17-29(3)18-12-19-30(4)20-13-21-31(5)22-14-23-32(6)24-15-25-33(7)26-27-35-34(8)36(40)38(42-9)39(43-10)37(35)41/h16,18,20,22,24,26,40-41H,11-15,17,19,21,23,25,27H2,1-10H3/b29-18+,30-20+,31-22+,32-24+,33-26+	s	m1031	UBIQUINOL-30	0	
+	UDP[s]	UDP		pubchem.compound/20056717;chebi/CHEBI:8223;SMILES/C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O12P2	1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/p-3/t4-,6-,7-,8-/m1/s1	s	m1032	UDP	-3	
+	UDP-beta-L-rhamnose[s]	UDP-beta-L-rhamnose		chebi/CHEBI:3836;pubchem.compound/86290151;SMILES/CC3(OC(OP(OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))([O-])=O)C(O)C(O)C(O)3)	C15H22N2O16P2	1S/C15H24N2O16P2/c1-5-8(19)10(21)12(23)14(30-5)32-35(27,28)33-34(25,26)29-4-6-9(20)11(22)13(31-6)17-3-2-7(18)16-15(17)24/h2-3,5-6,8-14,19-23H,4H2,1H3,(H,25,26)(H,27,28)(H,16,18,24)/p-2/t5-,6+,8-,9+,10+,11+,12+,13+,14+/m0/s1	s	m1033	UDP-L-RHAMNOSE	-2	
+	UDP-N-acetyl-alpha-D-glucosamine[s]	UDP-N-acetyl-alpha-D-glucosamine		chebi/CHEBI:7705;pubchem.compound/16667373;SMILES/CC(=O)NC3(C(OP(OP(OCC1(C(C(C(O1)N2(C=CC(NC2=O)=O))O)O))([O-])=O)([O-])=O)OC(C(C3O)O)CO)	C17H25N3O17P2	1S/C17H27N3O17P2/c1-6(22)18-10-13(26)11(24)7(4-21)35-16(10)36-39(31,32)37-38(29,30)33-5-8-12(25)14(27)15(34-8)20-3-2-9(23)19-17(20)28/h2-3,7-8,10-16,21,24-27H,4-5H2,1H3,(H,18,22)(H,29,30)(H,31,32)(H,19,23,28)/p-2/t7-,8-,10-,11-,12-,13-,14-,15-,16-/m1/s1	s	m1034	UDP-N-ACETYL-D-GLUCOSAMINE	-2	
+	UMP[s]	UMP		chebi/CHEBI:7865;pubchem.compound/1778309;SMILES/C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O9P1	1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/p-2/t4-,6-,7-,8-/m1/s1	s	m1035	UMP	-2	
+	uracil[s]	uracil		pubchem.compound/1174;chebi/CHEBI:7568;SMILES/C1(=CC(NC(=O)N1)=O)	C4H4N2O2	1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)	s	m1036	URACIL	0	
+	urea[s]	urea		pubchem.compound/1176;chebi/CHEBI:6199;SMILES/C(=O)(N)N	C1H4N2O1	1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	s	m1037	UREA	0	
+	uridine[s]	uridine		pubchem.compound/6029;chebi/CHEBI:6704;SMILES/C(O)C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H12N2O6	1S/C9H12N2O6/c12-3-4-6(14)7(15)8(17-4)11-2-1-5(13)10-9(11)16/h1-2,4,6-8,12,14-15H,3H2,(H,10,13,16)/t4-,6-,7-,8-/m1/s1	s	m1038	URIDINE	0	
+	URM1[s]	URM1					s	m1039	URM1	0	
+	uroporphyrinogen-III[s]	uroporphyrinogen-III		chebi/CHEBI:7308;pubchem.compound/25202645;SMILES/C(=O)([O-])CCC3(C(=C2(CC5(NC(CC4(NC(CC1(NC(=C(C=1CC(=O)[O-])CCC(=O)[O-])CC(N2)=3))=C(CC(=O)[O-])C=4CCC(=O)[O-]))=C(CC([O-])=O)C(CCC(=O)[O-])=5)))CC(=O)[O-])	C40H36N4O16	1S/C40H44N4O16/c45-33(46)5-1-17-21(9-37(53)54)29-14-27-19(3-7-35(49)50)22(10-38(55)56)30(43-27)15-28-20(4-8-36(51)52)24(12-40(59)60)32(44-28)16-31-23(11-39(57)58)18(2-6-34(47)48)26(42-31)13-25(17)41-29/h41-44H,1-16H2,(H,45,46)(H,47,48)(H,49,50)(H,51,52)(H,53,54)(H,55,56)(H,57,58)(H,59,60)/p-8	s	m1040	UROPORPHYRINOGEN-III	-8	
+	UTP[s]	UTP		pubchem.compound/7058168;chebi/CHEBI:6398;SMILES/C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))	C9H11N2O15P3	1S/C9H15N2O15P3/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(24-8)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,21,22)(H,10,12,15)(H2,16,17,18)/p-4/t4-,6-,7-,8-/m1/s1	s	m1041	UTP	-4	
+	Ubiquinols[s]	Ubiquinols					s	m1042	Ubiquinols	0	
+	Ubiquinones[s]	Ubiquinones					s	m1043	Ubiquinones	0	
+	Ubiquitin-C-Terminal-Glycine[s]	Ubiquitin-C-Terminal-Glycine					s	m1044	Ubiquitin-C-Terminal-Glycine	0	
+	Ubiquitin-activating-protein-E1-L-cys[s]	Ubiquitin-activating-protein-E1-L-cys					s	m1045	Ubiquitin-activating-protein-E1-L-cys	0	
+	Ubiquitin-carrier-protein-E2-L-cysteine[s]	Ubiquitin-carrier-protein-E2-L-cysteine					s	m1046	Ubiquitin-carrier-protein-E2-L-cysteine	0	
+	Unsulfurated-Sulfur-Acceptors[s]	Unsulfurated-Sulfur-Acceptors					s	m1047	Unsulfurated-Sulfur-Acceptors	0	
+	Uracil16-in-tRNAs[s]	Uracil16-in-tRNAs					s	m1048	Uracil16-in-tRNAs	0	
+	Uracil17-in-tRNAs[s]	Uracil17-in-tRNAs					s	m1049	Uracil17-in-tRNAs	0	
+	Uracil20-in-tRNAs[s]	Uracil20-in-tRNAs					s	m1050	Uracil20-in-tRNAs	0	
+	Uracil20a-in-tRNAs[s]	Uracil20a-in-tRNAs					s	m1051	Uracil20a-in-tRNAs	0	
+	Uracil20b-in-tRNAs[s]	Uracil20b-in-tRNAs					s	m1052	Uracil20b-in-tRNAs	0	
+	Uracil47-in-tRNAs[s]	Uracil47-in-tRNAs					s	m1053	Uracil47-in-tRNAs	0	
+	Uridine44-in-tRNA-Ser[s]	Uridine44-in-tRNA-Ser					s	m1054	Uridine44-in-tRNA-Ser	0	
+	L-valine[s]	L-valine		chebi/CHEBI:7762;pubchem.compound/6971018;SMILES/CC(C)C([N+])C([O-])=O	C5H11N1O2	1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)/t4-/m0/s1	s	m1055	VAL	0	
+	VAL-tRNAs[s]	VAL-tRNAs					s	m1056	VAL-tRNAs	0	
+	vanillate[s]	vanillate		pubchem.compound/54675858;chebi/CHEBI:6632;SMILES/COC1(=CC(=CC=C(O)1)C(=O)[O-])	C8H7O4	1S/C8H8O4/c1-12-7-4-5(8(10)11)2-3-6(7)9/h2-4,9H,1H3,(H,10,11)/p-1	s	m1057	VANILLATE	-1	
+	Very-Long-Chain-3-Hydroxyacyl-CoAs[s]	Very-Long-Chain-3-Hydroxyacyl-CoAs					s	m1058	Very-Long-Chain-3-Hydroxyacyl-CoAs	0	
+	Very-Long-Chain-Trans-23-Dehydroacyl-CoA[s]	Very-Long-Chain-Trans-23-Dehydroacyl-CoA					s	m1059	Very-Long-Chain-Trans-23-Dehydroacyl-CoA	0	
+	Very-Long-Chain-oxoacyl-CoAs[s]	Very-Long-Chain-oxoacyl-CoAs					s	m1060	Very-Long-Chain-oxoacyl-CoAs	0	
+	H2O[s]	H2O		chebi/CHEBI:5377;pubchem.compound/962;SMILES/[OH2]	H2O1	1S/H2O/h1H2	s	m1061	WATER	0	
+	xanthine[s]	xanthine		pubchem.compound/1188;chebi/CHEBI:7712;SMILES/C12(NC(=O)NC(C=1N=CN2)=O)	C5H4N4O2	1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)	s	m1062	XANTHINE	0	
+	xanthosine[s]	xanthosine		pubchem.compound/64959;chebi/CHEBI:8107;SMILES/C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(=O)NC=23)))	C10H12N4O6	1S/C10H12N4O6/c15-1-3-5(16)6(17)9(20-3)14-2-11-4-7(14)12-10(19)13-8(4)18/h2-3,5-6,9,15-17H,1H2,(H2,12,13,18,19)/t3-,5-,6-,9-/m1/s1	s	m1063	XANTHOSINE	0	
+	XMP[s]	XMP		pubchem.compound/23421208;chebi/CHEBI:7464;SMILES/C(OP(=O)([O-])[O-])C1(C(O)C(O)C(O1)N3(C=NC2(C(=O)NC(=O)NC=23)))	C10H11N4O9P1	1S/C10H13N4O9P/c15-5-3(1-22-24(19,20)21)23-9(6(5)16)14-2-11-4-7(14)12-10(18)13-8(4)17/h2-3,5-6,9,15-16H,1H2,(H2,19,20,21)(H2,12,13,17,18)/p-2/t3-,5-,6-,9-/m1/s1	s	m1064	XANTHOSINE-5-PHOSPHATE	-2	
+	xylitol[s]	xylitol		chebi/CHEBI:7151;pubchem.compound/6912;SMILES/C(O)C(O)C(O)C(O)CO	C5H12O5	1S/C5H12O5/c6-1-3(8)5(10)4(9)2-7/h3-10H,1-2H2/t3-,4+,5+	s	m1065	XYLITOL	0	
+	alpha-D-xylopyranose[s]	alpha-D-xylopyranose		chebi/CHEBI:8518;pubchem.compound/6027;SMILES/C1(OC(O)C(O)C(O)C(O)1)	C5H10O5	1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5+/m1/s1	s	m1066	XYLOSE	0	
+	D-xylulose 5-phosphate[s]	D-xylulose 5-phosphate		chebi/CHEBI:7737;pubchem.compound/5459820;SMILES/C(OP([O-])(=O)[O-])C(O)C(O)C(=O)CO	C5H9O8P1	1S/C5H11O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h4-6,8-9H,1-2H2,(H2,10,11,12)/p-2/t4-,5-/m1/s1	s	m1067	XYLULOSE-5-PHOSPHATE	-2	
+	zymosterol[s]	zymosterol		pubchem.compound/92746;chebi/CHEBI:8252;SMILES/CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(CC(O)CCC(C)1C=2CCC(C)34))))	C27H44O1	1S/C27H44O/c1-18(2)7-6-8-19(3)23-11-12-24-22-10-9-20-17-21(28)13-15-26(20,4)25(22)14-16-27(23,24)5/h7,19-21,23-24,28H,6,8-17H2,1-5H3/t19-,20+,21+,23-,24+,26+,27-/m1/s1	s	m1068	ZYMOSTEROL	0	
+	a-2-oxoglutarate-dehydrogenase-E2-protei[s]	a-2-oxoglutarate-dehydrogenase-E2-protei					s	m1069	a-2-oxoglutarate-dehydrogenase-E2-protei	0	
+	a-pyruvate-dehydrogenase-E2-protein-Nsup[s]	a-pyruvate-dehydrogenase-E2-protein-Nsup					s	m1070	a-pyruvate-dehydrogenase-E2-protein-Nsup	0	
+	carbo-me-ur-34-tRNA[s]	carbo-me-ur-34-tRNA					s	m1071	carbo-me-ur-34-tRNA	0	
+	cis-5-enoyl-CoA[s]	cis-5-enoyl-CoA					s	m1072	cis-5-enoyl-CoA	0	
+	eEF-2-Histidines[s]	eEF-2-Histidines					s	m1073	eEF-2-Histidines	0	
+	guanosine-34-tRNAs[s]	guanosine-34-tRNAs					s	m1074	guanosine-34-tRNAs	0	
+	m7G5-pppR-mRNAs[s]	m7G5-pppR-mRNAs					s	m1075	m7G5-pppR-mRNAs	0	
+	mcm5s2U-34-tRNA[s]	mcm5s2U-34-tRNA					s	m1076	mcm5s2U-34-tRNA	0	
+	p-his-tRNAS[s]	p-his-tRNAS					s	m1077	p-his-tRNAS	0	
+	pppGp-his-tRNAs[s]	pppGp-his-tRNAs					s	m1078	pppGp-his-tRNAs	0	
+	pyruvate-dehydrogenase-E2-lipoyl-carrier[s]	pyruvate-dehydrogenase-E2-lipoyl-carrier					s	m1079	pyruvate-dehydrogenase-E2-lipoyl-carrier	0	
+	tRNA-Adenine-58[s]	tRNA-Adenine-58					s	m1080	tRNA-Adenine-58	0	
+	tRNA-Containing-N1-MethylAdenine-58[s]	tRNA-Containing-N1-MethylAdenine-58					s	m1081	tRNA-Containing-N1-MethylAdenine-58	0	
+	tRNA-Containing-N1-Methylguanine-37[s]	tRNA-Containing-N1-Methylguanine-37					s	m1082	tRNA-Containing-N1-Methylguanine-37	0	
+	tRNA-Containing-N1-Methylguanine-9[s]	tRNA-Containing-N1-Methylguanine-9					s	m1083	tRNA-Containing-N1-Methylguanine-9	0	
+	tRNA-Containing-N2-Methylguanine-10[s]	tRNA-Containing-N2-Methylguanine-10					s	m1084	tRNA-Containing-N2-Methylguanine-10	0	
+	tRNA-Containing-N2-Methylguanine-26[s]	tRNA-Containing-N2-Methylguanine-26					s	m1085	tRNA-Containing-N2-Methylguanine-26	0	
+	tRNA-Containing-N2-dimethylguanine-26[s]	tRNA-Containing-N2-dimethylguanine-26					s	m1086	tRNA-Containing-N2-dimethylguanine-26	0	
+	tRNA-containing-5-CarbMeAminome-2-ThioU[s]	tRNA-containing-5-CarbMeAminome-2-ThioU					s	m1087	tRNA-containing-5-CarbMeAminome-2-ThioU	0	
+	tRNA-containing-5-CarbMeAminome-uridine[s]	tRNA-containing-5-CarbMeAminome-uridine					s	m1088	tRNA-containing-5-CarbMeAminome-uridine	0	
+	tRNA-uridine34[s]	tRNA-uridine34					s	m1089	tRNA-uridine34	0	
+	tRNAPhe-Containing-4-demethylwyosine-37[s]	tRNAPhe-Containing-4-demethylwyosine-37					s	m1090	tRNAPhe-Containing-4-demethylwyosine-37	0	
+	tRNAPhe-Containing-N1-Methylguanine-37[s]	tRNAPhe-Containing-N1-Methylguanine-37					s	m1091	tRNAPhe-Containing-N1-Methylguanine-37	0	
+	trans-2-cis-5-dienoyl-CoA[s]	trans-2-cis-5-dienoyl-CoA					s	m1092	trans-2-cis-5-dienoyl-CoA	0	
+	trans-3-cis-5-dienoyl-CoA[s]	trans-3-cis-5-dienoyl-CoA					s	m1093	trans-3-cis-5-dienoyl-CoA	0	
+	yW-72[s]	yW-72					s	m1094	yW-72	0	
+	yW-86[s]	yW-86					s	m1095	yW-86	0	
