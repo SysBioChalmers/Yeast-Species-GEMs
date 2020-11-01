@@ -71,7 +71,7 @@ for i = 1:length(strainlist)
     model= setParam(model,'ub',{'r_4046'},1000);
     model = setParam(model,'obj',{'r_4046'},1);
     sol = optimizeCbModel(model);
-    solresult(i,1) = sol.obj;
+    solresult(i,1) = sol.f;
 end
 
 clades = {'Ascomycota';'Lipomycetaceae';'Trigonopsidaceae';'Dipodascaceae/Trichomonascaceae';'Alloascoideaceae';'Sporopachydermia';'Pichiaceae';'CUG-Ala';'CUG-Ser1';'CUG-Ser2';'Phaffomycetaceae';'Saccharomycodaceae';'Saccharomycetaceae'};

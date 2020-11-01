@@ -124,6 +124,7 @@ set(gca,'xticklabel',[])
 camroll(-90)
 
 % figure 1f for substrate prediction based on clade
+load('FBAresult12_mannitol_Nacetylglc_trans.mat')
 
 %% figure 1f for biomass yield
 for i = 1:length(strains_sortclade)
