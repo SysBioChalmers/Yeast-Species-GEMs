@@ -14,7 +14,7 @@ idx = find(count < 10);
 strain_withoutcomplexI = strain_withoutcomplexI(idx);
 [~,rxnMatrix,~] = getprecursorMatrixCobra(model_original,strains,inputpath,'',0);
 % add respiratory chain back
-rxn = {'r_0438','r_0439','r_0226','r_0770'};
+rxn = {'r_0438','r_0439','r_0226','r_0773'};
 for i = 1:3
     [~,idx] = ismember(rxn(i),model_original.rxns);
     rxnexist = rxnMatrix(:,idx);
@@ -31,7 +31,7 @@ for i = 1:3
         save([strains{donthave(j)},'.mat'],'reducedModel')
     end
 end
-% only gapfill the r_0770 for the species without complexI; THOSE WITH
+% only gapfill the r_0773 for the species without complexI; THOSE WITH
 % COMPLEXI have been fixed at add alternative pathways
 for i = 1:length(strain_withoutcomplexI)
     cd(inputpath)
