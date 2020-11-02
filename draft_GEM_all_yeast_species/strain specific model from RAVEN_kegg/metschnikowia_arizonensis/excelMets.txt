@@ -1383,99 +1383,98 @@
 	Protein N(omega),N(omega)'-dimethyl-L-arginine[s]	Protein N(omega),N(omega)'-dimethyl-L-arginine		kegg.compound/C21189;pubchem.substance/315431312	C9H17N5O2R2		s	m1382	C21189		
 	Protein N5-methyl-L-arginine[s]	Protein N5-methyl-L-arginine		kegg.compound/C21190;pubchem.substance/315431313	C8H15N5O2R2		s	m1383	C21190		
 	Epoxypheophorbide a[s]	Epoxypheophorbide a		kegg.compound/C21192;pubchem.substance/315431315	C35H36N4O6	1S/C35H36N4O6/c1-8-18-15(4)29-33-35(45-33)20(9-2)16(5)23(39-35)12-21-14(3)19(10-11-25(40)41)30(36-21)27-28(34(43)44-7)32(42)26-17(6)22(37-31(26)27)13-24(18)38-29/h9,12-14,19,28,33,37,39H,2,8,10-11H2,1,3-7H3,(H,40,41)/b23-12-,24-13-,30-27-/t14-,19-,28+,33?,35?/m0/s1	s	m1384	C21192		
-	Fe-coproporphyrin III[s]	Fe-coproporphyrin III		kegg.compound/C21284;pubchem.substance/318172264	C36H38N4O8.Fe	1S/C36H38N4O8.Fe/c1-17-21(5-9-33(41)42)29-14-27-19(3)22(6-10-34(43)44)30(39-27)15-28-20(4)24(8-12-36(47)48)32(40-28)16-31-23(7-11-35(45)46)18(2)26(38-31)13-25(17)37-29;/h13-16H,5-12H2,1-4H3,(H6,37,38,39,40,41,42,43,44,45,46,47,48);/q;+2/p-2/b25-13-,26-13-,27-14-,28-15-,29-14-,30-15-,31-16-,32-16-;	s	m1385	C21284		
-	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate[s]	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate		kegg.compound/C21408;pubchem.substance/328082951	C14H14N2O4	1S/C14H14N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-4,7-8,11,16H,5-6H2,(H,17,18)(H,19,20)/t7-,8-,11+/m1/s1	s	m1386	C21408		
-	(5aS)-5,5a-Dihydrophenazine-1,6-dicarboxylate[s]	(5aS)-5,5a-Dihydrophenazine-1,6-dicarboxylate		kegg.compound/C21410;pubchem.substance/328082953	C14H10N2O4	1S/C14H10N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-6,11,16H,(H,17,18)(H,19,20)/t11-/m0/s1	s	m1387	C21410		
-	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate[s]	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate		kegg.compound/C21411;pubchem.substance/328082954	C13H12N2O2	1S/C13H12N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-6,8,12,15H,7H2,(H,16,17)/t8-,12+/m1/s1	s	m1388	C21411		
-	(10aS)-10,10a-Dihydrophenazine-1-carboxylate[s]	(10aS)-10,10a-Dihydrophenazine-1-carboxylate		kegg.compound/C21412;pubchem.substance/328082955	C13H10N2O2	1S/C13H10N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-7,12,15H,(H,16,17)/t12-/m0/s1	s	m1389	C21412		
-	(1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate[s]	(1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate		kegg.compound/C21413;pubchem.substance/328082956	C13H12N2O2	1S/C13H12N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-6,8,14-15H,7H2,(H,16,17)/t8-/m1/s1	s	m1390	C21413		
-	[Sulfur-carrier protein]-Gly-Gly-L-Cys[s]	[Sulfur-carrier protein]-Gly-Gly-L-Cys		kegg.compound/C21437;pubchem.substance/329728060	C7H12N3O4SR		s	m1391	C21437		
-	[Protein]-S-sulfanyl-L-cysteine[s]	[Protein]-S-sulfanyl-L-cysteine		kegg.compound/C21440;pubchem.substance/329728063	C4H6N2O2S2R2		s	m1392	C21440		
-	Phenazine-1-carboxylate[s]	Phenazine-1-carboxylate		kegg.compound/C21442;pubchem.substance/329728065	C13H8N2O2	1S/C13H8N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-7H,(H,16,17)	s	m1393	C21442		
-	6-Hydroxyferuloyl-CoA[s]	6-Hydroxyferuloyl-CoA		kegg.compound/C21459;pubchem.substance/329728082	C31H44N7O20P3S	1S/C31H44N7O20P3S/c1-31(2,26(44)29(45)34-7-6-21(41)33-8-9-62-22(42)5-4-16-10-19(53-3)18(40)11-17(16)39)13-55-61(51,52)58-60(49,50)54-12-20-25(57-59(46,47)48)24(43)30(56-20)38-15-37-23-27(32)35-14-36-28(23)38/h4-5,10-11,14-15,20,24-26,30,39-40,43-44H,6-9,12-13H2,1-3H3,(H,33,41)(H,34,45)(H,49,50)(H,51,52)(H2,32,35,36)(H2,46,47,48)/b5-4+/t20-,24-,25-,26+,30-/m1/s1	s	m1394	C21459		
-	5,10-Dihydrophenazine-1,6-dicarboxylate[s]	5,10-Dihydrophenazine-1,6-dicarboxylate		kegg.compound/C21474;pubchem.substance/329970426	C14H10N2O4	1S/C14H10N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-6,15-16H,(H,17,18)(H,19,20)	s	m1395	C21474		
-	5,10-Dihydrophenazine[s]	5,10-Dihydrophenazine		kegg.compound/C21475;pubchem.substance/329970427	C12H10N2	1S/C12H10N2/c1-2-6-10-9(5-1)13-11-7-3-4-8-12(11)14-10/h1-8,13-14H	s	m1396	C21475		
-	Phenazine[s]	Phenazine		kegg.compound/C21476;pubchem.substance/329970428	C12H8N2	1S/C12H8N2/c1-2-6-10-9(5-1)13-11-7-3-4-8-12(11)14-10/h1-8H	s	m1397	C21476		
-	Bacteriochlorophyllide e[s]	Bacteriochlorophyllide e		kegg.compound/C21582;pubchem.substance/340125643	C31H26MgN4O5(R1)(R2)		s	m1398	C21582		
-	(13S,14R)-1,8-Dihydroxy-13-O-acetyl-N-methylcanadine[s]	(13S,14R)-1,8-Dihydroxy-13-O-acetyl-N-methylcanadine		kegg.compound/C21589;pubchem.substance/340125649	C23H25NO8	1S/C23H25NO8/c1-11(25)32-20-13-5-6-14(28-3)21(29-4)17(13)23(27)24(2)8-7-12-9-15-22(31-10-30-15)19(26)16(12)18(20)24/h5-6,9,18,20,23,27H,7-8,10H2,1-4H3/p+1/t18-,20+,23?,24?/m1/s1	s	m1399	C21589		
-	4'-O-Desmethyl-3-O-acetylpapaveroxine[s]	4'-O-Desmethyl-3-O-acetylpapaveroxine		kegg.compound/C21590;pubchem.substance/340125650	C23H25NO8	1S/C23H25NO8/c1-12(26)32-22(14-5-6-16(28-3)21(29-4)15(14)10-25)19-18-13(7-8-24(19)2)9-17-23(20(18)27)31-11-30-17/h5-6,9-10,19,22,27H,7-8,11H2,1-4H3/t19-,22+/m1/s1	s	m1400	C21590		
-	4'-O-Desmethylpapaveroxine[s]	4'-O-Desmethylpapaveroxine		kegg.compound/C21599;pubchem.substance/340125657	C21H23NO7	1S/C21H23NO7/c1-22-7-6-11-8-15-21(29-10-28-15)19(25)16(11)17(22)18(24)12-4-5-14(26-2)20(27-3)13(12)9-23/h4-5,8-9,17-18,24-25H,6-7,10H2,1-3H3/t17-,18+/m1/s1	s	m1401	C21599		
-	Narcotoline hemiacetal[s]	Narcotoline hemiacetal		kegg.compound/C21600;pubchem.substance/340125658	C21H23NO7	1S/C21H23NO7/c1-22-7-6-10-8-13-20(28-9-27-13)17(23)14(10)16(22)18-11-4-5-12(25-2)19(26-3)15(11)21(24)29-18/h4-5,8,16,18,21,23-24H,6-7,9H2,1-3H3/t16-,18+,21?/m1/s1	s	m1402	C21600		
-	S-[(E)-N-Hydroxy(indol-3-yl)acetimidoyl]-L-glutathione[s]	S-[(E)-N-Hydroxy(indol-3-yl)acetimidoyl]-L-glutathione		kegg.compound/C21620;pubchem.substance/340650284	C20H25N5O7S	1S/C20H25N5O7S/c21-13(20(30)31)5-6-16(26)24-15(19(29)23-9-18(27)28)10-33-17(25-32)7-11-8-22-14-4-2-1-3-12(11)14/h1-4,8,13,15,22,32H,5-7,9-10,21H2,(H,23,29)(H,24,26)(H,27,28)(H,30,31)/b25-17+/t13-,15-/m0/s1	s	m1403	C21620		
-	S-[(Z)-N-Hydroxy(phenyl)acetimidoyl]-L-glutathione[s]	S-[(Z)-N-Hydroxy(phenyl)acetimidoyl]-L-glutathione		kegg.compound/C21622;pubchem.substance/340650286	C18H24N4O7S	1S/C18H24N4O7S/c19-12(18(27)28)6-7-14(23)21-13(17(26)20-9-16(24)25)10-30-15(22-29)8-11-4-2-1-3-5-11/h1-5,12-13,29H,6-10,19H2,(H,20,26)(H,21,23)(H,24,25)(H,27,28)/b22-15-/t12-,13-/m0/s1	s	m1404	C21622		
-	1-aci-Nitro-2-phenylethane[s]	1-aci-Nitro-2-phenylethane		kegg.compound/C21623;pubchem.substance/340650287	C8H9NO2	1S/C8H9NO2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-5,7H,6H2,(H,10,11)	s	m1405	C21623		
-	6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin[s]	6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin		kegg.compound/C21640;pubchem.substance/340650300	C9H13N5O3	1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h4,6,12,16H,2H2,1H3,(H4,10,11,13,14,17)/t4?,6-/m0/s1	s	m1406	C21640		
-	2-(Hydroxysulfanyl)hercynine[s]	2-(Hydroxysulfanyl)hercynine		kegg.compound/C21731;pubchem.substance/350078308	C9H15N3O3S	1S/C9H15N3O3S/c1-12(2,3)7(8(13)14)4-6-5-10-9(11-6)16-15/h5,7H,4H2,1-3H3,(H2-,10,11,13,14,15)/p+1/t7-/m0/s1	s	m1407	C21731		
-	5-Fluorouridine diphosphate[s]	5-Fluorouridine diphosphate		kegg.compound/C21748;pubchem.substance/354264342	C9H13FN2O12P2	1S/C9H13FN2O12P2/c10-3-1-12(9(16)11-7(3)15)8-6(14)5(13)4(23-8)2-22-26(20,21)24-25(17,18)19/h1,4-6,8,13-14H,2H2,(H,20,21)(H,11,15,16)(H2,17,18,19)/t4-,5-,6-,8-/m1/s1	s	m1408	C21748		
-	5-Fluorouridine triphosphate[s]	5-Fluorouridine triphosphate		kegg.compound/C21749;pubchem.substance/354264343	C9H14FN2O15P3	1S/C9H14FN2O15P3/c10-3-1-12(9(16)11-7(3)15)8-6(14)5(13)4(25-8)2-24-29(20,21)27-30(22,23)26-28(17,18)19/h1,4-6,8,13-14H,2H2,(H,20,21)(H,22,23)(H,11,15,16)(H2,17,18,19)/t4-,5-,6-,8-/m1/s1	s	m1409	C21749		
-	5-Fluorodeoxyuridine diphosphate[s]	5-Fluorodeoxyuridine diphosphate		kegg.compound/C21750;pubchem.substance/354264344	C9H13FN2O11P2	1S/C9H13FN2O11P2/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(22-7)3-21-25(19,20)23-24(16,17)18/h2,5-7,13H,1,3H2,(H,19,20)(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1	s	m1410	C21750		
-	5-Fluorodeoxyuridine triphosphate[s]	5-Fluorodeoxyuridine triphosphate		kegg.compound/C21751;pubchem.substance/354264345	C9H14FN2O14P3	1S/C9H14FN2O14P3/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(24-7)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h2,5-7,13H,1,3H2,(H,19,20)(H,21,22)(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1	s	m1411	C21751		
-	S-Sulfinatoglutathione[s]	S-Sulfinatoglutathione		kegg.compound/C21787;pubchem.substance/354339130	C10H17N3O8S2	1S/C10H17N3O8S2/c11-5(10(18)19)1-2-7(14)13-6(4-22-23(20)21)9(17)12-3-8(15)16/h5-6H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)(H,20,21)/t5-,6-/m0/s1	s	m1412	C21787		
-	[Protein]-dehydroalanine[s]	[Protein]-dehydroalanine		kegg.compound/C21861	C4H4N2O2R2		s	m1413	C21861		
-	Dihydrochanoclavine-I aldehyde[s]	Dihydrochanoclavine-I aldehyde		kegg.compound/C21897	C16H20N2O	1S/C16H20N2O/c1-10(9-19)6-13-12-4-3-5-14-16(12)11(8-18-14)7-15(13)17-2/h3-5,8-10,13,15,17-18H,6-7H2,1-2H3/t10?,13-,15-/m1/s1	s	m1414	C21897		
-	N-Acetyl-D-glucosaminyldiphosphodolichol (G00001)[s]	N-Acetyl-D-glucosaminyldiphosphodolichol (G00001)		kegg.glycan/G00001			s	m1415	G00001		
-	N,N'-Chitobiosyldiphosphodolichol[s]	N,N'-Chitobiosyldiphosphodolichol		kegg.glycan/G00002			s	m1416	G00002		
-	G00003[s]	G00003		kegg.glycan/G00003			s	m1417	G00003		
-	G00004[s]	G00004		kegg.glycan/G00004			s	m1418	G00004		
-	G00005[s]	G00005		kegg.glycan/G00005			s	m1419	G00005		
-	G00006[s]	G00006		kegg.glycan/G00006			s	m1420	G00006		
-	G00007[s]	G00007		kegg.glycan/G00007			s	m1421	G00007		
-	G00008[s]	G00008		kegg.glycan/G00008			s	m1422	G00008		
-	G00009[s]	G00009		kegg.glycan/G00009			s	m1423	G00009		
-	G00010[s]	G00010		kegg.glycan/G00010			s	m1424	G00010		
-	G00011[s]	G00011		kegg.glycan/G00011			s	m1425	G00011		
-	G00012[s]	G00012		kegg.glycan/G00012			s	m1426	G00012		
-	Globotriaosylceramide[s]	Globotriaosylceramide		kegg.glycan/G00093			s	m1427	G00093		
-	Globoside (G00094)[s]	Globoside (G00094)		kegg.glycan/G00094			s	m1428	G00094		
-	G00140[s]	G00140		kegg.glycan/G00140			s	m1429	G00140		
-	G00141[s]	G00141		kegg.glycan/G00141			s	m1430	G00141		
-	G00143[s]	G00143		kegg.glycan/G00143			s	m1431	G00143		
-	G00144[s]	G00144		kegg.glycan/G00144			s	m1432	G00144		
-	G00145[s]	G00145		kegg.glycan/G00145			s	m1433	G00145		
-	G00146[s]	G00146		kegg.glycan/G00146			s	m1434	G00146		
-	G00147[s]	G00147		kegg.glycan/G00147			s	m1435	G00147		
-	G00148[s]	G00148		kegg.glycan/G00148			s	m1436	G00148		
-	G00149[s]	G00149		kegg.glycan/G00149			s	m1437	G00149		
-	G00151[s]	G00151		kegg.glycan/G00151			s	m1438	G00151		
-	G00171[s]	G00171		kegg.glycan/G00171			s	m1439	G00171		
-	Sucrose (G00370)[s]	Sucrose (G00370)		kegg.glycan/G00370			s	m1440	G00370		
-	G00711[s]	G00711		kegg.glycan/G00711			s	m1441	G00711		
-	G01391[s]	G01391		kegg.glycan/G01391			s	m1442	G01391		
-	G01813[s]	G01813		kegg.glycan/G01813			s	m1443	G01813		
-	G10008[s]	G10008		kegg.glycan/G10008			s	m1444	G10008		
-	G10526[s]	G10526		kegg.glycan/G10526			s	m1445	G10526		
-	G10595[s]	G10595		kegg.glycan/G10595			s	m1446	G10595		
-	G10596[s]	G10596		kegg.glycan/G10596			s	m1447	G10596		
-	G10597[s]	G10597		kegg.glycan/G10597			s	m1448	G10597		
-	G10598[s]	G10598		kegg.glycan/G10598			s	m1449	G10598		
-	G10599[s]	G10599		kegg.glycan/G10599			s	m1450	G10599		
-	UDP-N-acetyl-D-glucosamine[s]	UDP-N-acetyl-D-glucosamine		kegg.glycan/G10610			s	m1451	G10610		
-	GDP-D-mannose[s]	GDP-D-mannose		kegg.glycan/G10614			s	m1452	G10614		
-	Dolichyl phosphate D-mannose (G10617)[s]	Dolichyl phosphate D-mannose (G10617)		kegg.glycan/G10617			s	m1453	G10617		
-	Dolichyl D-glucosyl phosphate[s]	Dolichyl D-glucosyl phosphate		kegg.glycan/G10618			s	m1454	G10618		
-	UDP (G10619)[s]	UDP (G10619)		kegg.glycan/G10619			s	m1455	G10619		
-	GDP (G10620)[s]	GDP (G10620)		kegg.glycan/G10620			s	m1456	G10620		
-	Dolichyl phosphate (G10622)[s]	Dolichyl phosphate (G10622)		kegg.glycan/G10622			s	m1457	G10622		
-	G10694[s]	G10694		kegg.glycan/G10694			s	m1458	G10694		
-	G10737[s]	G10737		kegg.glycan/G10737			s	m1459	G10737		
-	G10842[s]	G10842		kegg.glycan/G10842			s	m1460	G10842		
-	G10843[s]	G10843		kegg.glycan/G10843			s	m1461	G10843		
-	G11055[s]	G11055		kegg.glycan/G11055			s	m1462	G11055		
-	G12573[s]	G12573		kegg.glycan/G12573			s	m1463	G12573		
-	G13027[s]	G13027		kegg.glycan/G13027			s	m1464	G13027		
-	G13044[s]	G13044		kegg.glycan/G13044			s	m1465	G13044		
-	G13073[s]	G13073		kegg.glycan/G13073			s	m1466	G13073		
-	G13074[s]	G13074		kegg.glycan/G13074			s	m1467	G13074		
-	(n-2) C00001[s]	(n-2) C00001					s	m1468	undefined_6		
-	(n-2) C00031[s]	(n-2) C00031					s	m1469	undefined_8		
-	C00039(n)[s]	C00039(n)					s	m1470	undefined_18		
-	C00039(n+m)[s]	C00039(n+m)					s	m1471	undefined_20		
-	C02128(m)[s]	C02128(m)					s	m1472	undefined_39		
-	C03541(n)[s]	C03541(n)					s	m1473	undefined_46		
-	C03541(n+1)[s]	C03541(n+1)					s	m1474	undefined_47		
-	G10545(n)[s]	G10545(n)					s	m1475	undefined_111		
-	G10545(n+1)[s]	G10545(n+1)					s	m1476	undefined_112		
-	n C00001[s]	n C00001					s	m1477	undefined_119		
-	n C00013[s]	n C00013					s	m1478	undefined_124		
-	n C00033[s]	n C00033					s	m1479	undefined_130		
-	n C00129[s]	n C00129					s	m1480	undefined_134		
+	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate[s]	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate		kegg.compound/C21408;pubchem.substance/328082951	C14H14N2O4	1S/C14H14N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-4,7-8,11,16H,5-6H2,(H,17,18)(H,19,20)/t7-,8-,11+/m1/s1	s	m1385	C21408		
+	(5aS)-5,5a-Dihydrophenazine-1,6-dicarboxylate[s]	(5aS)-5,5a-Dihydrophenazine-1,6-dicarboxylate		kegg.compound/C21410;pubchem.substance/328082953	C14H10N2O4	1S/C14H10N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-6,11,16H,(H,17,18)(H,19,20)/t11-/m0/s1	s	m1386	C21410		
+	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate[s]	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1-carboxylate		kegg.compound/C21411;pubchem.substance/328082954	C13H12N2O2	1S/C13H12N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-6,8,12,15H,7H2,(H,16,17)/t8-,12+/m1/s1	s	m1387	C21411		
+	(10aS)-10,10a-Dihydrophenazine-1-carboxylate[s]	(10aS)-10,10a-Dihydrophenazine-1-carboxylate		kegg.compound/C21412;pubchem.substance/328082955	C13H10N2O2	1S/C13H10N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-7,12,15H,(H,16,17)/t12-/m0/s1	s	m1388	C21412		
+	(1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate[s]	(1R)-1,4,5,10-Tetrahydrophenazine-1-carboxylate		kegg.compound/C21413;pubchem.substance/328082956	C13H12N2O2	1S/C13H12N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-6,8,14-15H,7H2,(H,16,17)/t8-/m1/s1	s	m1389	C21413		
+	[Sulfur-carrier protein]-Gly-Gly-L-Cys[s]	[Sulfur-carrier protein]-Gly-Gly-L-Cys		kegg.compound/C21437;pubchem.substance/329728060	C7H12N3O4SR		s	m1390	C21437		
+	[Protein]-S-sulfanyl-L-cysteine[s]	[Protein]-S-sulfanyl-L-cysteine		kegg.compound/C21440;pubchem.substance/329728063	C4H6N2O2S2R2		s	m1391	C21440		
+	Phenazine-1-carboxylate[s]	Phenazine-1-carboxylate		kegg.compound/C21442;pubchem.substance/329728065	C13H8N2O2	1S/C13H8N2O2/c16-13(17)8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-7H,(H,16,17)	s	m1392	C21442		
+	6-Hydroxyferuloyl-CoA[s]	6-Hydroxyferuloyl-CoA		kegg.compound/C21459;pubchem.substance/329728082	C31H44N7O20P3S	1S/C31H44N7O20P3S/c1-31(2,26(44)29(45)34-7-6-21(41)33-8-9-62-22(42)5-4-16-10-19(53-3)18(40)11-17(16)39)13-55-61(51,52)58-60(49,50)54-12-20-25(57-59(46,47)48)24(43)30(56-20)38-15-37-23-27(32)35-14-36-28(23)38/h4-5,10-11,14-15,20,24-26,30,39-40,43-44H,6-9,12-13H2,1-3H3,(H,33,41)(H,34,45)(H,49,50)(H,51,52)(H2,32,35,36)(H2,46,47,48)/b5-4+/t20-,24-,25-,26+,30-/m1/s1	s	m1393	C21459		
+	5,10-Dihydrophenazine-1,6-dicarboxylate[s]	5,10-Dihydrophenazine-1,6-dicarboxylate		kegg.compound/C21474;pubchem.substance/329970426	C14H10N2O4	1S/C14H10N2O4/c17-13(18)7-3-1-5-9-11(7)16-10-6-2-4-8(14(19)20)12(10)15-9/h1-6,15-16H,(H,17,18)(H,19,20)	s	m1394	C21474		
+	5,10-Dihydrophenazine[s]	5,10-Dihydrophenazine		kegg.compound/C21475;pubchem.substance/329970427	C12H10N2	1S/C12H10N2/c1-2-6-10-9(5-1)13-11-7-3-4-8-12(11)14-10/h1-8,13-14H	s	m1395	C21475		
+	Phenazine[s]	Phenazine		kegg.compound/C21476;pubchem.substance/329970428	C12H8N2	1S/C12H8N2/c1-2-6-10-9(5-1)13-11-7-3-4-8-12(11)14-10/h1-8H	s	m1396	C21476		
+	Bacteriochlorophyllide e[s]	Bacteriochlorophyllide e		kegg.compound/C21582;pubchem.substance/340125643	C31H26MgN4O5(R1)(R2)		s	m1397	C21582		
+	(13S,14R)-1,8-Dihydroxy-13-O-acetyl-N-methylcanadine[s]	(13S,14R)-1,8-Dihydroxy-13-O-acetyl-N-methylcanadine		kegg.compound/C21589;pubchem.substance/340125649	C23H25NO8	1S/C23H25NO8/c1-11(25)32-20-13-5-6-14(28-3)21(29-4)17(13)23(27)24(2)8-7-12-9-15-22(31-10-30-15)19(26)16(12)18(20)24/h5-6,9,18,20,23,27H,7-8,10H2,1-4H3/p+1/t18-,20+,23?,24?/m1/s1	s	m1398	C21589		
+	4'-O-Desmethyl-3-O-acetylpapaveroxine[s]	4'-O-Desmethyl-3-O-acetylpapaveroxine		kegg.compound/C21590;pubchem.substance/340125650	C23H25NO8	1S/C23H25NO8/c1-12(26)32-22(14-5-6-16(28-3)21(29-4)15(14)10-25)19-18-13(7-8-24(19)2)9-17-23(20(18)27)31-11-30-17/h5-6,9-10,19,22,27H,7-8,11H2,1-4H3/t19-,22+/m1/s1	s	m1399	C21590		
+	4'-O-Desmethylpapaveroxine[s]	4'-O-Desmethylpapaveroxine		kegg.compound/C21599;pubchem.substance/340125657	C21H23NO7	1S/C21H23NO7/c1-22-7-6-11-8-15-21(29-10-28-15)19(25)16(11)17(22)18(24)12-4-5-14(26-2)20(27-3)13(12)9-23/h4-5,8-9,17-18,24-25H,6-7,10H2,1-3H3/t17-,18+/m1/s1	s	m1400	C21599		
+	Narcotoline hemiacetal[s]	Narcotoline hemiacetal		kegg.compound/C21600;pubchem.substance/340125658	C21H23NO7	1S/C21H23NO7/c1-22-7-6-10-8-13-20(28-9-27-13)17(23)14(10)16(22)18-11-4-5-12(25-2)19(26-3)15(11)21(24)29-18/h4-5,8,16,18,21,23-24H,6-7,9H2,1-3H3/t16-,18+,21?/m1/s1	s	m1401	C21600		
+	S-[(E)-N-Hydroxy(indol-3-yl)acetimidoyl]-L-glutathione[s]	S-[(E)-N-Hydroxy(indol-3-yl)acetimidoyl]-L-glutathione		kegg.compound/C21620;pubchem.substance/340650284	C20H25N5O7S	1S/C20H25N5O7S/c21-13(20(30)31)5-6-16(26)24-15(19(29)23-9-18(27)28)10-33-17(25-32)7-11-8-22-14-4-2-1-3-12(11)14/h1-4,8,13,15,22,32H,5-7,9-10,21H2,(H,23,29)(H,24,26)(H,27,28)(H,30,31)/b25-17+/t13-,15-/m0/s1	s	m1402	C21620		
+	S-[(Z)-N-Hydroxy(phenyl)acetimidoyl]-L-glutathione[s]	S-[(Z)-N-Hydroxy(phenyl)acetimidoyl]-L-glutathione		kegg.compound/C21622;pubchem.substance/340650286	C18H24N4O7S	1S/C18H24N4O7S/c19-12(18(27)28)6-7-14(23)21-13(17(26)20-9-16(24)25)10-30-15(22-29)8-11-4-2-1-3-5-11/h1-5,12-13,29H,6-10,19H2,(H,20,26)(H,21,23)(H,24,25)(H,27,28)/b22-15-/t12-,13-/m0/s1	s	m1403	C21622		
+	1-aci-Nitro-2-phenylethane[s]	1-aci-Nitro-2-phenylethane		kegg.compound/C21623;pubchem.substance/340650287	C8H9NO2	1S/C8H9NO2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-5,7H,6H2,(H,10,11)	s	m1404	C21623		
+	6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin[s]	6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin		kegg.compound/C21640;pubchem.substance/340650300	C9H13N5O3	1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h4,6,12,16H,2H2,1H3,(H4,10,11,13,14,17)/t4?,6-/m0/s1	s	m1405	C21640		
+	2-(Hydroxysulfanyl)hercynine[s]	2-(Hydroxysulfanyl)hercynine		kegg.compound/C21731;pubchem.substance/350078308	C9H15N3O3S	1S/C9H15N3O3S/c1-12(2,3)7(8(13)14)4-6-5-10-9(11-6)16-15/h5,7H,4H2,1-3H3,(H2-,10,11,13,14,15)/p+1/t7-/m0/s1	s	m1406	C21731		
+	5-Fluorouridine diphosphate[s]	5-Fluorouridine diphosphate		kegg.compound/C21748;pubchem.substance/354264342	C9H13FN2O12P2	1S/C9H13FN2O12P2/c10-3-1-12(9(16)11-7(3)15)8-6(14)5(13)4(23-8)2-22-26(20,21)24-25(17,18)19/h1,4-6,8,13-14H,2H2,(H,20,21)(H,11,15,16)(H2,17,18,19)/t4-,5-,6-,8-/m1/s1	s	m1407	C21748		
+	5-Fluorouridine triphosphate[s]	5-Fluorouridine triphosphate		kegg.compound/C21749;pubchem.substance/354264343	C9H14FN2O15P3	1S/C9H14FN2O15P3/c10-3-1-12(9(16)11-7(3)15)8-6(14)5(13)4(25-8)2-24-29(20,21)27-30(22,23)26-28(17,18)19/h1,4-6,8,13-14H,2H2,(H,20,21)(H,22,23)(H,11,15,16)(H2,17,18,19)/t4-,5-,6-,8-/m1/s1	s	m1408	C21749		
+	5-Fluorodeoxyuridine diphosphate[s]	5-Fluorodeoxyuridine diphosphate		kegg.compound/C21750;pubchem.substance/354264344	C9H13FN2O11P2	1S/C9H13FN2O11P2/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(22-7)3-21-25(19,20)23-24(16,17)18/h2,5-7,13H,1,3H2,(H,19,20)(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1	s	m1409	C21750		
+	5-Fluorodeoxyuridine triphosphate[s]	5-Fluorodeoxyuridine triphosphate		kegg.compound/C21751;pubchem.substance/354264345	C9H14FN2O14P3	1S/C9H14FN2O14P3/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(24-7)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h2,5-7,13H,1,3H2,(H,19,20)(H,21,22)(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1	s	m1410	C21751		
+	S-Sulfinatoglutathione[s]	S-Sulfinatoglutathione		kegg.compound/C21787;pubchem.substance/354339130	C10H17N3O8S2	1S/C10H17N3O8S2/c11-5(10(18)19)1-2-7(14)13-6(4-22-23(20)21)9(17)12-3-8(15)16/h5-6H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)(H,20,21)/t5-,6-/m0/s1	s	m1411	C21787		
+	[Protein]-dehydroalanine[s]	[Protein]-dehydroalanine		kegg.compound/C21861	C4H4N2O2R2		s	m1412	C21861		
+	Dihydrochanoclavine-I aldehyde[s]	Dihydrochanoclavine-I aldehyde		kegg.compound/C21897	C16H20N2O	1S/C16H20N2O/c1-10(9-19)6-13-12-4-3-5-14-16(12)11(8-18-14)7-15(13)17-2/h3-5,8-10,13,15,17-18H,6-7H2,1-2H3/t10?,13-,15-/m1/s1	s	m1413	C21897		
+	N-Acetyl-D-glucosaminyldiphosphodolichol (G00001)[s]	N-Acetyl-D-glucosaminyldiphosphodolichol (G00001)		kegg.glycan/G00001			s	m1414	G00001		
+	N,N'-Chitobiosyldiphosphodolichol[s]	N,N'-Chitobiosyldiphosphodolichol		kegg.glycan/G00002			s	m1415	G00002		
+	G00003[s]	G00003		kegg.glycan/G00003			s	m1416	G00003		
+	G00004[s]	G00004		kegg.glycan/G00004			s	m1417	G00004		
+	G00005[s]	G00005		kegg.glycan/G00005			s	m1418	G00005		
+	G00006[s]	G00006		kegg.glycan/G00006			s	m1419	G00006		
+	G00007[s]	G00007		kegg.glycan/G00007			s	m1420	G00007		
+	G00008[s]	G00008		kegg.glycan/G00008			s	m1421	G00008		
+	G00009[s]	G00009		kegg.glycan/G00009			s	m1422	G00009		
+	G00010[s]	G00010		kegg.glycan/G00010			s	m1423	G00010		
+	G00011[s]	G00011		kegg.glycan/G00011			s	m1424	G00011		
+	G00012[s]	G00012		kegg.glycan/G00012			s	m1425	G00012		
+	Globotriaosylceramide[s]	Globotriaosylceramide		kegg.glycan/G00093			s	m1426	G00093		
+	Globoside (G00094)[s]	Globoside (G00094)		kegg.glycan/G00094			s	m1427	G00094		
+	G00140[s]	G00140		kegg.glycan/G00140			s	m1428	G00140		
+	G00141[s]	G00141		kegg.glycan/G00141			s	m1429	G00141		
+	G00143[s]	G00143		kegg.glycan/G00143			s	m1430	G00143		
+	G00144[s]	G00144		kegg.glycan/G00144			s	m1431	G00144		
+	G00145[s]	G00145		kegg.glycan/G00145			s	m1432	G00145		
+	G00146[s]	G00146		kegg.glycan/G00146			s	m1433	G00146		
+	G00147[s]	G00147		kegg.glycan/G00147			s	m1434	G00147		
+	G00148[s]	G00148		kegg.glycan/G00148			s	m1435	G00148		
+	G00149[s]	G00149		kegg.glycan/G00149			s	m1436	G00149		
+	G00151[s]	G00151		kegg.glycan/G00151			s	m1437	G00151		
+	G00171[s]	G00171		kegg.glycan/G00171			s	m1438	G00171		
+	Sucrose (G00370)[s]	Sucrose (G00370)		kegg.glycan/G00370			s	m1439	G00370		
+	G00711[s]	G00711		kegg.glycan/G00711			s	m1440	G00711		
+	G01391[s]	G01391		kegg.glycan/G01391			s	m1441	G01391		
+	G01813[s]	G01813		kegg.glycan/G01813			s	m1442	G01813		
+	G10008[s]	G10008		kegg.glycan/G10008			s	m1443	G10008		
+	G10526[s]	G10526		kegg.glycan/G10526			s	m1444	G10526		
+	G10595[s]	G10595		kegg.glycan/G10595			s	m1445	G10595		
+	G10596[s]	G10596		kegg.glycan/G10596			s	m1446	G10596		
+	G10597[s]	G10597		kegg.glycan/G10597			s	m1447	G10597		
+	G10598[s]	G10598		kegg.glycan/G10598			s	m1448	G10598		
+	G10599[s]	G10599		kegg.glycan/G10599			s	m1449	G10599		
+	UDP-N-acetyl-D-glucosamine[s]	UDP-N-acetyl-D-glucosamine		kegg.glycan/G10610			s	m1450	G10610		
+	GDP-D-mannose[s]	GDP-D-mannose		kegg.glycan/G10614			s	m1451	G10614		
+	Dolichyl phosphate D-mannose (G10617)[s]	Dolichyl phosphate D-mannose (G10617)		kegg.glycan/G10617			s	m1452	G10617		
+	Dolichyl D-glucosyl phosphate[s]	Dolichyl D-glucosyl phosphate		kegg.glycan/G10618			s	m1453	G10618		
+	UDP (G10619)[s]	UDP (G10619)		kegg.glycan/G10619			s	m1454	G10619		
+	GDP (G10620)[s]	GDP (G10620)		kegg.glycan/G10620			s	m1455	G10620		
+	Dolichyl phosphate (G10622)[s]	Dolichyl phosphate (G10622)		kegg.glycan/G10622			s	m1456	G10622		
+	G10694[s]	G10694		kegg.glycan/G10694			s	m1457	G10694		
+	G10737[s]	G10737		kegg.glycan/G10737			s	m1458	G10737		
+	G10842[s]	G10842		kegg.glycan/G10842			s	m1459	G10842		
+	G10843[s]	G10843		kegg.glycan/G10843			s	m1460	G10843		
+	G11055[s]	G11055		kegg.glycan/G11055			s	m1461	G11055		
+	G12573[s]	G12573		kegg.glycan/G12573			s	m1462	G12573		
+	G13027[s]	G13027		kegg.glycan/G13027			s	m1463	G13027		
+	G13044[s]	G13044		kegg.glycan/G13044			s	m1464	G13044		
+	G13073[s]	G13073		kegg.glycan/G13073			s	m1465	G13073		
+	G13074[s]	G13074		kegg.glycan/G13074			s	m1466	G13074		
+	(n-2) C00001[s]	(n-2) C00001					s	m1467	undefined_6		
+	(n-2) C00031[s]	(n-2) C00031					s	m1468	undefined_8		
+	C00039(n)[s]	C00039(n)					s	m1469	undefined_18		
+	C00039(n+m)[s]	C00039(n+m)					s	m1470	undefined_20		
+	C02128(m)[s]	C02128(m)					s	m1471	undefined_39		
+	C03541(n)[s]	C03541(n)					s	m1472	undefined_46		
+	C03541(n+1)[s]	C03541(n+1)					s	m1473	undefined_47		
+	G10545(n)[s]	G10545(n)					s	m1474	undefined_111		
+	G10545(n+1)[s]	G10545(n+1)					s	m1475	undefined_112		
+	n C00001[s]	n C00001					s	m1476	undefined_119		
+	n C00013[s]	n C00013					s	m1477	undefined_124		
+	n C00033[s]	n C00033					s	m1478	undefined_130		
+	n C00129[s]	n C00129					s	m1479	undefined_134		
