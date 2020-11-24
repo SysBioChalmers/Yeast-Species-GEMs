@@ -34,12 +34,14 @@ for i = 1:length(strains)
         end
     end   
     
+    if ~isempty(para)
     [~,idx] = ismember(para(:,1),model.genes);
     model.genes(idx(idx~=0)) = para((idx~=0),2); % replace gene ID by the first paralog
     para        = para(:,2:3);
     idx         = cellfun(@strcmp,para(:,1),para(:,2));% find paralog 
     para        = para(~idx,:); % generate paralog info for the next step update
-
+    end
+    
     cd otherchanges/
     model.grRules = rulesTogrrules(model);
     [grRules,rxnGeneMat]   = standardizeGrRules(model,true);
@@ -50,8 +52,9 @@ for i = 1:length(strains)
     model = deleteDuplicateGenes(model);
     
     % update the paralog information
+    if ~isempty(para)
     model = UpdatePanGPR(para,model); % not update the protein so that panID can be saved there
-    
+    end
     
     % find not matched genes and delete those genes, but keep those rxns
     nomatch     = setdiff(model.genes,geneID_core);
@@ -62,6 +65,12 @@ for i = 1:length(strains)
     model = slimGPR(model);
     nomatchresult{i}     = nomatch;
     cd ..
+    % get panID as proteins
+    model.proteins = model.genes;
+    [~,idx] = ismember(geneID_core,model.genes);
+    model.proteins(idx(idx~=0)) = panID_final(idx~=0);
+    
+    
     if changeUniprot
         fileName       = ['../data/uniprot_geneMap/',strains{i},'.csv'];
         fID            = fopen(fileName);
@@ -84,11 +93,7 @@ for i = 1:length(strains)
         model.rxnGeneMat     = rxnGeneMat;
     end
     
-    % get panID as proteins
-    model.proteins = model.genes;
-    [~,idx] = ismember(geneID_core,model.genes);
-    model.proteins(idx(idx~=0)) = panID_final(idx~=0);
-    
+
     reducedModel = model;
     cd(outputpath)
     save([strains{i},'.mat'],'reducedModel')

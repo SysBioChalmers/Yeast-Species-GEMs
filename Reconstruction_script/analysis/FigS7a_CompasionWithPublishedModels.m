@@ -6,7 +6,7 @@ inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_s
 
 % load mapping list published model/species
 fid2 = fopen('../data/PublishedModel_list.tsv');
-format = '%s %s %s %s %s %s';
+format = '%s %s %s %s %s %s %s';
 temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
 for i = 1:length(temp)
 data(:,i) = temp{i};

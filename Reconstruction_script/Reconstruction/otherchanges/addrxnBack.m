@@ -88,9 +88,5 @@ for i = 1: length(model.genes)
         model.geneNames{i} = model.genes{i};
     end
 end
-
-% Add protein name for genes
-for i = 1:length(model.genes)
-    model.proteins{i} = strcat('COBRAProtein',num2str(i));
-end
+model.proteins(length(model.genes)) = {''};
 end

@@ -14,7 +14,6 @@
 
 load('../ModelFiles/model_original_new.mat')
 inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
-
 % Load data:
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
 format = repmat('%s ',1,333);
@@ -37,6 +36,7 @@ path = pwd;
 %% test for panmodel to see wether the panmodel can ultilize those metabolites or not.
 % Main loop:
 cd ../Reconstruction/otherChanges
+current_path = pwd;
     ExchRxn             = '';
     TransRxn            = '';
     GapfillMets         = '';
@@ -122,6 +122,7 @@ cd ../Reconstruction/otherChanges
     end
 %% Test the ssModels subtrate usage information
 for k = 1:length(strainlist)
+    k
     cd(inputpath)
     load([strainlist{k},'.mat'])
     model = reducedModel;
@@ -234,9 +235,9 @@ for i = 1:length(clades)
 idx = ismember(Strain_information(:,2),clades(i));
 [~,ID] = ismember(Strain_information(idx,1),strainlist);
 clade_av = [clade_av;accuracy(ID(ID~=0))'];
-group = [group;(i-1)*ones(length(accuracy(ID(ID~=0))),1)];
+group = [group;i*ones(length(accuracy(ID(ID~=0))),1)];
 end
-h = boxplot(clade_av,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);
+h = boxplot(clade_av,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[215,48,39]/255);
 set(h,{'linew'},{1});
 set(gca,'FontSize',10,'FontName','Helvetica');
 ylabel('Substrate prediction ccuracy','FontSize',12,'FontName','Helvetica');
@@ -250,7 +251,7 @@ for i = 1:75
     tp(i) = length(FBAresult(abs(FBAresult(i,:))>0 & cell2mat(data(i,:)) > 0));
     tn(i) = length(FBAresult(abs(FBAresult(i,:))== 0 & cell2mat(data(i,:)) == 0));
     fp(i) = length(FBAresult(abs(FBAresult(i,:))>0 & cell2mat(data(i,:)) == 0));
-    fn(i) = length(FBAresult(abs(FBAresult(:,i))==0 & cell2mat(data(:,i)) > 0));
+    fn(i) = length(FBAresult(abs(FBAresult(i,:))==0 & cell2mat(data(i,:)) > 0));
     acc_sub(i) = (tp(i) + tn(i))/(tp(i) + tn(i) + fn(i) + fp(i));
 end
 hold on
