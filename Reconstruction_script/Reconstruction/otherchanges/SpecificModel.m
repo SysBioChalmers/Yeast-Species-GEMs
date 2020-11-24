@@ -46,14 +46,17 @@ for j = 1:length(strain)
     genelist = StrianData.genes(lvl_tmp & idx);
      
     %generate the specific model according to type
-    reducedModel = removeGenes(model,genelist,true,true,false);%add annotaion and generate result file
+    [reducedModel,resultfile] = removeGenesWithRatio(model,genelist,true,true,false,0.5);%add annotaion and generate result file
     reducedModel.id=[strain{j},' specific model genereted from panYeast'];
     
     % change the ID to it specific IDs
+    if isfield(reducedModel,'metSBOTerms')
     reducedModel = rmfield(reducedModel,'metSBOTerms');
     reducedModel = rmfield(reducedModel,'rxnSBOTerms');
+    end
     cd(inputpath)
     save([strain{j},'.mat'],'reducedModel')
+    save([strain{j},'result.mat'],'resultfile')
     cd(currentpath)
 end
 end
