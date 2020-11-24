@@ -24,18 +24,19 @@ for i = 1:length(clades)
 end
 
 % color code use this one rather the default one in the raven function
-color_palette = [166,206,227
-    31,120,180
-    178,223,138
-    51,160,44
-    251,154,153
-    227,26,28
-    253,191,111
-    255,127,0
-    202,178,214
-    106,61,154
-    255,255,53; 150,33,62;1,5,6]/255;
-
+color_palette = [166 206 227
+106 61 154
+31 120 180
+178 223 138
+51 160 44
+251 154 153
+227 26 28
+253 191 111
+255 127 0
+202 178 214
+254 153 255
+177 89 40
+0 0 0]/255;
 
 for i = 1:length(strains_sortclade)
     m = strains_sortclade{i};

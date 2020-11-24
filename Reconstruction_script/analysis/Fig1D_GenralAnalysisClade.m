@@ -35,6 +35,7 @@ camroll(-90)
 
 %% figure 1b for reaction number based on clade
 cd ../Reconstruction/otherchanges
+current_path =pwd;
 strains_sortclade = [];
 for i = 1:length(clades)
     idx = ismember(Strain_information(:,2),clades(i));
@@ -58,7 +59,7 @@ rxn_accessory = rxnMatrix;
 rxn_accessory(:,sum(rxn_accessory,1)> 343*0.95)=[];
 acce_rxn_count = sum(rxn_accessory,2);
 subplot(1,6,3)
-h = boxplot(acce_rxn_count,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255);
+h = boxplot(acce_rxn_count,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[255,127,0]/255);
 set(h,{'linew'},{1});
 set(gca,'xtick',[])
 ylabel('No. accessory reactions','FontSize',10,'FontName','Helvetica','Color','k');
@@ -71,11 +72,12 @@ for i = 1:length(strains_sortclade)
     model = reducedModel;
     genes(i) = length(model.genes);
 end
+cd(current_path)
 subplot(1,6,4)
-h = boxplot(genes,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);
+h = boxplot(genes,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[49,163,84]/255,'Labels',clades);
 set(h,{'linew'},{1});
 set(gca,'xtick',[])
-ylim([500,1500])
+ylim([500,2000])
 ylabel('No. genes','FontSize',10,'FontName','Helvetica','Color','k');
 camroll(-90)
 
@@ -121,6 +123,9 @@ set(gca,'xtick',[])
 set(gca,'xticklabel',[])
 camroll(-90)
 
+% figure 1f for substrate prediction based on clade
+load('FBAresult12_mannitol_Nacetylglc_trans.mat')
+
 %% figure 1f for biomass yield
 for i = 1:length(strains_sortclade)
     cd(inputpath)
@@ -130,7 +135,7 @@ for i = 1:length(strains_sortclade)
     solresult(i) = sol.f;
 end
 subplot(1,6,6)
-h = boxplot(abs(solresult),group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);
+h = boxplot(abs(solresult),group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[118,42,131]/255,'Labels',clades);
 set(h,{'linew'},{1});
 set(gca,'FontSize',10,'FontName','Helvetica');
 ylabel('Biomass yield','FontSize',12,'FontName','Helvetica');

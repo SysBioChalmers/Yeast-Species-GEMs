@@ -129,6 +129,10 @@ for i = 1:length(model.genes)
 model.proteins{i} = strcat('COBRAProtein',num2str(i));
 end
 model = removeUnusedGenes(model);
+
+[~,idx] = ismember('r_0465',model.rxns);
+model.rxnKEGGID(idx) = {'R00765'}; % for later gapfilling usage using draftmodels
+
 % [~,idx] = ismember('MNXR101023',model.rxnMetaNetXID); %lactose
 % rxnformula = 'H2O [cytoplasm] + lactose [cytoplasm]  <=> D-galactose [cytoplasm] + D-glucose [cytoplasm]';
 % model = changerxn(model,model.rxns{idx},rxnformula);
