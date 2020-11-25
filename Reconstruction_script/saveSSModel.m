@@ -14,7 +14,7 @@
 function saveSSModel(model,upDATE)
 
 if nargin < 2
-    upDATE = true;
+    upDATE = false;
 end
 
 %Get and change to the script folder, as all folders are relative to this
@@ -36,22 +36,24 @@ model = minimal_Y6(model);
 % model = addSBOterms(model);
 cd ../../
 %Check if model is a valid SBML structure:
-writeCbModel(model,'sbml','tempModel.xml');
- [~,errors] = TranslateSBML('tempModel.xml');
+modelid = [extractBefore(model.id,' '),'tmp.xml'];
+writeCbModel(model,'sbml',modelid);
+[~,errors] = TranslateSBML(modelid);
 if ~isempty(errors)
-    delete('tempModel.xml');
+    delete(modelid);
     error('Model should be a valid SBML structure. Please fix all errors before saving.')
 end
 
 %Update .xml, .txt and .yml models:
 modelName = split(model.id,' specific');
 modelName = modelName{1};
-copyfile('tempModel.xml',['ModelFiles/xml/',modelName,'.xml'])
-delete('tempModel.xml');
+copyfile(modelid,['ModelFiles/xml/',modelName,'.xml'])
+delete(modelid);
 writeCbModel(model,'text',['ModelFiles/txt/',modelName,'.txt']);
 %exportForGit(model,modelName,'..',{'yml'});
 
 %Update README file: date + size of model
+if upDATE
 copyfile('../README.md','backup.md')
 fin  = fopen('backup.md','r');
 fout = fopen('../README.md','w');
@@ -75,11 +77,12 @@ while still_reading
 end
 fclose('all');
 delete('backup.md');
-
+end
 %Convert notation "e-005" to "e-05 " in stoich. coeffs. to avoid
 %inconsistencies between Windows and MAC:
-copyfile(['ModelFiles/xml/',modelName,'.xml'],'backup.xml')
-fin  = fopen('backup.xml','r');
+modelid = [extractBefore(model.id,' '),'backup.xml'];
+copyfile(['ModelFiles/xml/',modelName,'.xml'],modelid)
+fin  = fopen(modelid,'r');
 fout = fopen(['ModelFiles/xml/',modelName,'.xml'],'w');
 still_reading = true;
 while still_reading
@@ -94,7 +97,7 @@ while still_reading
     end
 end
 fclose('all');
-delete('backup.xml');
+delete(modelid);
 
 %Switch back to original folder
 cd(currentDir)
