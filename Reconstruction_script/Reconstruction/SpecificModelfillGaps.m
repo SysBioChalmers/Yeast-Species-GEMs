@@ -1,3 +1,4 @@
+function [model_original] = SpecificModelfillGaps(model_original,strains,inputpath)
 %% This function is to find gaps and identify crucial rxns for biomass precursors synthethis
 % this function has been divided into several steps
 % step 1: identify the crucial rxns missing for growth
@@ -14,10 +15,10 @@
 %% Step 1 analyse whic biomass precursors that cannot be produced (input: panmodel in cobra format; StrainData.strains;)
 %panmodel = ravenCobraWrapper(model_original); %change to raven format
 
-load('StrainData.mat')
+%load('StrainData.mat')
 cd otherchanges/
-strains = StrianData.strains;
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+%strains = StrianData.strains;
+%inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath); % all precursors and check proMatrix
 % find rxn related to production of that met % ranMatrix stands for rxn
 % existence information in each strain, all stores information whether the
@@ -28,14 +29,15 @@ inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_s
 mapping = [];
 rxn = [];
 for i = 1:length(proMarix(1,:))
+    i
     % group 1 can produce this met
-    group1 = StrianData.strains(find(proMarix(:,i)));
+    group1 = strains(find(proMarix(:,i)));
     group1_comrxn = rxnMatrix(find(proMarix(:,i)),:);
     group1_comrxn = model_original.rxns(all(group1_comrxn,1));
     
     % group 2 cannot produce this met & 90% other mets tested can be
     % produced
-    group2 = StrianData.strains(find(~proMarix(:,i)));
+    group2 = strains(find(~proMarix(:,i)));
     group2_comrxn = rxnMatrix(find(~proMarix(:,i)),:);
     group2_comrxn = model_original.rxns(all(group2_comrxn,1));
     
@@ -43,6 +45,7 @@ for i = 1:length(proMarix(1,:))
     
     model_out = model_original;
     for j = 1:length(rxn_test)
+        disp([num2str(j),'/',num2str(length(rxn_test))])
         model = model_out;
         model = removeRxns(model, rxn_test{j});
         [missingMets, presentMets] = PrecursorCheck(model,false,false,[],mets_test(i));
@@ -65,7 +68,7 @@ rxn(:,2) = mapIDsViaMNXref('rxns',rxn(:,4),'MetaNetX','MetaCyc');
 [~,idx]=unique(strcat(rxn(:,1),rxn(:,2),rxn(:,3),rxn(:,4)));
 rxn=rxn(idx,:);
 
-clearvars -EXCEPT rxn StrianData panmodel model_original strains filefolder inputpath outputpath
+clearvars -EXCEPT rxn panmodel model_original strains filefolder inputpath outputpath
 % delete rxns without keggID or Metacyc ID
 temp = cellfun(@(x)~isempty(x(:)),rxn);
 idx = any(temp==0,2);
@@ -75,13 +78,12 @@ rxn_onlyonetype(~temp) = {'NA'};
 
 rxn = rxn(~idx,:);
 % This step is to find whether those rxns we found in last step exist in draft model or not
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 outputpath = inputpath;
 [newrxns_added] = updateGapRxns(model_original,rxn,'',strains,inputpath,outputpath,'strict',0);
 newrxns = newrxns_added;
 [newrxns_added] = updateGapRxns(model_original,rxn_onlyonetype,'',strains,inputpath,outputpath,'loose',0);
 newrxns = [newrxns;newrxns_added];
-clearvars -EXCEPT newrxns StrianData panmodel model_original newrxns_added strains
+clearvars -EXCEPT newrxns panmodel model_original newrxns_added strains inputpath
 
 
 %% Step 2 This Step is to check for each biomass composition
@@ -196,53 +198,48 @@ rxns_query(:,3) = {'R02021','R04426'};
 [newrxns_added] = updateGapRxns(model_original,rxns_query,met,strains,inputpath,inputpath,'loose');
 newrxns = [newrxns;newrxns_added];
 clearvars  rxns_query precursors met
+
+
+% fix H2O diffusion    
+[~,rxnMatrix,~,~] = getprecursorMatrixCobra(model_original,strains,inputpath,[],1);
+[~,idx] = ismember('r_1277',model_original.rxns);
+strains_nowater = strains(rxnMatrix(:,idx) == 0);
+current_path = pwd;
+for i = 1:length(strains_nowater)
+    cd(inputpath)
+    m = strains_nowater{i};
+    reducedModel = load([m,'.mat']);
+    reducedModel = reducedModel.reducedModel;
+    cd(current_path)
+    reducedModel = addrxnBack(reducedModel,model_original,{'r_1277'},{''});
+    newrxns_added = [newrxns_added;{'r_1277'},m,{''},{'water diffusion'}];
+    cd(inputpath)
+    save([m,'.mat'],'reducedModel')
+end
+newrxns = [newrxns;newrxns_added];
+
+% fix ATP transport   
+[~,rxnMatrix,~,~] = getprecursorMatrixCobra(model_original,strains,inputpath,[],1);
+[~,idx] = ismember('r_1110',model_original.rxns);
+strains_noATPtransport = strains(rxnMatrix(:,idx) == 0);
+current_path = pwd;
+for i = 1:length(strains_noATPtransport)
+    cd(inputpath)
+    m = strains_noATPtransport{i};
+    reducedModel = load([m,'.mat']);
+    reducedModel = reducedModel.reducedModel;
+    cd(current_path)
+    reducedModel = addrxnBack(reducedModel,model_original,{'r_1110'},{''});
+    newrxns_added = [newrxns_added;{'r_1110'},m,{''},{'water diffusion'}];
+    cd(inputpath)
+    save([m,'.mat'],'reducedModel')
+end
+newrxns = [newrxns;newrxns_added];
+
 rxn_added_pathway{1} = newrxns;
 rxn_added_pathway{2} = newtstepcheck;
-save('rxn_added_pathway.mat','rxn_added_pathway')
+save(['rxn_added_pathway',num2str(length(strains)),'.mat'],'rxn_added_pathway')
 clearvars   rxn_added_pathway
-
-%% step 2b fix the grRule caused by the draft model, should be fixed in the draft model, temp fixed here in the final model
-current_path = pwd;
-species = unique(newrxns(:,2));
-for i = 1:length(species)
-    i
-    cd(inputpath)
-    model = load([species{i},'.mat']);
-    model = model.reducedModel;
-    cd(current_path);
-    % load old mapping data geneID with panID
-    fileName    = ['../../../../Multi_scale_evolution/pan_genome/result/id_mapping/',species{i},'.tsv'];
-    fID         = fopen(fileName);
-    protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
-    fclose(fID);
-    geneID_core = protData{2}; % geneID in 343 yeast species with @seq
-    panID_final = protData{5}; % panID
-    draftgeneID      = protData{6}; % mRNAID geneID CDS
-    draftgeneID      = strrep(draftgeneID,' ','&'); % mRNAID&geneID&CDS
-    % get rxns
-    idx = ismember(newrxns(:,2),species(i));
-    mapping.rxnIDs = newrxns(idx,1);
-    geneRules = newrxns(idx,3);
-    for j = 1:length(mapping.rxnIDs)
-        geneR = split(geneRules{j},' or ');
-        [~,g_idx] = ismember(geneR,draftgeneID);
-        if all(g_idx)
-            geneFinal = join(geneID_core(g_idx),' or ');
-            mapping.new_GPR(j) = geneFinal;
-        else
-            [~,g_idx] = ismember(geneR,strrep(draftgeneID,'#',''));
-            geneFinal = join(geneID_core(g_idx),' or ');
-            mapping.new_GPR(j) = geneFinal;
-        end
-    end
-    model = AddMissingOrthologsInYeastGEM(model,mapping);
-    cd(inputpath)
-    reducedModel = model;
-    save([species{i},'.mat'],'reducedModel')
-    clearvars   mapping
-    cd(current_path)
-end
-clear species geneID_core geneRules geneFinal g_idx geneR draftgeneID panID_final fileName protData
 %% step 3 fix alternative pwys gap
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
 % mapping metaNetIDs
@@ -291,14 +288,14 @@ for i = 1:length(newrxn.ID)
     strainslist = split(strainslist,',');
     strainslist = strrep(strainslist,' ','');
     strainslist = strrep(strainslist,'"','');
-    [~,idx] = ismember(lower(strainslist),lower(StrianData.strains));
+    [~,idx] = ismember(lower(strainslist),lower(strains));
     [~,rxnIdx] = ismember(newrxn.ID(i,1),model_original.rxnMetaNetXID);
     if rxnIdx == 0
         [~,rxnIdx] = ismember(newrxn.ID(i,1),model_original.rxnKEGGID);
     end
     for j = 1:length(idx)
         if idx(j) ~=0
-            m = StrianData.strains{idx(j)};
+            m = strains{idx(j)};
             cd(inputpath)
             reducedModel = load([m,'.mat']);
             reducedModel = reducedModel.reducedModel;
@@ -319,7 +316,7 @@ newrxns = [newrxns;newrxns_added];
 % exist
 [newrxns_added] = RespiratoryChain(model_original,strains,inputpath);
 newrxns = [newrxns;newrxns_added];
-save('newrxns_alternativapwy.mat','newrxns')
+save(['newrxns_alternativapwy',num2str(length(strains)),'.mat'],'newrxns')
 
 %% step 5 Auto-gap-filling rxns
 [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath);
@@ -340,16 +337,23 @@ for i = 1:length(strains)
             reducedModel = ravenCobraWrapper(reducedModel);
         end
         reducedModel.id = id;
+        if isfield(reducedModel,'metNotes')
+        reducedModel = rmfield(reducedModel,'metNotes');
+        end
+        if isfield(panmodel,'metNotes')
+        panmodel = rmfield(panmodel,'metNotes');
+        end
+
         reducedModel = setParam(reducedModel,'eq',{'r_2111'},0.001);
         [~, ~, addedRxns, reducedModel] = fillGaps(reducedModel,{panmodel},'useModelConstraints',true);
         reducedModel = setParam(reducedModel,'lb',{'r_2111'},0);
         reducedModel = setParam(reducedModel,'ub',{'r_2111'},1000);
         sol = optimizeCbModel(reducedModel,'max');
-        aaa(i) = sol.f;
         newrxns_added = [newrxns_added;addedRxns,repmat(strains(i),length(addedRxns),1)];
     end
 end
-save('newrxns_auotgap.mat','newrxns_added')
+cd(current_path)
+save(['newrxns_auotgap',num2str(length(strains)),'.mat'],'newrxns_added')
 
 % add those reactions back to the model
 strains_specific = unique(newrxns_added(:,2));
@@ -368,3 +372,5 @@ for i = 1:length(strains_specific)
     save([strains_specific{i},'.mat'],'reducedModel')
     %saveSSModel(reducedModel,'false');
 end
+cd(current_path)
+cd ../

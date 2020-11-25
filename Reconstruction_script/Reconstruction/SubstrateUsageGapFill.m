@@ -1,5 +1,6 @@
+function [model_original] = SubstrateUsageGapFill(model_original,strains,inputpath)
 % This function is to fill the gaps for the substrateUsage
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+%inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 fid2 = fopen('../data/gapfill/substrate_usage_rxn.tsv');
 format = repmat('%s ',1,4);
 format = strtrim(format);
@@ -7,7 +8,7 @@ temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',0);
 for i = 1:length(temp)
     rxnlist(:,i) = temp{i};
 end
-load('StrainData.mat')
+%load('StrainData.mat')
 
 % always fill the gap from the panmodel, so that the specific models can
 % have the same rxn_ids
@@ -33,6 +34,22 @@ model_original = changerxn(model_original,model_original.rxns{idx},rxnformula);
 printRxnFormula(model_original,'rxnAbbrList',model_original.rxns(idx),'metNameFlag',true)
 changes = [changes; model_original.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
 
+[~,idx] = ismember('MNXR101023',model_original.rxnMetaNetXID); % alpha-D-Glucose to glucose format
+rxnformula ='H2O [cytoplasm] + lactose [cytoplasm] -> D-galactose [cytoplasm] + D-glucose [cytoplasm]';
+model_original = changerxn(model_original,model_original.rxns{idx},rxnformula);
+printRxnFormula(model_original,'rxnAbbrList',model_original.rxns(idx),'metNameFlag',true)
+changes = [changes; model_original.rxnMetaNetXID(idx),{'changecomp'},{'for sugar degradation rxns'}];
+
+missingMets = {'inulin [extracellular]','beta-cellobiose [extracellular]','Mannitol [extracellular]','D-gluconate [extracellular]','2-dehydro-D-gluconate [extracellular]','ethylamine [extracellular]'};
+formulas = {'C12H22O11';'C12H22O11';'C6H14O6';'C6H11O7';'C6H9O7';'C2H7N'};
+[~,idx] = ismember(missingMets,model_original.metNames);
+model_original.metFormulas(idx(idx~=0)) = formulas(idx~=0);
+
+missingMets = {'N-Acetyl-D-glucosamine [extracellular]','Mannitol [extracellular]','lactose [extracellular]'};
+formulas = {'C8H15NO6';'C6H14O6';'C12H22O11'};
+[~,idx] = ismember(missingMets,model_original.metNames);
+model_original.metFormulas(idx(idx~=0)) = formulas(idx~=0);
+
 % add those rxns for each strain
 current_path = pwd;
 for i = 2:length(rxnlist(1:end,1))
@@ -40,14 +57,14 @@ for i = 2:length(rxnlist(1:end,1))
     strainslist = split(strainslist,',');
     strainslist = strrep(strainslist,' ','');
     if strcmp(strainslist,'')
-        strainslist = StrianData.strains;
+        strainslist = strains;
     end
     strainslist=regexprep(strainslist,'_16....$','');
-    [~,idx] = ismember(lower(strainslist),lower(StrianData.strains));
+    [~,idx] = ismember(lower(strainslist),lower(strains));
     [~,rxnIdx] = ismember(rxnlist(i,1),model_original.rxnMetaNetXID);
     for j = 1:length(idx)
         if idx(j) ~=0
-            m = StrianData.strains{idx(j)};
+            m = strains{idx(j)};
             cd(inputpath)
             reducedModel = load([m,'.mat']);
             reducedModel = reducedModel.reducedModel;
@@ -61,3 +78,4 @@ for i = 2:length(rxnlist(1:end,1))
     end
 end
 
+ cd(current_path)
