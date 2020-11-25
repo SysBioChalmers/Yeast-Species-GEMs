@@ -5,7 +5,7 @@ function [result_table,index] = SubstrateUsageGene_Table
 inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
 
 % read the index for the resulttable
-[~,~,index] = xlsread('../data/substrateUsageGene.xlsx','index');
+[~,~,index] = xlsread('../data/substrateUsageGene_35.xlsx','index');
 
 % read the model and data
 load('../ModelFiles/model_original_new.mat')
@@ -21,6 +21,7 @@ strainlist = data(1,5:end);
 data(1,:) = [];
 SubBiologName = data(:,1);
 SubModelName = data(:,2);
+SubModelName(1:7) = strcat(SubModelName(1:7),'_fermentation');
 SubCondition = data(:,3);
 Subtype = data(:,4);
 data(:,1:4) = [];
@@ -97,5 +98,4 @@ specificity = (tn./(tn+fp));
 positivePredictive = (tp./(tp+fp));
 negativePredictive = (tn./(fn+tn));
 index = [index(:,1),num2cell([pfisher',accuracy',sensitivity'])];
-
 
