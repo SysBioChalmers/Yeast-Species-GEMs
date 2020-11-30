@@ -246,7 +246,7 @@ set(gcf,'position',[200 0 350 190]);
 set(gca,'position',[0.11 0.3 0.87 0.75]);
 
 % plot the difference
-for i = 1:75
+for i = 1:length(FBAresult(:,1))
     %nocheck = find(strcmp(FBAresult(i,:),'n'));
     tp(i) = length(FBAresult(abs(FBAresult(i,:))>0 & cell2mat(data(i,:)) > 0));
     tn(i) = length(FBAresult(abs(FBAresult(i,:))== 0 & cell2mat(data(i,:)) == 0));
@@ -265,5 +265,4 @@ xtickangle(90);
 set(gca,'FontSize',12,'FontName','Helvetica');
 ylabel('Accuracy','FontSize',20,'FontName','Helvetica','Color','k');
 xlabel('Substrate','FontSize',20,'FontName','Helvetica','Color','k');
-
 

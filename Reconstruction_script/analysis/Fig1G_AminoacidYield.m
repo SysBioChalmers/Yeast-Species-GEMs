@@ -15,10 +15,9 @@ strains = Strain_information(:,1);
 
 cd ../Reconstruction/otherchanges/
 [~,~,mets_test,~,solresult] = getprecursorMatrixCobra(model_original,strains,inputpath);
-yield_precursor = zeros(length(solresult),2);
-save
+yield_precursor = zeros(length(solresult(1,:)),2);
 % calculate the range of yield for each precursors
-for i = 1:length(solresult)
+for i = 1:length(solresult(1,:))
     yield_precursor(i,1) = max(solresult(:,i));
     yield_precursor(i,2) = min(solresult(:,i));
 end

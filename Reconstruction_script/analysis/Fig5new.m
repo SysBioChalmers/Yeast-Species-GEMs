@@ -99,12 +99,12 @@ for i = 1:length(index(:,1))
         trait_total = [trait_total;trait_tmp];
     else
         if startsWith(index{i,1},'r_')
-            if isnan(index{i,6}) 
+            if isnan(index{i,6})
                 k = k + 1;
             elseif startsWith(index{i,6},'route')
                 k = 1;
             end
-        
+
         step = [step;k];
         trait = [trait;trait_tmp];
         end
@@ -163,7 +163,7 @@ fclose(fid2);
 gene_expansion = cellfun(@str2num, all_gene_change(idx,2), 'UniformOutput', false);
 gene_contraction = cellfun(@str2num, all_gene_change(idx,3), 'UniformOutput', false);
 
-fid = fopen('../data/aaa.json', 'r');
+fid = fopen('../data/geneExpCon.json', 'r');
 data = textscan(fid,'%s','TreatAsEmpty','NA');
 data = join(data{1,1}','');
 exp_con = jsondecode(data{1});
@@ -185,7 +185,7 @@ con_sub = zeros(length(rxn),length(strains_sortclade));
 exp_sub_count = zeros(length(strains_sortclade),1);
 con_sub_count = zeros(length(strains_sortclade),1);
 for i = 1:length(strains_sortclade)
-    
+
     disp(['No. ',num2str(i), ': ',strains_sortclade{i}])
     [~,idx] = ismember(strains_sortclade(i),{exp_con.organism});
     tmp = exp_con(idx).expansion;
@@ -203,7 +203,7 @@ for i = 1:length(strains_sortclade)
             for j = 1:length(exp_rxnlst)
                 idx4 = find(contains(rxn,exp_rxnlst(j)));
                 exp_sub(idx4(idx4~=0),i)= 1;
-                
+
             end
         end
     end
@@ -402,7 +402,7 @@ for i = 1:length(strains_sortclade)
      contribution(i,4) = length(setdiff(gain_idx,union(union(HGT_idx,exp_idx),GL_idx))); % no reason found
 end
 ylables = {'HGT','GE','GL','NO REASON'};
- 
+
 
 % second figure
 for i = 1:length(clades)
@@ -657,7 +657,7 @@ for i = 1:length(strains_sortclade) % define the loss type
                 if cell2mat(model_temp) == 0&& all(cell2mat(temp))
                     downsteam(i,loss_temp(j)) = 1;
                 end
-            end       
+            end
     end
 end
 

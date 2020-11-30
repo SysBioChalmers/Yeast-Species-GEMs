@@ -19,27 +19,22 @@ function [accurancy,sensitivity,specificity,mcc] = EssentialGeneanalysis_publish
 %
 
 %initCobraToolbox
- strains = {'Yarrowia_lipolytica','Komagataella_pastoris','Saccharomyces_cerevisiae'};
- modellist = {'iYali4.xml','iMT1026V3.xml','yeastGEM.xml'};
+
 ko_tol = 1e-6;
 
 current_path = pwd;
 % load the model
 for i = 1:length(strains)
     strain = strains{i};
-    websave(modellist{i},['https://raw.githubusercontent.com/SysBioChalmers/YeastsModels/master/models/',modellist{i}])
+    cd(inputpath)
+    model = load([strain,'.mat']);
+    model = model.reducedModel;
 %constraints from genotype: check the genotype of the strains used in deletion experiment
     % no model changes based on genotype
-    model = readCbModel(modellist{i});
 cd(current_path)
 %constraints from growth medium:
-if i == 1
-    model = complete_Y7_yali4(model); %change Y7 model medium to the Kennedy synthetic complete medium
-elseif i == 2
-    model = complete_Y7_iMT026V3(model); %change Y7 model medium to the Kennedy synthetic complete medium
-else
-    model = complete_Y7(model); %change Y7 model medium to the Kennedy synthetic complete medium
-end
+model = complete_Y7(model); %change Y7 model medium to the Kennedy synthetic complete medium
+
 %import the gene deletion resuts:
     % compare gene essentiality predictions in minimal media with glucose
     % as sole carbon source against a list of "essential" genes. The
@@ -74,7 +69,7 @@ fn = intersect(exp_viable,mod_inviable); n_fn = length(fn);
 %compare the prediction performances of two models
 %prediction accuracy was used to evaluate the quality of model update in
 %each step
-accurancy(i) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
+accurancy(i,1) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp)
 sensitivity(i) = (n_tp/(n_tp+n_fn));
 specificity(i) = (n_tn/(n_tn+n_fp));
 positivePredictive(i) = (n_tp/(n_tp+n_fp));
@@ -90,6 +85,29 @@ n_fns(i) = n_fn;
 acc(i) = accurancy(i);
 end
 
+% combine with published model result
+% load mapping list published model/species
+fid2 = fopen('../data/PublishedModel_list.tsv');
+format = '%s %s %s %s %s %s %s';
+tmp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+for i = 1:length(tmp)
+data(:,i) = tmp{i};
+end
+fclose(fid2);
+[~,species_idx] = ismember(strains,data(:,2));
+accuray_published = zeros(length(strains),1);
+accuray_published(species_idx~=0) = cellfun(@str2num,data(species_idx(species_idx~=0),6));
+accuracy_final = [accurancy,accuray_published];
+h = bar(accuracy_final);
+h(2).FaceColor = [178,24,43]/255;
+h(1).FaceColor = [33,102,172]/255;
+xticklabels(strrep(strains,'_',' '))
+xtickangle(45);
+legend({'Models this work','Published models'})
+yticks([0:0.2:1])
+ylim([0,1])
+set(gca,'FontSize',12,'FontName','Helvetica');
+ylabel('Essential gene prediction accuracy','FontSize',24,'FontName','Helvetica','Color','k');
 
 % plot the figure
 P = [accurancy;specificity;sensitivity;mcc];
@@ -159,7 +177,7 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [inviableORFs,verifiedORFs] = loaddata(strain)
-cd ../data/physiology/EssentialGene/
+cd ../data/physiology/EssentialGene_exp/
 % load essential data
 fileName = [strain,'.csv'];
 fID       = fopen(fileName);
@@ -173,117 +191,7 @@ inviableORFs = verifiedORFs(ismember(condition,'E'));% essential
     verifiedORFs = unique(verifiedORFs);
     inviableORFs = upper(inviableORFs);
     inviableORFs = unique(inviableORFs);    
+    cd ../../../analysis/
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-end
-function model = complete_Y7_yali4(model)
-
-    exchangeRxns = findExcRxns(model);
-    model.lb(exchangeRxns) = 0;
-    model.ub(exchangeRxns) = 1000;
-
-constrainedUptake = {'4-aminobenzoate exchange'
-    'adenine exchange'
-    'L-alanine exchange'
-    'L-arginine exchange'
-    'L-asparagine exchange'
-    'L-aspartate exchange'
-    'biotin exchange'
-    'L-cysteine exchange'
-    'ergosterol exchange'
-    'L-glutamine exchange'
-    'L-glutamate exchange'
-    'palmitate exchange'
-    'L-histidine exchange'
-    'L-isoleucine exchange'
-    'myo-inositol exchange'
-    'L-leucine exchange'
-    'L-lysine exchange'
-    'L-methionine exchange'
-    'nicotinate exchange'
-    'L-phenylalanine exchange'
-    '(R)-pantothenate exchange'
-    'L-proline exchange'
-    'pyridoxine exchange'
-    'riboflavin exchange'
-    'L-serine exchange'
-    'thiamine(1+) exchange'
-    'L-threonine exchange'
-    'L-tryptophan exchange'
-    'L-tyrosine exchange'
-    'uracil exchange'
-    'L-valine exchange'
-    'zymosterol exchange'
-    'glycine exchange'};
-glucoseExchange = {'D-glucose exchange'};
-unconstrainedUptake = {'carbon dioxide exchange';
-    'ammonium exchange';
-    'oxygen exchange';
-    'phosphate exchange';
-    'sulphate exchange';
-    'iron(2+) exchange';
-    'H+ exchange';
-    'water exchange';
-    'sodium exchange';
-    'potassium exchange'};
-[~,constrainedUptakeRxnIndexes] = ismember(constrainedUptake,model.rxnNames);
-[~,glucoseExchangeIndex] = ismember(glucoseExchange,model.rxnNames);
-[~,unconstrainedUptakeRxnIndexes] = ismember(unconstrainedUptake,model.rxnNames);
-model.lb(constrainedUptakeRxnIndexes) = -0.5;
-model.lb(glucoseExchangeIndex) = -20;
-model.lb(unconstrainedUptakeRxnIndexes) = -1000;
-end
-function model = complete_Y7_iMT026V3(model)
-
-    exchangeRxns = findExcRxns(model);
-    model.lb(exchangeRxns) = 0;
-    model.ub(exchangeRxns) = 1000;
-
-constrainedUptake = {'4-Aminobenzoate exchange';
-'Adenine exchange';
-'L-Alanine exchange';
-'L-Arginine exchange';
-'L-Asparagine exchange';
-'L-Aspartate exchange';
-'Biotin exchange';
-'L-Cysteine exchange';
-'Ergosterol exchange';
-'L-Glutamine exchange';
-'L-Glutamate exchange';
-'L-Histidine exchange';
-'L-Isoleucine exchange';
-'myo-Inositol exchange';
-'L-Leucine exchange';
-'L-Lysine exchange';
-'L-Methionine exchange';
-'Nicotinate exchange';
-'L-Phenylalanine exchange';
-'(R)-Pantothenate exchange';
-'L-Proline exchange';
-'Riboflavin exchange';
-'L-Serine exchange';
-'L-Threonine exchange';
-'L-Tryptophan exchange';
-'L-Tyrosine exchange';
-'Uracil exchange';
-'L-Valine exchange';
-'zymosterol exchange';
-'Glycine exchange'} ;% no    {'palmitate exchange'   } {'pyridoxine exchange'  } {'thiamine(1+) exchange'}
-glucoseExchange = {'D-Glucose exchange'};
-unconstrainedUptake = {'CO2 exchange';
-'Ammonium exchange';
-'Oxygen exchange';
-'Phosphate exchange';
-'Sulfate exchange';
-'Fe2+ exchange';
-'H+ exchange';
-'H2O exchange';
-'Sodium exchange';
-'potassium exchange'};
-[~,constrainedUptakeRxnIndexes] = ismember(constrainedUptake,model.rxnNames);
-[~,glucoseExchangeIndex] = ismember(glucoseExchange,model.rxnNames);
-[~,unconstrainedUptakeRxnIndexes] = ismember(unconstrainedUptake,model.rxnNames);
-model.lb(constrainedUptakeRxnIndexes) = -0.5;
-model.lb(glucoseExchangeIndex) = -20;
-model.lb(unconstrainedUptakeRxnIndexes) = -1000;
 end

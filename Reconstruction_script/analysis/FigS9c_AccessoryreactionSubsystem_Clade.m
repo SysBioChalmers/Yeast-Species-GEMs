@@ -3,7 +3,7 @@
 % to the evolution clade
 
 % exception code for new rxns subsystems
-fileName = '/Users/feiranl/Box Sync/hongzhong/new_rxn_mnx_keggpathway.txt';
+fileName = '../data/new_rxn_mnx_keggpathway.txt';
 fID      = fopen(fileName);
 mapping  = textscan(fID,'%s%s','Delimiter','\t','HeaderLines',1);
 keggid   = mapping{1};
