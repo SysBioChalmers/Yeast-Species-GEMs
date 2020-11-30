@@ -15,6 +15,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	yHMPu5000034
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	yHMPu5000034627_Pichia_heedii@Seq_805 or yHMPu5000034627_Pichia_heedii@Seq_3503 or yHMPu5000034627_Pichia_heedii@Seq_2591	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	yHMPu5000034627_Pichia_heedii@Seq_3990	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	yHMPu5000034627_Pichia_heedii@Seq_2324	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	yHMPu5000034627_Pichia_heedii@Seq_1135 and yHMPu5000034627_Pichia_heedii@Seq_1622 and yHMPu5000034627_Pichia_heedii@Seq_3694 and yHMPu5000034627_Pichia_heedii@Seq_3119 and yHMPu5000034627_Pichia_heedii@Seq_4090 and yHMPu5000034627_Pichia_heedii@Seq_952	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	yHMPu5000034627_Pichia_heedii@Seq_1135 and yHMPu5000034627_Pichia_heedii@Seq_1622 and yHMPu5000034627_Pichia_heedii@Seq_3694 and yHMPu5000034627_Pichia_heedii@Seq_3119 and yHMPu5000034627_Pichia_heedii@Seq_4090 and yHMPu5000034627_Pichia_heedii@Seq_952	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	yHMPu5000034627_Pichia_heedii@Seq_2293	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_1971 or yHMPu5000034627_Pichia_heedii@Seq_2753	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	yHMPu5000034627_Pichia_heedii@Seq_1971 or yHMPu5000034627_Pichia_heedii@Seq_2753	  0.00	1000.00	  0.00
@@ -179,6 +181,7 @@ r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	
 r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_3803	  0.00	1000.00	  0.00
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_3803	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_3803	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_1334 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3680) or (yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3680) or (yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_3052 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_1334 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_3484 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_327 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3342 and yHMPu5000034627_Pichia_heedii@Seq_2557 and yHMPu5000034627_Pichia_heedii@Seq_3680)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_508	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034627_Pichia_heedii@Seq_1371	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	yHMPu5000034627_Pichia_heedii@Seq_1007	  0.00	1000.00	  0.00
@@ -290,6 +293,8 @@ r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	yHMPu5000034627_Pichia_heedii@Seq_12
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	yHMPu5000034627_Pichia_heedii@Seq_5200	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000034627_Pichia_heedii@Seq_5002	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034627_Pichia_heedii@Seq_4534 and yHMPu5000034627_Pichia_heedii@Seq_4876	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034627_Pichia_heedii@Seq_3729 and yHMPu5000034627_Pichia_heedii@Seq_3981 and yHMPu5000034627_Pichia_heedii@Seq_492 and yHMPu5000034627_Pichia_heedii@Seq_4534 and yHMPu5000034627_Pichia_heedii@Seq_1473 and yHMPu5000034627_Pichia_heedii@Seq_3827 and yHMPu5000034627_Pichia_heedii@Seq_1252 and yHMPu5000034627_Pichia_heedii@Seq_3130 and yHMPu5000034627_Pichia_heedii@Seq_1621 and yHMPu5000034627_Pichia_heedii@Seq_1606 and yHMPu5000034627_Pichia_heedii@Seq_3537) or (yHMPu5000034627_Pichia_heedii@Seq_3729 and yHMPu5000034627_Pichia_heedii@Seq_3981 and yHMPu5000034627_Pichia_heedii@Seq_4327 and yHMPu5000034627_Pichia_heedii@Seq_492 and yHMPu5000034627_Pichia_heedii@Seq_1058 and yHMPu5000034627_Pichia_heedii@Seq_1047 and yHMPu5000034627_Pichia_heedii@Seq_1301 and yHMPu5000034627_Pichia_heedii@Seq_19)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034627_Pichia_heedii@Seq_882 and yHMPu5000034627_Pichia_heedii@Seq_2382 and yHMPu5000034627_Pichia_heedii@Seq_4780 and yHMPu5000034627_Pichia_heedii@Seq_1451 and yHMPu5000034627_Pichia_heedii@Seq_4534 and yHMPu5000034627_Pichia_heedii@Seq_4699 and yHMPu5000034627_Pichia_heedii@Seq_4419 and yHMPu5000034627_Pichia_heedii@Seq_3137 and yHMPu5000034627_Pichia_heedii@Seq_1690	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034627_Pichia_heedii@Seq_2780	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	yHMPu5000034627_Pichia_heedii@Seq_638	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_3031 or yHMPu5000034627_Pichia_heedii@Seq_4231	-1000.00	1000.00	  0.00
@@ -332,9 +337,15 @@ r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 	yHMPu5000034
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_1570 or yHMPu5000034627_Pichia_heedii@Seq_2929	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	yHMPu5000034627_Pichia_heedii@Seq_2736	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	yHMPu5000034627_Pichia_heedii@Seq_1673 or yHMPu5000034627_Pichia_heedii@Seq_4365	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	yHMPu5000034627_Pichia_heedii@Seq_1673 or yHMPu5000034627_Pichia_heedii@Seq_4365	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	yHMPu5000034627_Pichia_heedii@Seq_5159 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_762	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 	yHMPu5000034627_Pichia_heedii@Seq_2799 and yHMPu5000034627_Pichia_heedii@Seq_4474	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	yHMPu5000034627_Pichia_heedii@Seq_1664	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	yHMPu5000034627_Pichia_heedii@Seq_3350	  0.00	1000.00	  0.00
@@ -351,6 +362,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	yHMPu5000034627_Pichia_h
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	yHMPu5000034627_Pichia_heedii@Seq_4611	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	yHMPu5000034627_Pichia_heedii@Seq_683 or (yHMPu5000034627_Pichia_heedii@Seq_2940 and yHMPu5000034627_Pichia_heedii@Seq_528)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	yHMPu5000034627_Pichia_heedii@Seq_2687	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	yHMPu5000034627_Pichia_heedii@Seq_1135 and yHMPu5000034627_Pichia_heedii@Seq_1622 and yHMPu5000034627_Pichia_heedii@Seq_3694 and yHMPu5000034627_Pichia_heedii@Seq_3119 and yHMPu5000034627_Pichia_heedii@Seq_4090 and yHMPu5000034627_Pichia_heedii@Seq_952	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_2632 or yHMPu5000034627_Pichia_heedii@Seq_2674	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_2632 or yHMPu5000034627_Pichia_heedii@Seq_2674 or yHMPu5000034627_Pichia_heedii@Seq_4641	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_2632 or yHMPu5000034627_Pichia_heedii@Seq_2674	  0.00	1000.00	  0.00
@@ -580,6 +592,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000034627_Pichia_h
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000034627_Pichia_heedii@Seq_3244	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000034627_Pichia_heedii@Seq_3732 and yHMPu5000034627_Pichia_heedii@Seq_755 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_539 and yHMPu5000034627_Pichia_heedii@Seq_5123	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000034627_Pichia_heedii@Seq_4045	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000034627_Pichia_heedii@Seq_1135 and yHMPu5000034627_Pichia_heedii@Seq_1622 and yHMPu5000034627_Pichia_heedii@Seq_3694 and yHMPu5000034627_Pichia_heedii@Seq_3119 and yHMPu5000034627_Pichia_heedii@Seq_4090 and yHMPu5000034627_Pichia_heedii@Seq_952	  0.00	1000.00	  0.00
 r_0968	2 s_0328[c]  -> s_0314[c] + s_1405[c] 	yHMPu5000034627_Pichia_heedii@Seq_531	  0.00	1000.00	  0.00
 r_0969	s_0434[c] + s_0575[c]  -> s_0394[c] + s_0794[c] + s_1408[c] 	yHMPu5000034627_Pichia_heedii@Seq_2588	  0.00	1000.00	  0.00
 r_0970	s_0434[c] + s_1616[c]  -> s_0586[c] + s_0803[c] + s_1620[c] 	yHMPu5000034627_Pichia_heedii@Seq_779	  0.00	1000.00	  0.00
@@ -594,6 +607,7 @@ r_0978	s_0739[c] + s_1616[c]  -> s_0613[c] + s_0803[c] + s_1620[c] 	yHMPu5000034
 r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	yHMPu5000034627_Pichia_heedii@Seq_3189 or yHMPu5000034627_Pichia_heedii@Seq_4502 or yHMPu5000034627_Pichia_heedii@Seq_5120	  0.00	1000.00	  0.00
 r_0982	s_0577[c]  <=> s_1408[c] 	yHMPu5000034627_Pichia_heedii@Seq_3098	-1000.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	yHMPu5000034627_Pichia_heedii@Seq_553	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	yHMPu5000034627_Pichia_heedii@Seq_1135 and yHMPu5000034627_Pichia_heedii@Seq_1622 and yHMPu5000034627_Pichia_heedii@Seq_3694 and yHMPu5000034627_Pichia_heedii@Seq_3119 and yHMPu5000034627_Pichia_heedii@Seq_4090 and yHMPu5000034627_Pichia_heedii@Seq_952	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	yHMPu5000034627_Pichia_heedii@Seq_3776	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_4219	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	yHMPu5000034627_Pichia_heedii@Seq_910	  0.00	1000.00	  0.00
@@ -625,6 +639,7 @@ r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	yHMPu5000034
 r_1026	s_0394[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_3803	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	yHMPu5000034627_Pichia_heedii@Seq_447 and yHMPu5000034627_Pichia_heedii@Seq_248	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	yHMPu5000034627_Pichia_heedii@Seq_2574 or yHMPu5000034627_Pichia_heedii@Seq_3034	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	yHMPu5000034627_Pichia_heedii@Seq_622 and yHMPu5000034627_Pichia_heedii@Seq_2069 and yHMPu5000034627_Pichia_heedii@Seq_3005	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_4153	-1000.00	1000.00	  0.00
 r_1032	2 s_0805[e] + s_1476[e]  -> s_0796[e] + 2 s_1324[e] + s_1490[e] 	yHMPu5000034627_Pichia_heedii@Seq_1119	  0.00	1000.00	  0.00
 r_1033	s_0805[e] + s_1498[e]  -> s_1324[e] + s_1490[e] 	yHMPu5000034627_Pichia_heedii@Seq_1119	  0.00	1000.00	  0.00
@@ -3069,8 +3084,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3202,7 +3217,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034627_Pichia_heedii@Seq_2401 or yHMPu5000034627_Pichia_heedii@Seq_628	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034627_Pichia_heedii@Seq_2401 or yHMPu5000034627_Pichia_heedii@Seq_628	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034627_Pichia_heedii@Seq_2594 or yHMPu5000034627_Pichia_heedii@Seq_3333	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034627_Pichia_heedii@Seq_1916	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000034627_Pichia_heedii@Seq_2859	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000034627_Pichia_heedii@Seq_2859	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034627_Pichia_heedii@Seq_1306	-1000.00	1000.00	  0.00
@@ -3236,6 +3250,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	yHMPu5000034627_Pichia_heedii@Seq_3929	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_1746	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034627_Pichia_heedii@Seq_3454	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034627_Pichia_heedii@Seq_1891 and yHMPu5000034627_Pichia_heedii@Seq_4793 and yHMPu5000034627_Pichia_heedii@Seq_2410 and yHMPu5000034627_Pichia_heedii@Seq_516	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034627_Pichia_heedii@Seq_4641	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034627_Pichia_heedii@Seq_905	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	yHMPu5000034627_Pichia_heedii@Seq_2577	  0.00	1000.00	  0.00
@@ -3595,7 +3610,6 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000034627_Pichia_heedii@Seq_4445	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034627_Pichia_heedii@Seq_4257	-1000.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034627_Pichia_heedii@Seq_4465	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034627_Pichia_heedii@Seq_1029 or yHMPu5000034627_Pichia_heedii@Seq_352	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	yHMPu5000034627_Pichia_heedii@Seq_3836	  0.00	1000.00	  0.00
@@ -3607,51 +3621,41 @@ r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	
 r_4681	s_0803[c] + s_4348[c]  -> s_0794[c] + s_1467[c] + s_4349[c] 	yHMPu5000034627_Pichia_heedii@Seq_1380	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	yHMPu5000034627_Pichia_heedii@Seq_2731	-1000.00	1000.00	  0.00
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	yHMPu5000034627_Pichia_heedii@Seq_850	-1000.00	1000.00	  0.00
-r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	yHMPu5000034627_Pichia_heedii@Seq_5141 or yHMPu5000034627_Pichia_heedii@Seq_3609 or yHMPu5000034627_Pichia_heedii@Seq_5173	  0.00	1000.00	  0.00
+r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	yHMPu5000034627_Pichia_heedii@Seq_5173 or yHMPu5000034627_Pichia_heedii@Seq_3609 or yHMPu5000034627_Pichia_heedii@Seq_5141	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	yHMPu5000034627_Pichia_heedii@Seq_532	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	yHMPu5000034627_Pichia_heedii@Seq_2236	  0.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	yHMPu5000034627_Pichia_heedii@Seq_1684 or yHMPu5000034627_Pichia_heedii@Seq_345 or yHMPu5000034627_Pichia_heedii@Seq_3800 or yHMPu5000034627_Pichia_heedii@Seq_5005 or yHMPu5000034627_Pichia_heedii@Seq_5084 or yHMPu5000034627_Pichia_heedii@Seq_782	  0.00	1000.00	  0.00
 r_4742	s_0803[c] + s_4354[c]  -> s_0178[c] + s_0419[c] 	yHMPu5000034627_Pichia_heedii@Seq_5121	  0.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	yHMPu5000034627_Pichia_heedii@Seq_4357	-1000.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034627_Pichia_heedii@Seq_4271	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	yHMPu5000034627_Pichia_heedii@Seq_4768	  0.00	1000.00	  0.00
 r_4816	s_1207[c] + s_1566[c]  <=> s_0580[c] + s_0794[c] + s_1212[c] 	yHMPu5000034627_Pichia_heedii@Seq_693	-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000034627_Pichia_heedii@Seq_1305	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	yHMPu5000034627_Pichia_heedii@Seq_1802	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	yHMPu5000034627_Pichia_heedii@Seq_782	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034627_Pichia_heedii@Seq_1278	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000034627_Pichia_heedii@Seq_3742 or yHMPu5000034627_Pichia_heedii@Seq_5059	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000034627_Pichia_heedii@Seq_1728 or yHMPu5000034627_Pichia_heedii@Seq_3149 or yHMPu5000034627_Pichia_heedii@Seq_3459 or yHMPu5000034627_Pichia_heedii@Seq_3546	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_1046	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	yHMPu5000034627_Pichia_heedii@Seq_2023 or yHMPu5000034627_Pichia_heedii@Seq_3938 or yHMPu5000034627_Pichia_heedii@Seq_4577	  0.00	1000.00	  0.00
 r_4971	s_0803[c] + s_4138[c]  -> s_0419[c] + s_0794[c] + s_1399[c] + s_1469[c] 	yHMPu5000034627_Pichia_heedii@Seq_5121	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_1046	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034627_Pichia_heedii@Seq_3959	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034627_Pichia_heedii@Seq_3959	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	yHMPu5000034627_Pichia_heedii@Seq_4987	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000034627_Pichia_heedii@Seq_2701 or yHMPu5000034627_Pichia_heedii@Seq_4792	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034627_Pichia_heedii@Seq_1916	-1000.00	1000.00	  0.00
 r_0344	s_0625[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1487[c] 	yHMPu5000034627_Pichia_heedii@Seq_2974	  0.00	1000.00	  0.00
 r_0902	s_0573[c]  <=> s_0574[c] 	yHMPu5000034627_Pichia_heedii@Seq_4373	-1000.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000034627_Pichia_heedii@Seq_4596	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	yHMPu5000034627_Pichia_heedii@Seq_4300	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000034627_Pichia_heedii@Seq_4944 or yHMPu5000034627_Pichia_heedii@Seq_3049	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034627_Pichia_heedii@Seq_3729 and yHMPu5000034627_Pichia_heedii@Seq_3981 and yHMPu5000034627_Pichia_heedii@Seq_492 and yHMPu5000034627_Pichia_heedii@Seq_4534 and yHMPu5000034627_Pichia_heedii@Seq_1473 and yHMPu5000034627_Pichia_heedii@Seq_3827 and yHMPu5000034627_Pichia_heedii@Seq_1252 and yHMPu5000034627_Pichia_heedii@Seq_3537 and yHMPu5000034627_Pichia_heedii@Seq_3130 and yHMPu5000034627_Pichia_heedii@Seq_1621 and yHMPu5000034627_Pichia_heedii@Seq_1606) or (yHMPu5000034627_Pichia_heedii@Seq_3729 and yHMPu5000034627_Pichia_heedii@Seq_3981 and yHMPu5000034627_Pichia_heedii@Seq_492 and yHMPu5000034627_Pichia_heedii@Seq_1301 and yHMPu5000034627_Pichia_heedii@Seq_1058 and yHMPu5000034627_Pichia_heedii@Seq_1047 and yHMPu5000034627_Pichia_heedii@Seq_4327 and yHMPu5000034627_Pichia_heedii@Seq_19)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034627_Pichia_heedii@Seq_882 and yHMPu5000034627_Pichia_heedii@Seq_2382 and yHMPu5000034627_Pichia_heedii@Seq_4780 and yHMPu5000034627_Pichia_heedii@Seq_1451 and yHMPu5000034627_Pichia_heedii@Seq_4534 and yHMPu5000034627_Pichia_heedii@Seq_4699 and yHMPu5000034627_Pichia_heedii@Seq_4419 and yHMPu5000034627_Pichia_heedii@Seq_3137 and yHMPu5000034627_Pichia_heedii@Seq_1690	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_1334 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3680) or (yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3680) or (yHMPu5000034627_Pichia_heedii@Seq_1640 and yHMPu5000034627_Pichia_heedii@Seq_2593 and yHMPu5000034627_Pichia_heedii@Seq_1863 and yHMPu5000034627_Pichia_heedii@Seq_3232 and yHMPu5000034627_Pichia_heedii@Seq_1793 and yHMPu5000034627_Pichia_heedii@Seq_2537 and yHMPu5000034627_Pichia_heedii@Seq_1334 and yHMPu5000034627_Pichia_heedii@Seq_4190 and yHMPu5000034627_Pichia_heedii@Seq_4980 and yHMPu5000034627_Pichia_heedii@Seq_3294 and yHMPu5000034627_Pichia_heedii@Seq_977 and yHMPu5000034627_Pichia_heedii@Seq_2936 and yHMPu5000034627_Pichia_heedii@Seq_3680 and yHMPu5000034627_Pichia_heedii@Seq_3484 and yHMPu5000034627_Pichia_heedii@Seq_327 and yHMPu5000034627_Pichia_heedii@Seq_3342 and yHMPu5000034627_Pichia_heedii@Seq_2557 and yHMPu5000034627_Pichia_heedii@Seq_3052)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(yHMPu5000034627_Pichia_heedii@Seq_1513 and yHMPu5000034627_Pichia_heedii@Seq_3009 and yHMPu5000034627_Pichia_heedii@Seq_1882 and yHMPu5000034627_Pichia_heedii@Seq_4872 and yHMPu5000034627_Pichia_heedii@Seq_1434 and yHMPu5000034627_Pichia_heedii@Seq_233 and yHMPu5000034627_Pichia_heedii@Seq_2737 and yHMPu5000034627_Pichia_heedii@Seq_306 and yHMPu5000034627_Pichia_heedii@Seq_2378 and yHMPu5000034627_Pichia_heedii@Seq_1646 and yHMPu5000034627_Pichia_heedii@Seq_1178 and yHMPu5000034627_Pichia_heedii@Seq_3714 and yHMPu5000034627_Pichia_heedii@Seq_664 and yHMPu5000034627_Pichia_heedii@Seq_178 and yHMPu5000034627_Pichia_heedii@Seq_4014 and yHMPu5000034627_Pichia_heedii@Seq_5179 and yHMPu5000034627_Pichia_heedii@Seq_1240 and yHMPu5000034627_Pichia_heedii@Seq_1661 and yHMPu5000034627_Pichia_heedii@Seq_4848 and yHMPu5000034627_Pichia_heedii@Seq_4441 and yHMPu5000034627_Pichia_heedii@Seq_3998 and yHMPu5000034627_Pichia_heedii@Seq_2881 and yHMPu5000034627_Pichia_heedii@Seq_3753 and yHMPu5000034627_Pichia_heedii@Seq_1324) or (yHMPu5000034627_Pichia_heedii@Seq_1513 and yHMPu5000034627_Pichia_heedii@Seq_3009 and yHMPu5000034627_Pichia_heedii@Seq_1882 and yHMPu5000034627_Pichia_heedii@Seq_4872 and yHMPu5000034627_Pichia_heedii@Seq_1434 and yHMPu5000034627_Pichia_heedii@Seq_233 and yHMPu5000034627_Pichia_heedii@Seq_2737 and yHMPu5000034627_Pichia_heedii@Seq_306 and yHMPu5000034627_Pichia_heedii@Seq_2378 and yHMPu5000034627_Pichia_heedii@Seq_1646 and yHMPu5000034627_Pichia_heedii@Seq_1178 and yHMPu5000034627_Pichia_heedii@Seq_3714 and yHMPu5000034627_Pichia_heedii@Seq_664 and yHMPu5000034627_Pichia_heedii@Seq_178 and yHMPu5000034627_Pichia_heedii@Seq_4014 and yHMPu5000034627_Pichia_heedii@Seq_5179 and yHMPu5000034627_Pichia_heedii@Seq_1240 and yHMPu5000034627_Pichia_heedii@Seq_1661 and yHMPu5000034627_Pichia_heedii@Seq_4848 and yHMPu5000034627_Pichia_heedii@Seq_4441 and yHMPu5000034627_Pichia_heedii@Seq_3998 and yHMPu5000034627_Pichia_heedii@Seq_2881 and yHMPu5000034627_Pichia_heedii@Seq_3753)	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
 r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000034627_Pichia_heedii@Seq_2261	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
 r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00
@@ -3661,3 +3665,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000034627_Pichia_heedii@Seq_3467	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034627_Pichia_heedii@Seq_702	  0.00	1000.00	  0.00

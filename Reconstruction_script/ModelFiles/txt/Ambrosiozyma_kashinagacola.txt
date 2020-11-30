@@ -189,6 +189,7 @@ r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	
 r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_3028	  0.00	1000.00	  0.00
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_3028	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_3028	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1814) or (Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1814 and Ambrosiozyma_kashinagacola@Seq_3535) or (Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_2415 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_791 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_2704 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1883 and Ambrosiozyma_kashinagacola@Seq_5071 and Ambrosiozyma_kashinagacola@Seq_1814)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_2282	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Ambrosiozyma_kashinagacola@Seq_891	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Ambrosiozyma_kashinagacola@Seq_1039	-1000.00	1000.00	  0.00
@@ -304,6 +305,8 @@ r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	Ambrosiozyma_kashinagacola@Seq_3041 
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	Ambrosiozyma_kashinagacola@Seq_539	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Ambrosiozyma_kashinagacola@Seq_5474	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Ambrosiozyma_kashinagacola@Seq_5100 and Ambrosiozyma_kashinagacola@Seq_3690	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Ambrosiozyma_kashinagacola@Seq_3409 and Ambrosiozyma_kashinagacola@Seq_5100 and Ambrosiozyma_kashinagacola@Seq_3152 and Ambrosiozyma_kashinagacola@Seq_5217 and Ambrosiozyma_kashinagacola@Seq_580 and Ambrosiozyma_kashinagacola@Seq_248 and Ambrosiozyma_kashinagacola@Seq_2223 and Ambrosiozyma_kashinagacola@Seq_183 and Ambrosiozyma_kashinagacola@Seq_2902) or (Ambrosiozyma_kashinagacola@Seq_3627 and Ambrosiozyma_kashinagacola@Seq_3409 and Ambrosiozyma_kashinagacola@Seq_650 and Ambrosiozyma_kashinagacola@Seq_666 and Ambrosiozyma_kashinagacola@Seq_5291 and Ambrosiozyma_kashinagacola@Seq_2773)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Ambrosiozyma_kashinagacola@Seq_1223 and Ambrosiozyma_kashinagacola@Seq_2168 and Ambrosiozyma_kashinagacola@Seq_1194 and Ambrosiozyma_kashinagacola@Seq_5100 and Ambrosiozyma_kashinagacola@Seq_1588 and Ambrosiozyma_kashinagacola@Seq_1144 and Ambrosiozyma_kashinagacola@Seq_757 and Ambrosiozyma_kashinagacola@Seq_917 and Ambrosiozyma_kashinagacola@Seq_833 and Ambrosiozyma_kashinagacola@Seq_4577	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Ambrosiozyma_kashinagacola@Seq_4355	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Ambrosiozyma_kashinagacola@Seq_227	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Ambrosiozyma_kashinagacola@Seq_143	  0.00	1000.00	  0.00
@@ -3290,8 +3293,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3423,7 +3426,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Ambrosiozym
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Ambrosiozyma_kashinagacola@Seq_1966 or Ambrosiozyma_kashinagacola@Seq_2052 or Ambrosiozyma_kashinagacola@Seq_753	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Ambrosiozyma_kashinagacola@Seq_1966 or Ambrosiozyma_kashinagacola@Seq_2052 or Ambrosiozyma_kashinagacola@Seq_753	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Ambrosiozyma_kashinagacola@Seq_1273 or Ambrosiozyma_kashinagacola@Seq_1495	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Ambrosiozyma_kashinagacola@Seq_3267 or Ambrosiozyma_kashinagacola@Seq_3743	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Ambrosiozyma_kashinagacola@Seq_3398	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Ambrosiozyma_kashinagacola@Seq_3398	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Ambrosiozyma_kashinagacola@Seq_4368	-1000.00	1000.00	  0.00
@@ -3463,6 +3465,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Ambrosiozyma_kashinagac
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Ambrosiozyma_kashinagacola@Seq_1447 or Ambrosiozyma_kashinagacola@Seq_1698 or Ambrosiozyma_kashinagacola@Seq_2099 or Ambrosiozyma_kashinagacola@Seq_390	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Ambrosiozyma_kashinagacola@Seq_3676	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Ambrosiozyma_kashinagacola@Seq_1692	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Ambrosiozyma_kashinagacola@Seq_442 and Ambrosiozyma_kashinagacola@Seq_4956 and Ambrosiozyma_kashinagacola@Seq_3248 and Ambrosiozyma_kashinagacola@Seq_4772	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Ambrosiozyma_kashinagacola@Seq_3579	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Ambrosiozyma_kashinagacola@Seq_4773	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	Ambrosiozyma_kashinagacola@Seq_4414	  0.00	1000.00	  0.00
@@ -3837,8 +3840,6 @@ r_4625	s_4113[c]  <=> s_4010[m] 		-1000.00	1000.00	  0.00
 r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Ambrosiozyma_kashinagacola@Seq_3387	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Ambrosiozyma_kashinagacola@Seq_4221	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Ambrosiozyma_kashinagacola@Seq_1131	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Ambrosiozyma_kashinagacola@Seq_4853	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Ambrosiozyma_kashinagacola@Seq_5241	  0.00	1000.00	  0.00
@@ -3852,7 +3853,7 @@ r_4687	s_0803[c] + s_0843[c] + s_1198[c]  -> s_0357[c] + s_0794[c] + s_1203[c] 	
 r_4688	s_0357[c] + s_0803[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4502[c] 	Ambrosiozyma_kashinagacola@Seq_1699	-1000.00	1000.00	  0.00
 r_4689	s_0357[c] + s_0803[c] + s_1275[c]  -> s_0837[c] + s_4502[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Ambrosiozyma_kashinagacola@Seq_4620	-1000.00	1000.00	  0.00
-r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Ambrosiozyma_kashinagacola@Seq_4729 or Ambrosiozyma_kashinagacola@Seq_3911 or Ambrosiozyma_kashinagacola@Seq_4666	-1000.00	1000.00	  0.00
+r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Ambrosiozyma_kashinagacola@Seq_3911 or Ambrosiozyma_kashinagacola@Seq_4729 or Ambrosiozyma_kashinagacola@Seq_4666	-1000.00	1000.00	  0.00
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Ambrosiozyma_kashinagacola@Seq_376	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Ambrosiozyma_kashinagacola@Seq_1782	-1000.00	1000.00	  0.00
 r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Ambrosiozyma_kashinagacola@Seq_5199	  0.00	1000.00	  0.00
@@ -3860,14 +3861,12 @@ r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Ambrosiozyma_kashinagaco
 r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Ambrosiozyma_kashinagacola@Seq_4242 or Ambrosiozyma_kashinagacola@Seq_5178 or Ambrosiozyma_kashinagacola@Seq_5275 or Ambrosiozyma_kashinagacola@Seq_852 or Ambrosiozyma_kashinagacola@Seq_925	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Ambrosiozyma_kashinagacola@Seq_4987	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Ambrosiozyma_kashinagacola@Seq_3336	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Ambrosiozyma_kashinagacola@Seq_1417 or Ambrosiozyma_kashinagacola@Seq_414 or Ambrosiozyma_kashinagacola@Seq_3619 or Ambrosiozyma_kashinagacola@Seq_3710 or Ambrosiozyma_kashinagacola@Seq_121	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Ambrosiozyma_kashinagacola@Seq_3710 or Ambrosiozyma_kashinagacola@Seq_3619 or Ambrosiozyma_kashinagacola@Seq_1417 or Ambrosiozyma_kashinagacola@Seq_121 or Ambrosiozyma_kashinagacola@Seq_414	  0.00	1000.00	  0.00
 r_4742	s_0803[c] + s_4354[c]  -> s_0178[c] + s_0419[c] 	Ambrosiozyma_kashinagacola@Seq_3762	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Ambrosiozyma_kashinagacola@Seq_928	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Ambrosiozyma_kashinagacola@Seq_1998	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Ambrosiozyma_kashinagacola@Seq_1432	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Ambrosiozyma_kashinagacola@Seq_560	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Ambrosiozyma_kashinagacola@Seq_5360	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Ambrosiozyma_kashinagacola@Seq_3596	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Ambrosiozyma_kashinagacola@Seq_1033	  0.00	1000.00	  0.00
@@ -3877,10 +3876,7 @@ r_4858	s_0803[c] + s_4395[c]  -> s_0270[c] + s_0419[c] 	Ambrosiozyma_kashinagaco
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Ambrosiozyma_kashinagacola@Seq_3800	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Ambrosiozyma_kashinagacola@Seq_1296 or Ambrosiozyma_kashinagacola@Seq_3086 or Ambrosiozyma_kashinagacola@Seq_646	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Ambrosiozyma_kashinagacola@Seq_1152 or Ambrosiozyma_kashinagacola@Seq_1769 or Ambrosiozyma_kashinagacola@Seq_4657	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Ambrosiozyma_kashinagacola@Seq_5021	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_3463	  0.00	1000.00	  0.00
@@ -3888,8 +3884,7 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Ambrosiozyma_kashinagaco
 r_4971	s_0803[c] + s_4138[c]  -> s_0419[c] + s_0794[c] + s_1399[c] + s_1469[c] 	Ambrosiozyma_kashinagacola@Seq_3762	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Ambrosiozyma_kashinagacola@Seq_3463	  0.00	1000.00	  0.00
 r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Ambrosiozyma_kashinagacola@Seq_5199	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Ambrosiozyma_kashinagacola@Seq_1180 or Ambrosiozyma_kashinagacola@Seq_2464	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Ambrosiozyma_kashinagacola@Seq_2464 or Ambrosiozyma_kashinagacola@Seq_1180	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Ambrosiozyma_kashinagacola@Seq_1133 or Ambrosiozyma_kashinagacola@Seq_1145	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Ambrosiozyma_kashinagacola@Seq_3493 or Ambrosiozyma_kashinagacola@Seq_3997 or Ambrosiozyma_kashinagacola@Seq_50	  0.00	1000.00	  0.00
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
@@ -3897,7 +3892,6 @@ r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] +
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Ambrosiozyma_kashinagacola@Seq_1448	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Ambrosiozyma_kashinagacola@Seq_1448	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Ambrosiozyma_kashinagacola@Seq_928	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Ambrosiozyma_kashinagacola@Seq_1699	  0.00	1000.00	  0.00
@@ -3906,13 +3900,10 @@ r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Ambrosiozyma_kashinagac
 r_0344	s_0625[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1487[c] 	Ambrosiozyma_kashinagacola@Seq_133	  0.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Ambrosiozyma_kashinagacola@Seq_104	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Ambrosiozyma_kashinagacola@Seq_4044 or Ambrosiozyma_kashinagacola@Seq_3390	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Ambrosiozyma_kashinagacola@Seq_3409 and Ambrosiozyma_kashinagacola@Seq_5100 and Ambrosiozyma_kashinagacola@Seq_3152 and Ambrosiozyma_kashinagacola@Seq_5217 and Ambrosiozyma_kashinagacola@Seq_580 and Ambrosiozyma_kashinagacola@Seq_2902 and Ambrosiozyma_kashinagacola@Seq_248 and Ambrosiozyma_kashinagacola@Seq_2223 and Ambrosiozyma_kashinagacola@Seq_183) or (Ambrosiozyma_kashinagacola@Seq_3409 and Ambrosiozyma_kashinagacola@Seq_5291 and Ambrosiozyma_kashinagacola@Seq_650 and Ambrosiozyma_kashinagacola@Seq_666 and Ambrosiozyma_kashinagacola@Seq_3627 and Ambrosiozyma_kashinagacola@Seq_2773)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Ambrosiozyma_kashinagacola@Seq_1223 and Ambrosiozyma_kashinagacola@Seq_2168 and Ambrosiozyma_kashinagacola@Seq_1194 and Ambrosiozyma_kashinagacola@Seq_5100 and Ambrosiozyma_kashinagacola@Seq_1588 and Ambrosiozyma_kashinagacola@Seq_1144 and Ambrosiozyma_kashinagacola@Seq_757 and Ambrosiozyma_kashinagacola@Seq_917 and Ambrosiozyma_kashinagacola@Seq_833 and Ambrosiozyma_kashinagacola@Seq_4577	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1814) or (Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1814 and Ambrosiozyma_kashinagacola@Seq_3535) or (Ambrosiozyma_kashinagacola@Seq_1096 and Ambrosiozyma_kashinagacola@Seq_5578 and Ambrosiozyma_kashinagacola@Seq_5522 and Ambrosiozyma_kashinagacola@Seq_3994 and Ambrosiozyma_kashinagacola@Seq_1272 and Ambrosiozyma_kashinagacola@Seq_1338 and Ambrosiozyma_kashinagacola@Seq_2403 and Ambrosiozyma_kashinagacola@Seq_1580 and Ambrosiozyma_kashinagacola@Seq_1116 and Ambrosiozyma_kashinagacola@Seq_1814 and Ambrosiozyma_kashinagacola@Seq_791 and Ambrosiozyma_kashinagacola@Seq_2704 and Ambrosiozyma_kashinagacola@Seq_1883 and Ambrosiozyma_kashinagacola@Seq_5071 and Ambrosiozyma_kashinagacola@Seq_2415)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Ambrosiozyma_kashinagacola@Seq_471 and Ambrosiozyma_kashinagacola@Seq_4029 and Ambrosiozyma_kashinagacola@Seq_4453 and Ambrosiozyma_kashinagacola@Seq_1005 and Ambrosiozyma_kashinagacola@Seq_4297 and Ambrosiozyma_kashinagacola@Seq_1397 and Ambrosiozyma_kashinagacola@Seq_3317 and Ambrosiozyma_kashinagacola@Seq_4558 and Ambrosiozyma_kashinagacola@Seq_5075 and Ambrosiozyma_kashinagacola@Seq_5292 and Ambrosiozyma_kashinagacola@Seq_2521 and Ambrosiozyma_kashinagacola@Seq_794 and Ambrosiozyma_kashinagacola@Seq_4640 and Ambrosiozyma_kashinagacola@Seq_3101 and Ambrosiozyma_kashinagacola@Seq_1949 and Ambrosiozyma_kashinagacola@Seq_4523 and Ambrosiozyma_kashinagacola@Seq_1376 and Ambrosiozyma_kashinagacola@Seq_979 and Ambrosiozyma_kashinagacola@Seq_4511 and Ambrosiozyma_kashinagacola@Seq_4890) or (Ambrosiozyma_kashinagacola@Seq_471 and Ambrosiozyma_kashinagacola@Seq_4029 and Ambrosiozyma_kashinagacola@Seq_4453 and Ambrosiozyma_kashinagacola@Seq_1005 and Ambrosiozyma_kashinagacola@Seq_4297 and Ambrosiozyma_kashinagacola@Seq_1397 and Ambrosiozyma_kashinagacola@Seq_3317 and Ambrosiozyma_kashinagacola@Seq_4558 and Ambrosiozyma_kashinagacola@Seq_5075 and Ambrosiozyma_kashinagacola@Seq_5292 and Ambrosiozyma_kashinagacola@Seq_2521 and Ambrosiozyma_kashinagacola@Seq_794 and Ambrosiozyma_kashinagacola@Seq_4640 and Ambrosiozyma_kashinagacola@Seq_3101 and Ambrosiozyma_kashinagacola@Seq_2684 and Ambrosiozyma_kashinagacola@Seq_4523 and Ambrosiozyma_kashinagacola@Seq_1376 and Ambrosiozyma_kashinagacola@Seq_979 and Ambrosiozyma_kashinagacola@Seq_4511 and Ambrosiozyma_kashinagacola@Seq_4890)	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Ambrosiozyma_kashinagacola@Seq_3743	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Ambrosiozyma_kashinagacola@Seq_210	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3923,3 +3914,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Ambrosiozyma_kashinagacola@Seq_1073	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Ambrosiozyma_kashinagacola@Seq_205	  0.00	1000.00	  0.00

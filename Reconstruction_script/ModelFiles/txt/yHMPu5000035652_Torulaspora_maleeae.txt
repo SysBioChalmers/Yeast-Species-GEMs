@@ -183,6 +183,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000035
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_303	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_303	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3731	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_4312 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_4312 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_4150 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_3610 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_3425 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2339	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1484	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1448	-1000.00	1000.00	  0.00
@@ -300,6 +301,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000035652_Torulaspora_maleeae@Seq_823	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2570	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_166	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_530 and yHMPu5000035652_Torulaspora_maleeae@Seq_1248 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_1619 and yHMPu5000035652_Torulaspora_maleeae@Seq_34 and yHMPu5000035652_Torulaspora_maleeae@Seq_820 and yHMPu5000035652_Torulaspora_maleeae@Seq_1828 and yHMPu5000035652_Torulaspora_maleeae@Seq_2706 and yHMPu5000035652_Torulaspora_maleeae@Seq_2464	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2700 and yHMPu5000035652_Torulaspora_maleeae@Seq_2914 and yHMPu5000035652_Torulaspora_maleeae@Seq_2087 and yHMPu5000035652_Torulaspora_maleeae@Seq_2242 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_2293 and yHMPu5000035652_Torulaspora_maleeae@Seq_2839 and yHMPu5000035652_Torulaspora_maleeae@Seq_668) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2914 and yHMPu5000035652_Torulaspora_maleeae@Seq_2087 and yHMPu5000035652_Torulaspora_maleeae@Seq_2242 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_2293 and yHMPu5000035652_Torulaspora_maleeae@Seq_2839 and yHMPu5000035652_Torulaspora_maleeae@Seq_668 and yHMPu5000035652_Torulaspora_maleeae@Seq_4301) or (yHMPu5000035652_Torulaspora_maleeae@Seq_4184 and yHMPu5000035652_Torulaspora_maleeae@Seq_2914 and yHMPu5000035652_Torulaspora_maleeae@Seq_2087 and yHMPu5000035652_Torulaspora_maleeae@Seq_2242 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_2293 and yHMPu5000035652_Torulaspora_maleeae@Seq_2839 and yHMPu5000035652_Torulaspora_maleeae@Seq_668)	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1417	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_214	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1675 or yHMPu5000035652_Torulaspora_maleeae@Seq_2315	-1000.00	1000.00	  0.00
@@ -346,9 +349,15 @@ r_0490	s_0688[m] + s_0770[m]  -> s_0632[m] + s_0690[m] 	yHMPu5000035652_Torulasp
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1576	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1500	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_752 or yHMPu5000035652_Torulaspora_maleeae@Seq_761	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_752 or yHMPu5000035652_Torulaspora_maleeae@Seq_761	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3018 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_3556	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4280 and yHMPu5000035652_Torulaspora_maleeae@Seq_1130	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1655	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_560	  0.00	1000.00	  0.00
@@ -546,7 +555,7 @@ r_0769	s_0438[n] + s_0593[n] + s_0808[n] + s_1001[n]  <=> s_0425[n] + s_0637[n] 
 r_0770	s_0794[c] + s_1203[c] + s_1537[m]  -> s_1198[c] + s_1535[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1940	  0.00	1000.00	  0.00
 r_0771	s_0434[c] + s_1203[c]  -> s_0394[c] + s_0794[c] + s_1212[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1615	  0.00	1000.00	  0.00
 r_0772	s_0437[m] + s_1205[m]  -> s_0397[m] + s_0799[m] + s_1214[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1615 or yHMPu5000035652_Torulaspora_maleeae@Seq_453	  0.00	1000.00	  0.00
-r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3180	  0.00	1000.00	  0.00
+r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_872	  0.00	1000.00	  0.00
 r_0774	s_0794[c] + s_1219[c] + s_1386[c]  -> s_0633[c] + s_1222[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2939	  0.00	1000.00	  0.00
 r_0775	s_0799[m] + s_1221[m] + s_1387[m]  -> s_0636[m] + s_1223[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2939	  0.00	1000.00	  0.00
 r_0781	s_0803[c] + s_1216[c]  -> s_0419[c] + s_1219[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_982	  0.00	1000.00	  0.00
@@ -635,6 +644,7 @@ r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 	yHMPu5000035
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2687	  0.00	1000.00	  0.00
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1007	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2746	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_24 and yHMPu5000035652_Torulaspora_maleeae@Seq_375	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_375	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_375	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_375	-1000.00	1000.00	  0.00
@@ -646,6 +656,7 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	yHMPu50000
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_775	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1974 or yHMPu5000035652_Torulaspora_maleeae@Seq_3889	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1974 or yHMPu5000035652_Torulaspora_maleeae@Seq_3889	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1568 and yHMPu5000035652_Torulaspora_maleeae@Seq_2602 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_2177	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_791	  0.00	1000.00	  0.00
 r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3192 and yHMPu5000035652_Torulaspora_maleeae@Seq_1097 and yHMPu5000035652_Torulaspora_maleeae@Seq_897 and yHMPu5000035652_Torulaspora_maleeae@Seq_2716 and yHMPu5000035652_Torulaspora_maleeae@Seq_329 and yHMPu5000035652_Torulaspora_maleeae@Seq_3089 and yHMPu5000035652_Torulaspora_maleeae@Seq_2490	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1891	  0.00	1000.00	  0.00
@@ -689,12 +700,14 @@ r_1009	s_0516[c]  <=> s_1503[c] 		-1000.00	1000.00	  0.00
 r_1010	s_0795[er] + s_1204[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1199[er] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4056	  0.00	1000.00	  0.00
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4056	  0.00	1000.00	  0.00
 r_1012	2 s_0190[c] + s_0794[c] + s_1212[c]  -> 2 s_0633[c] + s_1207[c] + s_1447[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2063	  0.00	1000.00	  0.00
+r_1021	s_1460[m] + s_1537[m]  <=> s_0727[m] + s_1535[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1742 and yHMPu5000035652_Torulaspora_maleeae@Seq_1350 and yHMPu5000035652_Torulaspora_maleeae@Seq_2056	-1000.00	1000.00	  0.00
 r_1023	s_0803[c] + s_1207[c] + s_1461[c]  -> 2 s_0794[c] + s_1212[c] + s_1458[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1290 or yHMPu5000035652_Torulaspora_maleeae@Seq_2781	  0.00	1000.00	  0.00
 r_1024	s_0805[e] + s_1466[e]  -> s_0554[e] + s_0565[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_182 or yHMPu5000035652_Torulaspora_maleeae@Seq_2865	  0.00	1000.00	  0.00
 r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1948	  0.00	1000.00	  0.00
 r_1026	s_0394[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_303	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1299 and yHMPu5000035652_Torulaspora_maleeae@Seq_851	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3606 or yHMPu5000035652_Torulaspora_maleeae@Seq_393	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4253 and yHMPu5000035652_Torulaspora_maleeae@Seq_3392 and yHMPu5000035652_Torulaspora_maleeae@Seq_622	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2581	-1000.00	1000.00	  0.00
 r_1032	2 s_0805[e] + s_1476[e]  -> s_0796[e] + 2 s_1324[e] + s_1490[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1393 or yHMPu5000035652_Torulaspora_maleeae@Seq_3586 or yHMPu5000035652_Torulaspora_maleeae@Seq_3730	  0.00	1000.00	  0.00
 r_1033	s_0805[e] + s_1498[e]  -> s_1324[e] + s_1490[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1393 or yHMPu5000035652_Torulaspora_maleeae@Seq_3586 or yHMPu5000035652_Torulaspora_maleeae@Seq_3730	  0.00	1000.00	  0.00
@@ -1812,6 +1825,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	yHMPu5000035652_Torulas
 r_4042	s_3715[e]  -> s_0554[e] + s_3716[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_182 or yHMPu5000035652_Torulaspora_maleeae@Seq_2865	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2394 or yHMPu5000035652_Torulaspora_maleeae@Seq_2618 or yHMPu5000035652_Torulaspora_maleeae@Seq_2813 or yHMPu5000035652_Torulaspora_maleeae@Seq_918	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2394 or yHMPu5000035652_Torulaspora_maleeae@Seq_2618 or yHMPu5000035652_Torulaspora_maleeae@Seq_2813 or yHMPu5000035652_Torulaspora_maleeae@Seq_918	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2442 and yHMPu5000035652_Torulaspora_maleeae@Seq_1630 and yHMPu5000035652_Torulaspora_maleeae@Seq_1662 and yHMPu5000035652_Torulaspora_maleeae@Seq_100 and yHMPu5000035652_Torulaspora_maleeae@Seq_2726 and yHMPu5000035652_Torulaspora_maleeae@Seq_909 and yHMPu5000035652_Torulaspora_maleeae@Seq_3006 and yHMPu5000035652_Torulaspora_maleeae@Seq_698 and yHMPu5000035652_Torulaspora_maleeae@Seq_4289 and yHMPu5000035652_Torulaspora_maleeae@Seq_2267 and yHMPu5000035652_Torulaspora_maleeae@Seq_1433 and yHMPu5000035652_Torulaspora_maleeae@Seq_3965) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2442 and yHMPu5000035652_Torulaspora_maleeae@Seq_1630 and yHMPu5000035652_Torulaspora_maleeae@Seq_1662 and yHMPu5000035652_Torulaspora_maleeae@Seq_100 and yHMPu5000035652_Torulaspora_maleeae@Seq_2726 and yHMPu5000035652_Torulaspora_maleeae@Seq_909 and yHMPu5000035652_Torulaspora_maleeae@Seq_3006 and yHMPu5000035652_Torulaspora_maleeae@Seq_698 and yHMPu5000035652_Torulaspora_maleeae@Seq_570 and yHMPu5000035652_Torulaspora_maleeae@Seq_2267 and yHMPu5000035652_Torulaspora_maleeae@Seq_1433 and yHMPu5000035652_Torulaspora_maleeae@Seq_3965)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2442 and yHMPu5000035652_Torulaspora_maleeae@Seq_1630 and yHMPu5000035652_Torulaspora_maleeae@Seq_1662 and yHMPu5000035652_Torulaspora_maleeae@Seq_100 and yHMPu5000035652_Torulaspora_maleeae@Seq_2726 and yHMPu5000035652_Torulaspora_maleeae@Seq_909 and yHMPu5000035652_Torulaspora_maleeae@Seq_3006 and yHMPu5000035652_Torulaspora_maleeae@Seq_698 and yHMPu5000035652_Torulaspora_maleeae@Seq_4289 and yHMPu5000035652_Torulaspora_maleeae@Seq_2267 and yHMPu5000035652_Torulaspora_maleeae@Seq_1433 and yHMPu5000035652_Torulaspora_maleeae@Seq_3965) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2442 and yHMPu5000035652_Torulaspora_maleeae@Seq_1630 and yHMPu5000035652_Torulaspora_maleeae@Seq_1662 and yHMPu5000035652_Torulaspora_maleeae@Seq_100 and yHMPu5000035652_Torulaspora_maleeae@Seq_2726 and yHMPu5000035652_Torulaspora_maleeae@Seq_909 and yHMPu5000035652_Torulaspora_maleeae@Seq_3006 and yHMPu5000035652_Torulaspora_maleeae@Seq_698 and yHMPu5000035652_Torulaspora_maleeae@Seq_570 and yHMPu5000035652_Torulaspora_maleeae@Seq_2267 and yHMPu5000035652_Torulaspora_maleeae@Seq_1433 and yHMPu5000035652_Torulaspora_maleeae@Seq_3965)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3195,8 +3210,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3327,7 +3342,7 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2997 or yHMPu5000035652_Torulaspora_maleeae@Seq_67	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2997 or yHMPu5000035652_Torulaspora_maleeae@Seq_67	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2161 or yHMPu5000035652_Torulaspora_maleeae@Seq_3032	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2507 or yHMPu5000035652_Torulaspora_maleeae@Seq_3423 or yHMPu5000035652_Torulaspora_maleeae@Seq_3295	-1000.00	1000.00	  0.00
+r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2507	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2796	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2796	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1459	-1000.00	1000.00	  0.00
@@ -3364,6 +3379,7 @@ r_4229	s_0803[c] + s_3869[c]  <=> s_0419[c] + s_3870[c] 	yHMPu5000035652_Torulas
 r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2977	-1000.00	1000.00	  0.00
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2977	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2195	  0.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1445 and yHMPu5000035652_Torulaspora_maleeae@Seq_2863 and yHMPu5000035652_Torulaspora_maleeae@Seq_3998 and yHMPu5000035652_Torulaspora_maleeae@Seq_315 and yHMPu5000035652_Torulaspora_maleeae@Seq_2577	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3667	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1555	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1337	  0.00	1000.00	  0.00
@@ -3732,7 +3748,6 @@ r_4625	s_4113[c]  <=> s_4010[m] 		-1000.00	1000.00	  0.00
 r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1969	-1000.00	1000.00	  0.00
 r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2869	  0.00	1000.00	  0.00
 r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2869	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_4088	  0.00	1000.00	  0.00
@@ -3742,27 +3757,20 @@ r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	
 r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2319	  0.00	1000.00	  0.00
 r_4686	s_0063[c] + s_1275[c]  -> s_0362[c] + s_0456[c] + s_0803[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_264	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3451	-1000.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2376 or yHMPu5000035652_Torulaspora_maleeae@Seq_2627 or yHMPu5000035652_Torulaspora_maleeae@Seq_2902	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2627 or yHMPu5000035652_Torulaspora_maleeae@Seq_2376 or yHMPu5000035652_Torulaspora_maleeae@Seq_2902	  0.00	1000.00	  0.00
 r_4753	s_0063[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_1399[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_384	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3873	-1000.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_392	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3933	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2627	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1342	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1986	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_709	  0.00	1000.00	  0.00
 r_4980	2 s_4193[c]  -> s_3998[c] + s_4192[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2869	  0.00	1000.00	  0.00
 r_4981	2 s_4192[c]  -> s_4193[c] + s_4277[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2869	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1986	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2869	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2319	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3423 or yHMPu5000035652_Torulaspora_maleeae@Seq_3295	-1000.00	1000.00	  0.00
 r_0344	s_0625[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1487[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_759	  0.00	1000.00	  0.00
 r_0361	s_0645[c] + s_0743[c]  -> s_0644[er] + s_0739[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3307	  0.00	1000.00	  0.00
@@ -3770,16 +3778,13 @@ r_0913	s_1187[c]  -> s_0076[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_1149	  0
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3531	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2766	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2607	-1000.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_530 and yHMPu5000035652_Torulaspora_maleeae@Seq_1248 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_1619 and yHMPu5000035652_Torulaspora_maleeae@Seq_34 and yHMPu5000035652_Torulaspora_maleeae@Seq_2464 and yHMPu5000035652_Torulaspora_maleeae@Seq_820 and yHMPu5000035652_Torulaspora_maleeae@Seq_1828 and yHMPu5000035652_Torulaspora_maleeae@Seq_2706) or (yHMPu5000035652_Torulaspora_maleeae@Seq_530 and yHMPu5000035652_Torulaspora_maleeae@Seq_1248 and yHMPu5000035652_Torulaspora_maleeae@Seq_2849 and yHMPu5000035652_Torulaspora_maleeae@Seq_2189 and yHMPu5000035652_Torulaspora_maleeae@Seq_2610)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2700 and yHMPu5000035652_Torulaspora_maleeae@Seq_2914 and yHMPu5000035652_Torulaspora_maleeae@Seq_2087 and yHMPu5000035652_Torulaspora_maleeae@Seq_2242 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_2293 and yHMPu5000035652_Torulaspora_maleeae@Seq_2839 and yHMPu5000035652_Torulaspora_maleeae@Seq_668) or (yHMPu5000035652_Torulaspora_maleeae@Seq_4184 and yHMPu5000035652_Torulaspora_maleeae@Seq_2914 and yHMPu5000035652_Torulaspora_maleeae@Seq_2087 and yHMPu5000035652_Torulaspora_maleeae@Seq_2242 and yHMPu5000035652_Torulaspora_maleeae@Seq_2023 and yHMPu5000035652_Torulaspora_maleeae@Seq_2293 and yHMPu5000035652_Torulaspora_maleeae@Seq_2839 and yHMPu5000035652_Torulaspora_maleeae@Seq_668)	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_4312 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773) or (yHMPu5000035652_Torulaspora_maleeae@Seq_2440 and yHMPu5000035652_Torulaspora_maleeae@Seq_2572 and yHMPu5000035652_Torulaspora_maleeae@Seq_1565 and yHMPu5000035652_Torulaspora_maleeae@Seq_4312 and yHMPu5000035652_Torulaspora_maleeae@Seq_2878 and yHMPu5000035652_Torulaspora_maleeae@Seq_3337 and yHMPu5000035652_Torulaspora_maleeae@Seq_1716 and yHMPu5000035652_Torulaspora_maleeae@Seq_870 and yHMPu5000035652_Torulaspora_maleeae@Seq_2669 and yHMPu5000035652_Torulaspora_maleeae@Seq_2773 and yHMPu5000035652_Torulaspora_maleeae@Seq_4150 and yHMPu5000035652_Torulaspora_maleeae@Seq_3610 and yHMPu5000035652_Torulaspora_maleeae@Seq_3425)	  0.00	1000.00	  0.00
-r_0491	s_0629[c] + s_0794[c] + s_1203[c]  -> s_0767[c] + s_1198[c] 		  0.00	1000.00	  0.00
+r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 		  0.00	1000.00	  0.00
 r_0818	s_0993[m] + s_1182[m]  -> s_1192[m] + s_1268[m] 		  0.00	1000.00	  0.00
 r_2460	s_3090[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3124[erm] 		  0.00	1000.00	  0.00
 r_2461	s_3091[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3125[erm] 		  0.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	yHMPu5000035652_Torulaspora_maleeae@Seq_2865	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3295	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_89	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
@@ -3791,3 +3796,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000035652_Torulaspora_maleeae@Seq_3858	-1000.00	1000.00	  0.00

@@ -11,6 +11,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	yHMPu5000035
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	yHMPu5000035302_Candida_fragi@Seq_1315 or yHMPu5000035302_Candida_fragi@Seq_666 or yHMPu5000035302_Candida_fragi@Seq_1824	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	yHMPu5000035302_Candida_fragi@Seq_3874	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	yHMPu5000035302_Candida_fragi@Seq_4453 or yHMPu5000035302_Candida_fragi@Seq_614	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	yHMPu5000035302_Candida_fragi@Seq_573 and yHMPu5000035302_Candida_fragi@Seq_3942 and yHMPu5000035302_Candida_fragi@Seq_1291 and yHMPu5000035302_Candida_fragi@Seq_1230 and yHMPu5000035302_Candida_fragi@Seq_4673 and yHMPu5000035302_Candida_fragi@Seq_2257	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	yHMPu5000035302_Candida_fragi@Seq_573 and yHMPu5000035302_Candida_fragi@Seq_3942 and yHMPu5000035302_Candida_fragi@Seq_1291 and yHMPu5000035302_Candida_fragi@Seq_1230 and yHMPu5000035302_Candida_fragi@Seq_4673 and yHMPu5000035302_Candida_fragi@Seq_2257	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	yHMPu5000035302_Candida_fragi@Seq_1464	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_2561 or yHMPu5000035302_Candida_fragi@Seq_2589	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	yHMPu5000035302_Candida_fragi@Seq_2561 or yHMPu5000035302_Candida_fragi@Seq_2589	  0.00	1000.00	  0.00
@@ -181,6 +183,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000035
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_2283	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_2283	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000035302_Candida_fragi@Seq_265	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_1517 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_5233) or (yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_5233 and yHMPu5000035302_Candida_fragi@Seq_4778) or (yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_5181 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_1517 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_4769 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_3458 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_676 and yHMPu5000035302_Candida_fragi@Seq_5276 and yHMPu5000035302_Candida_fragi@Seq_5233)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_1961	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000035302_Candida_fragi@Seq_1103	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_4677	-1000.00	1000.00	  0.00
@@ -302,6 +305,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	yHMPu5000035302_Candida_fragi@Seq_4835	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000035302_Candida_fragi@Seq_4835	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000035302_Candida_fragi@Seq_4284	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000035302_Candida_fragi@Seq_1311 and yHMPu5000035302_Candida_fragi@Seq_1358 and yHMPu5000035302_Candida_fragi@Seq_3278 and yHMPu5000035302_Candida_fragi@Seq_4777 and yHMPu5000035302_Candida_fragi@Seq_4839 and yHMPu5000035302_Candida_fragi@Seq_5177 and yHMPu5000035302_Candida_fragi@Seq_3887 and yHMPu5000035302_Candida_fragi@Seq_1990 and yHMPu5000035302_Candida_fragi@Seq_259 and yHMPu5000035302_Candida_fragi@Seq_749) or (yHMPu5000035302_Candida_fragi@Seq_1311 and yHMPu5000035302_Candida_fragi@Seq_1358 and yHMPu5000035302_Candida_fragi@Seq_3289 and yHMPu5000035302_Candida_fragi@Seq_3278 and yHMPu5000035302_Candida_fragi@Seq_2333 and yHMPu5000035302_Candida_fragi@Seq_1590 and yHMPu5000035302_Candida_fragi@Seq_4354 and yHMPu5000035302_Candida_fragi@Seq_3727)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000035302_Candida_fragi@Seq_1439 and yHMPu5000035302_Candida_fragi@Seq_3233 and yHMPu5000035302_Candida_fragi@Seq_779 and yHMPu5000035302_Candida_fragi@Seq_106 and yHMPu5000035302_Candida_fragi@Seq_5137 and yHMPu5000035302_Candida_fragi@Seq_4736 and yHMPu5000035302_Candida_fragi@Seq_35 and yHMPu5000035302_Candida_fragi@Seq_3596 and yHMPu5000035302_Candida_fragi@Seq_1643 and yHMPu5000035302_Candida_fragi@Seq_4014	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000035302_Candida_fragi@Seq_5049	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000035302_Candida_fragi@Seq_493	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000035302_Candida_fragi@Seq_493	  0.00	1000.00	  0.00
@@ -380,6 +385,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	yHMPu5000035302_Candida_
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	yHMPu5000035302_Candida_fragi@Seq_5339	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	yHMPu5000035302_Candida_fragi@Seq_450 or (yHMPu5000035302_Candida_fragi@Seq_2070 and yHMPu5000035302_Candida_fragi@Seq_23)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	yHMPu5000035302_Candida_fragi@Seq_2150	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	yHMPu5000035302_Candida_fragi@Seq_573 and yHMPu5000035302_Candida_fragi@Seq_3942 and yHMPu5000035302_Candida_fragi@Seq_1291 and yHMPu5000035302_Candida_fragi@Seq_1230 and yHMPu5000035302_Candida_fragi@Seq_4673 and yHMPu5000035302_Candida_fragi@Seq_2257	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_3503 or yHMPu5000035302_Candida_fragi@Seq_1916	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_3503 or yHMPu5000035302_Candida_fragi@Seq_864 or yHMPu5000035302_Candida_fragi@Seq_1916	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_3503 or yHMPu5000035302_Candida_fragi@Seq_1916	  0.00	1000.00	  0.00
@@ -655,6 +661,7 @@ r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000035
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	yHMPu5000035302_Candida_fragi@Seq_5174	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000035302_Candida_fragi@Seq_1790	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	yHMPu5000035302_Candida_fragi@Seq_1623 or yHMPu5000035302_Candida_fragi@Seq_877	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000035302_Candida_fragi@Seq_126 and yHMPu5000035302_Candida_fragi@Seq_4936	  0.00	1000.00	  0.00
 r_0953	s_0419[c] + 2 s_0803[c] + 0.5 s_1275[c] + s_1392[c]  -> 2 s_0837[c] + s_1394[c] 	yHMPu5000035302_Candida_fragi@Seq_121	  0.00	1000.00	  0.00
 r_0954	s_0803[c] + s_1275[c] + s_1395[c]  -> s_0419[c] + s_0837[c] + s_1393[c] 	yHMPu5000035302_Candida_fragi@Seq_121	  0.00	1000.00	  0.00
 r_0955	s_1275[c] + s_1398[c]  <=> s_0837[c] + s_1393[c] 	yHMPu5000035302_Candida_fragi@Seq_121	-1000.00	1000.00	  0.00
@@ -665,6 +672,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000035302_Candida_
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000035302_Candida_fragi@Seq_2829	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000035302_Candida_fragi@Seq_2017 and yHMPu5000035302_Candida_fragi@Seq_4490 and yHMPu5000035302_Candida_fragi@Seq_3018 and yHMPu5000035302_Candida_fragi@Seq_4592 and yHMPu5000035302_Candida_fragi@Seq_4700	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000035302_Candida_fragi@Seq_2396	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000035302_Candida_fragi@Seq_573 and yHMPu5000035302_Candida_fragi@Seq_3942 and yHMPu5000035302_Candida_fragi@Seq_1291 and yHMPu5000035302_Candida_fragi@Seq_1230 and yHMPu5000035302_Candida_fragi@Seq_4673 and yHMPu5000035302_Candida_fragi@Seq_2257	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_138	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	yHMPu5000035302_Candida_fragi@Seq_138	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_5237	  0.00	1000.00	  0.00
@@ -682,6 +690,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	yHMPu5000035
 r_0982	s_0577[c]  <=> s_1408[c] 	yHMPu5000035302_Candida_fragi@Seq_3747	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	yHMPu5000035302_Candida_fragi@Seq_4780	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	yHMPu5000035302_Candida_fragi@Seq_2418	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	yHMPu5000035302_Candida_fragi@Seq_573 and yHMPu5000035302_Candida_fragi@Seq_3942 and yHMPu5000035302_Candida_fragi@Seq_1291 and yHMPu5000035302_Candida_fragi@Seq_1230 and yHMPu5000035302_Candida_fragi@Seq_4673 and yHMPu5000035302_Candida_fragi@Seq_2257	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	yHMPu5000035302_Candida_fragi@Seq_2013	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_801	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	yHMPu5000035302_Candida_fragi@Seq_564	  0.00	1000.00	  0.00
@@ -3189,8 +3198,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3320,7 +3329,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000035302_Candida_fragi@Seq_1626	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000035302_Candida_fragi@Seq_1626	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000035302_Candida_fragi@Seq_260 or yHMPu5000035302_Candida_fragi@Seq_4965	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000035302_Candida_fragi@Seq_2682 or yHMPu5000035302_Candida_fragi@Seq_4299	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000035302_Candida_fragi@Seq_1149	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000035302_Candida_fragi@Seq_1149	  0.00	1000.00	  0.00
 r_4187	s_0437[m] + s_1037[m] + s_3808[m]  -> s_0424[m] + s_0636[m] + s_3809[m] 	yHMPu5000035302_Candida_fragi@Seq_1082	  0.00	1000.00	  0.00
@@ -3362,6 +3370,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000035302_Candida
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000035302_Candida_fragi@Seq_1046 or yHMPu5000035302_Candida_fragi@Seq_1832	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000035302_Candida_fragi@Seq_1559	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000035302_Candida_fragi@Seq_291	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000035302_Candida_fragi@Seq_4221 and yHMPu5000035302_Candida_fragi@Seq_1686 and yHMPu5000035302_Candida_fragi@Seq_4341 and yHMPu5000035302_Candida_fragi@Seq_3716	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000035302_Candida_fragi@Seq_864	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000035302_Candida_fragi@Seq_4880	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	yHMPu5000035302_Candida_fragi@Seq_2214	  0.00	1000.00	  0.00
@@ -3744,8 +3753,6 @@ r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	yHMPu5000035302_Candida_fragi@Seq_119	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000035302_Candida_fragi@Seq_2457	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000035302_Candida_fragi@Seq_892	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000035302_Candida_fragi@Seq_2620	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	yHMPu5000035302_Candida_fragi@Seq_789	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000035302_Candida_fragi@Seq_3038	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000035302_Candida_fragi@Seq_1409	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	yHMPu5000035302_Candida_fragi@Seq_4781 or yHMPu5000035302_Candida_fragi@Seq_3808	  0.00	1000.00	  0.00
@@ -3765,9 +3772,7 @@ r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	yHMPu5000035302_Candida_fragi@Seq_1357	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	yHMPu5000035302_Candida_fragi@Seq_1705	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	yHMPu5000035302_Candida_fragi@Seq_3430	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000035302_Candida_fragi@Seq_2315	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	yHMPu5000035302_Candida_fragi@Seq_2934	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000035302_Candida_fragi@Seq_819	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	yHMPu5000035302_Candida_fragi@Seq_4317	  0.00	1000.00	  0.00
@@ -3775,18 +3780,14 @@ r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	yHMPu5000035
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	yHMPu5000035302_Candida_fragi@Seq_5354	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	yHMPu5000035302_Candida_fragi@Seq_4057	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000035302_Candida_fragi@Seq_1825	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000035302_Candida_fragi@Seq_2955 or yHMPu5000035302_Candida_fragi@Seq_3643	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000035302_Candida_fragi@Seq_1041 or yHMPu5000035302_Candida_fragi@Seq_2377	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	yHMPu5000035302_Candida_fragi@Seq_1909	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_4922	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	yHMPu5000035302_Candida_fragi@Seq_1894 or yHMPu5000035302_Candida_fragi@Seq_2073	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	yHMPu5000035302_Candida_fragi@Seq_2457	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_4922	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000035302_Candida_fragi@Seq_168 or yHMPu5000035302_Candida_fragi@Seq_3073 or yHMPu5000035302_Candida_fragi@Seq_3238 or yHMPu5000035302_Candida_fragi@Seq_386	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000035302_Candida_fragi@Seq_168 or yHMPu5000035302_Candida_fragi@Seq_3073 or yHMPu5000035302_Candida_fragi@Seq_3238 or yHMPu5000035302_Candida_fragi@Seq_386	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	yHMPu5000035302_Candida_fragi@Seq_4466	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000035302_Candida_fragi@Seq_1222 or yHMPu5000035302_Candida_fragi@Seq_476	  0.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	yHMPu5000035302_Candida_fragi@Seq_168 or yHMPu5000035302_Candida_fragi@Seq_3238	-1000.00	1000.00	  0.00
@@ -3796,21 +3797,18 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000035302_Candida_
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000035302_Candida_fragi@Seq_2598	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000035302_Candida_fragi@Seq_2598	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000035302_Candida_fragi@Seq_1357	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000035302_Candida_fragi@Seq_2682 or yHMPu5000035302_Candida_fragi@Seq_4299	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	yHMPu5000035302_Candida_fragi@Seq_2415	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	yHMPu5000035302_Candida_fragi@Seq_1909	-1000.00	1000.00	  0.00
 r_0821	s_0794[c] + s_1270[c]  -> s_0456[c] + s_1545[c] 	yHMPu5000035302_Candida_fragi@Seq_1426	  0.00	1000.00	  0.00
+r_0917	s_0259[c] + s_0803[c]  -> s_1039[c] + s_1322[c] 	yHMPu5000035302_Candida_fragi@Seq_5364	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000035302_Candida_fragi@Seq_4731	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	yHMPu5000035302_Candida_fragi@Seq_4731	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000035302_Candida_fragi@Seq_1311 and yHMPu5000035302_Candida_fragi@Seq_1358 and yHMPu5000035302_Candida_fragi@Seq_3278 and yHMPu5000035302_Candida_fragi@Seq_4777 and yHMPu5000035302_Candida_fragi@Seq_4839 and yHMPu5000035302_Candida_fragi@Seq_5177 and yHMPu5000035302_Candida_fragi@Seq_749 and yHMPu5000035302_Candida_fragi@Seq_3887 and yHMPu5000035302_Candida_fragi@Seq_1990 and yHMPu5000035302_Candida_fragi@Seq_259) or (yHMPu5000035302_Candida_fragi@Seq_1311 and yHMPu5000035302_Candida_fragi@Seq_1358 and yHMPu5000035302_Candida_fragi@Seq_3278 and yHMPu5000035302_Candida_fragi@Seq_4354 and yHMPu5000035302_Candida_fragi@Seq_2333 and yHMPu5000035302_Candida_fragi@Seq_1590 and yHMPu5000035302_Candida_fragi@Seq_3289 and yHMPu5000035302_Candida_fragi@Seq_3727)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000035302_Candida_fragi@Seq_1439 and yHMPu5000035302_Candida_fragi@Seq_3233 and yHMPu5000035302_Candida_fragi@Seq_779 and yHMPu5000035302_Candida_fragi@Seq_106 and yHMPu5000035302_Candida_fragi@Seq_5137 and yHMPu5000035302_Candida_fragi@Seq_4736 and yHMPu5000035302_Candida_fragi@Seq_35 and yHMPu5000035302_Candida_fragi@Seq_3596 and yHMPu5000035302_Candida_fragi@Seq_1643 and yHMPu5000035302_Candida_fragi@Seq_4014	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_1517 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_5233) or (yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_5233 and yHMPu5000035302_Candida_fragi@Seq_4778) or (yHMPu5000035302_Candida_fragi@Seq_5116 and yHMPu5000035302_Candida_fragi@Seq_4966 and yHMPu5000035302_Candida_fragi@Seq_1106 and yHMPu5000035302_Candida_fragi@Seq_4574 and yHMPu5000035302_Candida_fragi@Seq_4842 and yHMPu5000035302_Candida_fragi@Seq_3350 and yHMPu5000035302_Candida_fragi@Seq_1517 and yHMPu5000035302_Candida_fragi@Seq_3948 and yHMPu5000035302_Candida_fragi@Seq_1131 and yHMPu5000035302_Candida_fragi@Seq_1455 and yHMPu5000035302_Candida_fragi@Seq_2863 and yHMPu5000035302_Candida_fragi@Seq_2385 and yHMPu5000035302_Candida_fragi@Seq_5233 and yHMPu5000035302_Candida_fragi@Seq_4769 and yHMPu5000035302_Candida_fragi@Seq_3458 and yHMPu5000035302_Candida_fragi@Seq_676 and yHMPu5000035302_Candida_fragi@Seq_5276 and yHMPu5000035302_Candida_fragi@Seq_5181)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000035302_Candida_fragi@Seq_4912 and yHMPu5000035302_Candida_fragi@Seq_591 and yHMPu5000035302_Candida_fragi@Seq_3392 and yHMPu5000035302_Candida_fragi@Seq_3276 and yHMPu5000035302_Candida_fragi@Seq_4482 and yHMPu5000035302_Candida_fragi@Seq_381 and yHMPu5000035302_Candida_fragi@Seq_2901 and yHMPu5000035302_Candida_fragi@Seq_4086 and yHMPu5000035302_Candida_fragi@Seq_208 and yHMPu5000035302_Candida_fragi@Seq_1539 and yHMPu5000035302_Candida_fragi@Seq_2352 and yHMPu5000035302_Candida_fragi@Seq_4214 and yHMPu5000035302_Candida_fragi@Seq_4569 and yHMPu5000035302_Candida_fragi@Seq_5352 and yHMPu5000035302_Candida_fragi@Seq_1164 and yHMPu5000035302_Candida_fragi@Seq_5226 and yHMPu5000035302_Candida_fragi@Seq_2541 and yHMPu5000035302_Candida_fragi@Seq_1300 and yHMPu5000035302_Candida_fragi@Seq_4772 and yHMPu5000035302_Candida_fragi@Seq_3856 and yHMPu5000035302_Candida_fragi@Seq_3042 and yHMPu5000035302_Candida_fragi@Seq_1391 and yHMPu5000035302_Candida_fragi@Seq_1493 and yHMPu5000035302_Candida_fragi@Seq_4515 and yHMPu5000035302_Candida_fragi@Seq_289 and yHMPu5000035302_Candida_fragi@Seq_1952 and yHMPu5000035302_Candida_fragi@Seq_131	  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_2140	s_0373[c] + 21 s_0794[c] + 7 s_1101[c] + 14 s_1212[c]  -> 7 s_0456[c] + 7 s_0529[c] + 7 s_0803[c] + 14 s_1207[c] + s_1302[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000035302_Candida_fragi@Seq_2682	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000035302_Candida_fragi@Seq_1323 or yHMPu5000035302_Candida_fragi@Seq_3388	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
@@ -3831,3 +3829,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000035302_Candida_fragi@Seq_1109	-1000.00	1000.00	  0.00

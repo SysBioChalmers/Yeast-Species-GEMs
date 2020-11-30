@@ -177,6 +177,7 @@ r_0219	s_0295[c] + s_0794[c] + s_1212[c]  -> s_0978[c] + s_1207[c] + s_1322[c] 	
 r_0220	s_0434[c] + s_0973[c] + s_1587[c]  -> s_0423[c] + s_0432[c] + s_0633[c] 	Metschnikowia_ipomoeae@Seq_3647	  0.00	1000.00	  0.00
 r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	Metschnikowia_ipomoeae@Seq_3911	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Metschnikowia_ipomoeae@Seq_364	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_ipomoeae@Seq_4978 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2694 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_388 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_4992 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_1941 and Metschnikowia_ipomoeae@Seq_2115 and Metschnikowia_ipomoeae@Seq_663) or (Metschnikowia_ipomoeae@Seq_4978 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663) or (Metschnikowia_ipomoeae@Seq_4978 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663 and Metschnikowia_ipomoeae@Seq_1638) or (Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2694 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_388 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_4992 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_1941 and Metschnikowia_ipomoeae@Seq_2115 and Metschnikowia_ipomoeae@Seq_663) or (Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663) or (Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663 and Metschnikowia_ipomoeae@Seq_1638)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Metschnikowia_ipomoeae@Seq_4216	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Metschnikowia_ipomoeae@Seq_5995	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Metschnikowia_ipomoeae@Seq_3566	-1000.00	1000.00	  0.00
@@ -298,6 +299,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Metschnikowia_ipomoeae@Seq_1103 or Metschnikowia_ipomoeae@Seq_1838 or Metschnikowia_ipomoeae@Seq_2974	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Metschnikowia_ipomoeae@Seq_1103 or Metschnikowia_ipomoeae@Seq_1838 or Metschnikowia_ipomoeae@Seq_2974	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Metschnikowia_ipomoeae@Seq_1834	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_ipomoeae@Seq_1002 and Metschnikowia_ipomoeae@Seq_4972 and Metschnikowia_ipomoeae@Seq_2487 and Metschnikowia_ipomoeae@Seq_5147 and Metschnikowia_ipomoeae@Seq_3921 and Metschnikowia_ipomoeae@Seq_3703 and Metschnikowia_ipomoeae@Seq_378) or (Metschnikowia_ipomoeae@Seq_1685 and Metschnikowia_ipomoeae@Seq_1002 and Metschnikowia_ipomoeae@Seq_5564 and Metschnikowia_ipomoeae@Seq_1669 and Metschnikowia_ipomoeae@Seq_5446 and Metschnikowia_ipomoeae@Seq_2462)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_ipomoeae@Seq_702 and Metschnikowia_ipomoeae@Seq_5594 and Metschnikowia_ipomoeae@Seq_1949 and Metschnikowia_ipomoeae@Seq_2624 and Metschnikowia_ipomoeae@Seq_371 and Metschnikowia_ipomoeae@Seq_162 and Metschnikowia_ipomoeae@Seq_1917 and Metschnikowia_ipomoeae@Seq_1667 and Metschnikowia_ipomoeae@Seq_2460	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Metschnikowia_ipomoeae@Seq_443	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Metschnikowia_ipomoeae@Seq_5265	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Metschnikowia_ipomoeae@Seq_1693	  0.00	1000.00	  0.00
@@ -691,6 +694,7 @@ r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Metschnikow
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Metschnikowia_ipomoeae@Seq_5695	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	Metschnikowia_ipomoeae@Seq_4017	  0.00	1000.00	  0.00
 r_0990	s_1426[c]  <=> s_0551[c] + s_0629[c] 	Metschnikowia_ipomoeae@Seq_1096	-1000.00	1000.00	  0.00
+r_0992	s_0373[c] + s_1039[c]  -> s_0529[c] + s_1234[c] 	Metschnikowia_ipomoeae@Seq_4560 and Metschnikowia_ipomoeae@Seq_3133	  0.00	1000.00	  0.00
 r_0993	s_1040[er] + s_1303[er]  -> s_0231[er] + s_0457[er] + s_0530[er] 	Metschnikowia_ipomoeae@Seq_4512 and Metschnikowia_ipomoeae@Seq_4117	  0.00	1000.00	  0.00
 r_0995	s_0434[c] + s_1039[c] + s_1607[c]  -> s_0423[c] + s_0633[c] + s_1428[c] 	Metschnikowia_ipomoeae@Seq_3276 or Metschnikowia_ipomoeae@Seq_5666	  0.00	1000.00	  0.00
 r_0996	s_0211[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1429[c] 	Metschnikowia_ipomoeae@Seq_1611	  0.00	1000.00	  0.00
@@ -3158,8 +3162,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3283,7 +3287,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Metschnikowia_ipomoeae@S
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Metschnikowia_ipomoeae@Seq_1472	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Metschnikowia_ipomoeae@Seq_6040	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Metschnikowia_ipomoeae@Seq_1898 or Metschnikowia_ipomoeae@Seq_534	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Metschnikowia_ipomoeae@Seq_5721 or Metschnikowia_ipomoeae@Seq_254	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Metschnikowia_ipomoeae@Seq_2853	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Metschnikowia_ipomoeae@Seq_2853	  0.00	1000.00	  0.00
 r_4187	s_0437[m] + s_1037[m] + s_3808[m]  -> s_0424[m] + s_0636[m] + s_3809[m] 	Metschnikowia_ipomoeae@Seq_1579	  0.00	1000.00	  0.00
@@ -3321,6 +3324,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Metschnikowia_ipomoeae@Seq_1342	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Metschnikowia_ipomoeae@Seq_5270	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Metschnikowia_ipomoeae@Seq_1753	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Metschnikowia_ipomoeae@Seq_3235 and Metschnikowia_ipomoeae@Seq_4093 and Metschnikowia_ipomoeae@Seq_3099 and Metschnikowia_ipomoeae@Seq_482	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Metschnikowia_ipomoeae@Seq_4952	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Metschnikowia_ipomoeae@Seq_1230 or Metschnikowia_ipomoeae@Seq_1383 or Metschnikowia_ipomoeae@Seq_31 or Metschnikowia_ipomoeae@Seq_3555 or Metschnikowia_ipomoeae@Seq_5514 or Metschnikowia_ipomoeae@Seq_566 or Metschnikowia_ipomoeae@Seq_958	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Metschnikowia_ipomoeae@Seq_2366	  0.00	1000.00	  0.00
@@ -3561,7 +3565,7 @@ r_4481	s_0841[c] + 2 s_1275[c]  -> s_0794[c] + s_1467[c] 		  0.00	1000.00	  0.00
 r_4482	s_0794[c] + s_0955[c]  <=> s_0802[v] + s_3759[v] 		-1000.00	1000.00	  0.00
 r_4483	s_0794[c] + s_1003[c]  <=> s_0802[v] + s_3839[v] 		-1000.00	1000.00	  0.00
 r_4484	s_0841[c] + s_1241[c]  <=> s_1012[c] + s_1458[c] 	Metschnikowia_ipomoeae@Seq_4702	-1000.00	1000.00	  0.00
-r_4485	s_0204[c] + s_1275[c]  -> s_0456[c] + s_4177[c] 	Metschnikowia_ipomoeae@Seq_1401 or Metschnikowia_ipomoeae@Seq_3455	  0.00	1000.00	  0.00
+r_4485	s_0204[c] + s_1275[c]  -> s_0456[c] + s_4177[c] 	Metschnikowia_ipomoeae@Seq_3455 or Metschnikowia_ipomoeae@Seq_1401	  0.00	1000.00	  0.00
 r_4489	s_0961[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_4180[c] 		  0.00	1000.00	  0.00
 r_4490	s_0794[c] + s_1212[c] + s_4180[c]  <=> s_1207[c] + s_1566[c] 		-1000.00	1000.00	  0.00
 r_4491	s_0548[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4181[c] 	Metschnikowia_ipomoeae@Seq_4057 or Metschnikowia_ipomoeae@Seq_4982	  0.00	1000.00	  0.00
@@ -3701,8 +3705,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Metschnikowia_ipomoeae@Seq_5154	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Metschnikowia_ipomoeae@Seq_5716	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Metschnikowia_ipomoeae@Seq_940	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Metschnikowia_ipomoeae@Seq_4815	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Metschnikowia_ipomoeae@Seq_2433	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Metschnikowia_ipomoeae@Seq_1315	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Metschnikowia_ipomoeae@Seq_1343	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Metschnikowia_ipomoeae@Seq_4407	  0.00	1000.00	  0.00
@@ -3720,35 +3722,29 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Metschnikow
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Metschnikowia_ipomoeae@Seq_464	-1000.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Metschnikowia_ipomoeae@Seq_228 or Metschnikowia_ipomoeae@Seq_4332	-1000.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Metschnikowia_ipomoeae@Seq_4513	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_ipomoeae@Seq_2415 or Metschnikowia_ipomoeae@Seq_1645 or Metschnikowia_ipomoeae@Seq_1703 or Metschnikowia_ipomoeae@Seq_4033	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_ipomoeae@Seq_1703 or Metschnikowia_ipomoeae@Seq_1645 or Metschnikowia_ipomoeae@Seq_2415 or Metschnikowia_ipomoeae@Seq_4033	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Metschnikowia_ipomoeae@Seq_1047	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Metschnikowia_ipomoeae@Seq_680	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Metschnikowia_ipomoeae@Seq_5434	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Metschnikowia_ipomoeae@Seq_1401 or Metschnikowia_ipomoeae@Seq_3455	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
+r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Metschnikowia_ipomoeae@Seq_3455 or Metschnikowia_ipomoeae@Seq_1401	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Metschnikowia_ipomoeae@Seq_1965	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Metschnikowia_ipomoeae@Seq_5258	  0.00	1000.00	  0.00
 r_4839	s_0180[c] + s_0373[c] + s_0803[c]  <=> s_0529[c] + s_0794[c] + s_4404[c] 	Metschnikowia_ipomoeae@Seq_5077	-1000.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Metschnikowia_ipomoeae@Seq_3839	  0.00	1000.00	  0.00
 r_4843	s_0803[c] + s_1151[c]  -> s_0025[c] + s_0794[c] 	Metschnikowia_ipomoeae@Seq_2512	  0.00	1000.00	  0.00
-r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Metschnikowia_ipomoeae@Seq_1645 or Metschnikowia_ipomoeae@Seq_1703	  0.00	1000.00	  0.00
+r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Metschnikowia_ipomoeae@Seq_1703 or Metschnikowia_ipomoeae@Seq_1645	  0.00	1000.00	  0.00
 r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	Metschnikowia_ipomoeae@Seq_5340	  0.00	1000.00	  0.00
 r_4858	s_0803[c] + s_4395[c]  -> s_0270[c] + s_0419[c] 	Metschnikowia_ipomoeae@Seq_1412	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Metschnikowia_ipomoeae@Seq_4483	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Metschnikowia_ipomoeae@Seq_813	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Metschnikowia_ipomoeae@Seq_3969	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Metschnikowia_ipomoeae@Seq_2618 or Metschnikowia_ipomoeae@Seq_2907	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Metschnikowia_ipomoeae@Seq_2673	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Metschnikowia_ipomoeae@Seq_2123	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Metschnikowia_ipomoeae@Seq_1033	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Metschnikowia_ipomoeae@Seq_5716	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Metschnikowia_ipomoeae@Seq_2123	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Metschnikowia_ipomoeae@Seq_1488 or Metschnikowia_ipomoeae@Seq_188 or Metschnikowia_ipomoeae@Seq_4628 or Metschnikowia_ipomoeae@Seq_63	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Metschnikowia_ipomoeae@Seq_1488 or Metschnikowia_ipomoeae@Seq_188 or Metschnikowia_ipomoeae@Seq_4628 or Metschnikowia_ipomoeae@Seq_63	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Metschnikowia_ipomoeae@Seq_3329	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Metschnikowia_ipomoeae@Seq_4994 or Metschnikowia_ipomoeae@Seq_2032 or Metschnikowia_ipomoeae@Seq_2058 or Metschnikowia_ipomoeae@Seq_5638	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Metschnikowia_ipomoeae@Seq_976	-1000.00	1000.00	  0.00
@@ -3758,7 +3754,6 @@ r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Metschnikow
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_ipomoeae@Seq_4278	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_ipomoeae@Seq_4278	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Metschnikowia_ipomoeae@Seq_1047	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Metschnikowia_ipomoeae@Seq_5721 or Metschnikowia_ipomoeae@Seq_254	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Metschnikowia_ipomoeae@Seq_2234	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Metschnikowia_ipomoeae@Seq_2673	-1000.00	1000.00	  0.00
@@ -3767,16 +3762,13 @@ r_0545	s_0836[m] + s_1200[m]  -> s_0177[m] + s_0460[m] + s_0799[m] + s_1205[m] 	
 r_0739	s_0018[c] + s_0434[c]  -> s_0394[c] + s_0456[c] + s_0943[c] + s_1322[c] 	Metschnikowia_ipomoeae@Seq_951	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Metschnikowia_ipomoeae@Seq_2498	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	Metschnikowia_ipomoeae@Seq_2498	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_ipomoeae@Seq_1002 and Metschnikowia_ipomoeae@Seq_4972 and Metschnikowia_ipomoeae@Seq_2487 and Metschnikowia_ipomoeae@Seq_5147 and Metschnikowia_ipomoeae@Seq_378 and Metschnikowia_ipomoeae@Seq_3921 and Metschnikowia_ipomoeae@Seq_3703) or (Metschnikowia_ipomoeae@Seq_1002 and Metschnikowia_ipomoeae@Seq_5446 and Metschnikowia_ipomoeae@Seq_5564 and Metschnikowia_ipomoeae@Seq_1669 and Metschnikowia_ipomoeae@Seq_1685 and Metschnikowia_ipomoeae@Seq_2462)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_ipomoeae@Seq_702 and Metschnikowia_ipomoeae@Seq_5594 and Metschnikowia_ipomoeae@Seq_1949 and Metschnikowia_ipomoeae@Seq_2624 and Metschnikowia_ipomoeae@Seq_371 and Metschnikowia_ipomoeae@Seq_162 and Metschnikowia_ipomoeae@Seq_1917 and Metschnikowia_ipomoeae@Seq_1667 and Metschnikowia_ipomoeae@Seq_2460	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663) or (Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663 and Metschnikowia_ipomoeae@Seq_1638) or (Metschnikowia_ipomoeae@Seq_3415 and Metschnikowia_ipomoeae@Seq_1771 and Metschnikowia_ipomoeae@Seq_2942 and Metschnikowia_ipomoeae@Seq_128 and Metschnikowia_ipomoeae@Seq_2489 and Metschnikowia_ipomoeae@Seq_5773 and Metschnikowia_ipomoeae@Seq_2814 and Metschnikowia_ipomoeae@Seq_3553 and Metschnikowia_ipomoeae@Seq_4507 and Metschnikowia_ipomoeae@Seq_738 and Metschnikowia_ipomoeae@Seq_663 and Metschnikowia_ipomoeae@Seq_388 and Metschnikowia_ipomoeae@Seq_4992 and Metschnikowia_ipomoeae@Seq_1941 and Metschnikowia_ipomoeae@Seq_2115 and Metschnikowia_ipomoeae@Seq_2694)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Metschnikowia_ipomoeae@Seq_1486 and Metschnikowia_ipomoeae@Seq_259 and Metschnikowia_ipomoeae@Seq_5096 and Metschnikowia_ipomoeae@Seq_242 and Metschnikowia_ipomoeae@Seq_1143 and Metschnikowia_ipomoeae@Seq_1212 and Metschnikowia_ipomoeae@Seq_849 and Metschnikowia_ipomoeae@Seq_5179 and Metschnikowia_ipomoeae@Seq_4484 and Metschnikowia_ipomoeae@Seq_2275 and Metschnikowia_ipomoeae@Seq_548 and Metschnikowia_ipomoeae@Seq_4158 and Metschnikowia_ipomoeae@Seq_5684 and Metschnikowia_ipomoeae@Seq_3228 and Metschnikowia_ipomoeae@Seq_2351 and Metschnikowia_ipomoeae@Seq_5237 and Metschnikowia_ipomoeae@Seq_3908 and Metschnikowia_ipomoeae@Seq_114 and Metschnikowia_ipomoeae@Seq_5166 and Metschnikowia_ipomoeae@Seq_1764) or (Metschnikowia_ipomoeae@Seq_1486 and Metschnikowia_ipomoeae@Seq_259 and Metschnikowia_ipomoeae@Seq_5096 and Metschnikowia_ipomoeae@Seq_242 and Metschnikowia_ipomoeae@Seq_1143 and Metschnikowia_ipomoeae@Seq_1212 and Metschnikowia_ipomoeae@Seq_849 and Metschnikowia_ipomoeae@Seq_5179 and Metschnikowia_ipomoeae@Seq_4484 and Metschnikowia_ipomoeae@Seq_2275 and Metschnikowia_ipomoeae@Seq_548 and Metschnikowia_ipomoeae@Seq_4158 and Metschnikowia_ipomoeae@Seq_5684 and Metschnikowia_ipomoeae@Seq_3228 and Metschnikowia_ipomoeae@Seq_2351 and Metschnikowia_ipomoeae@Seq_5237 and Metschnikowia_ipomoeae@Seq_4742 and Metschnikowia_ipomoeae@Seq_114 and Metschnikowia_ipomoeae@Seq_5166 and Metschnikowia_ipomoeae@Seq_1764)	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Metschnikowia_ipomoeae@Seq_254	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Metschnikowia_ipomoeae@Seq_3467	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
 r_5204	s_0794[c] + s_4637[c]  <=> s_0796[e] + s_4638[e] 		-1000.00	1000.00	  0.00
@@ -3796,3 +3788,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Metschnikowia_ipomoeae@Seq_521	  0.00	1000.00	  0.00

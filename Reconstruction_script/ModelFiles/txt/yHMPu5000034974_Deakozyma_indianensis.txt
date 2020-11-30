@@ -183,6 +183,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1674	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1674	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3313	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_3275 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024 and yHMPu5000034974_Deakozyma_indianensis@Seq_2287) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_5089 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_3275 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_3669 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_3398 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_5530 and yHMPu5000034974_Deakozyma_indianensis@Seq_285 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3416	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5197	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2038	  0.00	1000.00	  0.00
@@ -303,6 +304,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1547 or yHMPu5000034974_Deakozyma_indianensis@Seq_4834 or yHMPu5000034974_Deakozyma_indianensis@Seq_624	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_409	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3223 and yHMPu5000034974_Deakozyma_indianensis@Seq_2990	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034974_Deakozyma_indianensis@Seq_4271 and yHMPu5000034974_Deakozyma_indianensis@Seq_4533 and yHMPu5000034974_Deakozyma_indianensis@Seq_3223 and yHMPu5000034974_Deakozyma_indianensis@Seq_2461 and yHMPu5000034974_Deakozyma_indianensis@Seq_5293 and yHMPu5000034974_Deakozyma_indianensis@Seq_3425 and yHMPu5000034974_Deakozyma_indianensis@Seq_338 and yHMPu5000034974_Deakozyma_indianensis@Seq_3143 and yHMPu5000034974_Deakozyma_indianensis@Seq_4788 and yHMPu5000034974_Deakozyma_indianensis@Seq_4463) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4271 and yHMPu5000034974_Deakozyma_indianensis@Seq_4533 and yHMPu5000034974_Deakozyma_indianensis@Seq_3058 and yHMPu5000034974_Deakozyma_indianensis@Seq_4041 and yHMPu5000034974_Deakozyma_indianensis@Seq_5158 and yHMPu5000034974_Deakozyma_indianensis@Seq_2457 and yHMPu5000034974_Deakozyma_indianensis@Seq_939)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_101 and yHMPu5000034974_Deakozyma_indianensis@Seq_35 and yHMPu5000034974_Deakozyma_indianensis@Seq_3223 and yHMPu5000034974_Deakozyma_indianensis@Seq_2885 and yHMPu5000034974_Deakozyma_indianensis@Seq_3743 and yHMPu5000034974_Deakozyma_indianensis@Seq_2751 and yHMPu5000034974_Deakozyma_indianensis@Seq_5493	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5464	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3999 or yHMPu5000034974_Deakozyma_indianensis@Seq_5326	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3999 or yHMPu5000034974_Deakozyma_indianensis@Seq_5326	  0.00	1000.00	  0.00
@@ -661,6 +664,7 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	yHMPu50000
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1527	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1569	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1569	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2979 and yHMPu5000034974_Deakozyma_indianensis@Seq_2615 and yHMPu5000034974_Deakozyma_indianensis@Seq_1668 and yHMPu5000034974_Deakozyma_indianensis@Seq_2055	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2513	  0.00	1000.00	  0.00
 r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1165 and yHMPu5000034974_Deakozyma_indianensis@Seq_3760 and yHMPu5000034974_Deakozyma_indianensis@Seq_4795 and yHMPu5000034974_Deakozyma_indianensis@Seq_3230 and yHMPu5000034974_Deakozyma_indianensis@Seq_3405 and yHMPu5000034974_Deakozyma_indianensis@Seq_888 and yHMPu5000034974_Deakozyma_indianensis@Seq_593	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5386	  0.00	1000.00	  0.00
@@ -3162,8 +3166,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3293,7 +3297,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1696 or yHMPu5000034974_Deakozyma_indianensis@Seq_5297	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1696 or yHMPu5000034974_Deakozyma_indianensis@Seq_5297	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2891 or yHMPu5000034974_Deakozyma_indianensis@Seq_3038	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3447	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3677	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3677	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2800	-1000.00	1000.00	  0.00
@@ -3334,6 +3337,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000034974_Deakozy
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1367 or yHMPu5000034974_Deakozyma_indianensis@Seq_5329	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1036	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3253	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3183 and yHMPu5000034974_Deakozyma_indianensis@Seq_2098 and yHMPu5000034974_Deakozyma_indianensis@Seq_4268 and yHMPu5000034974_Deakozyma_indianensis@Seq_2688	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3920	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3322	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3190	  0.00	1000.00	  0.00
@@ -3716,29 +3720,27 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2569	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3308	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2678	-1000.00	1000.00	  0.00
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_469	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2678	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3380	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2780	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_562	-1000.00	1000.00	  0.00
-r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	  0.00	1000.00	  0.00
-r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
-r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_3450	-1000.00	1000.00	  0.00
-r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	  0.00	1000.00	  0.00
-r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	  0.00	1000.00	  0.00
-r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	  0.00	1000.00	  0.00
+r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	  0.00	1000.00	  0.00
+r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	  0.00	1000.00	  0.00
+r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	  0.00	1000.00	  0.00
+r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_333	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5172 or yHMPu5000034974_Deakozyma_indianensis@Seq_652	  0.00	1000.00	  0.00
 r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2743	-1000.00	1000.00	  0.00
 r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2743	-1000.00	1000.00	  0.00
-r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5272 or yHMPu5000034974_Deakozyma_indianensis@Seq_4854 or yHMPu5000034974_Deakozyma_indianensis@Seq_557	  0.00	1000.00	  0.00
+r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5272 or yHMPu5000034974_Deakozyma_indianensis@Seq_557 or yHMPu5000034974_Deakozyma_indianensis@Seq_4854	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1118 or yHMPu5000034974_Deakozyma_indianensis@Seq_3221 or yHMPu5000034974_Deakozyma_indianensis@Seq_4502	  0.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2678	  0.00	1000.00	  0.00
-r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3403 or yHMPu5000034974_Deakozyma_indianensis@Seq_4205	  0.00	1000.00	  0.00
+r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4205 or yHMPu5000034974_Deakozyma_indianensis@Seq_3403	  0.00	1000.00	  0.00
 r_4670	s_3951[c]  <=> s_3949[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1199	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1724	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1856 or yHMPu5000034974_Deakozyma_indianensis@Seq_4836 or yHMPu5000034974_Deakozyma_indianensis@Seq_5092	  0.00	1000.00	  0.00
@@ -3753,7 +3755,7 @@ r_4688	s_0357[c] + s_0803[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4502[c] 
 r_4689	s_0357[c] + s_0803[c] + s_1275[c]  -> s_0837[c] + s_4502[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_48 or yHMPu5000034974_Deakozyma_indianensis@Seq_4697	-1000.00	1000.00	  0.00
 r_4709	s_0794[c] + s_4322[c]  -> s_0456[c] + s_0722[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2326	  0.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_218 or yHMPu5000034974_Deakozyma_indianensis@Seq_2511	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2511 or yHMPu5000034974_Deakozyma_indianensis@Seq_218	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_685	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4540	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_14	  0.00	1000.00	  0.00
@@ -3777,9 +3779,7 @@ r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] +
 r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_850	  0.00	1000.00	  0.00
 r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_850	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5351	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2716	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2380	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2392	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1526	  0.00	1000.00	  0.00
@@ -3795,10 +3795,7 @@ r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c]
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_423	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3374	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1642	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1118 or yHMPu5000034974_Deakozyma_indianensis@Seq_3221 or yHMPu5000034974_Deakozyma_indianensis@Seq_4502	  0.00	1000.00	  0.00
 r_4942	s_0775[c] + s_0803[c] + s_1198[c]  -> 2 s_0794[c] + s_1203[c] + s_3997[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4001	  0.00	1000.00	  0.00
@@ -3812,13 +3809,12 @@ r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	yHMPu5000034
 r_4982	s_0794[c] + s_1212[c] + s_4276[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3032	-1000.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3380	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1591 or yHMPu5000034974_Deakozyma_indianensis@Seq_2205 or yHMPu5000034974_Deakozyma_indianensis@Seq_3205	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2509	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1662 or yHMPu5000034974_Deakozyma_indianensis@Seq_2208 or yHMPu5000034974_Deakozyma_indianensis@Seq_3013 or yHMPu5000034974_Deakozyma_indianensis@Seq_4982	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1662 or yHMPu5000034974_Deakozyma_indianensis@Seq_2208 or yHMPu5000034974_Deakozyma_indianensis@Seq_3013 or yHMPu5000034974_Deakozyma_indianensis@Seq_4982	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1020	-1000.00	1000.00	  0.00
-r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
-r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
-r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5514 or yHMPu5000034974_Deakozyma_indianensis@Seq_5118	-1000.00	1000.00	  0.00
+r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
+r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5118 or yHMPu5000034974_Deakozyma_indianensis@Seq_5514	-1000.00	1000.00	  0.00
 r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2743	-1000.00	1000.00	  0.00
 r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2743	-1000.00	1000.00	  0.00
 r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2743	-1000.00	1000.00	  0.00
@@ -3832,48 +3828,46 @@ r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	yHMPu5000034974_Deakozy
 r_5090	s_0794[c] + s_1212[c] + s_4583[c]  <=> s_1207[c] + s_4584[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2203	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1856 or yHMPu5000034974_Deakozyma_indianensis@Seq_4836 or yHMPu5000034974_Deakozyma_indianensis@Seq_5092	  0.00	1000.00	  0.00
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5450 or yHMPu5000034974_Deakozyma_indianensis@Seq_2208	-1000.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5513 or yHMPu5000034974_Deakozyma_indianensis@Seq_4916	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5513 or yHMPu5000034974_Deakozyma_indianensis@Seq_1830 or yHMPu5000034974_Deakozyma_indianensis@Seq_4916	-1000.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4916 or yHMPu5000034974_Deakozyma_indianensis@Seq_5513	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1830 or yHMPu5000034974_Deakozyma_indianensis@Seq_4916 or yHMPu5000034974_Deakozyma_indianensis@Seq_5513	-1000.00	1000.00	  0.00
 r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5450 or yHMPu5000034974_Deakozyma_indianensis@Seq_2208	  0.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3320	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3320	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864	  0.00	1000.00	  0.00
 r_5166	s_0291[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4546[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
 r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5008	  0.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4697 or yHMPu5000034974_Deakozyma_indianensis@Seq_3447	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3447 or yHMPu5000034974_Deakozyma_indianensis@Seq_4697	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5466	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1787 or yHMPu5000034974_Deakozyma_indianensis@Seq_864	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_864 or yHMPu5000034974_Deakozyma_indianensis@Seq_1787	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4137	-1000.00	1000.00	  0.00
 r_0231	s_0262[c] + s_0794[c] + s_1212[c]  -> s_0122[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4085	  0.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4448	  0.00	1000.00	  0.00
 r_0883	s_0201[c] + s_1616[c]  -> s_0390[c] + 2 s_0794[c] + s_1469[c] + s_1620[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2764	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_648	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034974_Deakozyma_indianensis@Seq_4271 and yHMPu5000034974_Deakozyma_indianensis@Seq_4533 and yHMPu5000034974_Deakozyma_indianensis@Seq_3223 and yHMPu5000034974_Deakozyma_indianensis@Seq_2461 and yHMPu5000034974_Deakozyma_indianensis@Seq_5293 and yHMPu5000034974_Deakozyma_indianensis@Seq_3425 and yHMPu5000034974_Deakozyma_indianensis@Seq_4463 and yHMPu5000034974_Deakozyma_indianensis@Seq_338 and yHMPu5000034974_Deakozyma_indianensis@Seq_3143 and yHMPu5000034974_Deakozyma_indianensis@Seq_4788) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4271 and yHMPu5000034974_Deakozyma_indianensis@Seq_4533 and yHMPu5000034974_Deakozyma_indianensis@Seq_2457 and yHMPu5000034974_Deakozyma_indianensis@Seq_4041 and yHMPu5000034974_Deakozyma_indianensis@Seq_5158 and yHMPu5000034974_Deakozyma_indianensis@Seq_3058 and yHMPu5000034974_Deakozyma_indianensis@Seq_939)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_101 and yHMPu5000034974_Deakozyma_indianensis@Seq_35 and yHMPu5000034974_Deakozyma_indianensis@Seq_3223 and yHMPu5000034974_Deakozyma_indianensis@Seq_2885 and yHMPu5000034974_Deakozyma_indianensis@Seq_3743 and yHMPu5000034974_Deakozyma_indianensis@Seq_2751 and yHMPu5000034974_Deakozyma_indianensis@Seq_5493	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_3275 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024 and yHMPu5000034974_Deakozyma_indianensis@Seq_2287) or (yHMPu5000034974_Deakozyma_indianensis@Seq_4699 and yHMPu5000034974_Deakozyma_indianensis@Seq_2760 and yHMPu5000034974_Deakozyma_indianensis@Seq_5234 and yHMPu5000034974_Deakozyma_indianensis@Seq_707 and yHMPu5000034974_Deakozyma_indianensis@Seq_1554 and yHMPu5000034974_Deakozyma_indianensis@Seq_3275 and yHMPu5000034974_Deakozyma_indianensis@Seq_2186 and yHMPu5000034974_Deakozyma_indianensis@Seq_1088 and yHMPu5000034974_Deakozyma_indianensis@Seq_2199 and yHMPu5000034974_Deakozyma_indianensis@Seq_536 and yHMPu5000034974_Deakozyma_indianensis@Seq_2785 and yHMPu5000034974_Deakozyma_indianensis@Seq_4024 and yHMPu5000034974_Deakozyma_indianensis@Seq_3669 and yHMPu5000034974_Deakozyma_indianensis@Seq_3398 and yHMPu5000034974_Deakozyma_indianensis@Seq_5530 and yHMPu5000034974_Deakozyma_indianensis@Seq_285 and yHMPu5000034974_Deakozyma_indianensis@Seq_5089)	  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4576 and yHMPu5000034974_Deakozyma_indianensis@Seq_4163 and yHMPu5000034974_Deakozyma_indianensis@Seq_1403 and yHMPu5000034974_Deakozyma_indianensis@Seq_1750 and yHMPu5000034974_Deakozyma_indianensis@Seq_4506 and yHMPu5000034974_Deakozyma_indianensis@Seq_1616 and yHMPu5000034974_Deakozyma_indianensis@Seq_2837 and yHMPu5000034974_Deakozyma_indianensis@Seq_4698 and yHMPu5000034974_Deakozyma_indianensis@Seq_388 and yHMPu5000034974_Deakozyma_indianensis@Seq_1504 and yHMPu5000034974_Deakozyma_indianensis@Seq_2416 and yHMPu5000034974_Deakozyma_indianensis@Seq_1813 and yHMPu5000034974_Deakozyma_indianensis@Seq_5261 and yHMPu5000034974_Deakozyma_indianensis@Seq_3488 and yHMPu5000034974_Deakozyma_indianensis@Seq_4542 and yHMPu5000034974_Deakozyma_indianensis@Seq_1034 and yHMPu5000034974_Deakozyma_indianensis@Seq_3744 and yHMPu5000034974_Deakozyma_indianensis@Seq_1292 and yHMPu5000034974_Deakozyma_indianensis@Seq_3027 and yHMPu5000034974_Deakozyma_indianensis@Seq_288 and yHMPu5000034974_Deakozyma_indianensis@Seq_5144 and yHMPu5000034974_Deakozyma_indianensis@Seq_3307	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_4697	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_5161	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
-r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00
+r_5209	s_4642[e]  -> s_3935[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1847	  0.00	1000.00	  0.00
 r_5221	s_0794[c] + s_4556[c]  <=> s_0796[e] + s_4649[e] 		-1000.00	1000.00	  0.00
 r_5222	s_4261[c]  <=> s_4650[e] 		-1000.00	1000.00	  0.00
 r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] + s_1203[c] 		  0.00	1000.00	  0.00
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
-r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 		  0.00	1000.00	  0.00
+r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_3019	  0.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_1642	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034974_Deakozyma_indianensis@Seq_2259	  0.00	1000.00	  0.00

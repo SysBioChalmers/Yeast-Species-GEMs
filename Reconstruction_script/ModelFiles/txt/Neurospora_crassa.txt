@@ -153,7 +153,7 @@ r_0194	s_0803[c] + s_1520[c]  -> 2 s_0563[c] 	Neurospora_crassa@Seq_1591	  0.00	
 r_0195	s_0568[c] + s_1543[c]  -> s_0409[c] + s_0794[c] + s_1538[c] 	Neurospora_crassa@Seq_4362 and Neurospora_crassa@Seq_9817 and Neurospora_crassa@Seq_8001	  0.00	1000.00	  0.00
 r_0198	s_0803[c] + s_1105[c]  -> 2 s_0563[c] 	Neurospora_crassa@Seq_10411 or Neurospora_crassa@Seq_2872 or Neurospora_crassa@Seq_3153 or Neurospora_crassa@Seq_3339 or Neurospora_crassa@Seq_3392 or Neurospora_crassa@Seq_9532	  0.00	1000.00	  0.00
 r_0199	s_0280[c] + s_0803[c]  -> s_0281[c] + s_0419[c] 	Neurospora_crassa@Seq_522 or Neurospora_crassa@Seq_1829	  0.00	1000.00	  0.00
-r_0200	s_0418[c] + s_0803[c] + s_1275[c]  -> s_0419[c] + s_0837[c] + s_1151[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364	  0.00	1000.00	  0.00
+r_0200	s_0418[c] + s_0803[c] + s_1275[c]  -> s_0419[c] + s_0837[c] + s_1151[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
 r_0201	s_0275[m] + s_0807[m] + s_1200[m]  -> s_0738[m] + 2 s_0799[m] + s_1205[m] 	Neurospora_crassa@Seq_1631 or Neurospora_crassa@Seq_7611	  0.00	1000.00	  0.00
 r_0202	s_0427[c] + s_1386[c]  -> s_0633[c] + s_1187[c] 	Neurospora_crassa@Seq_5603	  0.00	1000.00	  0.00
 r_0203	s_0515[c] + s_0999[c]  -> s_0427[c] + s_0794[c] + s_0991[c] + s_1399[c] 	(Neurospora_crassa@Seq_8212 and Neurospora_crassa@Seq_3618) or (Neurospora_crassa@Seq_8212 and Neurospora_crassa@Seq_7012)	  0.00	1000.00	  0.00
@@ -179,6 +179,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Neurospora_c
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Neurospora_crassa@Seq_4448	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Neurospora_crassa@Seq_4448	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Neurospora_crassa@Seq_2691	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_1984 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5005 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_914 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_3899 and Neurospora_crassa@Seq_10780) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_1984 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5005 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_914 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_3899 and Neurospora_crassa@Seq_10780) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_8225) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_8225) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Neurospora_crassa@Seq_5477	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Neurospora_crassa@Seq_2464	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Neurospora_crassa@Seq_5775	-1000.00	1000.00	  0.00
@@ -300,6 +301,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Neurospora_crassa@Seq_7675	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Neurospora_crassa@Seq_9092	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	(Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_5824) or (Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_5948) or (Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_797)	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Neurospora_crassa@Seq_3768 and Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_6217 and Neurospora_crassa@Seq_780 and Neurospora_crassa@Seq_6040 and Neurospora_crassa@Seq_4002) or (Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_9815 and Neurospora_crassa@Seq_10629 and Neurospora_crassa@Seq_1866 and Neurospora_crassa@Seq_2594 and Neurospora_crassa@Seq_1233) or (Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_9815 and Neurospora_crassa@Seq_10629 and Neurospora_crassa@Seq_5414 and Neurospora_crassa@Seq_2594 and Neurospora_crassa@Seq_1233)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Neurospora_crassa@Seq_6425 and Neurospora_crassa@Seq_4478 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_3454 and Neurospora_crassa@Seq_2246 and Neurospora_crassa@Seq_6077 and Neurospora_crassa@Seq_6346 and Neurospora_crassa@Seq_4754) or (Neurospora_crassa@Seq_6425 and Neurospora_crassa@Seq_4478 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_4261 and Neurospora_crassa@Seq_2246 and Neurospora_crassa@Seq_6077 and Neurospora_crassa@Seq_6346 and Neurospora_crassa@Seq_4754)	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Neurospora_crassa@Seq_1624	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Neurospora_crassa@Seq_8678	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Neurospora_crassa@Seq_8521	  0.00	1000.00	  0.00
@@ -655,6 +658,7 @@ r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	Neurospora_c
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	Neurospora_crassa@Seq_5031	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	Neurospora_crassa@Seq_7508	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	Neurospora_crassa@Seq_10350 or Neurospora_crassa@Seq_10458	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	Neurospora_crassa@Seq_10220 and Neurospora_crassa@Seq_4022	  0.00	1000.00	  0.00
 r_0953	s_0419[c] + 2 s_0803[c] + 0.5 s_1275[c] + s_1392[c]  -> 2 s_0837[c] + s_1394[c] 	Neurospora_crassa@Seq_5361	  0.00	1000.00	  0.00
 r_0954	s_0803[c] + s_1275[c] + s_1395[c]  -> s_0419[c] + s_0837[c] + s_1393[c] 	Neurospora_crassa@Seq_5361	  0.00	1000.00	  0.00
 r_0955	s_1275[c] + s_1398[c]  <=> s_0837[c] + s_1393[c] 	Neurospora_crassa@Seq_5361	-1000.00	1000.00	  0.00
@@ -3084,8 +3088,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3216,7 +3220,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Neurospora_
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Neurospora_crassa@Seq_2708 or Neurospora_crassa@Seq_4133 or Neurospora_crassa@Seq_512	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Neurospora_crassa@Seq_2708 or Neurospora_crassa@Seq_4133 or Neurospora_crassa@Seq_512	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Neurospora_crassa@Seq_400 or Neurospora_crassa@Seq_6457	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Neurospora_crassa@Seq_2846 or Neurospora_crassa@Seq_72	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Neurospora_crassa@Seq_2095 or Neurospora_crassa@Seq_8334	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Neurospora_crassa@Seq_2095 or Neurospora_crassa@Seq_8334	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Neurospora_crassa@Seq_7059	-1000.00	1000.00	  0.00
@@ -3260,6 +3263,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Neurospora_crassa@Seq_5
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Neurospora_crassa@Seq_522	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Neurospora_crassa@Seq_6076 or Neurospora_crassa@Seq_8287	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Neurospora_crassa@Seq_3267 or Neurospora_crassa@Seq_4058	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Neurospora_crassa@Seq_4721 and Neurospora_crassa@Seq_97 and Neurospora_crassa@Seq_9234 and Neurospora_crassa@Seq_5556	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Neurospora_crassa@Seq_4033	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Neurospora_crassa@Seq_10681	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Neurospora_crassa@Seq_1889 or Neurospora_crassa@Seq_6920	  0.00	1000.00	  0.00
@@ -3647,23 +3651,20 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4629	s_1275[c] + s_4337[c]  -> s_4539[c] 	Neurospora_crassa@Seq_10307	  0.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Neurospora_crassa@Seq_10512	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Neurospora_crassa@Seq_3696 or Neurospora_crassa@Seq_4727	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Neurospora_crassa@Seq_7003	-1000.00	1000.00	  0.00
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	Neurospora_crassa@Seq_1252	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Neurospora_crassa@Seq_7003	  0.00	1000.00	  0.00
-r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Neurospora_crassa@Seq_7192 or Neurospora_crassa@Seq_484	  0.00	1000.00	  0.00
+r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Neurospora_crassa@Seq_5169 or Neurospora_crassa@Seq_7192 or Neurospora_crassa@Seq_484	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Neurospora_crassa@Seq_9560	-1000.00	1000.00	  0.00
 r_4642	s_1032[c] + s_1275[c]  -> s_0456[c] + s_0803[c] + s_3867[c] 	Neurospora_crassa@Seq_7243	  0.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Neurospora_crassa@Seq_2632	-1000.00	1000.00	  0.00
-r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	  0.00	1000.00	  0.00
-r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_8215	-1000.00	1000.00	  0.00
-r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_9648	-1000.00	1000.00	  0.00
-r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	  0.00	1000.00	  0.00
-r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	  0.00	1000.00	  0.00
-r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Neurospora_crassa@Seq_9226 or Neurospora_crassa@Seq_9334 or Neurospora_crassa@Seq_8057	  0.00	1000.00	  0.00
+r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	  0.00	1000.00	  0.00
+r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	  0.00	1000.00	  0.00
+r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	  0.00	1000.00	  0.00
+r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Neurospora_crassa@Seq_2574	  0.00	1000.00	  0.00
 r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Neurospora_crassa@Seq_9736	  0.00	1000.00	  0.00
 r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Neurospora_crassa@Seq_9633	-1000.00	1000.00	  0.00
@@ -3672,12 +3673,12 @@ r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Neurospora_crassa@Seq_1597 or Neur
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Neurospora_crassa@Seq_2203 or Neurospora_crassa@Seq_3043 or Neurospora_crassa@Seq_3100	  0.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Neurospora_crassa@Seq_10156 or Neurospora_crassa@Seq_1468 or Neurospora_crassa@Seq_2391 or Neurospora_crassa@Seq_7003	  0.00	1000.00	  0.00
 r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	Neurospora_crassa@Seq_5232	  0.00	1000.00	  0.00
-r_4670	s_3951[c]  <=> s_3949[c] 	Neurospora_crassa@Seq_845 or Neurospora_crassa@Seq_10139 or Neurospora_crassa@Seq_2635	-1000.00	1000.00	  0.00
-r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	Neurospora_crassa@Seq_4738 or Neurospora_crassa@Seq_1680	-1000.00	1000.00	  0.00
-r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364	  0.00	1000.00	  0.00
-r_4674	s_0803[c] + s_1275[c] + s_4449[c]  -> s_0419[c] + s_0837[c] + s_1318[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364	  0.00	1000.00	  0.00
-r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367	  0.00	1000.00	  0.00
-r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364	  0.00	1000.00	  0.00
+r_4670	s_3951[c]  <=> s_3949[c] 	Neurospora_crassa@Seq_2635 or Neurospora_crassa@Seq_845 or Neurospora_crassa@Seq_10139	-1000.00	1000.00	  0.00
+r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	Neurospora_crassa@Seq_1680 or Neurospora_crassa@Seq_4738	-1000.00	1000.00	  0.00
+r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
+r_4674	s_0803[c] + s_1275[c] + s_4449[c]  -> s_0419[c] + s_0837[c] + s_1318[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
+r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
+r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_2364 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
 r_4677	s_1416[c] + s_4474[c]  -> s_0794[c] + s_1413[c] + s_4472[c] 	Neurospora_crassa@Seq_3071	  0.00	1000.00	  0.00
 r_4678	s_1416[c] + s_4473[c]  -> s_0794[c] + s_1413[c] + s_4471[c] 	Neurospora_crassa@Seq_3071	  0.00	1000.00	  0.00
 r_4679	s_1416[c] + s_4455[c]  -> s_0794[c] + s_1413[c] + s_4506[c] 	Neurospora_crassa@Seq_3071	  0.00	1000.00	  0.00
@@ -3700,7 +3701,6 @@ r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] +
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Neurospora_crassa@Seq_8730	-1000.00	1000.00	  0.00
 r_4709	s_0794[c] + s_4322[c]  -> s_0456[c] + s_0722[c] 	Neurospora_crassa@Seq_7862	  0.00	1000.00	  0.00
 r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Neurospora_crassa@Seq_10166 or Neurospora_crassa@Seq_3810 or Neurospora_crassa@Seq_4692	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Neurospora_crassa@Seq_6104	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Neurospora_crassa@Seq_8510 or Neurospora_crassa@Seq_7678	-1000.00	1000.00	  0.00
 r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Neurospora_crassa@Seq_942	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Neurospora_crassa@Seq_10086 or Neurospora_crassa@Seq_10767 or Neurospora_crassa@Seq_4230 or Neurospora_crassa@Seq_4582 or Neurospora_crassa@Seq_5818 or Neurospora_crassa@Seq_6924 or Neurospora_crassa@Seq_8617	  0.00	1000.00	  0.00
@@ -3710,7 +3710,7 @@ r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	
 r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Neurospora_crassa@Seq_10086 or Neurospora_crassa@Seq_10767 or Neurospora_crassa@Seq_4230 or Neurospora_crassa@Seq_4582 or Neurospora_crassa@Seq_5818 or Neurospora_crassa@Seq_6924 or Neurospora_crassa@Seq_8617	  0.00	1000.00	  0.00
 r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Neurospora_crassa@Seq_10086 or Neurospora_crassa@Seq_10767 or Neurospora_crassa@Seq_4230 or Neurospora_crassa@Seq_4582 or Neurospora_crassa@Seq_5818 or Neurospora_crassa@Seq_6924 or Neurospora_crassa@Seq_8617	  0.00	1000.00	  0.00
 r_4722	s_0803[c] + s_1275[c] + s_1469[c]  -> s_0837[c] + s_1467[c] 	Neurospora_crassa@Seq_3978 or Neurospora_crassa@Seq_4773 or Neurospora_crassa@Seq_8391	  0.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Neurospora_crassa@Seq_4787 or Neurospora_crassa@Seq_8239 or Neurospora_crassa@Seq_6171	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Neurospora_crassa@Seq_8239 or Neurospora_crassa@Seq_4787 or Neurospora_crassa@Seq_6171	  0.00	1000.00	  0.00
 r_4726	s_1006[c] + 3 s_1416[c]  -> 3 s_0794[c] + 3 s_1413[c] + s_4482[c] 	Neurospora_crassa@Seq_3298	  0.00	1000.00	  0.00
 r_4727	s_0981[c] + s_1275[c] + s_4482[c]  -> s_0803[c] + s_4481[c] 	Neurospora_crassa@Seq_3298	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Neurospora_crassa@Seq_9238	  0.00	1000.00	  0.00
@@ -3762,13 +3762,13 @@ r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Neurospora_crassa@Seq_45
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Neurospora_crassa@Seq_4571	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Neurospora_crassa@Seq_2038	  0.00	1000.00	  0.00
 r_4788	s_0803[c] + s_4436[c]  -> s_0794[c] + s_1538[c] + s_4441[c] 	Neurospora_crassa@Seq_401	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
+r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 	Neurospora_crassa@Seq_1888 or Neurospora_crassa@Seq_2774	-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Neurospora_crassa@Seq_3372	  0.00	1000.00	  0.00
 r_4794	s_0522[c]  -> s_0362[c] + s_1271[c] 	Neurospora_crassa@Seq_4159	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
+r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 	Neurospora_crassa@Seq_9282	-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Neurospora_crassa@Seq_8866	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Neurospora_crassa@Seq_1016	  0.00	1000.00	  0.00
-r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Neurospora_crassa@Seq_6243 or Neurospora_crassa@Seq_5514	  0.00	1000.00	  0.00
+r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Neurospora_crassa@Seq_5514 or Neurospora_crassa@Seq_6243	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	Neurospora_crassa@Seq_224	-1000.00	1000.00	  0.00
 r_4810	s_4433[c]  -> s_4434[c] 	Neurospora_crassa@Seq_4409	  0.00	1000.00	  0.00
 r_4811	s_1569[c]  -> s_4432[c] 	Neurospora_crassa@Seq_4409	  0.00	1000.00	  0.00
@@ -3780,7 +3780,7 @@ r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Neurospora_
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	Neurospora_crassa@Seq_2121	  0.00	1000.00	  0.00
 r_4835	s_0445[c] + s_4407[c]  -> s_0456[c] + s_4408[c] 	Neurospora_crassa@Seq_2168 or Neurospora_crassa@Seq_8376	  0.00	1000.00	  0.00
 r_4836	s_0445[c] + 2 s_0794[c] + s_4407[c]  -> s_0419[c] + 2 s_0456[c] 	Neurospora_crassa@Seq_2168 or Neurospora_crassa@Seq_8376	  0.00	1000.00	  0.00
-r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Neurospora_crassa@Seq_487 or Neurospora_crassa@Seq_7950 or Neurospora_crassa@Seq_1349 or Neurospora_crassa@Seq_4768 or Neurospora_crassa@Seq_6221 or Neurospora_crassa@Seq_7376 or Neurospora_crassa@Seq_10424	  0.00	1000.00	  0.00
+r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Neurospora_crassa@Seq_10424 or Neurospora_crassa@Seq_1349 or Neurospora_crassa@Seq_4662 or Neurospora_crassa@Seq_4768 or Neurospora_crassa@Seq_487 or Neurospora_crassa@Seq_5188 or Neurospora_crassa@Seq_6221 or Neurospora_crassa@Seq_7376 or Neurospora_crassa@Seq_7950	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Neurospora_crassa@Seq_10217 or Neurospora_crassa@Seq_1179 or Neurospora_crassa@Seq_196 or Neurospora_crassa@Seq_2583 or Neurospora_crassa@Seq_3312 or Neurospora_crassa@Seq_3711 or Neurospora_crassa@Seq_3727 or Neurospora_crassa@Seq_5263 or Neurospora_crassa@Seq_5647 or Neurospora_crassa@Seq_5787 or Neurospora_crassa@Seq_6846 or Neurospora_crassa@Seq_744 or Neurospora_crassa@Seq_761 or Neurospora_crassa@Seq_8758	  0.00	1000.00	  0.00
 r_4842	s_0340[c] + s_1198[c]  -> s_0456[c] + s_0577[c] + s_1203[c] 	Neurospora_crassa@Seq_4319	  0.00	1000.00	  0.00
 r_4846	s_0803[c] + s_4381[c]  -> s_0794[c] + s_4401[c] 	Neurospora_crassa@Seq_9290	  0.00	1000.00	  0.00
@@ -3803,7 +3803,6 @@ r_4876	s_4384[c]  -> s_4375[c] 	Neurospora_crassa@Seq_3186	  0.00	1000.00	  0.00
 r_4879	s_1198[c] + s_4382[c]  <=> s_0794[c] + s_1203[c] + s_4381[c] 	Neurospora_crassa@Seq_5514	-1000.00	1000.00	  0.00
 r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	Neurospora_crassa@Seq_6784 or Neurospora_crassa@Seq_10761	  0.00	1000.00	  0.00
 r_4882	s_4379[c]  -> s_0633[c] + s_4378[c] 	Neurospora_crassa@Seq_2793	  0.00	1000.00	  0.00
-r_4884	s_0803[c] + s_1198[c] + s_4352[c]  -> 2 s_0794[c] + s_1203[c] + s_4351[c] 	Neurospora_crassa@Seq_8065	  0.00	1000.00	  0.00
 r_4886	s_1275[c] + s_4375[c]  -> s_4373[c] + s_4374[c] 	Neurospora_crassa@Seq_7791	  0.00	1000.00	  0.00
 r_4887	s_0803[c] + s_1207[c] + s_4372[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_4370[c] 	Neurospora_crassa@Seq_2868 or Neurospora_crassa@Seq_7246	  0.00	1000.00	  0.00
 r_4888	s_0803[c] + s_1207[c] + s_4371[c]  -> 2 s_0794[c] + s_1212[c] + s_1275[c] + s_4370[c] 	Neurospora_crassa@Seq_2868 or Neurospora_crassa@Seq_7246	  0.00	1000.00	  0.00
@@ -3821,15 +3820,14 @@ r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	
 r_4913	s_0803[c] + s_1275[c] + s_4350[c]  -> s_0419[c] + s_0837[c] + s_3967[c] 	Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Neurospora_crassa@Seq_6345	  0.00	1000.00	  0.00
 r_4917	s_4345[c]  -> s_0803[c] + s_1079[c] 	Neurospora_crassa@Seq_10307	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
+r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 	Neurospora_crassa@Seq_8191	  0.00	1000.00	  0.00
+r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 	Neurospora_crassa@Seq_8191	  0.00	1000.00	  0.00
 r_4922	s_1275[c] + s_4191[c]  -> s_4341[c] 	Neurospora_crassa@Seq_8132 or Neurospora_crassa@Seq_3484	  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	Neurospora_crassa@Seq_196	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	Neurospora_crassa@Seq_196	  0.00	1000.00	  0.00
 r_4925	s_1275[c] + s_4337[c]  -> s_0803[c] + s_1079[c] 	Neurospora_crassa@Seq_10307	  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Neurospora_crassa@Seq_7567	-1000.00	1000.00	  0.00
 r_4929	s_0794[c] + s_1212[c] + s_1275[c] + s_4332[c]  -> s_0803[c] + s_1207[c] + s_4331[c] 	Neurospora_crassa@Seq_928 or Neurospora_crassa@Seq_7788	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Neurospora_crassa@Seq_248 or Neurospora_crassa@Seq_2555	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Neurospora_crassa@Seq_4263	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Neurospora_crassa@Seq_2203 or Neurospora_crassa@Seq_3043 or Neurospora_crassa@Seq_3100	  0.00	1000.00	  0.00
@@ -3860,15 +3858,14 @@ r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Neurospora_crassa@Seq_
 r_5011	s_0794[c] + s_1212[c] + s_1275[c] + s_4253[c]  -> s_0803[c] + s_1207[c] + s_4254[c] 	Neurospora_crassa@Seq_6140	  0.00	1000.00	  0.00
 r_5014	s_0803[c] + s_4252[c]  -> s_0794[c] + s_1286[c] + s_4251[c] 	Neurospora_crassa@Seq_6012	  0.00	1000.00	  0.00
 r_5015	s_1198[c] + s_4250[c]  <=> s_0794[c] + s_1203[c] + s_4249[c] 	Neurospora_crassa@Seq_146 or Neurospora_crassa@Seq_1783	-1000.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5020	s_1203[c] + s_1207[c] + s_4241[e]  -> s_1198[c] + s_1212[c] + s_4240[c] 	Neurospora_crassa@Seq_10432	  0.00	1000.00	  0.00
 r_5027	s_0794[c] + s_1212[c] + s_1275[c] + s_4231[c]  -> s_0803[c] + s_1207[c] + s_4232[c] 	Neurospora_crassa@Seq_3727	  0.00	1000.00	  0.00
 r_5028	s_0794[c] + s_1212[c] + s_1275[c] + s_4229[c]  -> s_0803[c] + s_1207[c] + s_4231[c] 	Neurospora_crassa@Seq_3727	  0.00	1000.00	  0.00
 r_5029	s_0794[c] + s_1212[c] + s_1275[c] + s_4230[c]  -> s_0803[c] + s_1207[c] + s_4229[c] 	Neurospora_crassa@Seq_3727	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Neurospora_crassa@Seq_9559	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	Neurospora_crassa@Seq_9633	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Neurospora_crassa@Seq_10001 or Neurospora_crassa@Seq_114 or Neurospora_crassa@Seq_1242 or Neurospora_crassa@Seq_1607 or Neurospora_crassa@Seq_216 or Neurospora_crassa@Seq_2307 or Neurospora_crassa@Seq_2581 or Neurospora_crassa@Seq_3150 or Neurospora_crassa@Seq_4918 or Neurospora_crassa@Seq_6167 or Neurospora_crassa@Seq_6819 or Neurospora_crassa@Seq_83 or Neurospora_crassa@Seq_8728 or Neurospora_crassa@Seq_9787	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_2471 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Neurospora_crassa@Seq_10001 or Neurospora_crassa@Seq_114 or Neurospora_crassa@Seq_1242 or Neurospora_crassa@Seq_1607 or Neurospora_crassa@Seq_216 or Neurospora_crassa@Seq_2307 or Neurospora_crassa@Seq_2581 or Neurospora_crassa@Seq_3150 or Neurospora_crassa@Seq_4918 or Neurospora_crassa@Seq_6167 or Neurospora_crassa@Seq_6819 or Neurospora_crassa@Seq_83 or Neurospora_crassa@Seq_8728 or Neurospora_crassa@Seq_9787	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_2471 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_2471 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_2471 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_196 or Neurospora_crassa@Seq_2471 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
@@ -3886,9 +3883,9 @@ r_5061	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] +
 r_5062	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4590[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1375 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_6873 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
 r_5063	s_0794[c] + s_1212[c] + s_1275[c] + s_4601[c]  <=> s_0803[c] + s_1207[c] + s_4602[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1375 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_6873 or Neurospora_crassa@Seq_8560	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Neurospora_crassa@Seq_5712	-1000.00	1000.00	  0.00
-r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	-1000.00	1000.00	  0.00
-r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	-1000.00	1000.00	  0.00
-r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Neurospora_crassa@Seq_4737 or Neurospora_crassa@Seq_7545	-1000.00	1000.00	  0.00
+r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
+r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Neurospora_crassa@Seq_7545 or Neurospora_crassa@Seq_4737	-1000.00	1000.00	  0.00
 r_5071	2 s_0794[c] + s_1051[c] + s_1275[c]  -> s_0803[c] + s_4456[c] 	Neurospora_crassa@Seq_10241 or Neurospora_crassa@Seq_10333 or Neurospora_crassa@Seq_2154 or Neurospora_crassa@Seq_2482 or Neurospora_crassa@Seq_3431 or Neurospora_crassa@Seq_540 or Neurospora_crassa@Seq_5813 or Neurospora_crassa@Seq_7018 or Neurospora_crassa@Seq_9650	  0.00	1000.00	  0.00
 r_5072	s_0794[c] + s_1203[c] + s_1275[c] + s_4457[c]  -> s_0803[c] + s_1198[c] + s_4455[c] 	Neurospora_crassa@Seq_10241 or Neurospora_crassa@Seq_10333 or Neurospora_crassa@Seq_2154 or Neurospora_crassa@Seq_2482 or Neurospora_crassa@Seq_3431 or Neurospora_crassa@Seq_540 or Neurospora_crassa@Seq_5813 or Neurospora_crassa@Seq_7018 or Neurospora_crassa@Seq_9650	  0.00	1000.00	  0.00
 r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Neurospora_crassa@Seq_9633	-1000.00	1000.00	  0.00
@@ -3898,14 +3895,14 @@ r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Neurospora_
 r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Neurospora_crassa@Seq_9633	-1000.00	1000.00	  0.00
 r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Neurospora_crassa@Seq_9633	-1000.00	1000.00	  0.00
 r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Neurospora_crassa@Seq_10156 or Neurospora_crassa@Seq_1468 or Neurospora_crassa@Seq_2391 or Neurospora_crassa@Seq_7003	-1000.00	1000.00	  0.00
-r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_10575 or Neurospora_crassa@Seq_6270	-1000.00	1000.00	  0.00
-r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_10575 or Neurospora_crassa@Seq_6270	-1000.00	1000.00	  0.00
-r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_10575 or Neurospora_crassa@Seq_6270	-1000.00	1000.00	  0.00
-r_5085	s_0803[c] + s_4587[c]  <=> s_4586[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_10575 or Neurospora_crassa@Seq_6270	-1000.00	1000.00	  0.00
-r_5086	s_0559[e]  <=> s_0558[c] 	Neurospora_crassa@Seq_845 or Neurospora_crassa@Seq_10139 or Neurospora_crassa@Seq_2635	-1000.00	1000.00	  0.00
+r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_6270 or Neurospora_crassa@Seq_10575	-1000.00	1000.00	  0.00
+r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_6270 or Neurospora_crassa@Seq_10575	-1000.00	1000.00	  0.00
+r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_6270 or Neurospora_crassa@Seq_10575	-1000.00	1000.00	  0.00
+r_5085	s_0803[c] + s_4587[c]  <=> s_4586[c] 	Neurospora_crassa@Seq_7556 or Neurospora_crassa@Seq_6270 or Neurospora_crassa@Seq_10575	-1000.00	1000.00	  0.00
+r_5086	s_0559[e]  <=> s_0558[c] 	Neurospora_crassa@Seq_2635 or Neurospora_crassa@Seq_845 or Neurospora_crassa@Seq_10139	-1000.00	1000.00	  0.00
 r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	Neurospora_crassa@Seq_715	-1000.00	1000.00	  0.00
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Neurospora_crassa@Seq_715	-1000.00	1000.00	  0.00
-r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Neurospora_crassa@Seq_5527 or Neurospora_crassa@Seq_8367	  0.00	1000.00	  0.00
+r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Neurospora_crassa@Seq_8367 or Neurospora_crassa@Seq_5527	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Neurospora_crassa@Seq_3071	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Neurospora_crassa@Seq_3071	-1000.00	1000.00	  0.00
 r_5094	s_0803[c] + s_4303[c]  <=> s_4578[c] 	Neurospora_crassa@Seq_2695	-1000.00	1000.00	  0.00
@@ -3915,12 +3912,12 @@ r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Neurospora_c
 r_5102	2 s_0189[c]  -> 2 s_0633[c] + s_4498[c] 	Neurospora_crassa@Seq_3186	  0.00	1000.00	  0.00
 r_5104	s_0794[c] + s_1212[c] + s_1275[c] + s_4573[c]  <=> s_0803[c] + s_1207[c] + s_4575[c] 	Neurospora_crassa@Seq_1375 or Neurospora_crassa@Seq_6873	-1000.00	1000.00	  0.00
 r_5105	s_0794[c] + s_1212[c] + s_1275[c] + s_4573[c]  <=> s_0803[c] + s_1207[c] + s_4574[c] 	Neurospora_crassa@Seq_1375 or Neurospora_crassa@Seq_6873	-1000.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Neurospora_crassa@Seq_10064 or Neurospora_crassa@Seq_1242 or Neurospora_crassa@Seq_1607 or Neurospora_crassa@Seq_4373 or Neurospora_crassa@Seq_798 or Neurospora_crassa@Seq_8693	-1000.00	1000.00	  0.00
 r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Neurospora_crassa@Seq_169 or Neurospora_crassa@Seq_6032 or Neurospora_crassa@Seq_6441 or Neurospora_crassa@Seq_7332 or Neurospora_crassa@Seq_8530 or Neurospora_crassa@Seq_9414	  0.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Neurospora_crassa@Seq_1579 or Neurospora_crassa@Seq_8130 or Neurospora_crassa@Seq_8554 or Neurospora_crassa@Seq_9853	  0.00	1000.00	  0.00
@@ -3940,7 +3937,6 @@ r_5135	s_0394[c] + s_0794[c] + s_1322[c] + s_3992[c]  -> s_0434[c] + s_0441[c] +
 r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	Neurospora_crassa@Seq_7871	-1000.00	1000.00	  0.00
 r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Neurospora_crassa@Seq_7871	-1000.00	1000.00	  0.00
 r_5139	s_4436[c] + s_4562[c]  -> s_0794[c] + s_1538[c] + s_4561[c] 	Neurospora_crassa@Seq_401	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5146	s_0794[c] + s_1212[c] + s_1275[c] + s_4333[c]  -> s_0803[c] + s_1207[c] + s_4558[c] 	Neurospora_crassa@Seq_10234 or Neurospora_crassa@Seq_1100 or Neurospora_crassa@Seq_1870 or Neurospora_crassa@Seq_3042 or Neurospora_crassa@Seq_6565 or Neurospora_crassa@Seq_8560	  0.00	1000.00	  0.00
 r_5148	s_0281[c] + s_1266[c]  -> s_0734[c] + s_0965[c] 	Neurospora_crassa@Seq_7453	  0.00	1000.00	  0.00
 r_5157	s_0558[c] + s_0803[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_4509[c] 	Neurospora_crassa@Seq_6928	  0.00	1000.00	  0.00
@@ -3955,8 +3951,8 @@ r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Neurospora_crassa@Seq_6345	  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Neurospora_crassa@Seq_2297 or Neurospora_crassa@Seq_2397 or Neurospora_crassa@Seq_2846 or Neurospora_crassa@Seq_3737 or Neurospora_crassa@Seq_642 or Neurospora_crassa@Seq_72	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Neurospora_crassa@Seq_715	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Neurospora_crassa@Seq_4935 or Neurospora_crassa@Seq_9304	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Neurospora_crassa@Seq_9304 or Neurospora_crassa@Seq_4935	-1000.00	1000.00	  0.00
 r_5181	s_1322[c] + s_4620[c]  <=> s_0551[c] + s_0803[c] + s_4317[c] 	Neurospora_crassa@Seq_1705 or Neurospora_crassa@Seq_3627	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Neurospora_crassa@Seq_699	-1000.00	1000.00	  0.00
 r_5183	s_4353[c]  <=> s_4621[c] 	Neurospora_crassa@Seq_347	-1000.00	1000.00	  0.00
@@ -3968,9 +3964,6 @@ r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Neurospora_crassa@Seq_10435	  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 	Neurospora_crassa@Seq_3618 or Neurospora_crassa@Seq_7012	  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Neurospora_crassa@Seq_8874	  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_9815 and Neurospora_crassa@Seq_10629 and Neurospora_crassa@Seq_1866 and Neurospora_crassa@Seq_1233 and Neurospora_crassa@Seq_2594) or (Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_9815 and Neurospora_crassa@Seq_10629 and Neurospora_crassa@Seq_5414 and Neurospora_crassa@Seq_1233 and Neurospora_crassa@Seq_2594) or (Neurospora_crassa@Seq_9803 and Neurospora_crassa@Seq_780 and Neurospora_crassa@Seq_6217 and Neurospora_crassa@Seq_3768 and Neurospora_crassa@Seq_4002 and Neurospora_crassa@Seq_6040)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Neurospora_crassa@Seq_6425 and Neurospora_crassa@Seq_4478 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_3454 and Neurospora_crassa@Seq_2246 and Neurospora_crassa@Seq_6077 and Neurospora_crassa@Seq_6346 and Neurospora_crassa@Seq_4754) or (Neurospora_crassa@Seq_6425 and Neurospora_crassa@Seq_4478 and Neurospora_crassa@Seq_7769 and Neurospora_crassa@Seq_4261 and Neurospora_crassa@Seq_2246 and Neurospora_crassa@Seq_6077 and Neurospora_crassa@Seq_6346 and Neurospora_crassa@Seq_4754)	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_8225) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_8225) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_5005 and Neurospora_crassa@Seq_914 and Neurospora_crassa@Seq_3899 and Neurospora_crassa@Seq_1984) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_3991 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780 and Neurospora_crassa@Seq_5005 and Neurospora_crassa@Seq_914 and Neurospora_crassa@Seq_3899 and Neurospora_crassa@Seq_1984) or (Neurospora_crassa@Seq_3225 and Neurospora_crassa@Seq_5368 and Neurospora_crassa@Seq_3932 and Neurospora_crassa@Seq_838 and Neurospora_crassa@Seq_607 and Neurospora_crassa@Seq_8832 and Neurospora_crassa@Seq_8233 and Neurospora_crassa@Seq_5152 and Neurospora_crassa@Seq_4371 and Neurospora_crassa@Seq_2802 and Neurospora_crassa@Seq_6304 and Neurospora_crassa@Seq_10780)	  0.00	1000.00	  0.00
 r_0006	s_1543[c]  -> s_0004[ce] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00

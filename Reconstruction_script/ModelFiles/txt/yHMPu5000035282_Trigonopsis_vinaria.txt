@@ -187,6 +187,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000035
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_374	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_374	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_370	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2945 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227) or (yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2106) or (yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_528 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2945 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_749 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1473 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2645 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4488 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3868	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4593	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4733	-1000.00	1000.00	  0.00
@@ -304,6 +305,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3390	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2374	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2563 and yHMPu5000035282_Trigonopsis_vinaria@Seq_764	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1690 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2563 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5207 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2171 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2863 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5373 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4356	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2182 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3925 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2563 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4281 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2408 and yHMPu5000035282_Trigonopsis_vinaria@Seq_266 and yHMPu5000035282_Trigonopsis_vinaria@Seq_814 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5187	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_759	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4822	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4822	  0.00	1000.00	  0.00
@@ -653,6 +656,7 @@ r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000035
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_352	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3127	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_955	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_225 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4474	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4474	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4474	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4474	-1000.00	1000.00	  0.00
@@ -3242,8 +3246,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3375,7 +3379,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3535 or yHMPu5000035282_Trigonopsis_vinaria@Seq_563	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3535 or yHMPu5000035282_Trigonopsis_vinaria@Seq_563	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2248 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3529	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1169	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4237	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4237	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3212	-1000.00	1000.00	  0.00
@@ -3418,6 +3421,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000035282_Trigono
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3083 or yHMPu5000035282_Trigonopsis_vinaria@Seq_4453 or yHMPu5000035282_Trigonopsis_vinaria@Seq_5208	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_940	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5034	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2009 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3784 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4053 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4470	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4527	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_75	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3604	  0.00	1000.00	  0.00
@@ -3794,21 +3798,18 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3818	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2217 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3748	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2217	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4567 or yHMPu5000035282_Trigonopsis_vinaria@Seq_175	  0.00	1000.00	  0.00
-r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3043 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1476	-1000.00	1000.00	  0.00
+r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1476 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3043	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1413	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	-1000.00	1000.00	  0.00
 r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118 or yHMPu5000035282_Trigonopsis_vinaria@Seq_5298	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	  0.00	1000.00	  0.00
 r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_717	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_78	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2481 or yHMPu5000035282_Trigonopsis_vinaria@Seq_2790	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_205	  0.00	1000.00	  0.00
@@ -3822,7 +3823,7 @@ r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	
 r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1134 or yHMPu5000035282_Trigonopsis_vinaria@Seq_2486 or yHMPu5000035282_Trigonopsis_vinaria@Seq_349 or yHMPu5000035282_Trigonopsis_vinaria@Seq_5166	  0.00	1000.00	  0.00
 r_4681	s_0803[c] + s_4348[c]  -> s_0794[c] + s_1467[c] + s_4349[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_845	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_119 or yHMPu5000035282_Trigonopsis_vinaria@Seq_362	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_590 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1004	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1004 or yHMPu5000035282_Trigonopsis_vinaria@Seq_590	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1378 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3881 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3972 or yHMPu5000035282_Trigonopsis_vinaria@Seq_4402 or yHMPu5000035282_Trigonopsis_vinaria@Seq_523 or yHMPu5000035282_Trigonopsis_vinaria@Seq_992	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1009 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3555	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2273	  0.00	1000.00	  0.00
@@ -3851,8 +3852,6 @@ r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	yHMPu500003
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_288	  0.00	1000.00	  0.00
 r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2906	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2700	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2218	  0.00	1000.00	  0.00
 r_4820	s_0803[c] + s_3761[c]  <=> s_0415[c] + s_0423[c] + 2 s_0794[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2059	-1000.00	1000.00	  0.00
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5003	  0.00	1000.00	  0.00
@@ -3868,10 +3867,7 @@ r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2367	  0.00	1000.00	  0.00
 r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5126	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3523	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3636	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1139	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2202	  0.00	1000.00	  0.00
 r_4942	s_0775[c] + s_0803[c] + s_1198[c]  -> 2 s_0794[c] + s_1203[c] + s_3997[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5126	  0.00	1000.00	  0.00
@@ -3888,9 +3884,8 @@ r_4973	s_0188[c]  <=> s_0260[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1387	-1
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4567	  0.00	1000.00	  0.00
 r_4994	s_1212[c] + s_1266[c] + s_1275[c]  -> s_0803[c] + s_1207[c] + s_4267[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1068	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1597 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1995	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3588	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4202	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4202	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_977	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_294	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3118	-1000.00	1000.00	  0.00
@@ -3901,12 +3896,12 @@ r_5086	s_0559[e]  <=> s_0558[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2569	-1
 r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_197	-1000.00	1000.00	  0.00
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_197	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1134 or yHMPu5000035282_Trigonopsis_vinaria@Seq_2486 or yHMPu5000035282_Trigonopsis_vinaria@Seq_349	  0.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4735	-1000.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_622	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5354 or yHMPu5000035282_Trigonopsis_vinaria@Seq_622	-1000.00	1000.00	  0.00
@@ -3914,26 +3909,22 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000035282_Trigonop
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2224	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2224	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2649	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	  0.00	1000.00	  0.00
 r_5166	s_0291[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4546[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_362 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1169 or yHMPu5000035282_Trigonopsis_vinaria@Seq_119	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1169 or yHMPu5000035282_Trigonopsis_vinaria@Seq_119 or yHMPu5000035282_Trigonopsis_vinaria@Seq_362	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_197	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1865 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1447	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1447 or yHMPu5000035282_Trigonopsis_vinaria@Seq_1865	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1042 or yHMPu5000035282_Trigonopsis_vinaria@Seq_3722	-1000.00	1000.00	  0.00
 r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_0794[c] + s_4627[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4246	-1000.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2350	  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_3731	  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2821	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2495	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000035282_Trigonopsis_vinaria@Seq_1690 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2563 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5207 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2171 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2863 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5373 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4356) or (yHMPu5000035282_Trigonopsis_vinaria@Seq_1690 and yHMPu5000035282_Trigonopsis_vinaria@Seq_17 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4180 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2256 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1847)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_2182 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3925 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2563 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4281 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2408 and yHMPu5000035282_Trigonopsis_vinaria@Seq_266 and yHMPu5000035282_Trigonopsis_vinaria@Seq_814 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5187	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2945 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227) or (yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2106) or (yHMPu5000035282_Trigonopsis_vinaria@Seq_2109 and yHMPu5000035282_Trigonopsis_vinaria@Seq_612 and yHMPu5000035282_Trigonopsis_vinaria@Seq_3024 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1710 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1664 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2945 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1440 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4306 and yHMPu5000035282_Trigonopsis_vinaria@Seq_285 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2467 and yHMPu5000035282_Trigonopsis_vinaria@Seq_5227 and yHMPu5000035282_Trigonopsis_vinaria@Seq_749 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1473 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2645 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4488 and yHMPu5000035282_Trigonopsis_vinaria@Seq_528)	  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_5226 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2001 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2493 and yHMPu5000035282_Trigonopsis_vinaria@Seq_2307 and yHMPu5000035282_Trigonopsis_vinaria@Seq_538 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1184 and yHMPu5000035282_Trigonopsis_vinaria@Seq_1912 and yHMPu5000035282_Trigonopsis_vinaria@Seq_639 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4827 and yHMPu5000035282_Trigonopsis_vinaria@Seq_208 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4753 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4573 and yHMPu5000035282_Trigonopsis_vinaria@Seq_4172	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_119	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_4653	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
@@ -3945,3 +3936,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_244	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000035282_Trigonopsis_vinaria@Seq_1431	  0.00	1000.00	  0.00

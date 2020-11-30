@@ -193,6 +193,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Candida_albi
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Candida_albicans@C6_03410C_A	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Candida_albicans@C6_03410C_A	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Candida_albicans@C5_05320C_A	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@C4_00330C_A and Candida_albicans@CR_00250W_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@C2_00610C_A and Candida_albicans@C2_05500W_A) or (Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@CR_00250W_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@C2_00610C_A and Candida_albicans@C2_05500W_A and Candida_albicans@C1_12590W_A) or (Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@C1_10750C_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@C4_00330C_A and Candida_albicans@CR_00250W_A and Candida_albicans@C1_02290C_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@CR_08130W_A and Candida_albicans@C2_00610C_A and Candida_albicans@C7_01350C_A and Candida_albicans@C1_12320C_A and Candida_albicans@C2_05500W_A)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Candida_albicans@C4_06230C_A	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Candida_albicans@C4_06000W_A	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Candida_albicans@CR_01930C_A	-1000.00	1000.00	  0.00
@@ -3340,8 +3341,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.494218 s_0404[c] + 0.173106 s_0428[c] + 0.109551 s_0430[c] + 0.320466 s_0432[c] + 0.0071095 s_0542[c] + 0.113537 s_0747[c] + 0.325098 s_0748[c] + 0.312818 s_0757[c] + 0.0714182 s_0832[c] + 0.207576 s_0847[c] + 0.319281 s_1077[c] + 0.308294 s_1099[c] + 0.0546139 s_1148[c] + 0.144237 s_1314[c] + 0.177414 s_1379[c] + 0.199712 s_1428[c] + 0.206176 s_1491[c] + 0.0305924 s_1527[c] + 0.109874 s_1533[c] + 0.285026 s_1561[c]  -> 0.494218 s_1582[c] + 0.173106 s_1583[c] + 0.109551 s_1585[c] + 0.320466 s_1587[c] + 0.0071095 s_1589[c] + 0.113537 s_1590[c] + 0.325098 s_1591[c] + 0.312818 s_1593[c] + 0.0714182 s_1594[c] + 0.207576 s_1596[c] + 0.319281 s_1598[c] + 0.308294 s_1600[c] + 0.0546139 s_1602[c] + 0.144237 s_1604[c] + 0.177414 s_1606[c] + 0.199712 s_1607[c] + 0.206176 s_1608[c] + 0.0305924 s_1610[c] + 0.109874 s_1612[c] + 0.285026 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.538511 s_0404[c] + 0.18862 s_0428[c] + 0.119369 s_0430[c] + 0.349187 s_0432[c] + 0.00774667 s_0542[c] + 0.123712 s_0747[c] + 0.354234 s_0748[c] + 0.340854 s_0757[c] + 0.0778188 s_0832[c] + 0.226179 s_0847[c] + 0.347896 s_1077[c] + 0.335924 s_1099[c] + 0.0595085 s_1148[c] + 0.157164 s_1314[c] + 0.193315 s_1379[c] + 0.217611 s_1428[c] + 0.224653 s_1491[c] + 0.0333342 s_1527[c] + 0.119721 s_1533[c] + 0.310571 s_1561[c]  -> 0.538511 s_1582[c] + 0.18862 s_1583[c] + 0.119369 s_1585[c] + 0.349187 s_1587[c] + 0.00774667 s_1589[c] + 0.123712 s_1590[c] + 0.354234 s_1591[c] + 0.340854 s_1593[c] + 0.0778188 s_1594[c] + 0.226179 s_1596[c] + 0.347896 s_1598[c] + 0.335924 s_1600[c] + 0.0595085 s_1602[c] + 0.157164 s_1604[c] + 0.193315 s_1606[c] + 0.217611 s_1607[c] + 0.224653 s_1608[c] + 0.0333342 s_1610[c] + 0.119721 s_1612[c] + 0.310571 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.84822 s_0001[ce] + 0.283405 s_0004[ce] + 0.409556 s_0773[c] + 0.805639 s_1107[c] + 0.156695 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.045995 s_0423[c] + 0.0446951 s_0526[c] + 0.045995 s_0782[c] + 0.0598935 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00388965 s_0584[c] + 0.0025931 s_0589[c] + 0.0025931 s_0615[c] + 0.00388965 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3473,7 +3474,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Candida_alb
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Candida_albicans@C1_01240W_A or Candida_albicans@C1_04010C_A or Candida_albicans@C1_04020C_A or Candida_albicans@C1_04140W_A or Candida_albicans@C1_04740W_A	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Candida_albicans@C1_01240W_A or Candida_albicans@C1_04010C_A or Candida_albicans@C1_04020C_A or Candida_albicans@C1_04140W_A or Candida_albicans@C1_04740W_A	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Candida_albicans@C2_06540C_A or Candida_albicans@C2_07350W_A	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Candida_albicans@C4_06380W_A or Candida_albicans@C4_06390W_A or Candida_albicans@CR_07170W_A	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Candida_albicans@C1_10240C_A	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Candida_albicans@C1_10240C_A	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Candida_albicans@C2_00960C_A	-1000.00	1000.00	  0.00
@@ -3513,6 +3513,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Candida_albicans@C3_03480C_A	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Candida_albicans@C2_04340C_A	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Candida_albicans@C6_01120C_A	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Candida_albicans@C2_05280C_A and Candida_albicans@C3_05390C_A and Candida_albicans@CR_04470W_A and Candida_albicans@CR_04040C_A	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Candida_albicans@CR_07150W_A or Candida_albicans@CR_07490C_A	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Candida_albicans@C3_02610C_A	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Candida_albicans@C3_01250W_A	  0.00	1000.00	  0.00
@@ -3900,8 +3901,6 @@ r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Candida_albicans@C3_02060W_A	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Candida_albicans@C6_02890C_A	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Candida_albicans@C3_07910W_A or Candida_albicans@C3_07920W_A	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Candida_albicans@C1_03320C_A	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Candida_albicans@C1_03440C_A	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Candida_albicans@C2_00180C_A	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Candida_albicans@C4_04360W_A	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Candida_albicans@C5_03610W_A or Candida_albicans@CR_00190W_A	  0.00	1000.00	  0.00
@@ -3920,15 +3919,13 @@ r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Candida_alb
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Candida_albicans@CR_07820W_B or Candida_albicans@CR_07940W_A	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Candida_albicans@C7_01170C_A	-1000.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Candida_albicans@C2_07240C_A	-1000.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Candida_albicans@C2_07250C_A	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Candida_albicans@C4_02230C_A or Candida_albicans@C2_07250C_A	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Candida_albicans@C6_04600W_A	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Candida_albicans@C1_03670C_A or Candida_albicans@C5_00450C_A or Candida_albicans@C4_03380C_A	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Candida_albicans@C5_00450C_A or Candida_albicans@C1_03670C_A or Candida_albicans@C4_03380C_A	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Candida_albicans@C2_00880W_A	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Candida_albicans@C1_06720C_A	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Candida_albicans@CR_09180W_A	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Candida_albicans@C2_06350C_A	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Candida_albicans@C5_04120C_A	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Candida_albicans@C2_08460C_A	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Candida_albicans@C4_07040W_A	  0.00	1000.00	  0.00
@@ -3937,10 +3934,7 @@ r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] +
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Candida_albicans@C1_02170C_A	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Candida_albicans@CR_04490C_A	  0.00	1000.00	  0.00
 r_4915	s_4347[c]  -> s_4213[c] + s_4346[c] 	Candida_albicans@C5_01450W_A	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Candida_albicans@C2_05360C_A	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Candida_albicans@C3_04200W_A or Candida_albicans@C6_01680C_A	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Candida_albicans@C6_04590C_A	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Candida_albicans@C3_06510C_A	  0.00	1000.00	  0.00
@@ -3948,8 +3942,8 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Candida_albicans@C1_0930
 r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	Candida_albicans@C2_07980W_A	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Candida_albicans@C6_02890C_A	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Candida_albicans@C3_06510C_A	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Candida_albicans@C3_01820W_A or Candida_albicans@CR_09410W_A or Candida_albicans@CR_09420C_A	-1000.00	1000.00	  0.00
+r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Candida_albicans@C4_02230C_A	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Candida_albicans@C3_01820W_A or Candida_albicans@CR_09410W_A or Candida_albicans@CR_09420C_A	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Candida_albicans@C2_06870C_A or Candida_albicans@C2_08640C_A	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Candida_albicans@C2_03120W_A or Candida_albicans@C2_06700W_A	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Candida_albicans@C7_04280C_A	-1000.00	1000.00	  0.00
@@ -3960,15 +3954,13 @@ r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Candida_alb
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Candida_albicans@C4_05130C_A	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Candida_albicans@C4_05130C_A	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Candida_albicans@C2_00880W_A	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Candida_albicans@C4_06380W_A or Candida_albicans@C4_06390W_A or Candida_albicans@CR_07170W_A	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Candida_albicans@C6_04590C_A	-1000.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Candida_albicans@C1_09720W_A	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@C4_00330C_A and Candida_albicans@CR_00250W_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@C2_00610C_A and Candida_albicans@C2_05500W_A) or (Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@CR_00250W_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@C2_00610C_A and Candida_albicans@C2_05500W_A and Candida_albicans@C1_12590W_A) or (Candida_albicans@CM_00160C and Candida_albicans@CM_00140C and Candida_albicans@C1_04610W_A and Candida_albicans@CR_01310W_A and Candida_albicans@CR_10850C_A and Candida_albicans@C3_00460W_A and Candida_albicans@C4_00330C_A and Candida_albicans@CR_00250W_A and Candida_albicans@C4_00270W_A and Candida_albicans@C1_07600W_A and Candida_albicans@C2_06290C_A and Candida_albicans@C2_00610C_A and Candida_albicans@C2_05500W_A and Candida_albicans@C1_02290C_A and Candida_albicans@CR_08130W_A and Candida_albicans@C7_01350C_A and Candida_albicans@C1_12320C_A and Candida_albicans@C1_10750C_A)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Candida_albicans@C2_04550C_A and Candida_albicans@CM_00370W and Candida_albicans@C2_07550W_A and Candida_albicans@C3_01610W_A and Candida_albicans@C3_02190C_A and Candida_albicans@CR_10140W_A and Candida_albicans@CM_00060W and Candida_albicans@C2_08650W_A and Candida_albicans@CM_00320W and Candida_albicans@C3_07060W_A and Candida_albicans@C3_01410C_A and Candida_albicans@C1_05180C_A and Candida_albicans@C1_08930C_A and Candida_albicans@C1_08080C_A and Candida_albicans@C7_01900W_A and Candida_albicans@C7_01160C_A and Candida_albicans@CM_00310W and Candida_albicans@C3_03340C_A and Candida_albicans@C2_00400C_A and Candida_albicans@CM_00380W and Candida_albicans@C6_02740W_A and Candida_albicans@CR_02620C_A and Candida_albicans@C1_01010W_A and Candida_albicans@C1_06060C_A and Candida_albicans@CR_01740W_A and Candida_albicans@CM_00050W and Candida_albicans@CM_00440W and Candida_albicans@C1_09020W_A and Candida_albicans@C1_00700W_A) or (Candida_albicans@C2_04550C_A and Candida_albicans@CM_00370W and Candida_albicans@C2_07550W_A and Candida_albicans@C3_01610W_A and Candida_albicans@C3_02190C_A and Candida_albicans@CR_10140W_A and Candida_albicans@CM_00060W and Candida_albicans@C2_08650W_A and Candida_albicans@CM_00320W and Candida_albicans@C3_07060W_A and Candida_albicans@C3_01410C_A and Candida_albicans@C1_05180C_A and Candida_albicans@C1_08930C_A and Candida_albicans@C1_08080C_A and Candida_albicans@C7_01900W_A and Candida_albicans@C7_01160C_A and Candida_albicans@CM_00310W and Candida_albicans@C3_03340C_A and Candida_albicans@C2_00400C_A and Candida_albicans@CM_00380W and Candida_albicans@C6_02740W_A and Candida_albicans@CR_02620C_A and Candida_albicans@C1_01010W_A and Candida_albicans@C2_04030C_A and Candida_albicans@CR_01740W_A and Candida_albicans@CM_00050W and Candida_albicans@CM_00440W and Candida_albicans@C1_09020W_A and Candida_albicans@C1_00700W_A)	  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Candida_albicans@C4_06380W_A or Candida_albicans@C4_06390W_A	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Candida_albicans@C1_09190C_A	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
@@ -3987,3 +3979,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Candida_albicans@C1_06810W_A	  0.00	1000.00	  0.00
