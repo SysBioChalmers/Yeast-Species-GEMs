@@ -219,10 +219,10 @@ end
 newrxns = [newrxns;newrxns_added];
 
 % fix ATP transport   
+cd(current_path)
 [~,rxnMatrix,~,~] = getprecursorMatrixCobra(model_original,strains,inputpath,[],1);
 [~,idx] = ismember('r_1110',model_original.rxns);
 strains_noATPtransport = strains(rxnMatrix(:,idx) == 0);
-current_path = pwd;
 for i = 1:length(strains_noATPtransport)
     cd(inputpath)
     m = strains_noATPtransport{i};
@@ -236,14 +236,15 @@ for i = 1:length(strains_noATPtransport)
 end
 newrxns = [newrxns;newrxns_added];
 
+cd(current_path)
 rxn_added_pathway{1} = newrxns;
 rxn_added_pathway{2} = newtstepcheck;
-save(['rxn_added_pathway',num2str(length(strains)),'.mat'],'rxn_added_pathway')
+save(['rxn_added_pathway',strains{1},'.mat'],'rxn_added_pathway')
 clearvars   rxn_added_pathway
 %% step 3 fix alternative pwys gap
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
 % mapping metaNetIDs
-
+cd(current_path)
 format = '%s %s %s %s %s %s %s %s %s %s %s';
 fID       = fopen('../../data/gapfill/new_met_information_gapfill.txt');
 matrixData  = textscan(fID,format,'Delimiter','\t','HeaderLines',1);
@@ -316,7 +317,7 @@ newrxns = [newrxns;newrxns_added];
 % exist
 [newrxns_added] = RespiratoryChain(model_original,strains,inputpath);
 newrxns = [newrxns;newrxns_added];
-save(['newrxns_alternativapwy',num2str(length(strains)),'.mat'],'newrxns')
+save(['newrxns_alternativapwy',strains{1},'.mat'],'newrxns')
 
 %% step 5 Auto-gap-filling rxns
 [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath);
@@ -353,7 +354,7 @@ for i = 1:length(strains)
     end
 end
 cd(current_path)
-save(['newrxns_auotgap',num2str(length(strains)),'.mat'],'newrxns_added')
+save(['newrxns_auotgap',strains{1},'.mat'],'newrxns_added')
 
 % add those reactions back to the model
 strains_specific = unique(newrxns_added(:,2));

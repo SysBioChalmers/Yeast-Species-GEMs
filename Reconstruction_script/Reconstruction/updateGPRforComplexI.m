@@ -33,7 +33,7 @@ for i = 1:length(strains)
     end
     result(geneIdx,3) = geneID_core(draftGeneIdx); % fix the geneID by gapfilling so that the strange RNA gene ID can be changed back
     result(geneIdx,4) = panID_final(draftGeneIdx);
-    result(geneIdx,5) = repmat(strains(i),length(geneIdx),1); % species
+    result(geneIdx,5) = repmat(strains(i),length(geneIdx),1); % species 
 end
 
 for i = 1:length(strains)
@@ -55,7 +55,7 @@ reducedModel = addrxnBack(reducedModel,model_original,{'r_5195'},newGPR);
 reducedModel.proteins(idx2) = result(idx,4);
 grRules = standardizeGrRules(reducedModel);
 reducedModel.grRules = grRules;
-cd(inputpath)
+cd(outputpath)
 save([strains_withcomplexI{i},'.mat'],'reducedModel')
 end
 
