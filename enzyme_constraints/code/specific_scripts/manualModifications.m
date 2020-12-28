@@ -79,8 +79,8 @@ model.ub(strcmp(model.rxnNames,'D-glucose exchange')) = 0;
 modifications = mapModifiedRxns(modifications,model);
 %Curate Kcat values
 cd ../utilities
-proteins = {'O42933' 'P46971' 'P36143'};
-Kcats    = [70.9 70.9 70.9];
+proteins = {'O42933' 'P46971' 'P36143' 'C4R045'};
+Kcats    = [70.9 70.9 70.9 70.9];
 for i=1:length(proteins)
     prot = proteins{i};
     Kcat = Kcats(i);
