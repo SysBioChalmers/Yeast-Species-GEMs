@@ -1,16 +1,19 @@
 current = pwd;
 %Rescale biomass composition, fit sigma for growth
+disp('******* Rescale protein pool according to experimental growth rate *******')
+disp(' ')
 curate_ecModels('ecModel_batch','ecModel_modified','ecModels_metrics',2,false,true)
-%%Curate Ethanol consumption
-clc
+%%Curate Ethanol production
+disp('******* Curate Kcats according to experimental ethanol production rate *******')
 cd(current)
 %Open model metrics file
 metrics    = readtable('../results/ecModels_metrics.txt');
+%metrics    = metrics(13,:);
 modelNames = metrics.model;
 EtOH_exc  = metrics.EtExc;
 EtOH_exc(EtOH_exc==0) = 1E-8;
 EtOH_exp = metrics.EtOH_exp;
-EtOH_exp(EtOH_exp==0) = 1E-8;1
+EtOH_exp(EtOH_exp==0) = 1E-8;
 Fchange = EtOH_exc./EtOH_exp;
 misspredicted = zeros(length(Fchange),1);
 misspredicted(find(Fchange<0.5)) = 1;
@@ -38,36 +41,40 @@ for i=1:length(modelNames)
             [ecModel_batch,newEtOH] = iterative_curation(ecModel_batch,EtOH_exp(i),true,EtOHIndx,gIndx,EtOHIndx,10,20);
         else
             %Overpredictions
-        	[ecModel_batch,newEtOH] = iterative_curation(ecModel_batch,EtOH_exp(i),false,EtOHIndx,gIndx,EtOHIndx,0.1,20);
+            [ecModel_batch,newEtOH] = iterative_curation(ecModel_batch,EtOH_exp(i),false,EtOHIndx,gIndx,EtOHIndx,0.1,20);
         end
         cd(current)
         ecModel_batch = setParam(ecModel_batch,'obj',gIndx,1);
     end
     
-     %underpredicted EtOH exchange
-        LB = 0.75;
-        UB = 1.25;
-        if newEtOH<=LB*EtOH_exp(i)
-            ecModel_batch.lb(EtOHIndx) = 0.9999*newEtOH;
-            ecModel_batch.ub(EtOHIndx) = 1.05*EtOH_exp(i);
-        elseif newEtOH>=UB*EtOH_exp(i)
-            ecModel_batch.ub(EtOHIndx) = 1.05*EtOH_exp(i);
-            ecModel_batch.lb(EtOHIndx) = 0.95*EtOH_exp(i);
-        else
-            ecModel_batch.ub(EtOHIndx) = UB*EtOH_exp(i);
-            ecModel_batch.lb(EtOHIndx) = LB*EtOH_exp(i);
-        end
+    %underpredicted EtOH exchange
+    LB = 0.75;
+    UB = 1.25;
+    if newEtOH<=LB*EtOH_exp(i)
+        ecModel_batch.lb(EtOHIndx) = 0.9999*newEtOH;
+        ecModel_batch.ub(EtOHIndx) = 1.05*EtOH_exp(i);
+    elseif newEtOH>=UB*EtOH_exp(i)
+        ecModel_batch.ub(EtOHIndx) = 1.05*EtOH_exp(i);
+        ecModel_batch.lb(EtOHIndx) = 0.95*EtOH_exp(i);
+    else
+        ecModel_batch.ub(EtOHIndx) = UB*EtOH_exp(i);
+        ecModel_batch.lb(EtOHIndx) = LB*EtOH_exp(i);
+    end
     save(['../ecModels/' modelName '/ecModel_batch_curated_EtOH.mat'],'ecModel_batch')
     disp(' ')
 end
-%Readjust 
+disp('******* Recalibrate protein pool according to experimental ethanol production rate *******')
+disp(' ')
 cd(current)
 curate_ecModels('ecModel_batch_curated_EtOH','ecModel_batch_curated_EtOH','ecModels_metrics_curated_EtOH',2,false,true)
 
 %%Curate glucose consumption
+disp('******* Curate Kcats according to experimental glucose consumption rate *******')
+disp(' ')
 cd(current)
 %Open model metrics file
 metrics    = readtable('../results/ecModels_metrics_curated_EtOH.txt');
+%metrics    = metrics(13,:);
 %metrics    = metrics([8,12],:);
 modelNames = metrics.model;
 GUR_sim = metrics.GUR;
@@ -114,6 +121,8 @@ for i=1:length(modelNames)
     disp(' ')
 end
 %Fit sigma for fitted GUR, 
+disp('******* Recalibrate protein pool according to experimental glucose rate *******')
+disp(' ')
 cd(current)
 curate_ecModels('ecModel_batch_curated','ecModel_batch_improved','ecModels_metrics_improved',1,true,true)
 % 

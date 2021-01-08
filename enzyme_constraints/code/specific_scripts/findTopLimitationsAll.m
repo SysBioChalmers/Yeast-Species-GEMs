@@ -37,8 +37,8 @@ if ~isempty(base_sol.f)
     
     if ~isempty(limKcats{1})
         %limitations = limKcats;
-        limitations = table(limKcats{1},limKcats{4},limKcats{5},limKcats{6});
-        limitations.Properties.VariableNames = {'enzyme' 'Kcat' 'ECC' 'rxnNames'};
+        limitations = table(limKcats{1},limKcats{2},limKcats{3},limKcats{4},limKcats{5},limKcats{6});
+        limitations.Properties.VariableNames = {'enzyme' 'enzPos' 'coeffPos' 'Kcat' 'ECC' 'rxnNames'};
         limitations.enzyme = strrep(limitations.enzyme,'prot_','');
         [members,iA] = ismember(limitations.enzyme,model.enzymes);
         members = find(members);
