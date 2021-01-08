@@ -1,7 +1,7 @@
 function model = flexibilize_bottleNecks(model)
 cd GECKO/geckomat/utilities
-proteins = {'O42933' 'P46971' 'P36143' 'P52867' 'C4R045'};
-Kcats    = [20 20 13.92 20 20];
+proteins = {'O42933' 'P46971' 'P36143' 'P52867' 'C4R045' 'C5DS84'};%  'A0A3F2XYL4'  'W0TFZ8'};
+Kcats    = [20 20 13.92 20 20 3160];% 0.617 0.617 0.617];
 common = intersect(model.enzymes,proteins);
 if ~isempty(common)
     for i=1:length(common)
