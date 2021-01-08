@@ -1,4 +1,4 @@
-function [limitations,breakFlag] = findTopLimitationsAll(model,prevUnicodes,target,KcatDelta,direction,option)
+function [limitations,breakFlag] = findTopLimitationsAll(model,prevUnicodes,target,KcatDelta,direction)
 %TopLimitingKcatAll
 %
 % Function that gets an EC model and returns the top limiting Kcat value in
@@ -11,11 +11,8 @@ function [limitations,breakFlag] = findTopLimitationsAll(model,prevUnicodes,targ
 %
 % Ivan Domenzain    Last edited. 2020-05-05
 
-if nargin<6
-    option = 3;
-    if nargin <5
-        direction = 'descend';
-    end
+if nargin <5
+	direction = 'descend';
 end
 %Get an initial simulation optimizing for biomass production
 base_sol = solveLP(model);
@@ -36,39 +33,19 @@ if ~isempty(base_sol.f)
     if ~isempty(limKcats{1})
         %Sort the limiting Kcats cell according to their control coefficient
         limKcats = sortByCCoeff(limKcats,limKcats{5},direction);
-        j        = 1;
-        pos      = 0;
-        %Choose the top controlling Kcat that is not included in the cell
-        %prevUnicodes to avoid infinite loops
-        while j<=length(limKcats{1})
-            %The top control coefficient is identified with its corresponding
-            %uniprot code and the rxn index in the model because there might
-            %be promiscous enzymes catalysing different reactions at different rates
-            Protname = [limKcats{1}{j}(6:end) '_' num2str(limKcats{3}(j))];
-            if ~ismember(Protname,prevUnicodes)
-                pos = j;
-                break
-            else
-                j = j+1;
-            end
-        end
     end
     
     if ~isempty(limKcats{1})
-        limitations = limKcats;
+        %limitations = limKcats;
+        limitations = table(limKcats{1},limKcats{4},limKcats{5},limKcats{6});
+        limitations.Properties.VariableNames = {'enzyme' 'Kcat' 'ECC' 'rxnNames'};
+        limitations.enzyme = strrep(limitations.enzyme,'prot_','');
+        [members,iA] = ismember(limitations.enzyme,model.enzymes);
+        members = find(members);
+        limitations.enzGenes = model.enzGenes(iA);
+        limitations.enzNames = model.enzNames(iA);
     else
         breakFlag = true;
-    end
-    %If the model is not feasible, analyse all of the kinetic parameters
-    %associated to each of the metabolic reactions.
-else
-    breakFlag = true;
-    if option == 1
-        limRxns     = findLimitingRxn(model,enz_indxs,enzUsageIndxs);
-        limitations = limRxns;
-    elseif option == 2
-        limEnz      = findLimitingEnz(model,enz_indxs,enzUsageIndxs);
-        limitations = limEnz;
     end
 end
 end
@@ -84,9 +61,7 @@ end
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function limKcats = findLimitingKcat(model,base_sol,target,enzUsageIndxs,Kcatdelta)
-if nargin<4
-    direction = 1000;
-end
+
 limKcats = cell(1,6);
 %Get the original rxn indexes of the flux carrier enzymes (enzyme usages)
 enzUsageFlux = base_sol.x(enzUsageIndxs);
