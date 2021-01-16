@@ -9,7 +9,7 @@ setwd(repoPath)
 
 #Load datasets
 dataPath <- paste(repoPath,'/enzyme_constraints/',sep='')
-fileName <- paste(dataPath,'results/ecModels_metrics_curated_yield.txt',sep='')
+fileName <- paste(dataPath,'results/ecModels_metrics_improved.txt',sep='')
 dataset  <- read.delim(fileName, header = TRUE, sep = "\t",stringsAsFactors=FALSE, na.strings = "NA")
 dataset$enzCoverage <- dataset$ec_nEnz/dataset$nGenes
 dataset$enzymes <- dataset$ec_enzymes
@@ -23,13 +23,15 @@ dataset$EtOH_exp[which(dataset$EtOH_exp==0)] <- 1E-8
 dataset$EtOH_Error <- abs(dataset$EtExc-dataset$EtOH_exp)/dataset$EtOH_exp
 dataset$gRate_error <- rep(0,length(dataset$EtOH_Error))
 
-features <- c('ec_nEnz','isoenzymes','promiscuous','complexes')
+#features <- c('ec_nEnz','isoenzymes','promiscuous','complexes')
 features <- c('bioYield','bioYield_exp')
 features <- c('GUR','GUR_exp')
-#features <- c('GUR','GUR_exp')
-maxLim <- 12
+features <- c('EtExc','EtOH_exp')
+#features <- c('gRate','gRate_exp')
+
+maxLim <- 20
 minLim <- 0
-dataset$key  <- c('Dbr','Esi','Kla','Kmx','Kpa','Lfe','Lth','Nca','Seu','Spo','Tbl','Tph','Zro','Kdo')
+dataset$key  <- c('Dbr','Esi','Kla','Kmx','Ppa','Lfe','Lth','Ncs','Seu','Spo','Tbl','Tpf','Zro','Kdo')
 
 newData <- c()
 for (feat in features){
