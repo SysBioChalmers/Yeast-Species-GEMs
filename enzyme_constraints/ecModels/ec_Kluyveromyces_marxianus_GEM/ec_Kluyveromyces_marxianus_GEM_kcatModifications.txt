@@ -1,3 +1,3 @@
 Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
-W0T4F1,2907,5285,rattus norvegicus,1,SA*Mw,8.8e-05,385000,-57.073,40.2585
-W0TEE1,2884,5243,haloferax volcanii,1,SA*Mw,0.023001,18400,48.755,2.45679
+W0T4F1,2907,5285,rattus norvegicus,1,SA*Mw,8.8e-05,385000,-79.4113,46.2409
+W0TEE1,2884,5243,haloferax volcanii,1,SA*Mw,0.023001,18400,16.0044,4.60811
