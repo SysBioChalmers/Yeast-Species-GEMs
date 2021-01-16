@@ -23,6 +23,7 @@ Collection of scripts for generation of ecModels for diverse yeast species and a
 ### Dependencies - Recommended Software:
 * The libSBML MATLAB API (version [5.17.0](https://sourceforge.net/projects/sbml/files/libsbml/5.17.0/stable/MATLAB%20interface/) is recommended)
 * [Gurobi Optimizer](http://www.gurobi.com/registration/download-reg) for any simulation
+* A [git wrapper](https://github.com/manur/MATLAB-git) added to the search path.
 
 ## Regenerating the ecModels:
 The master script for generating the ecModels from the species-specific GEMs (provided in the `models/` subdirectory) is `code/update_ecModels.m`. Run this  script in MATLAB to regenerate the 14 ecModels. This pipeline generates:
