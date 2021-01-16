@@ -1,4 +1,4 @@
-function GAM = fitGAM(model)
+function GAM = fitGAM(model,dummy)
 % GAM = fitGAM(model)
 % Returns a fitted GAM for the yeast model.
 % 

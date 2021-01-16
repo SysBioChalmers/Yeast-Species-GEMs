@@ -14,7 +14,7 @@ Ctot     = bio_comp{strcmpi('carbohydrate',bio_comp.Type),2};
 Ltot     = bio_comp{strcmpi('lipid',bio_comp.Type),2};
 Rtot     = bio_comp{strcmpi('RNA',bio_comp.Type),2};
 Dtot     = bio_comp{strcmpi('DNA',bio_comp.Type),2};
-GAM      = bio_comp{strcmpi('GAM',bio_comp.Type),2};
+GAM      = bio_comp{strcmpi('GAM',bio_comp.Type),2}
 %Compute rescaling fractions:
 fP = Ptot/Pbase;
 fC = Ctot/Cbase;
@@ -32,7 +32,7 @@ model = rescalePseudoReaction(model,'DNA',fD);
 model = rescalePseudoReaction(model,'lipid chain',fL);
 x= sumBioMass(model);
 %Change GAM:
-xr_pos = strcmp(model.rxns,'biomass pseudoreaction');
+xr_pos = strcmp(model.rxnNames,'biomass pseudoreaction');
 for i = 1:length(model.mets)
     S_ix  = model.S(i,xr_pos);
     isGAM = sum(strcmp({'ATP','ADP','H2O','H+','phosphate'},model.metNames{i})) == 1;

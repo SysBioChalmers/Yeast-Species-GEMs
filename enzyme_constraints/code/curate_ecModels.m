@@ -7,11 +7,7 @@ current = pwd;
 %Clone GECKO repository
 git('clone https://github.com/SysBioChalmers/GECKO.git')
 cd GECKO
-git('pull')
-%Locate the correct branch
-%git('stash')
-git('checkout feat-add_utilities')
-clc
+%clc
 cd ..
 %load organism and model specific parameters
 fID         = fopen('../data/yeasts_parameters.txt');
@@ -21,6 +17,7 @@ fID      = fopen('../../Reconstruction_script/data/physiology/343_phenotype_clad
 phenData = textscan(fID,'%s %s %s','Delimiter','\t','HeaderLines',1);
 phenData = table(phenData{1},phenData{3},'VariableNames',{'name' 'phenotype'});
 phenData.name      = strrep(phenData.name,'"','');
+phenData.name      = strrep(phenData.name,'_',' ');
 phenData.phenotype = strrep(phenData.phenotype,'"','');
 biomass_phen       = readtable('../../Reconstruction_script/data/physiology/biomass_type.txt');
 %Retrieve ecModel names
@@ -38,12 +35,15 @@ for i=1:length(originalModels)
         disp(['***** ' modelFile])
         %get phenotype
         nameStr = strrep(modelFile,'_',' ');
-        phenotype = phenData.phenotype{strcmpi(phenData.name,nameStr)};
+        position = find(strcmpi(phenData.name,nameStr));
+        phenotype = phenData.phenotype{position};
         phenotype = strsplit(phenotype,',');
         %Load original model
         load(['../models/' file])
         %Load ecModel
         load(['../ecModels/' ecModelName '/' initModel '.mat'])
+        %Correct Kcats for identified bottlenecks
+        ecModel_batch = flexibilize_bottleNecks(ecModel_batch);
         %Transfer org specific parameters to GECKO
         transferParameters(yeastsParam,reducedModel,modelFile);
         cd ..
@@ -64,8 +64,6 @@ for i=1:length(originalModels)
         Ppool    = find(strcmpi(ecModel_batch.rxnNames,'prot_pool_exchange'));
         MetExc   = 0;
         MetGrate = 0;
-        %Introduce curation of problematic Kcats
-        %[ecModel_batch] = curateKcatValues(ecModel_batch);
         %Get exp miu_max
         load('GECKO/geckomat/parameters.mat')
         gRate = yeastParam.gR_exp;
@@ -95,7 +93,6 @@ for i=1:length(originalModels)
                 ecModel_batch.ub(obj) = (1+1.05*error)*yeastParam.gR_exp;
             case 3
                 [Opt_f,error] = sigmaFitter(ecModel_batch,Ptot,yeastParam.EtOH,0.5,EtOH);   
-                Opt_f
                 ecModel_batch.ub(end) = Ptot*Opt_f*0.5;
                 error = error/100;
                 ecModel_batch.lb(EtOH) = (1-1.05*error)*yeastParam.EtOH;
@@ -144,8 +141,8 @@ for i=1:length(originalModels)
             unconst_model.lb(EtOH) = 0;
             [lim_growth,~] = findTopLimitationsAll(unconst_model,[],obj,1.001);
             if ~isempty(lim_growth)
-                temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
-                writetable(temp,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
+                %temp           = table(lim_growth{1},lim_growth{2},lim_growth{3},lim_growth{4},lim_growth{5},lim_growth{6});
+                writetable(lim_growth,['../../../../results/gCC/' modelFile '_limGrowth.txt'],'Delimiter','\t','QuoteStrings',false)
             else 
                 disp('No limitations were found')
             end

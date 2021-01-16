@@ -1,2 +1,2 @@
 Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
-A0A0L8RPE2,2787,5313,rattus norvegicus,1,SA*Mw,8.8e-05,385000,103.413,95.3926
+A0A0L8RPE2,2893,5323,rattus norvegicus,1,SA*Mw,8.8e-05,385000,19.224,33.4081

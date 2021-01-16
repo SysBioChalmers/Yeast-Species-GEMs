@@ -1,7 +1,6 @@
 function newModel = getOxPhosGPRs(orgModel)
 oxPhos = {'r_1021' 'r_0439' 'r_0438' 'r_0226'};
 load('../../models/yeastGEM/Saccharomyces_cerevisiae.mat')
-model = ravenCobraWrapper(model);
 %Find oxphos rxns in both models
 for rxn=oxPhos
     org_Index = find(strcmpi(orgModel.rxns,rxn));
