@@ -41,12 +41,14 @@ model = setParam(temp,'ub',NGAMindex,NGAM);
 glc_MW = 0.180156;
 Et_MW  = 0.04607;
 %{'FBA' 'PGK' 'PYK' 'ATP3' 'ATP5'}
-factors = [0.1 0.2 0.3 0.4 0.5 0.75 1 1.25 1.5 1.75 2 5 10 100];
+%factors = [0.1 0.2 0.3 0.4 0.5 0.75 1 1.25 1.5 1.75 2 5 10 100];
+factors = [1 2 3 4 5 6 7 8 9 10];
 parameters = {'\mu_{max}' 'D_{crit}' 'EtOH yield' 'bio yield'};
 Kcat_FC = factors';
 
 close all
-for gene = {'FBA' 'PGK' 'PYK' 'ATP3' 'ATP5'}
+%for gene = {'FBA' 'PGK' 'PYK' 'ATP1' 'ATP3' 'ATP5'}
+for gene = {'PGK'}    
     miu_max  = [];
     D_crit   = [];
     Et_yield = [];
@@ -89,15 +91,15 @@ for gene = {'FBA' 'PGK' 'PYK' 'ATP3' 'ATP5'}
     eval([gene{1} '=table(Kcat_FC,miu_max,D_crit,Et_yield,bioYield);'])
     eval(['geneResults = table2array(' gene{1} ');'])
     for i=1:5
-        geneResults(:,i) = (geneResults(:,i))/geneResults(7,i);
+        geneResults(:,i) = (geneResults(:,i))/geneResults(1,i);
     end
     figure
     plot(geneResults(:,1),geneResults(:,2),geneResults(:,1),geneResults(:,3),...
          geneResults(:,1),geneResults(:,4),geneResults(:,1),geneResults(:,5),...
          'LineWidth',4)
-    xlim([0.1 10])
-    ylim([0.8 1.25])
-    set(gca,'XScale', 'log','FontSize',22)
+    xlim([1 10])
+    ylim([0.9 1.1])
+    %set(gca,'XScale', 'log','FontSize',22)
     %legend(parameters,'FontSize',18)
     title(gene{1},'FontSize',18)
     saveas(gcf,['../results/Crabtree_Kcat_sensitivity/crabtree_sensitivity_' gene{1} '.jpg'])

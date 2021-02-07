@@ -10,7 +10,7 @@ cd GECKO
 git('pull')
 %Locate the correct branch
 %git('stash')
-git('checkout feat-add_utilities')
+git('checkout devel')
 clc
 cd ..
 %load organism and model specific parameters

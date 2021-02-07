@@ -1,3 +1,4 @@
+
 function targetList=mapIDsViaMNXref(type,queryList,fromDB,toDB)
 % mapIDsViaMNXref
 %

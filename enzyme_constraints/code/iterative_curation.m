@@ -35,8 +35,8 @@ while ~stopCriteria & j<iterations & ~noLims
     [limKcat,noLims] = findTopLimitationsAll(temp,[],curIndx,factor,sorting);
     %Filter out results (negative or positive)
     if ~isempty(limKcat)
-        coefficients = limKcat{5};
-        limKcat = table(limKcat{1},limKcat{2},limKcat{3},limKcat{4},limKcat{5},limKcat{6});
+        coefficients = limKcat.ECC;
+        %limKcat = table(limKcat{1},limKcat{2},limKcat{3},limKcat{4},limKcat{5},limKcat{6});
         eval(comStr)
     end
     %Modify top-ranked Kcat

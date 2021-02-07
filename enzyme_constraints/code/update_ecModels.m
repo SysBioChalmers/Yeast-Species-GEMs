@@ -41,7 +41,11 @@ for i=1:length(fileNames)
         %Load model
         load(['../models/' file])
         %Convert to RAVEN format
-        model = ravenCobraWrapper(reducedModel);
+        if isfield(reducedModel,'rules')
+            model = ravenCobraWrapper(reducedModel);
+        else
+            model = reducedModel;
+        end
         %Get oxPhos GPRs from yeast GEM
         cd specific_scripts
         model = getOxPhosGPRs(model);

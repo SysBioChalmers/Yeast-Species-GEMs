@@ -38,10 +38,16 @@ model.lb(strcmp(model.rxns,'r_2189')) = -1000;    %oleate
 %Block oxaloacetate-malate shuttle (not present in anaerobic conditions)
 model.lb(strcmp(model.rxns,'r_0713')) = 0; %Mithocondria
 model.lb(strcmp(model.rxns,'r_0714')) = 0; %Cytoplasm
+model.lb(strcmp(model.rxns,'r_0713_rvs')) = 0; %Mithocondria
+model.lb(strcmp(model.rxns,'r_0714')) = 0; %Cytoplasm
+model.lb(strcmp(model.rxns,'r_0714_rvs')) = 0; %Cytoplasm
 %Block glycerol dehydroginase (only acts in microaerobic conditions)
 model.ub(strcmp(model.rxns,'r_0487')) = 0;
+model.ub(strcmp(model.rxns,'r_0487_rvs')) = 0;
 %Block 2-oxoglutarate + L-glutamine -> 2 L-glutamate (alternative pathway)
 model.ub(strcmp(model.rxns,'r_0472')) = 0;
+model.ub(strcmp(model.rxns,'r_0472_fwd')) = 0;
+
 
 end
 

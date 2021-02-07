@@ -18,13 +18,14 @@ for i=1:length(modelNames)
     if misspredicted(i)>0
         exp_gRate  = metrics.gRate(i);
         load(['../ecModels/' modelName '/ecModel_batch_modified.mat'])
-        gIndx = find(strcmpi(ecModel_batch.rxnNames,'biomass pseudoreaction'));
+        gIndx   = find(strcmpi(ecModel_batch.rxnNames,'biomass pseudoreaction'));
+        glcIndx = find(strcmpi(ecModel_batch.rxnNames,'D-glucose exchange (reversible)'));
         if misspredicted(i) ==1
             %Underpredictions
-            ecModel_batch = iterative_curation(ecModel_batch,exp_gRate,bioY_exp(i),false,10);
+            ecModel_batch = iterative_curation(ecModel_batch,exp_gRate,bioY_exp(i),false,glcIndx,gIndx,10,0.18);
         else
             %Overpredictions
-        	ecModel_batch = iterative_curation(ecModel_batch,exp_gRate,bioY_exp(i),true,10);
+        	ecModel_batch = iterative_curation(ecModel_batch,exp_gRate,bioY_exp(i),true,glcIndx,gIndx,10,0.18);
         end
         ecModel_batch = setParam(ecModel_batch,'lb',gIndx,0);
         ecModel_batch = setParam(ecModel_batch,'obj',gIndx,1);

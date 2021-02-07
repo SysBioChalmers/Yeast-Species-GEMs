@@ -1,9 +1,10 @@
-Model	Species	Genes	Rxns	Mets	link
-iYali4	Yarrowia_lipolytica	847	1924	1671	https://doi.org/10.1038/npjsba.2016.5
-iTL885	Scheffersomyces_stipitis	886	1240	870	https://doi.org/10.1186/1754-6834-5-72
-SpoMBEL1693	Schizosaccharomyces_pombe	605	1693	1546	https://doi.org/10.1186/1752-0509-6-49
-iNX804	Candida_glabrata	804	1287	1426	https://doi.org/10.1039/C2MB25311A
-iCT646	Candida_tropicalis	646	1422	1120	https://doi.org/10.1002/bit.25955
-iMT1026.v3	Komagataella_pastoris	1026	2237	1706	https://www.ncbi.nlm.nih.gov/pubmed/29160039
-iOD907	Kluyveromyces_lactis	893	2338	2180	https://doi.org/10.1002/biot.201300242
-iSM996	Kluyveromyces_marxianus	996	1913	1531	https://doi.org/10.1186/s12859-019-3134-5
+Model	Species	Genes	Rxns	Mets	essential_accuracy	link
+iYali4	Yarrowia_lipolytica	847	1924	1671	0.8071	https://doi.org/10.1038/npjsba.2016.5
+iTL885	Scheffersomyces_stipitis	886	1240	870	NAN	https://doi.org/10.1186/1754-6834-5-72
+SpoMBEL1693	Schizosaccharomyces_pombe	605	1693	1546	0.826	https://doi.org/10.1186/1752-0509-6-49
+iNX804	Candida_glabrata	804	1287	1426	NAN	https://doi.org/10.1039/C2MB25311A
+iCT646	Candida_tropicalis	646	1422	1120	NAN	https://doi.org/10.1002/bit.25955
+iMT1026.v3	Komagataella_pastoris	1026	2237	1706	0.77	https://www.ncbi.nlm.nih.gov/pubmed/29160039
+iOD907	Kluyveromyces_lactis	893	2338	2180	NAN	https://doi.org/10.1002/biot.201300242
+iSM996	Kluyveromyces_marxianus	996	1913	1531	NAN	https://doi.org/10.1186/s12859-019-3134-5
+Yeast8.3.0	Saccharomyces_cerevisiae	1147	3989	2693	0.8935	https://doi.org/10.1186/s12859-019-3134-5
