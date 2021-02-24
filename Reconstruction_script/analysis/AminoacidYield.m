@@ -28,7 +28,7 @@ mets = {'L-alanine [extracellular]';'L-arginine [extracellular]';'L-asparagine [
     'L-histidine [extracellular]';'L-isoleucine [extracellular]';'L-leucine [extracellular]';'L-lysine [extracellular]';...
     'L-methionine [extracellular]';'L-phenylalanine [extracellular]';'L-proline [extracellular]';'L-serine [extracellular]';...
     'L-threonine [extracellular]';'L-tryptophan [extracellular]';'L-tyrosine [extracellular]';'L-valine [extracellular]'};
-legend = {'L-ala';'L-arg';'L-asp';'L-asp';'L-cys';'L-glu';'L-glu';'L-gly';'L-his';'L-iso';'L-leu';'L-lys';'L-met';'L-phe';'L-pro';'L-ser';'L-thr';'L-try';'L-tyr';'L-val'};
+legend = {'L-ala';'L-arg';'L-asn';'L-asp';'L-cys';'L-gln';'L-glu';'L-gly';'L-his';'L-iso';'L-leu';'L-lys';'L-met';'L-phe';'L-pro';'L-ser';'L-thr';'L-trp';'L-tyr';'L-val'};
 
 [~,idx] = ismember(mets_test,model_original.mets);
 metname = model_original.metNames(idx);

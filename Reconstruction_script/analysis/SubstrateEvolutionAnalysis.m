@@ -386,7 +386,7 @@ ylabel('General list','FontSize',12,'FontName','Helvetica');
 %% write table out for R plot
 table_cor = table(clade_av',gain',loss',HGT_count',exp_sub_count,general_OG_count');
 table_cor.Properties.VariableNames = {'No.traits' 'Gain' 'Loss' 'Substrate HGT','Gene expansion','General list'};
-writetable(table_cor,'table.txt')
+writetable(table_cor,'Evolution_event_table.txt')
  %% Fig1d for HGT/gene_expansion/Generalist in metabolic gain
 for i = 1:length(strains_sortclade)
      gain_idx = split(gain_result(1,i),';');

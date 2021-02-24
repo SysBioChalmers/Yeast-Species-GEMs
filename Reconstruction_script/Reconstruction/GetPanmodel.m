@@ -250,7 +250,7 @@ mappingID.panIDs = mapping{2};
 fclose(fID);
 
 %load presenceAvsence data
-RecName = '../data/343_gene_pa_table.csv'; % setting file name
+RecName = '../modelRelated/343_gene_pa_table.csv'; % setting file name
 RecStore = datastore(RecName,'ReadVariableNames',true); % set whether should we read variables name
 RecStore.Delimiter = ',';
 

@@ -15,6 +15,7 @@ strainlist = Strain_information(:,1);
 %% ura1 gene transfer
 current_path = pwd;
 ura = zeros(343,3);
+%ura('original','both','gene transfer')
 for i = 1:343
     cd(inputpath)
     load([strainlist{i},'.mat']);
@@ -38,7 +39,7 @@ clades = {'Ascomycota';'Lipomycetaceae';'Trigonopsidaceae';'Dipodascaceae/Tricho
 
 for i = 1:length(clades)
 idx = ismember(Strain_information(:,2),clades(i));
-result(i,:)= sum(ura(idx,:),1)./length(find(idx));
+result(i,:)= sum(ura(idx,:),1);
 end
 color_set = [69,117,180
              252,141,89

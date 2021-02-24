@@ -1,6 +1,6 @@
 UpdateGPRrules
 cd otherchanges/
-[a,b,result] = xlsread('/Users/feiranl/Documents/Python/blast/NewGeneMining/mappedresult3/allresult2.xlsx');
+[a,b,result] = xlsread('../data/geneMining/complexI_result.xlsx');
 % load old mapping data  geneID with panID
  load('../strainData.mat')
  strains = StrianData.strains;

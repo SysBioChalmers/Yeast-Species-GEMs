@@ -188,7 +188,7 @@ for k = 1:length(strainlist)
 
     reducedModel = model;
     end
-    cd(inputpath)
+    cd(outputpath)
     save([strainlist{k},'.mat'],'reducedModel')
     cd(current_path)
 

@@ -177,7 +177,7 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [inviableORFs,verifiedORFs] = loaddata(strain)
-cd ../data/physiology/EssentialGene_exp/
+cd ../data/physiology/EssentialGene/
 % load essential data
 fileName = [strain,'.csv'];
 fID       = fopen(fileName);
