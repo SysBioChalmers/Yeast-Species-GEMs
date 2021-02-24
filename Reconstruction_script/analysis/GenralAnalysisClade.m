@@ -1,8 +1,6 @@
-% This function is to generate figure 1 for analysis of models on species number, reaction number, accessory reaction
+% Figure 2a: This function is to generate figure 1 for analysis of models on species number, reaction number, accessory reaction
 % number, substrate usage number and biomass yield based on clades
-
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat/';
-
+currentpath = pwd;
 % Figure 1
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
@@ -22,7 +20,7 @@ for i = 1:length(clades)
     clade_species(i) = length(find(idx)); % species number in each clade
 end
 
-%% figure 1a for species based on clade
+%% for species based on clade
 subplot(1,6,1)
 h = bar(clade_species,'LineWidth',1);
 h.FaceColor = [56,108,176]/255;
@@ -33,9 +31,8 @@ ylabel('No. species','FontSize',10,'FontName','Helvetica','Color','k');
 set(gca,'xtick',[])
 camroll(-90)
 
-%% figure 1b for reaction number based on clade
+%%  for reaction number based on clade
 cd ../Reconstruction/otherchanges
-current_path =pwd;
 strains_sortclade = [];
 for i = 1:length(clades)
     idx = ismember(Strain_information(:,2),clades(i));
@@ -43,6 +40,8 @@ for i = 1:length(clades)
     strains_sortclade = [strains_sortclade;Strain_information(idx~=0,1)];
 end
 
+load('../modelRelated/panModel.mat');
+inputpath = '../modelRelated/ssGEMs';
 [~,rxnMatrix,~,~,~] = getprecursorMatrixCobra(model_original,strains_sortclade,inputpath,[],0);
 rxn_count = sum(rxnMatrix,2);
 
@@ -54,7 +53,7 @@ set(gca,'xtick',[])
 ylabel('No. reactions','FontSize',10,'FontName','Helvetica','Color','k');
 camroll(-90)
 
-%% figure 1c for access reactions based on clade
+%%  for access reactions based on clade
 rxn_accessory = rxnMatrix;
 rxn_accessory(:,sum(rxn_accessory,1)> 343*0.95)=[];
 acce_rxn_count = sum(rxn_accessory,2);
@@ -65,7 +64,7 @@ set(gca,'xtick',[])
 ylabel('No. accessory reactions','FontSize',10,'FontName','Helvetica','Color','k');
 camroll(-90)
 
-%% figure 1d for genes based on clade
+%%  for genes based on clade
 for i = 1:length(strains_sortclade)
     cd(inputpath)
     load([strains_sortclade{i},'.mat']);
@@ -81,7 +80,7 @@ ylim([500,2000])
 ylabel('No. genes','FontSize',10,'FontName','Helvetica','Color','k');
 camroll(-90)
 
-%% figure 1e
+%% figure for number of substrates that can be ultilized 
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
 format = repmat('%s ',1,333);
 format = strtrim(format);
@@ -124,7 +123,7 @@ set(gca,'xticklabel',[])
 camroll(-90)
 
 % figure 1f for substrate prediction based on clade
-load('FBAresult12_mannitol_Nacetylglc_trans.mat')
+%figure is plotted in substrateanalysis
 
 %% figure 1f for biomass yield
 for i = 1:length(strains_sortclade)
@@ -143,3 +142,4 @@ set(gca,'FontSize',10,'XTickLabelRotation',90)
 set(gca,'xtick',[])
 set(gca,'xticklabel',[])
 camroll(-90)
+cd(currentpath)

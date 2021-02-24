@@ -1,10 +1,11 @@
-function = sortTransGapseq(strains,inputpath,mets)
+function [transall,transselected] = sortTransGapseq(strains,inputpath,mets)
 % This function is to sort transport annotation from gapseq for 332 yeast
-% species
-%inputpath = '/Users/feiranl/Documents/GitHub/gapseq/gapseqresult';
-% load('StrainData.mat');
+% species; we would like to find whether transporters existing for those
+% inputted mets
+% inputpath = '../Reconstruction/gapseqresult'; % downloaded from figshare 
+% load('../Reconstruction/modelRelated/StrainData.mat');
 % strains = StrianData.strains;
-% [~,~,index] = xlsread('/Users/feiranl/Documents/Yeast-Species-GEMs/Reconstruction_script/data/substrateUsageGene_35.xlsx','index');
+% [~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
 % mets = strrep(index(endsWith(index(:,1),'_exp')),'_exp','')
 file = dir(inputpath);
 file = {file.name};
@@ -27,7 +28,7 @@ for i = 1:length(file)
     
     % transfer id into the strain@seq ID
     [~,idx_strain] = ismember(lower(strain),lower(strains));
-    fileName    = ['../../../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{idx_strain},'.tsv'];
+    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{idx_strain},'.tsv'];
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);
@@ -53,8 +54,6 @@ end
 mets = mets(~cellfun(@isempty,mets(:,2)),:);
 [~,idx] = ismember(transall(:,3),mets(:,2));
 transselected = transall(idx~=0,:);
-
-
 
 % based on clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
@@ -102,4 +101,4 @@ set(gca,'FontSize',10,'XTickLabelRotation',90)
 set(gca,'xtick',[])
 set(gca,'xticklabel',[])
 camroll(-90)
-
+end

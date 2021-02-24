@@ -11,9 +11,9 @@
 % Feiran Li     2019-12-12 -Modify that to fit the Strain specific models;
 % change that into a function
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-load('../ModelFiles/model_original_new.mat')
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+currentpath = pwd;
+load('../Reconstruction/modelRelated/panModel.mat');
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
 % Load data:
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
 format = repmat('%s ',1,333);
@@ -200,7 +200,7 @@ data = strrep(data,'n','nan');
 data = strrep(data,'v','1');
 data = cellfun(@str2num, data, 'UniformOutput', false);
 
-%% FigureS7c plot the difference
+%% plot the difference  
 for i = 1:length(strainlist)
     nocheck = isnan(FBAresult(:,i));
     tp(i) = length(FBAresult(abs(FBAresult(:,i))>0 & cell2mat(data(:,i)) > 0));
@@ -217,7 +217,7 @@ set(gca,'FontSize',20,'FontName','Helvetica');
 ylabel('Percentage','FontSize',24,'FontName','Helvetica','Color','k');
 xlabel('Substrate prediction accuracy','FontSize',24,'FontName','Helvetica','Color','k');
 
-%% Figure S7d based on clade
+%% Figure 2a substrate prediction based on clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
 tmp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
@@ -266,3 +266,4 @@ set(gca,'FontSize',12,'FontName','Helvetica');
 ylabel('Accuracy','FontSize',20,'FontName','Helvetica','Color','k');
 xlabel('Substrate','FontSize',20,'FontName','Helvetica','Color','k');
 
+cd(currentpath)

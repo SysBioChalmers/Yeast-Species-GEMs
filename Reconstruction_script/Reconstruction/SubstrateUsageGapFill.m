@@ -1,10 +1,12 @@
 function [model_original] = SubstrateUsageGapFill(model_original,strains,inputpath)
 % This function is to fill the gaps for the substrateUsage
-%inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+%inputpath = '../modelRelated/ssGEMs';
+% model_original sexists in the ../modelRelated/panModel.mat
+% strains = StrianData.strains StrianData exists in ../modelRelated/StrianData.mat
 fid2 = fopen('../data/gapfill/substrate_usage_rxn.tsv');
 format = repmat('%s ',1,4);
 format = strtrim(format);
-temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',0);
+temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
 for i = 1:length(temp)
     rxnlist(:,i) = temp{i};
 end
@@ -82,7 +84,7 @@ model_original.metFormulas(idx(idx~=0)) = formulas(idx~=0);
 
 % add those rxns for each strain
 current_path = pwd;
-for i = 2:length(rxnlist(1:end,1))
+for i = 1:length(rxnlist(1:end,1))
     strainslist = rxnlist(i,3);
     strainslist = split(strainslist,',');
     strainslist = strrep(strainslist,' ','');

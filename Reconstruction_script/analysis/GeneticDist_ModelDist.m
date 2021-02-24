@@ -1,4 +1,5 @@
-% This function is to generate the figure 1e
+% This function is to analyze the genetic distance with the substrate
+% ultilization distance, result is not inclulded in the paper figure
 
 % load group information
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');

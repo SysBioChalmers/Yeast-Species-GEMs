@@ -1,7 +1,13 @@
 function [accurancy,sensitivity,specificity,mcc] = EssentialGeneanalysis(strains,inputpath)
-% This function is to perform essential analysis and plot the figure
-
+% Figure 3e right down consistence score figure
 % essential data is loaded from the data filefolder
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% IMPORTANT: download the figshare file for the essentail gene predicted
+% from machine learning https://figshare.com/articles/dataset/Expansion_of_metabolic_networks_combined_with_accelerated_protein_evolution_has_enabled_new_cellular_traits_within_the_yeast_subphylum/13317482?file=25659839
+% save that to the folder  ../data/physiology/ and rename that folder as EssentialGene_ML
+% This function is to perform essential analysis and plot the figure
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 % essentialGenes
 %   Modify media + find essential genes in model. Adapted from:
@@ -16,7 +22,13 @@ function [accurancy,sensitivity,specificity,mcc] = EssentialGeneanalysis(strains
 %
 %   Feiran Li, 2019-09-25
 %   Feiran Li, 2020-04-08
-%
+%   strains can be found in the downloaded figshare file from the supp:
+%   modelRelated folder
+%   load('strianData.mat') strains = StrianData.strains;
+%   inputpath is also in the folder modelRelated/ssGEMs
+%   Example : inputpath = '../Reconstruction/modelRelated/ssGEMs';
+%             load('../Reconstruction/modelRelated/StrainData.mat');
+%             strains = StrianData.strains;
 
 %initCobraToolbox
 
@@ -86,7 +98,7 @@ fn = intersect(exp_viable,mod_inviable); n_fn = length(fn);
 %compare the prediction performances of two models
 %prediction accuracy was used to evaluate the quality of model update in
 %each step
-accurancy(i) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp)
+accurancy(i) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
 sensitivity(i) = (n_tp/(n_tp+n_fn));
 specificity(i) = (n_tn/(n_tn+n_fp));
 positivePredictive(i) = (n_tp/(n_tp+n_fp));
@@ -105,8 +117,14 @@ end
 
 % plot the figure
 P = [accurancy;specificity;sensitivity;mcc;n_tps;n_tns;n_fps;n_fns];
-writematrix(P,'accuracyrestlt.txt')
-save('result_newcomplex.mat')
+writematrix(P,'accuracyresult.txt')
+save('essential_accuracyresult.mat')
+
+histogram(accurancy)
+xlabel('Consistence score','FontSize',8,'FontName','Helvetica','Color','k');
+ylabel('Density','FontSize',8,'FontName','Helvetica','Color','k');
+% the figure in the paper is ploted in R using the density
+% plot function which reads the accuracyresult.txt
 
 function model = complete_Y7(model)
     % change Y7 model medium to the Kennedy synthetic complete medium

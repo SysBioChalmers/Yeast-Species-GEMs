@@ -7,11 +7,14 @@ function [model_original] = SpecificModelfillGaps(model_original,strains,inputpa
 % step 3: fix alternative pwys gap
 % step 4: fix oxidative repiration chain adding those reactions back if not
 % step 5: automatic gap-filling appraoch
-% total input: panmodel in raven format
-%              StrainData.strains;
-%              model_original in cobra format
+% total input: download modelRelated from figshare
+%              StrainData.strains;  '../modelRelated/StrainData.mat'
+%              model_original in cobra format  '../modelRelated/panModel.mat'
+%              inputpath is the model path '../modelRelated/ssGEMs'
 
 % ranMatrix
+% should contains a filrfolder for modelRelated 
+mkdir('../modelRelated') % if not create one
 %% Step 1 analyse whic biomass precursors that cannot be produced (input: panmodel in cobra format; StrainData.strains;)
 %panmodel = ravenCobraWrapper(model_original); %change to raven format
 
@@ -199,7 +202,6 @@ rxns_query(:,3) = {'R02021','R04426'};
 newrxns = [newrxns;newrxns_added];
 clearvars  rxns_query precursors met
 
-
 % fix H2O diffusion    
 [~,rxnMatrix,~,~] = getprecursorMatrixCobra(model_original,strains,inputpath,[],1);
 [~,idx] = ismember('r_1277',model_original.rxns);
@@ -239,7 +241,7 @@ newrxns = [newrxns;newrxns_added];
 cd(current_path)
 rxn_added_pathway{1} = newrxns;
 rxn_added_pathway{2} = newtstepcheck;
-save(['rxn_added_pathway',strains{1},'.mat'],'rxn_added_pathway')
+save(['../modelRelated/rxn_added_pathway',strains{1},'.mat'],'rxn_added_pathway')
 clearvars   rxn_added_pathway
 %% step 3 fix alternative pwys gap
 % load new rxn and new metabolites and generate three tsv files for next step: adding new rxns and mets into the model
@@ -317,7 +319,7 @@ newrxns = [newrxns;newrxns_added];
 % exist
 [newrxns_added] = RespiratoryChain(model_original,strains,inputpath);
 newrxns = [newrxns;newrxns_added];
-save(['newrxns_alternativapwy',strains{1},'.mat'],'newrxns')
+save(['../modelRelated/newrxns_alternativapwy',strains{1},'.mat'],'newrxns')
 
 %% step 5 Auto-gap-filling rxns
 [proMarix,rxnMatrix,mets_test] = getprecursorMatrixCobra(model_original,strains,inputpath);
@@ -354,7 +356,7 @@ for i = 1:length(strains)
     end
 end
 cd(current_path)
-save(['newrxns_auotgap',strains{1},'.mat'],'newrxns_added')
+save(['../modelRelated/newrxns_auotgap',strains{1},'.mat'],'newrxns_added')
 
 % add those reactions back to the model
 strains_specific = unique(newrxns_added(:,2));

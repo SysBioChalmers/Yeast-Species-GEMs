@@ -1,13 +1,19 @@
-UpdateGPRrules
+% updateGPRforComplexI
 cd otherchanges/
-[a,b,result] = xlsread('../data/geneMining/complexI_result.xlsx');
+current_path = pwd;
+fid2 = fopen('../../data/geneMining/complexI_result.tsv'); % data is generated from geneMining
+format = '%s %s';
+data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+result(:,1) = data{1};
+result(:,2) = data{1};
+
 % load old mapping data  geneID with panID
- load('../strainData.mat')
+ load('../modelRelated/strainData.mat')
  strains = StrianData.strains;
- % result: mrnaID KO speciesgeneID panID species rxn sub oldGPR
+ % result: mrnaID KO_species speciesgeneID panID species rxn sub oldGPR at the end
 
 for i = 1:length(strains)    
-    fileName    = ['../../../../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
+    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv']; % this repo is cloned in the building step Multi_scale_evolution, if not exist, then go to clone again to the folder Reconstruction
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);
@@ -43,6 +49,7 @@ end
 strains_withcomplexI = strains(count>=5);
 
 % update panmodel
+inputpath = '../modelRelated/ssGEMs';
 for i = 1:length(strains_withcomplexI)
 cd(inputpath)
 load([strains_withcomplexI{i},'.mat']);
@@ -55,9 +62,11 @@ reducedModel = addrxnBack(reducedModel,model_original,{'r_5195'},newGPR);
 reducedModel.proteins(idx2) = result(idx,4);
 grRules = standardizeGrRules(reducedModel);
 reducedModel.grRules = grRules;
-cd(outputpath)
+cd(inputpath)
 save([strains_withcomplexI{i},'.mat'],'reducedModel')
 end
+cd(current_path)
+cd ../
 
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function a = sortGPR(b)

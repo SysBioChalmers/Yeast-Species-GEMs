@@ -1,9 +1,9 @@
-% This function is to generate  the figure of amino acid yield and ATP yield of different
+% This function is to generate the figure 2c and of amino acid yield and figure S2d ATP yield of different
 % species.
-
+currentpath = pwd;
 %load panmodel
-load('../ModelFiles/model_original.mat')
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+load('../Reconstruction/modelRelated/panModel.mat')
+
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
 data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
@@ -14,6 +14,7 @@ fclose(fid2);
 strains = Strain_information(:,1);
 
 cd ../Reconstruction/otherchanges/
+inputpath = '../modelRelated/ssGEMs';
 [~,~,mets_test,~,solresult] = getprecursorMatrixCobra(model_original,strains,inputpath);
 yield_precursor = zeros(length(solresult(1,:)),2);
 % calculate the range of yield for each precursors
@@ -40,6 +41,7 @@ metname = model_original.metNames(idx);
 yield_aa = yield_precursor(idx,:);
 
 % plot
+% this function is downloaded from https://se.mathworks.com/matlabcentral/fileexchange/59561-spider_plot
 spider_plot_R2019b(yield_aa',...
     'AxesInterval', 4,...
     'AxesDisplay', 'one',...
@@ -52,7 +54,7 @@ spider_plot_R2019b(yield_aa',...
     'AxesFontSize', 14,...
     'AxesLabels', legend',...
     'LabelFontSize', 14);
-
+cd(currentpath)
 %% find the ATP production by clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
@@ -63,8 +65,9 @@ end
 fclose(fid2);
 strainlist = Strain_information(:,1);
 solresult = zeros(length(strainlist),1);
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
+cd(inputpath)
 for i = 1:length(strainlist)
-    cd(inputpath)
     load([strainlist{i},'.mat']);
     model = reducedModel;
     model= setParam(model,'ub',{'r_4046'},1000);
@@ -88,3 +91,4 @@ set(gca,'FontSize',10,'XTickLabelRotation',90)
 ylabel('ATP yielf on glucose','FontSize',10,'FontName','Helvetica','Color','k');
 set(gcf,'position',[200 0 350 300]);
 set(gca,'position',[0.11 0.31 0.77 0.65]);
+cd(currentpath)

@@ -1,8 +1,8 @@
-%% Substrate evolution analysis
+%% Figure 5 Substrate evolution analysis
 %% load data
 current_path = pwd;
 
-load('../ModelFiles/model_original_new.mat')
+load('../Reconstruction/modelRelated/panModel.mat');
 % based on clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
@@ -34,7 +34,7 @@ data = strrep(data,'n','nan');
 data = strrep(data,'v','1');
 data = cellfun(@str2num, data, 'UniformOutput', false);
 
-load('../Reconstruction/otherchanges/FBAresultnew2.mat')
+load('../Reconstruction/modelRelated/FBAresult.mat')% generated from SubstrateUsageTest.m
 FBAresult(abs(FBAresult)>0) = 1;
 data(isnan(cell2mat(data))) = num2cell(FBAresult(isnan(cell2mat(data))));
 clear fid2 Subtype SubCondition format temp substrate FBAresult;
@@ -71,8 +71,7 @@ cdfplot(cell2mat(OG_rxn_count(:,2)))
 ylabel('Percentage','FontSize',10,'FontName','Helvetica','Color','k');
 xlabel('OG linked rxn number','FontSize',10,'FontName','Helvetica','Color','k');
 
-%[~,~,index] = xlsread('../data/substrateUsageGene.xlsx','index');
-[~,~,index] = xlsread('../data/substrateUsageGene_35.xlsx','index');
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
 rxn = index(startsWith(index(:,1),'r_'),1);
 rxn_tmp = join(rxn,';');
 rxn_tmp = split(rxn_tmp,';');
@@ -82,7 +81,7 @@ OG_all = model_original.genes(find(sum(model_original.rxnGeneMat(idx,:),1)));
 OG_all_general = OG_all(find(cell2mat(OG_rxn_count(idx,2))>1));
 clear i newrxngenemat idx newmatrix_unique b newmatrix metname_nocomp_unique metname_nocomp idx
 
-%% Fig2a substrate usage in each clade/ metabolic innovation /loss
+%% Figure 5a substrate usage in each clade/ metabolic innovation /loss
 k = 0;
 trait_total = {};
 trait = {};
@@ -324,7 +323,7 @@ for i = 1:length(strains_sortclade)
     model = reducedModel;
     general_OG_count(i) = length(intersect(model.proteins,OG_all_general));
 end
-%% Fig1a
+%% Fig5a
 subplot(1,6,1)
 
 %f1 = scatter(x_total,clade_av,15,'filled','k');f1.MarkerFaceAlpha = 0.4;
@@ -403,7 +402,6 @@ for i = 1:length(strains_sortclade)
 end
 ylables = {'HGT','GE','GL','NO REASON'};
 
-
 % second figure
 for i = 1:length(clades)
     idx = ismember(group,i);
@@ -413,7 +411,7 @@ for i = 1:length(clades)
     contribution_clade(i,4) = sum(contribution(idx,4),1);
 end
 
-% Fig 1d
+% Fig 5d Ratio of Evolution events cocurring with subtrate gain
 h1 = bar(sum(contribution_clade,1)/sum(contribution_clade(:)),'FaceColor',[255,127,0]/255,'FaceAlpha',0.3,'EdgeColor',[255,127,0]/255,'LineWidth',1);
 set(gca,'XTick',1:1:4);
 set(gca,'XTickLabel',{'HGT','Gene expansion','Generalist','Others'});
@@ -478,7 +476,7 @@ end
 % ylim([200,250])
 % ylabel('All HGTs in each clade','FontSize',12,'FontName','Helvetica');
 
-%% Fig2b ALL ORIGIN OF hgt
+%% Fig5c ALL ORIGIN OF hgt && Fig 5b for HGT classfication
 temp = sum(origin_HGT,1);
 [R C]=sort(temp,'descend');
 lable = [origin(C(1:5));'Others'];
@@ -552,9 +550,9 @@ cd(currennt_path)
 %% substrate loss
 % define the metabolic loss as critical enzyme loss
 %result_table = SubstrateUsageGene_Table;% or load directly
-[~,~,result_table] = xlsread('../data/substrateUsageGene_35.xlsx','RESULTTABLE');
+[~,~,result_table] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','RESULTTABLE');
 result_table = result_table(10:end,2:end);
-[~,~,index] = xlsread('../data/substrateUsageGene_35.xlsx','index');
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
 [~,idx] = ismember(strains_sortclade,strainlist);
 result_table = result_table(idx,:);
 rxnexistence = result_table(:,startsWith(index(:,1),'r_'));
@@ -688,7 +686,7 @@ sum(cellfun(@any,num2cell(generalist)),2)
 set(gca,'FontSize',10,'XTickLabelRotation',90)
 ylabel('general list','FontSize',12,'FontName','Helvetica','Color','k');
 
-% Fig 2e generate a figure of Loss
+% Fig 5e generate a figure of Loss
  for i = 1:length(strains_sortclade)
      loss_idx = split(loss_result(1,i),';');
      loss_idx = replace(loss_idx,SubBiologName(8:end),SubModelName(8:end));
@@ -710,16 +708,16 @@ h1 = bar(sum(contribution,1)/sum(contribution(:)),'FaceColor',[49,163,84]/255,'F
 set(gca,'XTick',1:1:4);
 set(gca,'XTickLabel',{'Highly-correlated rxn','Non-highly correlated rxn','Downstream pathway','Others'});
 set(gca,'FontSize',10,'FontName','Helvetica');
-ylabel('No. subtrate loss','FontSize',12,'FontName','Helvetica','Color','k');
+ylabel('Ratio of Evolution events cocurring with subtrate gain','FontSize',12,'FontName','Helvetica','Color','k');
 xtickangle(0);
 set(gca,'FontSize',10,'FontName','Helvetica');
 
 clearvars general_idx dp_idx loss_idx no_critical_idx critical_idx temp rxnexistence result norxn_idx nocritical_noloss no_critical_noloss no_critical_loss loss_temp j k
 clearvars reducedModel nocriticalrxn_idx m idx ID id i h h1 genes_temp genes sub_exp temp_no trait trait_1 trait_tmp trait_total format fid2 existence
-%% Fig 2c critical enzyme
+%% Fig 5f substrates with highly correated rxn
 critical_idx = find(cell2mat(index(:,3)) > 0.83 & cell2mat(index(:,4)) > 0.92); % based on the creteria of galactose
 % get trait
-[~,~,index] = xlsread('../data/substrateUsageGene_35.xlsx','index');
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
 rxn = index(startsWith(index(:,1),'r_'),1);
 for i = 1:length(index(:,1))
     if endsWith(index{i,1},'_exp')
@@ -738,8 +736,8 @@ xticklabels({'Highly-correlated rxn','Non-highly correlated rxn'})
 ylabel('No. substrates','FontSize',12,'FontName','Helvetica','Color','k');
 xtickangle(0);
 
-%% Fig2f false positives
-[~,~,index] = xlsread('../data/substrateUsageGene_35.xlsx','index');
+%% Fig S2c false positives
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
 [~,idx] = ismember(strains_sortclade,strainlist);
 result_table = result_table(idx,:); % sort the result table based on the strains_sortclade
 rxnexistence = result_table(:,startsWith(index(:,1),'r_'));
@@ -794,3 +792,4 @@ h = bar([sum(count_nomatch_generalist),sum(count_nomatch_nogeneralist)]/(sum(cou
 ylabel('No. false positive','FontSize',10,'FontName','Helvetica','Color','k');
 set(gca,'FontSize',10,'XTickLabelRotation',90)
 xticklabels({'Generalist','Others'})
+cd(current_path)

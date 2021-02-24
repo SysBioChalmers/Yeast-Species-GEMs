@@ -1,12 +1,16 @@
 % This function is the main function for generating panmodel and specific
-% models
-%% Preparation
-addpath(genpath('/Users/feiranl/Documents/GitHub/RAVEN'))
-addpath(genpath('/Users/feiranl/Documents/GitHub/cobratoolbox'))
-addpath(genpath('/Users/feiranl/Documents/GitHub/MATLAB-git'))
-addpath(genpath('/Users/feiranl/Library/gurobi901/mac64/matlab/'))
+% models split into 4 steps: 1. change model gene all to representative
+%                               gene IDs
+%                            2. model expansion by addding nexw rxns from
+%                               draft models annotation
+%                            3. model expansion by adding new orthologs
+%                            4. model curation by adding missing
+%                               annotations and correct some errors introduced
+%                               automatically last two steps.
+%                            5. generate spsecific model
 
-initCobraToolbox
+% make folder to store all mat files required later
+mkdir('../modelRelated')
 git('clone https://github.com/SysBioChalmers/yeast-GEM.git')
 
 %Load yeast model:
@@ -64,7 +68,7 @@ for i = 1:length(para(:,1))
     ortholog(idx,1) = para(i,2); %replace the ortholog with panID
 end
 fclose(fid);
-save('ortholog_changedtoPanID.mat','ortholog');
+save('../modelRelated/ortholog_changedtoPanID.mat','ortholog');
 
 clearvars -except model ortholog geneID_core panID_final
 %% Panmodel expansion
@@ -231,7 +235,7 @@ model = AddMissingOrthologsInYeastGEM(model,mapping);
 cd ../
 
 %% load matrix information and Generate the specific models
-load('ortholog_changedtoPanID.mat') % load all orthologs which will be added back to the specific models
+load('../modelRelated/ortholog_changedtoPanID.mat') % load all orthologs which will be added back to the specific models
 Genes_Query = [model.genes;ortholog(:,1);ortholog(:,2)];
 Genes_Query = unique(Genes_Query);
 
@@ -288,6 +292,9 @@ RecStore.SelectedVariableNames = RecStore.VariableNames(1);
 genesMatrix = readall(RecStore);% read the strain name
 StrianData.strains = table2cell(genesMatrix(:,1));
 panmodel = model;
+model_original = panmodel;
+save('../modelRelated/PanModel.mat','model_original');
+save('../modelRelated/StrianData.mat','StrianData');
 
 clearvars -except model ortholog StrianData panmodel
 
@@ -304,5 +311,5 @@ for i = 1:length(StrianData.strains)
     if ~isempty(ortholog_strian)
     model_temp = UpdatePanGPR(ortholog_strian,model);
     end
-    [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i),'../../ModelFiles/mat');
+    [reducedModel,resultfile] = SpecificModel(model_temp,StrianData,StrianData.strains(i),'../modelRelated/ssGEMs');
 end

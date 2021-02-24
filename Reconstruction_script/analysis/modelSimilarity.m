@@ -1,7 +1,7 @@
-% this function is to get the model similarity analysis for all models we
+% Figure 2d this function is to get the model similarity analysis for all models we
 % generated
 
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+inputpath = '../modelRelated/ssGEMs';
 current_path = pwd;
 % load group information
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
@@ -45,6 +45,6 @@ for i = 1:length(strains_sortclade)
     reducedModel.id = m;
     models{i} = reducedModel;
 end
-% compare and generate figure
+% compare and generate figure using the function from raven
 compStruct = compareMultipleModels(models,true,true,group_clade);
 cd(current_path)

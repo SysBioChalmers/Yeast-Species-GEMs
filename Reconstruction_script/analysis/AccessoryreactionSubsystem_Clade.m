@@ -1,7 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Figure 1e clade specific reactions & plot the wind rose figure according
+% Figure S2d clade specific reactions & plot the stacked bar according
 % to the evolution clade
-
+current_path = pwd;
+load('../Reconstruction/modelRelated/panModel.mat')
 % exception code for new rxns subsystems
 fileName = '../data/new_rxn_mnx_keggpathway.txt';
 fID      = fopen(fileName);
@@ -38,6 +39,12 @@ clades = unique(Strain_information(:,2));
 numrxn = zeros(length(clades),1);
 clades = {'Ascomycota';'Lipomycetaceae';'Trigonopsidaceae';'Dipodascaceae/Trichomonascaceae';'Alloascoideaceae';'Sporopachydermia';'Pichiaceae';'CUG-Ala';'CUG-Ser1';'CUG-Ser2';'Phaffomycetaceae';'Saccharomycodaceae';'Saccharomycetaceae'};
 result = [];
+
+cd ../Reconstruction/otherchanges/ 
+inputpath = '../modelRelated/ssGEMs';
+
+[~,rxnMatrix,~] = getprecursorMatrixCobra(model_original,Strain_information(:,1),inputpath,{''},0);
+
 for i = 1:length(clades)
     idx = ismember(Strain_information(:,2),clades(i));
     rxns_clade = rxnMatrix(idx,:);
@@ -114,4 +121,5 @@ set(gcf,'position',[10 0 330 330]);
 set(gca,'position',[0.15 0.33 0.65 0.55]);
 box off;
 
+cd(current_path)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
