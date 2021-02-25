@@ -1,0 +1,630 @@
+keggID	kegg_pathway_name
+R01593	Arachidonic acid metabolism
+R03451	Lysine degradation
+R00524	Cyanoamino acid metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism;Carbon metabolism
+R01778	Fatty acid elongation
+R01975	Fatty acid degradation;Lysine degradation;Tryptophan metabolism;Butanoate metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;Fatty acid metabolism
+R04203	Valine, leucine and isoleucine degradation;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R04737	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04739	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04743	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04748	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R05066	Valine, leucine and isoleucine degradation
+R01859	Valine, leucine and isoleucine degradation;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R01055	Pyrimidine metabolism
+R00690	Phenylalanine metabolism
+R02085	Valine, leucine and isoleucine degradation
+R00199	Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Carbon metabolism
+R02685	Fatty acid elongation
+R03026	Fatty acid degradation;Lysine degradation;Benzoate degradation;Tryptophan metabolism;Aminobenzoate degradation;Butanoate metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;Fatty acid metabolism
+R03045	beta-Alanine metabolism;Propanoate metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Carbon metabolism
+R04204	Valine, leucine and isoleucine degradation;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R04224	Valine, leucine and isoleucine degradation
+R04738	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04740	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04744	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04749	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R00183	Purine metabolism
+R00511	Pyrimidine metabolism
+R00963	Pyrimidine metabolism
+R01227	Purine metabolism
+R01569	Pyrimidine metabolism
+R01664	Pyrimidine metabolism
+R01968	Purine metabolism
+R02088	Purine metabolism
+R02102	Pyrimidine metabolism
+R02719	Purine metabolism;Biosynthesis of secondary metabolites
+R01101	Galactose metabolism
+R01103	Galactose metabolism
+R03634	Galactose metabolism
+R05699	Aminobenzoate degradation;Microbial metabolism in diverse environments
+R02106	Purine metabolism;Microbial metabolism in diverse environments
+R01357	Valine, leucine and isoleucine degradation;Butanoate metabolism
+R03130	Tryptophan metabolism
+R05487	Phenylalanine metabolism;Styrene degradation;Microbial metabolism in diverse environments
+R01095	Galactose metabolism
+R01759	Pentose and glucuronate interconversions
+R03093	Tryptophan metabolism
+R00022	Amino sugar and nucleotide sugar metabolism
+R01157	Arginine and proline metabolism
+R01976	Benzoate degradation;Butanoate metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R01085	Tyrosine metabolism;Microbial metabolism in diverse environments
+R01505	Biosynthesis of siderophore group nonribosomal peptides;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R00028	Starch and sucrose metabolism
+R03033	Galactose metabolism;Microbial metabolism in diverse environments
+R00660	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis
+R01602	Glycolysis / Gluconeogenesis;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics
+R08379	Retinol metabolism
+R02565	Glycine, serine and threonine metabolism
+R02382	Tyrosine metabolism
+R02529	Glycine, serine and threonine metabolism
+R02613	Phenylalanine metabolism
+R03139	beta-Alanine metabolism
+R04300	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R02534	Tyrosine metabolism
+R02920	Tyrosine metabolism
+R04301	Tyrosine metabolism;Betalain biosynthesis
+R04887	Tyrosine metabolism
+R03980	Steroid hormone biosynthesis
+R00794	Nitrogen metabolism;Microbial metabolism in diverse environments
+R00796	Nitrogen metabolism;Microbial metabolism in diverse environments
+R09698	NA
+R02519	Tyrosine metabolism;Styrene degradation;Microbial metabolism in diverse environments
+R08380	Retinol metabolism
+R00319	Pyruvate metabolism
+R01768	Purine metabolism
+R02103	Purine metabolism;Microbial metabolism in diverse environments
+R02107	Purine metabolism
+R00697	Phenylalanine metabolism;Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R09078	Butanoate metabolism
+R07134	Pentose and glucuronate interconversions
+R10703	Propanoate metabolism
+R02065	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R04218	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R01779	NA
+R01977	Glyoxylate and dicarboxylate metabolism;Butanoate metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R10053	NA
+R02731	Fructose and mannose metabolism
+R00396	Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism
+R00604	Chloroalkane and chloroalkene degradation;Methane metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R01465	Glycine, serine and threonine metabolism
+R01364	Tyrosine metabolism;Styrene degradation;Microbial metabolism in diverse environments
+R09953	Inositol phosphate metabolism;Microbial metabolism in diverse environments
+R00815	Aminobenzoate degradation;Microbial metabolism in diverse environments
+R01183	Streptomycin biosynthesis;Inositol phosphate metabolism;Microbial metabolism in diverse environments;Biosynthesis of antibiotics
+R09676	NA
+R00674	Phenylalanine, tyrosine and tryptophan biosynthesis;Biosynthesis of secondary metabolites
+R02340	Phenylalanine, tyrosine and tryptophan biosynthesis;Benzoxazinoid biosynthesis;Biosynthesis of secondary metabolites
+R00522	Glyoxylate and dicarboxylate metabolism
+R00352	Citrate cycle (TCA cycle);Carbon fixation pathways in prokaryotes;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R00475	Glyoxylate and dicarboxylate metabolism;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R00410	Synthesis and degradation of ketone bodies;Valine, leucine and isoleucine degradation;Butanoate metabolism
+R01836	Steroid hormone biosynthesis;Steroid degradation;Microbial metabolism in diverse environments
+R01616	Ubiquinone and other terpenoid-quinone biosynthesis;Phenylalanine metabolism;Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R01943	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02194	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02221	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02255	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06583	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R01751	NA
+R06180	Glyoxylate and dicarboxylate metabolism
+R00533	Sulfur metabolism;Microbial metabolism in diverse environments
+R00817	Benzoate degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01416	Arginine and proline metabolism
+R07442	Phenylpropanoid biosynthesis
+R01169	Histidine metabolism
+R11014	Histidine metabolism
+R02059	Amino sugar and nucleotide sugar metabolism;Biosynthesis of antibiotics
+R00689	Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis
+R00729	Tyrosine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Isoquinoline alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R00610	Glycine, serine and threonine metabolism
+R00669	Arginine biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids
+R00554	Arginine and proline metabolism
+R01192	Galactose metabolism
+R02703	Fructose and mannose metabolism
+R02948	Butanoate metabolism;C5-Branched dibasic acid metabolism
+R00366	Glycine, serine and threonine metabolism
+R05837	NA
+R09954	Inositol phosphate metabolism;Microbial metabolism in diverse environments
+R01667	Pyrimidine metabolism
+R01668	Pyrimidine metabolism
+R00997	Cysteine and methionine metabolism
+R00705	beta-Alanine metabolism;Inositol phosphate metabolism;Propanoate metabolism;Carbon metabolism
+R00706	beta-Alanine metabolism;Inositol phosphate metabolism;Propanoate metabolism;Carbon metabolism
+R00032	Retinol metabolism
+R02173	Tryptophan metabolism
+R02532	Tyrosine metabolism
+R02908	Tryptophan metabolism
+R02919	Tyrosine metabolism
+R04025	Arginine and proline metabolism
+R04893	Tyrosine metabolism
+R04894	Tyrosine metabolism
+R00787	Nitrogen metabolism;Microbial metabolism in diverse environments
+R00704	Pyruvate metabolism;Microbial metabolism in diverse environments
+R00703	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics
+R02640	Pentose and glucuronate interconversions
+R01167	Histidine metabolism;Biosynthesis of secondary metabolites
+R02068	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R00470	Glyoxylate and dicarboxylate metabolism
+R00821	Benzoate degradation;Aminobenzoate degradation;Microbial metabolism in diverse environments
+R01621	Pentose phosphate pathway;Carbon fixation in photosynthetic organisms
+R01430	Pentose and glucuronate interconversions
+R03193	D-Glutamine and D-glutamate metabolism;Peptidoglycan biosynthesis
+R08572	Pentose phosphate pathway;Glycine, serine and threonine metabolism;Glycerolipid metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R05320	Taurine and hypotaurine metabolism;Sulfur metabolism
+R02367	Retinol metabolism
+R00748	Glycerophospholipid metabolism
+R02261	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R00286	Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism
+R01334	Glyoxylate and dicarboxylate metabolism;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics;Carbon metabolism
+R03534	Butanoate metabolism
+R02379	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R03366	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06576	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02754	Ascorbate and aldarate metabolism
+R03277	Ascorbate and aldarate metabolism
+R00893	Cysteine and methionine metabolism;Taurine and hypotaurine metabolism
+R04138	Valine, leucine and isoleucine degradation
+R00401	D-Alanine metabolism
+R00736	Tyrosine metabolism;Methane metabolism;Isoquinoline alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R02080	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis;Betalain biosynthesis;Biosynthesis of secondary metabolites
+R02783	D-Glutamine and D-glutamate metabolism;Peptidoglycan biosynthesis
+R01164	Histidine metabolism;beta-Alanine metabolism
+R01991	Arginine and proline metabolism
+R00112	Nicotinate and nicotinamide metabolism
+R01457	Steroid biosynthesis
+R05703	Steroid biosynthesis
+R00685	Tryptophan metabolism;Indole alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R00699	Phenylalanine metabolism
+R02701	Tryptophan metabolism
+R01360	Synthesis and degradation of ketone bodies;Valine, leucine and isoleucine degradation;Butanoate metabolism
+R08615	Ascorbate and aldarate metabolism
+R01717	Ubiquinone and other terpenoid-quinone biosynthesis;Biosynthesis of siderophore group nonribosomal peptides;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R00131	Arginine biosynthesis;Purine metabolism;Atrazine degradation;Microbial metabolism in diverse environments
+R00586	Cysteine and methionine metabolism;Sulfur metabolism;NA;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;Biosynthesis of amino acids
+R02322	Nicotinate and nicotinamide metabolism
+R01372	Phenylalanine metabolism
+R02521	Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism
+R01215	Valine, leucine and isoleucine biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R00362	NA
+R01615	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02193	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R02220	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R00228	Phenylalanine metabolism;Benzoate degradation;Pyruvate metabolism;Dioxin degradation;Xylene degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01066	Pentose phosphate pathway
+R02411	Galactose metabolism
+R01184	Ascorbate and aldarate metabolism;Inositol phosphate metabolism
+R04286	Folate biosynthesis
+R03774	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R07280	Riboflavin metabolism;Biosynthesis of secondary metabolites
+R00315	Taurine and hypotaurine metabolism;Pyruvate metabolism;Methane metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Carbon metabolism
+R00491	Alanine, aspartate and glutamate metabolism
+R01456	Steroid biosynthesis
+R07658	Amino sugar and nucleotide sugar metabolism
+R00111	Arginine and proline metabolism
+R00557	Arginine biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R03353	Steroid biosynthesis
+R04804	Steroid biosynthesis
+R09247	Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites
+R03037	Biosynthesis of siderophore group nonribosomal peptides;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R03181	Tyrosine metabolism;Styrene degradation;Microbial metabolism in diverse environments
+R01087	Butanoate metabolism;Nicotinate and nicotinamide metabolism;Microbial metabolism in diverse environments
+R02752	Ascorbate and aldarate metabolism
+R01904	Pentose and glucuronate interconversions
+R06601	Purine metabolism;Microbial metabolism in diverse environments
+R03192	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis
+R07405	Purine metabolism;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R01885	Purine metabolism
+R04955	Fatty acid biosynthesis;Fatty acid metabolism
+R01034	Glycerolipid metabolism
+R02593	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R03918	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R03210	Biotin metabolism
+R05706	Riboflavin metabolism
+R00409	Propanoate metabolism
+R01361	Synthesis and degradation of ketone bodies;Butanoate metabolism
+R01154	Arginine and proline metabolism
+R10848	Pentose and glucuronate interconversions
+R01519	Pentose phosphate pathway;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R02933	Ascorbate and aldarate metabolism
+R03751	Caprolactam degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01570	Pyrimidine metabolism
+R03546	Nitrogen metabolism
+R10079	NA
+R01718	Starch and sucrose metabolism
+R10705	Propanoate metabolism
+R00818	Dioxin degradation;Polycyclic aromatic hydrocarbon degradation;Naphthalene degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R00271	Lysine biosynthesis;Pyruvate metabolism;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids
+R00837	Starch and sucrose metabolism
+R00578	Alanine, aspartate and glutamate metabolism;Biosynthesis of secondary metabolites;Biosynthesis of amino acids
+R01295	Benzoate degradation;Aminobenzoate degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01528	Pentose phosphate pathway;Glutathione metabolism;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R10221	Pentose phosphate pathway;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism
+R01130	Purine metabolism;Biosynthesis of secondary metabolites
+R09796	Pyruvate metabolism;Microbial metabolism in diverse environments
+R06982	Methane metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R00359	Alanine, aspartate and glutamate metabolism
+R01513	Glycine, serine and threonine metabolism;Methane metabolism;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;Biosynthesis of amino acids
+R03772	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R01872	Phenylalanine, tyrosine and tryptophan biosynthesis
+R00344	Citrate cycle (TCA cycle);Pyruvate metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Carbon metabolism;Biosynthesis of amino acids
+R09249	Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites
+R10532	Pentose and glucuronate interconversions
+R06291	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R06292	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R06293	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R00618	Thiamine metabolism
+R00650	Cysteine and methionine metabolism;Biosynthesis of secondary metabolites
+R09756	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10399	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10400	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10563	Pentose and glucuronate interconversions
+R00868	Fructose and mannose metabolism
+R00684	Tryptophan metabolism
+R02133	Thiamine metabolism
+R03471	Thiamine metabolism
+R04509	Thiamine metabolism
+R09993	Thiamine metabolism
+R01764	Aminobenzoate degradation;Microbial metabolism in diverse environments
+R00778	Atrazine degradation;Microbial metabolism in diverse environments
+R02231	Caprolactam degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01845	Carbon fixation in photosynthetic organisms;Microbial metabolism in diverse environments;Carbon metabolism
+R10352	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R10353	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R01440	Methane metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R00216	Pyruvate metabolism;Carbon fixation in photosynthetic organisms;Microbial metabolism in diverse environments;Carbon metabolism
+R02656	Tyrosine metabolism;Microbial metabolism in diverse environments
+R10722	Phosphonate and phosphinate metabolism
+R01876	Pyrimidine metabolism
+R01213	Valine, leucine and isoleucine biosynthesis;Pyruvate metabolism;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids
+R05287	Chlorocyclohexane and chlorobenzene degradation;Chloroalkane and chloroalkene degradation;Microbial metabolism in diverse environments
+R10310	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10311	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R04152	Phosphonate and phosphinate metabolism;Microbial metabolism in diverse environments
+R00747	Phosphonate and phosphinate metabolism;Microbial metabolism in diverse environments
+R03824	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R05341	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R10508	Carotenoid biosynthesis
+R00571	Pyrimidine metabolism
+R00573	Pyrimidine metabolism
+R07143	Pentose and glucuronate interconversions
+R07144	Pentose and glucuronate interconversions
+R03942	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R01914	Arginine and proline metabolism;beta-Alanine metabolism
+R03276	Fatty acid degradation;Butanoate metabolism
+R05092	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R10724	Phosphonate and phosphinate metabolism
+R02123	Retinol metabolism
+R02454	Pentose and glucuronate interconversions
+R09782	Carotenoid biosynthesis
+R10317	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10318	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R02243	C5-Branched dibasic acid metabolism
+R01408	Cyanoamino acid metabolism
+R10550	Pentose and glucuronate interconversions
+R01945	Phenylpropanoid biosynthesis;Flavonoid biosynthesis;Stilbenoid, diarylheptanoid and gingerol biosynthesis;Biosynthesis of secondary metabolites
+R02991	Benzoate degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01152	Arginine and proline metabolism
+R02492	Nitrogen metabolism;Microbial metabolism in diverse environments
+R09446	Nitrogen metabolism;Microbial metabolism in diverse environments
+R07396	Cysteine and methionine metabolism
+R00502	Galactose metabolism;Amino sugar and nucleotide sugar metabolism
+R02728	NA
+R02306	Sesquiterpenoid and triterpenoid biosynthesis
+R00465	Glyoxylate and dicarboxylate metabolism;Microbial metabolism in diverse environments
+R01392	Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Biosynthesis of secondary metabolites
+R01942	Phenylalanine metabolism;Phenylpropanoid biosynthesis;Flavonoid biosynthesis;Stilbenoid, diarylheptanoid and gingerol biosynthesis;Biosynthesis of secondary metabolites
+R06578	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R00078	Porphyrin and chlorophyll metabolism
+R00179	Cysteine and methionine metabolism;Biosynthesis of secondary metabolites
+R00293	Amino sugar and nucleotide sugar metabolism
+R00469	Purine metabolism;Microbial metabolism in diverse environments
+R00608	Methane metabolism;Microbial metabolism in diverse environments;Carbon metabolism
+R01058	Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Microbial metabolism in diverse environments;Carbon metabolism
+R01151	Arginine and proline metabolism
+R01274	Fatty acid elongation;Biosynthesis of unsaturated fatty acids;Fatty acid metabolism
+R01468	Glycerophospholipid metabolism
+R01595	Arachidonic acid metabolism
+R02125	Retinol metabolism
+R02150	Histidine metabolism
+R02350	Steroid hormone biosynthesis
+R02676	Cyanoamino acid metabolism;Biosynthesis of secondary metabolites
+R02681	Tryptophan metabolism
+R03058	Arachidonic acid metabolism
+R03111	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R03288	Histidine metabolism;beta-Alanine metabolism
+R03893	Chlorocyclohexane and chlorobenzene degradation;Microbial metabolism in diverse environments
+R06838	Chlorocyclohexane and chlorobenzene degradation;Microbial metabolism in diverse environments
+R07061	Linoleic acid metabolism
+R07558	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R07559	Carotenoid biosynthesis;Biosynthesis of secondary metabolites
+R08527	NA
+R10178	Alanine, aspartate and glutamate metabolism;Butanoate metabolism;Microbial metabolism in diverse environments
+R10307	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10319	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10351	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R10358	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R10398	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10401	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10402	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10475	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10925	Insect hormone biosynthesis
+NA	NA
+R01903	Pentose and glucuronate interconversions
+R00987	Tryptophan metabolism
+R10851	Glycine, serine and threonine metabolism
+R10361	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+NA	NA
+R01990	Arginine and proline metabolism
+R10614	NA
+NA	NA
+R01333	Glyoxylate and dicarboxylate metabolism;Microbial metabolism in diverse environments
+NA	NA
+R01041	Glycerolipid metabolism
+NA	NA
+NA	NA
+NA	NA
+R00719	Purine metabolism
+R02528	Propanoate metabolism
+R03545	Butanoate metabolism;Microbial metabolism in diverse environments
+R06126	NA
+NA	NA
+R07659	Amino sugar and nucleotide sugar metabolism
+NA	NA
+R01627	Phenylalanine, tyrosine and tryptophan biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics
+R06758	Novobiocin biosynthesis;Biosynthesis of antibiotics
+R06757	Novobiocin biosynthesis;Biosynthesis of antibiotics
+R09363	NA
+NA	NA
+R00895	Cysteine and methionine metabolism
+NA	NA
+NA	NA
+R01740	NA
+R09786	Sulfur metabolism
+R08211	Glycine, serine and threonine metabolism
+R01022	Glycine, serine and threonine metabolism
+R02997	NA
+NA	NA
+NA	NA
+NA	NA
+R01487	NA
+R10478	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10477	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R10476	Aflatoxin biosynthesis;Biosynthesis of antibiotics
+R02549	Arginine and proline metabolism;beta-Alanine metabolism
+R00355	Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Carbon fixation in photosynthetic organisms;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids
+R06892	Bisphenol degradation;Microbial metabolism in diverse environments
+R07634	Cysteine and methionine metabolism
+R04001	Valine, leucine and isoleucine biosynthesis;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism
+R09289	Pyrimidine metabolism;Carbon fixation pathways in prokaryotes;Microbial metabolism in diverse environments;Carbon metabolism
+R01518	Glycolysis / Gluconeogenesis;Glycine, serine and threonine metabolism;Methane metabolism;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics;Carbon metabolism;Biosynthesis of amino acids
+NA	NA
+NA	NA
+R10161	Propanoate metabolism
+R01431	Pentose and glucuronate interconversions
+NA	NA
+R05282	Xylene degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R05347	Xylene degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R00904	beta-Alanine metabolism
+R02025	Cysteine and methionine metabolism
+NA	NA
+NA	NA
+NA	NA
+NA	NA
+NA	NA
+R02619	Cysteine and methionine metabolism
+R01608	beta-Alanine metabolism;Propanoate metabolism;Carbon metabolism
+R05064	Valine, leucine and isoleucine degradation
+R00272	NA
+R03898	Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids
+R00875	Fructose and mannose metabolism
+R08146	Insect hormone biosynthesis
+R07265	NA
+R05050	Arginine and proline metabolism
+R01108	Ascorbate and aldarate metabolism;Glutathione metabolism
+NA	NA
+R10789	NA
+NA	NA
+NA	NA
+R04891	Tyrosine metabolism
+R04882	Tyrosine metabolism
+NA	NA
+R02539	Phenylalanine metabolism;Microbial metabolism in diverse environments
+R04903	Tryptophan metabolism
+R00306	Starch and sucrose metabolism
+R09495	NA
+R02680	Tryptophan metabolism
+R02678	Tryptophan metabolism
+NA	NA
+R09123	Diterpenoid biosynthesis;Biosynthesis of secondary metabolites
+R08212	NA
+R03891	Chlorocyclohexane and chlorobenzene degradation;Microbial metabolism in diverse environments
+NA	NA
+NA	NA
+R05441	Chlorocyclohexane and chlorobenzene degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+NA	NA
+NA	NA
+R02368	Retinol metabolism
+R07136	Cysteine and methionine metabolism;Methane metabolism;Microbial metabolism in diverse environments
+R02484	Pyrimidine metabolism
+R10704	Propanoate metabolism
+R02722	Glycine, serine and threonine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics;Biosynthesis of amino acids
+R02156	NA
+NA	NA
+R01155	Arginine and proline metabolism
+NA	NA
+R01373	Phenylalanine, tyrosine and tryptophan biosynthesis;Biosynthesis of secondary metabolites;Biosynthesis of antibiotics;Biosynthesis of amino acids
+R00714	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism;Microbial metabolism in diverse environments
+R00713	Alanine, aspartate and glutamate metabolism;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism;Microbial metabolism in diverse environments
+R02536	Phenylalanine metabolism;Styrene degradation;Microbial metabolism in diverse environments
+NA	NA
+NA	NA
+NA	NA
+NA	NA
+NA	NA
+R01908	Glyoxylate and dicarboxylate metabolism
+NA	NA
+R00799	NA
+NA	NA
+R01704	Fatty acid degradation
+NA	NA
+NA	NA
+NA	NA
+NA	NA
+R03300	Tyrosine metabolism
+R03106	NA
+NA	NA
+R01817	NA
+R00710	Glycolysis / Gluconeogenesis;Pyruvate metabolism;Biosynthesis of secondary metabolites;Microbial metabolism in diverse environments;Biosynthesis of antibiotics
+NA	NA
+R00026	NA
+R07042	Arachidonic acid metabolism
+R07043	Arachidonic acid metabolism
+R07048	Arachidonic acid metabolism
+R07050	Arachidonic acid metabolism
+R07051	Arachidonic acid metabolism
+R07052	Arachidonic acid metabolism
+R03088	Steroid hormone biosynthesis
+R03090	Steroid hormone biosynthesis
+R07080	Metabolism of xenobiotics by cytochrome P450
+R09416	Metabolism of xenobiotics by cytochrome P450
+R09442	Metabolism of xenobiotics by cytochrome P450
+R03816	Ubiquinone and other terpenoid-quinone biosynthesis;Biosynthesis of secondary metabolites
+R02354	Steroid hormone biosynthesis
+R02355	Steroid hormone biosynthesis
+R03089	Steroid hormone biosynthesis
+R07000	Metabolism of xenobiotics by cytochrome P450
+R07001	Metabolism of xenobiotics by cytochrome P450
+R07022	Metabolism of xenobiotics by cytochrome P450
+R02487	Fatty acid degradation
+R04741	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04745	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04170	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R04746	Fatty acid elongation;Fatty acid degradation;Fatty acid metabolism
+R05595	NA
+R01194	Galactose metabolism
+R00731	Tyrosine metabolism;Isoquinoline alkaloid biosynthesis;Betalain biosynthesis;Biosynthesis of secondary metabolites
+R02383	Isoquinoline alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R01036	Glycerolipid metabolism
+R01093	Galactose metabolism
+R01758	Pentose and glucuronate interconversions
+R01787	Fructose and mannose metabolism
+R02531	NA
+R02259	NA
+R01887	Cyanoamino acid metabolism
+R03542	Cyanoamino acid metabolism
+R05576	NA
+R07013	Metabolism of xenobiotics by cytochrome P450
+R07014	Metabolism of xenobiotics by cytochrome P450
+R07082	Metabolism of xenobiotics by cytochrome P450
+R09417	Metabolism of xenobiotics by cytochrome P450
+R10619	Galactose metabolism
+R02662	Valine, leucine and isoleucine degradation
+R04097	Valine, leucine and isoleucine degradation
+R06200	NA
+R02566	Glycine, serine and threonine metabolism
+R09420	Metabolism of xenobiotics by cytochrome P450
+R06154	NA
+R04762	Steroid hormone biosynthesis
+R04764	Steroid hormone biosynthesis
+R04809	Primary bile acid biosynthesis
+R04812	Primary bile acid biosynthesis
+R04813	Primary bile acid biosynthesis
+R01769	Purine metabolism
+R09672	NA
+R01520	Pentose phosphate pathway;Microbial metabolism in diverse environments;Carbon metabolism
+R01521	Pentose phosphate pathway;Microbial metabolism in diverse environments;Carbon metabolism
+R01754	Amino sugar and nucleotide sugar metabolism
+R10177	NA
+R08260	Drug metabolism - other enzymes
+R07066	Metabolism of xenobiotics by cytochrome P450
+R07068	Metabolism of xenobiotics by cytochrome P450
+R07599	Valine, leucine and isoleucine degradation
+R07600	Valine, leucine and isoleucine degradation
+R07601	Valine, leucine and isoleucine degradation
+R07602	Valine, leucine and isoleucine degradation
+R07603	Valine, leucine and isoleucine degradation
+R07604	Valine, leucine and isoleucine degradation
+R01678	Galactose metabolism
+R03566	Toluene degradation;Microbial metabolism in diverse environments
+R00924	beta-Alanine metabolism
+R04095	Valine, leucine and isoleucine degradation
+R05700	Phenylpropanoid biosynthesis
+R05701	Phenylpropanoid biosynthesis
+R07441	Phenylpropanoid biosynthesis
+R01100	NA
+R00357	Alanine, aspartate and glutamate metabolism
+R00648	Cysteine and methionine metabolism
+R00677	Tryptophan metabolism
+R02197	Valine, leucine and isoleucine degradation
+R05681	Vitamin B6 metabolism
+R07406	Vitamin B6 metabolism
+R00922	Valine, leucine and isoleucine degradation
+R00935	Propanoate metabolism
+R05624	NA
+R02391	Porphyrin and chlorophyll metabolism;Biosynthesis of secondary metabolites
+R02393	Porphyrin and chlorophyll metabolism;Biosynthesis of secondary metabolites
+R09520	Riboflavin metabolism
+R07015	Metabolism of xenobiotics by cytochrome P450
+R06574	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06575	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06577	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R03286	Histidine metabolism;beta-Alanine metabolism
+R07498	Steroid biosynthesis
+R07507	Steroid biosynthesis
+R01176	Butanoate metabolism
+R08259	Drug metabolism - other enzymes
+R01166	Histidine metabolism;beta-Alanine metabolism
+R01992	Arginine and proline metabolism
+R03307	Benzoate degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R01941	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06569	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R01172	Butanoate metabolism;Microbial metabolism in diverse environments
+R09408	Metabolism of xenobiotics by cytochrome P450
+R01451	Steroid biosynthesis
+R01989	Arginine and proline metabolism
+R08056	Ascorbate and aldarate metabolism
+R03191	Amino sugar and nucleotide sugar metabolism;Peptidoglycan biosynthesis
+R08125	NA
+R10717	Propanoate metabolism
+R06570	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R06571	Phenylpropanoid biosynthesis;Biosynthesis of secondary metabolites
+R03048	Retinol metabolism
+R00789	Nitrogen metabolism;Microbial metabolism in diverse environments
+R01098	Galactose metabolism
+R02886	Starch and sucrose metabolism
+R07676	Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism
+R02296	Pyrimidine metabolism
+R03470	Benzoate degradation;Microbial metabolism in diverse environments;Degradation of aromatic compounds
+R08385	Retinol metabolism
+R10565	Pentose and glucuronate interconversions
+R02517	Styrene degradation;Microbial metabolism in diverse environments
+R01701
+R01702
+R03871	Valine, leucine and isoleucine degradation
+R04225	Biosynthesis of secondary metabolites
+R04904	Tryptophan metabolism
+R08384	Retinol metabolism
+R10356	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R10357	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R10371	Indole diterpene alkaloid biosynthesis;Biosynthesis of secondary metabolites
+R07346	Fructose and mannose metabolism
+R00801	Galactose metabolism;Starch and sucrose metabolism
+R10998	Propanoate metabolism
+R00647	Ascorbate and aldarate metabolism
+R03184	Ascorbate and aldarate metabolism
+R10996	Propanoate metabolism
+R10997	Propanoate metabolism
+R00068	Ascorbate and aldarate metabolism
+R00761	Carbon fixation in photosynthetic organisms;Microbial metabolism in diverse environments
+R00765	Amino sugar and nucleotide sugar metabolism
+R08704	Amino sugar and nucleotide sugar metabolism
+R08935	Polyketide sugar unit biosynthesis;Biosynthesis of antibiotics
+R00558	Arginine and proline metabolism
+R00944	Glyoxylate and dicarboxylate metabolism;One carbon pool by folate
+R10788	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R10995	Fructose and mannose metabolism;Microbial metabolism in diverse environments
+R08014	Nitrotoluene degradation;Microbial metabolism in diverse environments
+R08017	Nitrotoluene degradation;Microbial metabolism in diverse environments
+R11310	Starch and sucrose metabolism
+R10661	Staurosporine biosynthesis;Biosynthesis of antibiotics

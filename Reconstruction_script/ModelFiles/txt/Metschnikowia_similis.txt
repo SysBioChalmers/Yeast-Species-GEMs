@@ -181,6 +181,7 @@ r_0219	s_0295[c] + s_0794[c] + s_1212[c]  -> s_0978[c] + s_1207[c] + s_1322[c] 	
 r_0220	s_0434[c] + s_0973[c] + s_1587[c]  -> s_0423[c] + s_0432[c] + s_0633[c] 	Metschnikowia_similis@Seq_1909	  0.00	1000.00	  0.00
 r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	Metschnikowia_similis@Seq_3559	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Metschnikowia_similis@Seq_19	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_2034 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_1790) or (Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_1790 and Metschnikowia_similis@Seq_5336) or (Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_2034 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_2374 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_2680 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_2395 and Metschnikowia_similis@Seq_4694 and Metschnikowia_similis@Seq_1790)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Metschnikowia_similis@Seq_561	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Metschnikowia_similis@Seq_1672	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	Metschnikowia_similis@Seq_1713	  0.00	1000.00	  0.00
@@ -294,6 +295,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Metschnikowia_similis@Seq_3288 or Metschnikowia_similis@Seq_520 or Metschnikowia_similis@Seq_705	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Metschnikowia_similis@Seq_3288 or Metschnikowia_similis@Seq_520 or Metschnikowia_similis@Seq_705	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Metschnikowia_similis@Seq_3329	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	Metschnikowia_similis@Seq_1964 and Metschnikowia_similis@Seq_3981 and Metschnikowia_similis@Seq_802 and Metschnikowia_similis@Seq_2732 and Metschnikowia_similis@Seq_4275 and Metschnikowia_similis@Seq_2771 and Metschnikowia_similis@Seq_3393	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_similis@Seq_1032 and Metschnikowia_similis@Seq_3695 and Metschnikowia_similis@Seq_1600 and Metschnikowia_similis@Seq_1335 and Metschnikowia_similis@Seq_846 and Metschnikowia_similis@Seq_5167 and Metschnikowia_similis@Seq_5257 and Metschnikowia_similis@Seq_2426	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Metschnikowia_similis@Seq_5560	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Metschnikowia_similis@Seq_4831	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Metschnikowia_similis@Seq_2030	  0.00	1000.00	  0.00
@@ -343,9 +346,15 @@ r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 	Metschnikowi
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	Metschnikowia_similis@Seq_3372 or Metschnikowia_similis@Seq_748	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	Metschnikowia_similis@Seq_4632	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	Metschnikowia_similis@Seq_3033 or Metschnikowia_similis@Seq_661	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	Metschnikowia_similis@Seq_3033 or Metschnikowia_similis@Seq_661	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	(Metschnikowia_similis@Seq_1976 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_1681) or (Metschnikowia_similis@Seq_3633 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_1681)	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	Metschnikowia_similis@Seq_3334	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	Metschnikowia_similis@Seq_5619	  0.00	1000.00	  0.00
 r_0514	s_0434[c] + s_0803[c] + s_0999[c] + s_1565[c]  -> s_0423[c] + s_0633[c] + s_0782[c] + 2 s_0794[c] + s_0991[c] 	Metschnikowia_similis@Seq_149	  0.00	1000.00	  0.00
@@ -653,6 +662,7 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	Metschniko
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	Metschnikowia_similis@Seq_5482	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Metschnikowia_similis@Seq_3428	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Metschnikowia_similis@Seq_3428	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Metschnikowia_similis@Seq_3973 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_4319 and Metschnikowia_similis@Seq_2643	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Metschnikowia_similis@Seq_1546	  0.00	1000.00	  0.00
 r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Metschnikowia_similis@Seq_1294 and Metschnikowia_similis@Seq_422 and Metschnikowia_similis@Seq_35 and Metschnikowia_similis@Seq_3736 and Metschnikowia_similis@Seq_5003 and Metschnikowia_similis@Seq_1161 and Metschnikowia_similis@Seq_3302	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Metschnikowia_similis@Seq_4305	  0.00	1000.00	  0.00
@@ -700,6 +710,7 @@ r_1023	s_0803[c] + s_1207[c] + s_1461[c]  -> 2 s_0794[c] + s_1212[c] + s_1458[c]
 r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	Metschnikowia_similis@Seq_1232	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	(Metschnikowia_similis@Seq_5306 and Metschnikowia_similis@Seq_3790) or (Metschnikowia_similis@Seq_5306 and Metschnikowia_similis@Seq_749)	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	Metschnikowia_similis@Seq_1596	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	Metschnikowia_similis@Seq_2821 and Metschnikowia_similis@Seq_320 and Metschnikowia_similis@Seq_318	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	Metschnikowia_similis@Seq_4243	-1000.00	1000.00	  0.00
 r_1032	2 s_0805[e] + s_1476[e]  -> s_0796[e] + 2 s_1324[e] + s_1490[e] 	Metschnikowia_similis@Seq_1025	  0.00	1000.00	  0.00
 r_1033	s_0805[e] + s_1498[e]  -> s_1324[e] + s_1490[e] 	Metschnikowia_similis@Seq_1025	  0.00	1000.00	  0.00
@@ -1850,6 +1861,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Metschnikowia_similis@S
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Metschnikowia_similis@Seq_3462	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Metschnikowia_similis@Seq_2832 or Metschnikowia_similis@Seq_2952 or Metschnikowia_similis@Seq_3004 or Metschnikowia_similis@Seq_3349 or Metschnikowia_similis@Seq_4040 or Metschnikowia_similis@Seq_5022	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Metschnikowia_similis@Seq_2832 or Metschnikowia_similis@Seq_2952 or Metschnikowia_similis@Seq_3004 or Metschnikowia_similis@Seq_3349 or Metschnikowia_similis@Seq_4040 or Metschnikowia_similis@Seq_5022	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Metschnikowia_similis@Seq_4264 and Metschnikowia_similis@Seq_3712 and Metschnikowia_similis@Seq_331 and Metschnikowia_similis@Seq_5018 and Metschnikowia_similis@Seq_5300 and Metschnikowia_similis@Seq_486 and Metschnikowia_similis@Seq_751 and Metschnikowia_similis@Seq_3873 and Metschnikowia_similis@Seq_1290 and Metschnikowia_similis@Seq_1747 and Metschnikowia_similis@Seq_696 and Metschnikowia_similis@Seq_2563) or (Metschnikowia_similis@Seq_4264 and Metschnikowia_similis@Seq_3712 and Metschnikowia_similis@Seq_331 and Metschnikowia_similis@Seq_5018 and Metschnikowia_similis@Seq_5300 and Metschnikowia_similis@Seq_486 and Metschnikowia_similis@Seq_751 and Metschnikowia_similis@Seq_3873 and Metschnikowia_similis@Seq_1290 and Metschnikowia_similis@Seq_3785 and Metschnikowia_similis@Seq_696 and Metschnikowia_similis@Seq_2563)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Metschnikowia_similis@Seq_4264 and Metschnikowia_similis@Seq_3712 and Metschnikowia_similis@Seq_331 and Metschnikowia_similis@Seq_5018 and Metschnikowia_similis@Seq_5300 and Metschnikowia_similis@Seq_486 and Metschnikowia_similis@Seq_751 and Metschnikowia_similis@Seq_3873 and Metschnikowia_similis@Seq_1290 and Metschnikowia_similis@Seq_1747 and Metschnikowia_similis@Seq_696 and Metschnikowia_similis@Seq_2563) or (Metschnikowia_similis@Seq_4264 and Metschnikowia_similis@Seq_3712 and Metschnikowia_similis@Seq_331 and Metschnikowia_similis@Seq_5018 and Metschnikowia_similis@Seq_5300 and Metschnikowia_similis@Seq_486 and Metschnikowia_similis@Seq_751 and Metschnikowia_similis@Seq_3873 and Metschnikowia_similis@Seq_1290 and Metschnikowia_similis@Seq_3785 and Metschnikowia_similis@Seq_696 and Metschnikowia_similis@Seq_2563)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3140,8 +3153,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3264,7 +3277,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Metschnikowia_similis@Se
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Metschnikowia_similis@Seq_3126	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Metschnikowia_similis@Seq_4693	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Metschnikowia_similis@Seq_32 or Metschnikowia_similis@Seq_993	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Metschnikowia_similis@Seq_2632 or Metschnikowia_similis@Seq_2886 or Metschnikowia_similis@Seq_5173	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Metschnikowia_similis@Seq_2450	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Metschnikowia_similis@Seq_2450	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Metschnikowia_similis@Seq_312	-1000.00	1000.00	  0.00
@@ -3676,8 +3688,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Metschnikowia_similis@Seq_4717	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Metschnikowia_similis@Seq_2145	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Metschnikowia_similis@Seq_4504	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Metschnikowia_similis@Seq_1308	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Metschnikowia_similis@Seq_2257	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Metschnikowia_similis@Seq_3061	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Metschnikowia_similis@Seq_495	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Metschnikowia_similis@Seq_5049	  0.00	1000.00	  0.00
@@ -3695,37 +3705,30 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Metschnikow
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Metschnikowia_similis@Seq_2432	-1000.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Metschnikowia_similis@Seq_2987	-1000.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Metschnikowia_similis@Seq_4827	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_similis@Seq_4624 or Metschnikowia_similis@Seq_5517 or Metschnikowia_similis@Seq_4528	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_similis@Seq_5517 or Metschnikowia_similis@Seq_4624 or Metschnikowia_similis@Seq_4528	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Metschnikowia_similis@Seq_1338	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Metschnikowia_similis@Seq_2350	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Metschnikowia_similis@Seq_3231	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Metschnikowia_similis@Seq_5573	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Metschnikowia_similis@Seq_1499	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Metschnikowia_similis@Seq_5466	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Metschnikowia_similis@Seq_5517	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Metschnikowia_similis@Seq_2871	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Metschnikowia_similis@Seq_439	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Metschnikowia_similis@Seq_1553	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Metschnikowia_similis@Seq_2971 or Metschnikowia_similis@Seq_2569	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Metschnikowia_similis@Seq_2757	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Metschnikowia_similis@Seq_2613	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Metschnikowia_similis@Seq_5389	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Metschnikowia_similis@Seq_2145	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Metschnikowia_similis@Seq_2613	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Metschnikowia_similis@Seq_1179 or Metschnikowia_similis@Seq_2479 or Metschnikowia_similis@Seq_4258 or Metschnikowia_similis@Seq_45	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Metschnikowia_similis@Seq_1179 or Metschnikowia_similis@Seq_2479 or Metschnikowia_similis@Seq_4258 or Metschnikowia_similis@Seq_45	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Metschnikowia_similis@Seq_4221 or Metschnikowia_similis@Seq_2608	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Metschnikowia_similis@Seq_2285	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Metschnikowia_similis@Seq_2285	-1000.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Metschnikowia_similis@Seq_1557	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Metschnikowia_similis@Seq_1557	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Metschnikowia_similis@Seq_1338	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Metschnikowia_similis@Seq_2632 or Metschnikowia_similis@Seq_2886 or Metschnikowia_similis@Seq_5173	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Metschnikowia_similis@Seq_2447	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Metschnikowia_similis@Seq_2757	-1000.00	1000.00	  0.00
@@ -3741,20 +3744,17 @@ r_2451	s_3089[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3114[erm] 	Me
 r_2452	s_3090[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3115[erm] 	Metschnikowia_similis@Seq_405	  0.00	1000.00	  0.00
 r_2453	s_3091[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3116[erm] 	Metschnikowia_similis@Seq_405	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Metschnikowia_similis@Seq_224	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_similis@Seq_1964 and Metschnikowia_similis@Seq_3981 and Metschnikowia_similis@Seq_802 and Metschnikowia_similis@Seq_2732 and Metschnikowia_similis@Seq_3393 and Metschnikowia_similis@Seq_4275 and Metschnikowia_similis@Seq_2771) or (Metschnikowia_similis@Seq_1964 and Metschnikowia_similis@Seq_5592 and Metschnikowia_similis@Seq_4467 and Metschnikowia_similis@Seq_3783 and Metschnikowia_similis@Seq_395)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_similis@Seq_1032 and Metschnikowia_similis@Seq_3695 and Metschnikowia_similis@Seq_1600 and Metschnikowia_similis@Seq_1335 and Metschnikowia_similis@Seq_846 and Metschnikowia_similis@Seq_5167 and Metschnikowia_similis@Seq_5257 and Metschnikowia_similis@Seq_2426	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_2034 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_1790) or (Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_1790 and Metschnikowia_similis@Seq_5336) or (Metschnikowia_similis@Seq_4779 and Metschnikowia_similis@Seq_33 and Metschnikowia_similis@Seq_1322 and Metschnikowia_similis@Seq_2034 and Metschnikowia_similis@Seq_4833 and Metschnikowia_similis@Seq_1720 and Metschnikowia_similis@Seq_3525 and Metschnikowia_similis@Seq_1150 and Metschnikowia_similis@Seq_1675 and Metschnikowia_similis@Seq_1790 and Metschnikowia_similis@Seq_2374 and Metschnikowia_similis@Seq_2680 and Metschnikowia_similis@Seq_2395 and Metschnikowia_similis@Seq_4694)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Metschnikowia_similis@Seq_3544 and Metschnikowia_similis@Seq_151 and Metschnikowia_similis@Seq_3463 and Metschnikowia_similis@Seq_2551 and Metschnikowia_similis@Seq_1938 and Metschnikowia_similis@Seq_4417 and Metschnikowia_similis@Seq_610 and Metschnikowia_similis@Seq_3135 and Metschnikowia_similis@Seq_3052 and Metschnikowia_similis@Seq_2177 and Metschnikowia_similis@Seq_4338 and Metschnikowia_similis@Seq_2196 and Metschnikowia_similis@Seq_5160 and Metschnikowia_similis@Seq_1042 and Metschnikowia_similis@Seq_4456 and Metschnikowia_similis@Seq_5439 and Metschnikowia_similis@Seq_4442 and Metschnikowia_similis@Seq_4291 and Metschnikowia_similis@Seq_95 and Metschnikowia_similis@Seq_430	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0548	s_0434[c] + s_1014[c]  -> s_0394[c] + s_0794[c] + s_1238[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
-r_1006	s_0435[er] + s_1366[er]  -> s_0395[er] + s_0795[er] + s_1367[er] 		  0.00	1000.00	  0.00
+r_2094	s_0803[c]  <=> s_0804[er] 		-1000.00	1000.00	  0.00
 r_2460	s_3090[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3124[erm] 		  0.00	1000.00	  0.00
 r_2461	s_3091[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3125[erm] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Metschnikowia_similis@Seq_5173	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Metschnikowia_similis@Seq_984	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
 r_5204	s_0794[c] + s_4637[c]  <=> s_0796[e] + s_4638[e] 		-1000.00	1000.00	  0.00
@@ -3768,3 +3768,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Metschnikowia_similis@Seq_1982	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Metschnikowia_similis@Seq_1502	  0.00	1000.00	  0.00

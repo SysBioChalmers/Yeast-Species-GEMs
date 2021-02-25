@@ -11,7 +11,7 @@ for i = 1:length(data)
 end
 fclose(fid2);
 fid2 = fopen('../data/physiology/biomass_type.txt');
-format = '%s%s%s%s%s%s%s';
+format = '%s%s%s%s%s%s';
 temp = textscan(fid2,format,'Delimiter','\t','HeaderLines',0);
 for i = 1:length(temp)
     biomass_type(:,i) = temp{i};
@@ -60,7 +60,7 @@ for i = 1:length(strains)
     % scale out carbohydrate to let biomass to be 1 gram
     [X,~,C,~,~,~,~,~] = sumBioMass(model);
     model = scaleBioMass(model,biomass_type{8,1},(1 - X + C));
-    
+    [X,~,C,~,~,~,~,~] = sumBioMass(model);
     cd(outputpath)
     reducedModel = model;
     save([strains{i},'.mat'],'reducedModel')
@@ -68,10 +68,4 @@ end
 cd(currentpath)
 cd ../
 
-if specific
-    % which means that we need to change the biomass to the specific
-    % biomass exactly based on the composition
-    [a,b,biomass] = xlsread('../data/physiology/yeast_biomass.xlsx','biomass_mmol');
 end
-
-

@@ -1,13 +1,18 @@
-UpdateGPRrules
+%UpdateGPRrules
 cd otherchanges/
-[a,b,result] = xlsread('/Users/feiranl/Documents/Python/blast/NewGeneMining/mappedresult2/allresult.xlsx');
+current_path = pwd;
+fid2 = fopen('../../data/geneMining/sub_result.tsv');
+format = '%s %s';
+data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
+result(:,1) = data{1};
+result(:,2) = data{2};
 % load old mapping data  geneID with panID
- load('../strainData.mat')
+ load('../modelRelated/strainData.mat')
  strains = StrianData.strains;
  % result: mrnaID KO speciesgeneID panID species rxn sub oldGPR
 
 for i = 1:length(strains)    
-    fileName    = ['../../../../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
+    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);
@@ -37,7 +42,7 @@ for i = 1:length(strains)
 end
 
 % get rxn for ko
-fileName    = '/Users/feiranl/Documents/Python/blast/NewGeneMining/rxnlistnew.txt';
+fileName    = '../../Reconstruction_script/GeneMining/subRxnKoMap.txt';
 fID         = fopen(fileName);
 rxn_ko    = textscan(fID,'%s%s%s','Delimiter',',','HeaderLines',1);
 fclose(fID);
@@ -56,8 +61,8 @@ end
 clearvars -except result ko sub rxn model_original
 % map the grRules for check and change grRule
 strainlst = unique(result(:,5));
-load('../../ModelFiles/model_original_new.mat')
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+load('../modelRelated/PanModel.mat')
+inputpath = '../modelRelated/ssGEMs';
 current_path = pwd;
 result(:,8) = {''}; %oldgpr
 for i = 1:length(strainlst)
@@ -81,6 +86,8 @@ for i = 1:length(strainlst)
     cd(inputpath)
     save([strainlst{i},'.mat'],'reducedModel')
 end
+cd(current_path)
+cd ../
 
 % remove the rxn without grRule for the rxn listed above
 cd(current_path)
@@ -106,10 +113,10 @@ tmp = find(idx2 == 0);
 idx2 = contains(rxn,removelst(tmp,2));
 removelst(tmp,3) = sub(idx2);
 
-[~,~,result_table] = xlsread('../../data/substrateUsageGene.xlsx','RESULTTABLE');
+[~,~,result_table] = xlsread('/modelRelated/substrateUsageGene.xlsx','RESULTTABLE');
 strain_sub_lst = result_table(10:338,1);
 result_table = result_table(10:end,2:end);
-[~,~,index] = xlsread('../../data/substrateUsageGene.xlsx','index');
+[~,~,index] = xlsread('/modelRelated/substrateUsageGene.xlsx','index');
 [~,idx] = ismember(strainlst,strain_sub_lst); % there are several not in the sublist 332-329
 result_table(idx~=0,:) = result_table(idx(idx~=0),:);
 rxnexistence = result_table(:,startsWith(index(:,1),'r_'));

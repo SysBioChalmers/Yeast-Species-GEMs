@@ -13,6 +13,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	yHMPu5000034
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	yHMPu5000034902_Ogataea_minuta@Seq_928 or yHMPu5000034902_Ogataea_minuta@Seq_1330 or yHMPu5000034902_Ogataea_minuta@Seq_33	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3768	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	yHMPu5000034902_Ogataea_minuta@Seq_1274 or yHMPu5000034902_Ogataea_minuta@Seq_2553	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	yHMPu5000034902_Ogataea_minuta@Seq_653 and yHMPu5000034902_Ogataea_minuta@Seq_1981 and yHMPu5000034902_Ogataea_minuta@Seq_507 and yHMPu5000034902_Ogataea_minuta@Seq_3264 and yHMPu5000034902_Ogataea_minuta@Seq_796 and yHMPu5000034902_Ogataea_minuta@Seq_2095	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	yHMPu5000034902_Ogataea_minuta@Seq_653 and yHMPu5000034902_Ogataea_minuta@Seq_1981 and yHMPu5000034902_Ogataea_minuta@Seq_507 and yHMPu5000034902_Ogataea_minuta@Seq_3264 and yHMPu5000034902_Ogataea_minuta@Seq_796 and yHMPu5000034902_Ogataea_minuta@Seq_2095	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3777	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2509 or yHMPu5000034902_Ogataea_minuta@Seq_397	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2509 or yHMPu5000034902_Ogataea_minuta@Seq_397	  0.00	1000.00	  0.00
@@ -172,6 +174,7 @@ r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	
 r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2178	  0.00	1000.00	  0.00
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2178	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2178	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3365) or (yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3365 and yHMPu5000034902_Ogataea_minuta@Seq_1533) or (yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_1284 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3834 and yHMPu5000034902_Ogataea_minuta@Seq_2600 and yHMPu5000034902_Ogataea_minuta@Seq_3365)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1483	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3813	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2740	  0.00	1000.00	  0.00
@@ -281,6 +284,8 @@ r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	yHMPu5000034902_Ogataea_minuta@Seq_2
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2929	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2401	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2198 and yHMPu5000034902_Ogataea_minuta@Seq_1608	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034902_Ogataea_minuta@Seq_4383 and yHMPu5000034902_Ogataea_minuta@Seq_2947 and yHMPu5000034902_Ogataea_minuta@Seq_2198 and yHMPu5000034902_Ogataea_minuta@Seq_2938 and yHMPu5000034902_Ogataea_minuta@Seq_4002 and yHMPu5000034902_Ogataea_minuta@Seq_3635 and yHMPu5000034902_Ogataea_minuta@Seq_2080 and yHMPu5000034902_Ogataea_minuta@Seq_3262 and yHMPu5000034902_Ogataea_minuta@Seq_641) or (yHMPu5000034902_Ogataea_minuta@Seq_4383 and yHMPu5000034902_Ogataea_minuta@Seq_1999 and yHMPu5000034902_Ogataea_minuta@Seq_2947 and yHMPu5000034902_Ogataea_minuta@Seq_737 and yHMPu5000034902_Ogataea_minuta@Seq_1132 and yHMPu5000034902_Ogataea_minuta@Seq_1083 and yHMPu5000034902_Ogataea_minuta@Seq_1285 and yHMPu5000034902_Ogataea_minuta@Seq_4176)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034902_Ogataea_minuta@Seq_1286 and yHMPu5000034902_Ogataea_minuta@Seq_2198 and yHMPu5000034902_Ogataea_minuta@Seq_1546 and yHMPu5000034902_Ogataea_minuta@Seq_96 and yHMPu5000034902_Ogataea_minuta@Seq_586 and yHMPu5000034902_Ogataea_minuta@Seq_2945 and yHMPu5000034902_Ogataea_minuta@Seq_719	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1907	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1006	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1449	  0.00	1000.00	  0.00
@@ -327,9 +332,15 @@ r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 	yHMPu5000034
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1297	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1180	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2241 or yHMPu5000034902_Ogataea_minuta@Seq_312 or yHMPu5000034902_Ogataea_minuta@Seq_854	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2241 or yHMPu5000034902_Ogataea_minuta@Seq_312 or yHMPu5000034902_Ogataea_minuta@Seq_854	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2748 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_2966	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3945 and yHMPu5000034902_Ogataea_minuta@Seq_4115	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2497	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	yHMPu5000034902_Ogataea_minuta@Seq_25	  0.00	1000.00	  0.00
@@ -347,6 +358,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	yHMPu5000034902_Ogataea_
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1494	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2826 or (yHMPu5000034902_Ogataea_minuta@Seq_3792 and yHMPu5000034902_Ogataea_minuta@Seq_3856)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	yHMPu5000034902_Ogataea_minuta@Seq_440	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	yHMPu5000034902_Ogataea_minuta@Seq_653 and yHMPu5000034902_Ogataea_minuta@Seq_1981 and yHMPu5000034902_Ogataea_minuta@Seq_507 and yHMPu5000034902_Ogataea_minuta@Seq_3264 and yHMPu5000034902_Ogataea_minuta@Seq_796 and yHMPu5000034902_Ogataea_minuta@Seq_2095	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1389	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1389 or yHMPu5000034902_Ogataea_minuta@Seq_3749	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1389	  0.00	1000.00	  0.00
@@ -609,6 +621,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000034902_Ogataea_
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2319	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000034902_Ogataea_minuta@Seq_1266 and yHMPu5000034902_Ogataea_minuta@Seq_3684 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_2413 and yHMPu5000034902_Ogataea_minuta@Seq_2267	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4195	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000034902_Ogataea_minuta@Seq_653 and yHMPu5000034902_Ogataea_minuta@Seq_1981 and yHMPu5000034902_Ogataea_minuta@Seq_507 and yHMPu5000034902_Ogataea_minuta@Seq_3264 and yHMPu5000034902_Ogataea_minuta@Seq_796 and yHMPu5000034902_Ogataea_minuta@Seq_2095	  0.00	1000.00	  0.00
 r_0968	2 s_0328[c]  -> s_0314[c] + s_1405[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4327	  0.00	1000.00	  0.00
 r_0969	s_0434[c] + s_0575[c]  -> s_0394[c] + s_0794[c] + s_1408[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1972	  0.00	1000.00	  0.00
 r_0970	s_0434[c] + s_1616[c]  -> s_0586[c] + s_0803[c] + s_1620[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3499	  0.00	1000.00	  0.00
@@ -624,6 +637,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	yHMPu5000034
 r_0982	s_0577[c]  <=> s_1408[c] 	yHMPu5000034902_Ogataea_minuta@Seq_784	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1369	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	yHMPu5000034902_Ogataea_minuta@Seq_364	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	yHMPu5000034902_Ogataea_minuta@Seq_653 and yHMPu5000034902_Ogataea_minuta@Seq_1981 and yHMPu5000034902_Ogataea_minuta@Seq_507 and yHMPu5000034902_Ogataea_minuta@Seq_3264 and yHMPu5000034902_Ogataea_minuta@Seq_796 and yHMPu5000034902_Ogataea_minuta@Seq_2095	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1563	  0.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	yHMPu5000034902_Ogataea_minuta@Seq_966	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1096	  0.00	1000.00	  0.00
@@ -651,6 +665,7 @@ r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	yHMPu5000034
 r_1026	s_0394[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2178	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	yHMPu5000034902_Ogataea_minuta@Seq_202 and yHMPu5000034902_Ogataea_minuta@Seq_2478	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4208	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2197 and yHMPu5000034902_Ogataea_minuta@Seq_2061 and yHMPu5000034902_Ogataea_minuta@Seq_1139	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1861	-1000.00	1000.00	  0.00
 r_1038	s_0794[c] + s_1212[c] + s_1620[c]  -> s_1207[c] + s_1616[c] 	(yHMPu5000034902_Ogataea_minuta@Seq_2800 and yHMPu5000034902_Ogataea_minuta@Seq_3499) or yHMPu5000034902_Ogataea_minuta@Seq_2800	  0.00	1000.00	  0.00
 r_1039	s_0799[m] + s_1214[m] + s_1621[m]  -> s_1210[m] + s_1617[m] 	(yHMPu5000034902_Ogataea_minuta@Seq_1898 and yHMPu5000034902_Ogataea_minuta@Seq_2800) or (yHMPu5000034902_Ogataea_minuta@Seq_1898 and yHMPu5000034902_Ogataea_minuta@Seq_1198)	  0.00	1000.00	  0.00
@@ -1711,6 +1726,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	yHMPu5000034902_Ogataea
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	yHMPu5000034902_Ogataea_minuta@Seq_646	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2091 or yHMPu5000034902_Ogataea_minuta@Seq_2382 or yHMPu5000034902_Ogataea_minuta@Seq_2752 or yHMPu5000034902_Ogataea_minuta@Seq_3549 or yHMPu5000034902_Ogataea_minuta@Seq_3716	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	yHMPu5000034902_Ogataea_minuta@Seq_2091 or yHMPu5000034902_Ogataea_minuta@Seq_2382 or yHMPu5000034902_Ogataea_minuta@Seq_2752 or yHMPu5000034902_Ogataea_minuta@Seq_3549 or yHMPu5000034902_Ogataea_minuta@Seq_3716	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(yHMPu5000034902_Ogataea_minuta@Seq_1141 and yHMPu5000034902_Ogataea_minuta@Seq_3940 and yHMPu5000034902_Ogataea_minuta@Seq_4149 and yHMPu5000034902_Ogataea_minuta@Seq_212 and yHMPu5000034902_Ogataea_minuta@Seq_356 and yHMPu5000034902_Ogataea_minuta@Seq_2961 and yHMPu5000034902_Ogataea_minuta@Seq_4138 and yHMPu5000034902_Ogataea_minuta@Seq_638 and yHMPu5000034902_Ogataea_minuta@Seq_1365) or (yHMPu5000034902_Ogataea_minuta@Seq_1141 and yHMPu5000034902_Ogataea_minuta@Seq_3940 and yHMPu5000034902_Ogataea_minuta@Seq_4149 and yHMPu5000034902_Ogataea_minuta@Seq_212 and yHMPu5000034902_Ogataea_minuta@Seq_356 and yHMPu5000034902_Ogataea_minuta@Seq_2961 and yHMPu5000034902_Ogataea_minuta@Seq_4138 and yHMPu5000034902_Ogataea_minuta@Seq_972 and yHMPu5000034902_Ogataea_minuta@Seq_1365)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(yHMPu5000034902_Ogataea_minuta@Seq_1141 and yHMPu5000034902_Ogataea_minuta@Seq_3940 and yHMPu5000034902_Ogataea_minuta@Seq_4149 and yHMPu5000034902_Ogataea_minuta@Seq_212 and yHMPu5000034902_Ogataea_minuta@Seq_356 and yHMPu5000034902_Ogataea_minuta@Seq_2961 and yHMPu5000034902_Ogataea_minuta@Seq_4138 and yHMPu5000034902_Ogataea_minuta@Seq_638 and yHMPu5000034902_Ogataea_minuta@Seq_1365) or (yHMPu5000034902_Ogataea_minuta@Seq_1141 and yHMPu5000034902_Ogataea_minuta@Seq_3940 and yHMPu5000034902_Ogataea_minuta@Seq_4149 and yHMPu5000034902_Ogataea_minuta@Seq_212 and yHMPu5000034902_Ogataea_minuta@Seq_356 and yHMPu5000034902_Ogataea_minuta@Seq_2961 and yHMPu5000034902_Ogataea_minuta@Seq_4138 and yHMPu5000034902_Ogataea_minuta@Seq_972 and yHMPu5000034902_Ogataea_minuta@Seq_1365)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3006,8 +3023,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3138,7 +3155,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1103 or yHMPu5000034902_Ogataea_minuta@Seq_1253 or yHMPu5000034902_Ogataea_minuta@Seq_1521 or yHMPu5000034902_Ogataea_minuta@Seq_2090 or yHMPu5000034902_Ogataea_minuta@Seq_2231 or yHMPu5000034902_Ogataea_minuta@Seq_2464 or yHMPu5000034902_Ogataea_minuta@Seq_2591 or yHMPu5000034902_Ogataea_minuta@Seq_3579	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1103 or yHMPu5000034902_Ogataea_minuta@Seq_1253 or yHMPu5000034902_Ogataea_minuta@Seq_1521 or yHMPu5000034902_Ogataea_minuta@Seq_2090 or yHMPu5000034902_Ogataea_minuta@Seq_2231 or yHMPu5000034902_Ogataea_minuta@Seq_2464 or yHMPu5000034902_Ogataea_minuta@Seq_2591 or yHMPu5000034902_Ogataea_minuta@Seq_3579	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034902_Ogataea_minuta@Seq_1011 or yHMPu5000034902_Ogataea_minuta@Seq_3540	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2042 or yHMPu5000034902_Ogataea_minuta@Seq_2620 or yHMPu5000034902_Ogataea_minuta@Seq_3071 or yHMPu5000034902_Ogataea_minuta@Seq_4311	-1000.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034902_Ogataea_minuta@Seq_279	-1000.00	1000.00	  0.00
 r_4187	s_0437[m] + s_1037[m] + s_3808[m]  -> s_0424[m] + s_0636[m] + s_3809[m] 	yHMPu5000034902_Ogataea_minuta@Seq_2614	  0.00	1000.00	  0.00
 r_4189	s_3811[m]  <=> s_0807[m] + s_3812[m] 	yHMPu5000034902_Ogataea_minuta@Seq_1257	-1000.00	1000.00	  0.00
@@ -3172,6 +3188,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000034902_Ogataea
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2858 or yHMPu5000034902_Ogataea_minuta@Seq_3647 or yHMPu5000034902_Ogataea_minuta@Seq_927	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3538	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2485	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034902_Ogataea_minuta@Seq_1082 and yHMPu5000034902_Ogataea_minuta@Seq_3529 and yHMPu5000034902_Ogataea_minuta@Seq_4057 and yHMPu5000034902_Ogataea_minuta@Seq_3166	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3749	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4038	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034902_Ogataea_minuta@Seq_790	  0.00	1000.00	  0.00
@@ -3540,7 +3557,6 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3603	  0.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034902_Ogataea_minuta@Seq_380	-1000.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2734	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2602	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	yHMPu5000034902_Ogataea_minuta@Seq_45	  0.00	1000.00	  0.00
@@ -3556,13 +3572,11 @@ r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	yHMPu5000034902_Ogataea_minuta@Seq_554	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	yHMPu5000034902_Ogataea_minuta@Seq_539	  0.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1913 or yHMPu5000034902_Ogataea_minuta@Seq_2269 or yHMPu5000034902_Ogataea_minuta@Seq_3997 or yHMPu5000034902_Ogataea_minuta@Seq_4386	  0.00	1000.00	  0.00
-r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	yHMPu5000034902_Ogataea_minuta@Seq_743 or yHMPu5000034902_Ogataea_minuta@Seq_3114	-1000.00	1000.00	  0.00
+r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3114 or yHMPu5000034902_Ogataea_minuta@Seq_743	-1000.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2393 or yHMPu5000034902_Ogataea_minuta@Seq_2954 or yHMPu5000034902_Ogataea_minuta@Seq_3543	-1000.00	1000.00	  0.00
 r_4765	s_4439[c]  <=> s_0062[c] + s_1399[c] 	yHMPu5000034902_Ogataea_minuta@Seq_743	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	yHMPu5000034902_Ogataea_minuta@Seq_915	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1357	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3809	  0.00	1000.00	  0.00
 r_4816	s_1207[c] + s_1566[c]  <=> s_0580[c] + s_0794[c] + s_1212[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4370	-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000034902_Ogataea_minuta@Seq_849	  0.00	1000.00	  0.00
@@ -3575,10 +3589,7 @@ r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	yHMPu5000034902_Ogataea_minuta@Seq_
 r_4898	s_4361[c]  <=> s_3950[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3089	-1000.00	1000.00	  0.00
 r_4907	s_1275[c] + s_4123[c]  -> s_0721[c] + s_0837[c] 	yHMPu5000034902_Ogataea_minuta@Seq_974	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3725	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1680 or yHMPu5000034902_Ogataea_minuta@Seq_491	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3335	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000034902_Ogataea_minuta@Seq_45	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_414	  0.00	1000.00	  0.00
@@ -3587,17 +3598,14 @@ r_4972	s_0794[c] + s_1212[c] + s_4184[c]  -> s_1207[c] + s_4271[c] 	yHMPu5000034
 r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3335	-1000.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_414	  0.00	1000.00	  0.00
 r_5003	s_0803[c] + s_1038[c] + s_1275[c]  -> s_0837[c] + s_0959[c] + s_0991[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4000	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2406 or yHMPu5000034902_Ogataea_minuta@Seq_2818 or yHMPu5000034902_Ogataea_minuta@Seq_4082 or yHMPu5000034902_Ogataea_minuta@Seq_80	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2406 or yHMPu5000034902_Ogataea_minuta@Seq_2818 or yHMPu5000034902_Ogataea_minuta@Seq_4082 or yHMPu5000034902_Ogataea_minuta@Seq_80	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1959 or yHMPu5000034902_Ogataea_minuta@Seq_2673	  0.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1591	-1000.00	1000.00	  0.00
 r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1591	  0.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2393 or yHMPu5000034902_Ogataea_minuta@Seq_2954 or yHMPu5000034902_Ogataea_minuta@Seq_3543	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2042 or yHMPu5000034902_Ogataea_minuta@Seq_2620 or yHMPu5000034902_Ogataea_minuta@Seq_2652 or yHMPu5000034902_Ogataea_minuta@Seq_3071 or yHMPu5000034902_Ogataea_minuta@Seq_4311	-1000.00	1000.00	  0.00
 r_5191	s_0568[c]  <=> s_4361[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3089	-1000.00	1000.00	  0.00
 r_0739	s_0018[c] + s_0434[c]  -> s_0394[c] + s_0456[c] + s_0943[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2093	  0.00	1000.00	  0.00
-r_1073	s_0438[n] + s_1548[n]  -> s_0398[n] + s_1540[n] 	yHMPu5000034902_Ogataea_minuta@Seq_1286	  0.00	1000.00	  0.00
 r_0344	s_0625[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1487[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1942	  0.00	1000.00	  0.00
 r_0558	s_0218[c] + 2 s_0794[c] + 2 s_1212[c]  -> s_0028[c] + s_0529[c] + 2 s_1207[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3620	  0.00	1000.00	  0.00
 r_2454	s_3084[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3118[erm] 	yHMPu5000034902_Ogataea_minuta@Seq_698	  0.00	1000.00	  0.00
@@ -3611,10 +3619,7 @@ r_2461	s_3091[erm] + s_3117[erm]  -> s_2783[erm] + s_3108[erm] + s_3125[erm] 	yH
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3562	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1995	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000034902_Ogataea_minuta@Seq_4425 or yHMPu5000034902_Ogataea_minuta@Seq_1146	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034902_Ogataea_minuta@Seq_4383 and yHMPu5000034902_Ogataea_minuta@Seq_2947 and yHMPu5000034902_Ogataea_minuta@Seq_2198 and yHMPu5000034902_Ogataea_minuta@Seq_2938 and yHMPu5000034902_Ogataea_minuta@Seq_4002 and yHMPu5000034902_Ogataea_minuta@Seq_641 and yHMPu5000034902_Ogataea_minuta@Seq_3635 and yHMPu5000034902_Ogataea_minuta@Seq_2080 and yHMPu5000034902_Ogataea_minuta@Seq_3262) or (yHMPu5000034902_Ogataea_minuta@Seq_4383 and yHMPu5000034902_Ogataea_minuta@Seq_2947 and yHMPu5000034902_Ogataea_minuta@Seq_1083 and yHMPu5000034902_Ogataea_minuta@Seq_737 and yHMPu5000034902_Ogataea_minuta@Seq_1132 and yHMPu5000034902_Ogataea_minuta@Seq_1999 and yHMPu5000034902_Ogataea_minuta@Seq_4176 and yHMPu5000034902_Ogataea_minuta@Seq_1285)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034902_Ogataea_minuta@Seq_1286 and yHMPu5000034902_Ogataea_minuta@Seq_2198 and yHMPu5000034902_Ogataea_minuta@Seq_1546 and yHMPu5000034902_Ogataea_minuta@Seq_96 and yHMPu5000034902_Ogataea_minuta@Seq_586 and yHMPu5000034902_Ogataea_minuta@Seq_2945 and yHMPu5000034902_Ogataea_minuta@Seq_719	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3365) or (yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3365 and yHMPu5000034902_Ogataea_minuta@Seq_1533) or (yHMPu5000034902_Ogataea_minuta@Seq_3172 and yHMPu5000034902_Ogataea_minuta@Seq_511 and yHMPu5000034902_Ogataea_minuta@Seq_3661 and yHMPu5000034902_Ogataea_minuta@Seq_1914 and yHMPu5000034902_Ogataea_minuta@Seq_3616 and yHMPu5000034902_Ogataea_minuta@Seq_3991 and yHMPu5000034902_Ogataea_minuta@Seq_1058 and yHMPu5000034902_Ogataea_minuta@Seq_673 and yHMPu5000034902_Ogataea_minuta@Seq_3365 and yHMPu5000034902_Ogataea_minuta@Seq_616 and yHMPu5000034902_Ogataea_minuta@Seq_1284 and yHMPu5000034902_Ogataea_minuta@Seq_3834 and yHMPu5000034902_Ogataea_minuta@Seq_2600)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000034902_Ogataea_minuta@Seq_402 and yHMPu5000034902_Ogataea_minuta@Seq_3800 and yHMPu5000034902_Ogataea_minuta@Seq_3992 and yHMPu5000034902_Ogataea_minuta@Seq_12 and yHMPu5000034902_Ogataea_minuta@Seq_1067 and yHMPu5000034902_Ogataea_minuta@Seq_2941 and yHMPu5000034902_Ogataea_minuta@Seq_1782 and yHMPu5000034902_Ogataea_minuta@Seq_2063 and yHMPu5000034902_Ogataea_minuta@Seq_1218 and yHMPu5000034902_Ogataea_minuta@Seq_2491 and yHMPu5000034902_Ogataea_minuta@Seq_4433 and yHMPu5000034902_Ogataea_minuta@Seq_2450 and yHMPu5000034902_Ogataea_minuta@Seq_1078 and yHMPu5000034902_Ogataea_minuta@Seq_4024 and yHMPu5000034902_Ogataea_minuta@Seq_4261 and yHMPu5000034902_Ogataea_minuta@Seq_3912 and yHMPu5000034902_Ogataea_minuta@Seq_2619 and yHMPu5000034902_Ogataea_minuta@Seq_2453 and yHMPu5000034902_Ogataea_minuta@Seq_2102 and yHMPu5000034902_Ogataea_minuta@Seq_2884	  0.00	1000.00	  0.00
 r_0032	s_0390[c] + s_0803[c]  -> s_0423[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0104	2 s_0376[m]  <=> s_0370[m] + s_0532[m] 		-1000.00	1000.00	  0.00
 r_0151	s_0299[c]  -> s_0403[c] + s_0725[c] 		  0.00	1000.00	  0.00
@@ -3625,11 +3630,13 @@ r_0309	s_1012[c] + s_1039[c]  -> s_0803[c] + s_0980[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 		  0.00	1000.00	  0.00
+r_1073	s_0438[n] + s_1548[n]  -> s_0398[n] + s_1540[n] 		  0.00	1000.00	  0.00
 r_1266	s_1468[e]  -> s_1467[c] 		  0.00	1000.00	  0.00
-r_2446	s_3084[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3109[erm] 		  0.00	1000.00	  0.00
+r_2447	s_3085[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3110[erm] 		  0.00	1000.00	  0.00
+r_2452	s_3090[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3115[erm] 		  0.00	1000.00	  0.00
 r_4764	s_0803[c] + s_1239[c]  <=> s_0359[c] + s_0419[c] + s_1322[c] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000034902_Ogataea_minuta@Seq_2652	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000034902_Ogataea_minuta@Seq_630	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
@@ -3641,5 +3648,7 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
-r_4864	s_0581[c] + s_0721[c]  -> s_0764[c] + s_0771[c] 		  0.00	1000.00	  0.00
-r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 		  0.00	1000.00	  0.00
+r_4864	s_0581[c] + s_0721[c]  -> s_0764[c] + s_0771[c] 	yHMPu5000034902_Ogataea_minuta@Seq_3230	  0.00	1000.00	  0.00
+r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 	yHMPu5000034902_Ogataea_minuta@Seq_913	  0.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034902_Ogataea_minuta@Seq_4404	  0.00	1000.00	  0.00
+r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	yHMPu5000034902_Ogataea_minuta@Seq_1347	-1000.00	1000.00	  0.00

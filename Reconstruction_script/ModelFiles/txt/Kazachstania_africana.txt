@@ -14,6 +14,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	Kazachstania
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	Kazachstania_africana@Seq_1839 or Kazachstania_africana@Seq_2743 or Kazachstania_africana@Seq_884	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	Kazachstania_africana@Seq_2566	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	Kazachstania_africana@Seq_3341	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	Kazachstania_africana@Seq_689 and Kazachstania_africana@Seq_979 and Kazachstania_africana@Seq_445 and Kazachstania_africana@Seq_3651	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	Kazachstania_africana@Seq_689 and Kazachstania_africana@Seq_979 and Kazachstania_africana@Seq_445 and Kazachstania_africana@Seq_3651	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	Kazachstania_africana@Seq_4042	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	Kazachstania_africana@Seq_1711	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	Kazachstania_africana@Seq_1711	  0.00	1000.00	  0.00
@@ -185,6 +187,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Kazachstania
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Kazachstania_africana@Seq_1035 or Kazachstania_africana@Seq_3159	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Kazachstania_africana@Seq_1035 or Kazachstania_africana@Seq_3159	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Kazachstania_africana@Seq_1606	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_995 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_2787) or (Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_2787) or (Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_995 and Kazachstania_africana@Seq_193 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_4969 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_4399 and Kazachstania_africana@Seq_2524 and Kazachstania_africana@Seq_2787)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Kazachstania_africana@Seq_4338	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Kazachstania_africana@Seq_4662	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	Kazachstania_africana@Seq_1635	  0.00	1000.00	  0.00
@@ -304,6 +307,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Kazachstania_africana@Seq_3078	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Kazachstania_africana@Seq_3062	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Kazachstania_africana@Seq_3762 and Kazachstania_africana@Seq_4092	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_3762 and Kazachstania_africana@Seq_3805 and Kazachstania_africana@Seq_5084 and Kazachstania_africana@Seq_113 and Kazachstania_africana@Seq_2699 and Kazachstania_africana@Seq_2396 and Kazachstania_africana@Seq_4267) or (Kazachstania_africana@Seq_3766 and Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_2736 and Kazachstania_africana@Seq_4924 and Kazachstania_africana@Seq_1443 and Kazachstania_africana@Seq_2654 and Kazachstania_africana@Seq_612) or (Kazachstania_africana@Seq_5104 and Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_2736 and Kazachstania_africana@Seq_4924 and Kazachstania_africana@Seq_1443 and Kazachstania_africana@Seq_2654 and Kazachstania_africana@Seq_612)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Kazachstania_africana@Seq_601 and Kazachstania_africana@Seq_832 and Kazachstania_africana@Seq_1639 and Kazachstania_africana@Seq_3762 and Kazachstania_africana@Seq_716 and Kazachstania_africana@Seq_2547 and Kazachstania_africana@Seq_2559 and Kazachstania_africana@Seq_4783 and Kazachstania_africana@Seq_438	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Kazachstania_africana@Seq_4820	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Kazachstania_africana@Seq_2938	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	Kazachstania_africana@Seq_2280 or Kazachstania_africana@Seq_2514	-1000.00	1000.00	  0.00
@@ -376,6 +381,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	Kazachstania_africana@Se
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	Kazachstania_africana@Seq_4602	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	Kazachstania_africana@Seq_1781	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	Kazachstania_africana@Seq_613	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	Kazachstania_africana@Seq_689 and Kazachstania_africana@Seq_979 and Kazachstania_africana@Seq_445 and Kazachstania_africana@Seq_3651	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	Kazachstania_africana@Seq_1211 or Kazachstania_africana@Seq_1266 or Kazachstania_africana@Seq_1788	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	Kazachstania_africana@Seq_1211 or Kazachstania_africana@Seq_1266 or Kazachstania_africana@Seq_1788 or Kazachstania_africana@Seq_2537 or Kazachstania_africana@Seq_3259	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	Kazachstania_africana@Seq_1211 or Kazachstania_africana@Seq_1266 or Kazachstania_africana@Seq_1788	  0.00	1000.00	  0.00
@@ -574,7 +580,7 @@ r_0769	s_0438[n] + s_0593[n] + s_0808[n] + s_1001[n]  <=> s_0425[n] + s_0637[n] 
 r_0770	s_0794[c] + s_1203[c] + s_1537[m]  -> s_1198[c] + s_1535[m] 	Kazachstania_africana@Seq_1150 or Kazachstania_africana@Seq_3741	  0.00	1000.00	  0.00
 r_0771	s_0434[c] + s_1203[c]  -> s_0394[c] + s_0794[c] + s_1212[c] 	Kazachstania_africana@Seq_1216 or Kazachstania_africana@Seq_2908	  0.00	1000.00	  0.00
 r_0772	s_0437[m] + s_1205[m]  -> s_0397[m] + s_0799[m] + s_1214[m] 	Kazachstania_africana@Seq_1216 or Kazachstania_africana@Seq_2908	  0.00	1000.00	  0.00
-r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	Kazachstania_africana@Seq_2199	  0.00	1000.00	  0.00
+r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	Kazachstania_africana@Seq_2705	  0.00	1000.00	  0.00
 r_0774	s_0794[c] + s_1219[c] + s_1386[c]  -> s_0633[c] + s_1222[c] 	Kazachstania_africana@Seq_1481	  0.00	1000.00	  0.00
 r_0775	s_0799[m] + s_1221[m] + s_1387[m]  -> s_0636[m] + s_1223[m] 	Kazachstania_africana@Seq_1481	  0.00	1000.00	  0.00
 r_0781	s_0803[c] + s_1216[c]  -> s_0419[c] + s_1219[c] 	Kazachstania_africana@Seq_95	  0.00	1000.00	  0.00
@@ -682,6 +688,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Kazachstania_africana@Se
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Kazachstania_africana@Seq_2932 or Kazachstania_africana@Seq_4397 or Kazachstania_africana@Seq_4893	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Kazachstania_africana@Seq_693 and Kazachstania_africana@Seq_4990 and Kazachstania_africana@Seq_221 and Kazachstania_africana@Seq_4571 and Kazachstania_africana@Seq_641	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Kazachstania_africana@Seq_1772	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Kazachstania_africana@Seq_689 and Kazachstania_africana@Seq_979 and Kazachstania_africana@Seq_445 and Kazachstania_africana@Seq_3651	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Kazachstania_africana@Seq_794	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	Kazachstania_africana@Seq_794	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	Kazachstania_africana@Seq_3012	  0.00	1000.00	  0.00
@@ -700,6 +707,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	Kazachstania
 r_0982	s_0577[c]  <=> s_1408[c] 	Kazachstania_africana@Seq_1043	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	Kazachstania_africana@Seq_3261	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	Kazachstania_africana@Seq_550	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	Kazachstania_africana@Seq_689 and Kazachstania_africana@Seq_979 and Kazachstania_africana@Seq_445 and Kazachstania_africana@Seq_3651	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	Kazachstania_africana@Seq_2050	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Kazachstania_africana@Seq_924	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Kazachstania_africana@Seq_564	  0.00	1000.00	  0.00
@@ -3267,8 +3275,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3433,6 +3441,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Kazachstania_africana@Seq_1993 or Kazachstania_africana@Seq_889	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Kazachstania_africana@Seq_4442	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Kazachstania_africana@Seq_1188	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Kazachstania_africana@Seq_2543 and Kazachstania_africana@Seq_4736 and Kazachstania_africana@Seq_2035 and Kazachstania_africana@Seq_543 and Kazachstania_africana@Seq_3497	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Kazachstania_africana@Seq_2537 or Kazachstania_africana@Seq_3259	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Kazachstania_africana@Seq_2393 or Kazachstania_africana@Seq_2760 or Kazachstania_africana@Seq_786	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Kazachstania_africana@Seq_1936	  0.00	1000.00	  0.00
@@ -3802,23 +3811,13 @@ r_4625	s_4113[c]  <=> s_4010[m] 		-1000.00	1000.00	  0.00
 r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Kazachstania_africana@Seq_1633	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Kazachstania_africana@Seq_1633	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Kazachstania_africana@Seq_2243	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	Kazachstania_africana@Seq_4843 or Kazachstania_africana@Seq_627	  0.00	1000.00	  0.00
 r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	Kazachstania_africana@Seq_4870	  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_1443 and Kazachstania_africana@Seq_2736 and Kazachstania_africana@Seq_4924 and Kazachstania_africana@Seq_3766 and Kazachstania_africana@Seq_612 and Kazachstania_africana@Seq_2654) or (Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_1443 and Kazachstania_africana@Seq_2736 and Kazachstania_africana@Seq_4924 and Kazachstania_africana@Seq_5104 and Kazachstania_africana@Seq_612 and Kazachstania_africana@Seq_2654) or (Kazachstania_africana@Seq_1139 and Kazachstania_africana@Seq_3762 and Kazachstania_africana@Seq_3805 and Kazachstania_africana@Seq_5084 and Kazachstania_africana@Seq_113 and Kazachstania_africana@Seq_4267 and Kazachstania_africana@Seq_2699 and Kazachstania_africana@Seq_2396)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Kazachstania_africana@Seq_601 and Kazachstania_africana@Seq_832 and Kazachstania_africana@Seq_1639 and Kazachstania_africana@Seq_3762 and Kazachstania_africana@Seq_716 and Kazachstania_africana@Seq_2547 and Kazachstania_africana@Seq_2559 and Kazachstania_africana@Seq_4783 and Kazachstania_africana@Seq_438	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_995 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_2787) or (Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_2787) or (Kazachstania_africana@Seq_3583 and Kazachstania_africana@Seq_3046 and Kazachstania_africana@Seq_3014 and Kazachstania_africana@Seq_4371 and Kazachstania_africana@Seq_995 and Kazachstania_africana@Seq_474 and Kazachstania_africana@Seq_1877 and Kazachstania_africana@Seq_781 and Kazachstania_africana@Seq_2787 and Kazachstania_africana@Seq_193 and Kazachstania_africana@Seq_4969 and Kazachstania_africana@Seq_4399 and Kazachstania_africana@Seq_2524)	  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Kazachstania_africana@Seq_4304	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3829,3 +3828,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Kazachstania_africana@Seq_324	  0.00	1000.00	  0.00

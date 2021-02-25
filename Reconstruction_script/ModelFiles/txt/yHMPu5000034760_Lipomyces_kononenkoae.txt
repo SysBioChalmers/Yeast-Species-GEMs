@@ -14,6 +14,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	yHMPu5000034
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1716 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3638 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6072 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6413	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2960 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_355	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4358 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1940	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_900 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5089 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_26 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_582 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_686 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5015	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_900 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5089 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_26 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_582 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_686 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5015	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2767	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5661	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5661	  0.00	1000.00	  0.00
@@ -189,6 +191,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6237	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6237	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2754	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6309) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_584 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5786 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1529 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5429 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3542 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_516	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_799	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2936	-1000.00	1000.00	  0.00
@@ -310,6 +313,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_265 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5571	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6892	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7540 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6898	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034760_Lipomyces_kononenkoae@Seq_7267 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7540 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2462 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6760 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_45 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5851 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4497 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4250) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_7267 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3620 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3921 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4285 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5906)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4948 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_836 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7540 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7207 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2681 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4412 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1288 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6677	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2842	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4339 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5840	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4339 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5840	  0.00	1000.00	  0.00
@@ -386,6 +391,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	yHMPu5000034760_Lipomyce
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3657	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_102 or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_362 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3645)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_684	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_900 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5089 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_26 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_582 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_686 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5015	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3020 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7003	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3020 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3910 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7003	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3020 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7003	  0.00	1000.00	  0.00
@@ -658,6 +664,7 @@ r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 	yHMPu5000034
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5205	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7464	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1543	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5929 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3166	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3166	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3166	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3166	-1000.00	1000.00	  0.00
@@ -671,6 +678,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	yHMPu5000034760_Lipomyce
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2293 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7341	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6998 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_825 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4612 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4500 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7004	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3970	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_900 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5089 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_26 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_582 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_686 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5015	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3715	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3715	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6482	  0.00	1000.00	  0.00
@@ -689,6 +697,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	yHMPu5000034
 r_0982	s_0577[c]  <=> s_1408[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_879	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6985	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4933	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_900 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5089 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_26 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_582 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_686 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5015	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1704	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6619	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7270	  0.00	1000.00	  0.00
@@ -3113,8 +3122,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3245,7 +3254,7 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1068 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2723 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3039 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3263 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4038 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5756 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6381 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6795 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7173	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1068 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2723 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3039 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3263 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4038 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5756 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6381 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6795 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7173	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2019 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2122	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2152 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3107 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3729 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4663 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5013 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6141 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_667	-1000.00	1000.00	  0.00
+r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2152	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2096	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2096	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1867	-1000.00	1000.00	  0.00
@@ -3287,6 +3296,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000034760_Lipomyc
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7061	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4151	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5866	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4348 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1752 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6994 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3386	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3910	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4954	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3797	  0.00	1000.00	  0.00
@@ -3657,16 +3667,14 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1474	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2049 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4386 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4642 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_636	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5953 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5820	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5992	-1000.00	1000.00	  0.00
 r_4644	s_0434[c] + s_0803[c] + s_1399[c]  <=> s_0423[c] + 2 s_0794[c] + s_1322[c] + s_1360[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3932	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6067	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2741	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	  0.00	1000.00	  0.00
@@ -3676,10 +3684,10 @@ r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	yHMPu5000034760_Lipomyce
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3277	  0.00	1000.00	  0.00
 r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5341	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7351	  0.00	1000.00	  0.00
-r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
+r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1415	  0.00	1000.00	  0.00
-r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2700	  0.00	1000.00	  0.00
+r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2700 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219	  0.00	1000.00	  0.00
 r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1608	  0.00	1000.00	  0.00
 r_4670	s_3951[c]  <=> s_3949[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6499	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2845 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3448 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3603 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4509 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4816 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5301 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5897 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6248	-1000.00	1000.00	  0.00
@@ -3697,7 +3705,7 @@ r_4703	s_1198[c] + s_4475[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	yHMPu500003
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6768	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1935 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2199 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6395	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_681	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4877 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4588	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4588 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4877	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2341	  0.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7534	  0.00	1000.00	  0.00
 r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7534	  0.00	1000.00	  0.00
@@ -3733,9 +3741,8 @@ r_4783	s_0794[c] + s_1212[c] + s_4432[c]  -> s_1207[c] + s_4434[c] 	yHMPu5000034
 r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_946	  0.00	1000.00	  0.00
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_946	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_946	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2139 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5426 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6668	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
+r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2332	-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1006 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5862 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6527 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6624	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1449	-1000.00	1000.00	  0.00
 r_4814	s_4428[c]  <=> s_0725[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_334	-1000.00	1000.00	  0.00
@@ -3766,11 +3773,10 @@ r_4903	s_1416[c] + s_4356[c]  -> s_0794[c] + s_1413[c] + s_4357[c] 	yHMPu5000034
 r_4904	4 s_0794[c] + 4 s_0924[c] + s_1275[c]  -> 2 s_0803[c] + 4 s_4355[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4984	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_787	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5135	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
+r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4182	  0.00	1000.00	  0.00
+r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4182	  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3973 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4105 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6943 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7392	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_3973 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4105 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6943 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7392	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1487 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3168	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5000	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1415	  0.00	1000.00	  0.00
@@ -3793,11 +3799,10 @@ r_4991	s_1322[c] + s_1520[c]  <=> s_0567[c] + s_3951[c] 	yHMPu5000034760_Lipomyc
 r_4994	s_1212[c] + s_1266[c] + s_1275[c]  -> s_0803[c] + s_1207[c] + s_4267[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_540	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_177 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2429 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3313 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3444 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3819 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4062 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4602 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4965 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_515 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6210 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7559 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7570	  0.00	1000.00	  0.00
 r_5004	s_0794[c] + s_0850[c] + s_1212[c]  -> s_1207[c] + s_1529[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6570	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4511	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2679 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_480 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4982 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5100 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6804	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5233 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_864	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1931 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2679 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_480 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4982 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5100 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6804	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5233 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_864	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5233 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_864	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5233 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_864	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2020 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_3973 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4105 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5233 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6091 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6943 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_7392 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_864	  0.00	1000.00	  0.00
@@ -3809,13 +3814,13 @@ r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000034760_Lipomyces_kononenko
 r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
 r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1389	-1000.00	1000.00	  0.00
 r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1636 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5055	-1000.00	1000.00	  0.00
-r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432	-1000.00	1000.00	  0.00
-r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2700	-1000.00	1000.00	  0.00
+r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6432 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_1189	-1000.00	1000.00	  0.00
+r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2700 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_2219	-1000.00	1000.00	  0.00
 r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2474	-1000.00	1000.00	  0.00
 r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2474	-1000.00	1000.00	  0.00
 r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_2474	-1000.00	1000.00	  0.00
@@ -3835,7 +3840,6 @@ r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_1283 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_4328 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_6228	  0.00	1000.00	  0.00
 r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4383 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5911	-1000.00	1000.00	  0.00
 r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4383 or yHMPu5000034760_Lipomyces_kononenkoae@Seq_5911	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5153	s_0794[c] + s_1212[c] + s_4463[c]  <=> s_1207[c] + s_4555[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5124	-1000.00	1000.00	  0.00
 r_5154	s_1207[c] + s_4554[c]  <=> s_0794[c] + s_1212[c] + s_4553[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5124	-1000.00	1000.00	  0.00
 r_5161	s_0794[c] + s_4550[c]  -> s_0456[c] + s_4365[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5522	  0.00	1000.00	  0.00
@@ -3853,15 +3857,12 @@ r_2525	s_2970[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3193[erm] 	yH
 r_2526	s_2972[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3195[erm] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7300	  0.00	1000.00	  0.00
 r_2527	s_2974[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3197[erm] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7300	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_5354	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034760_Lipomyces_kononenkoae@Seq_7267 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7540 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2462 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6760 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_45 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4250 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5851 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4497) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_7267 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3921 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3620 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5906 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4285)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4948 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_836 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7540 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7207 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2681 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4412 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1288 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6677	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6309) or (yHMPu5000034760_Lipomyces_kononenkoae@Seq_2603 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4871 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4864 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1281 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6436 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_736 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1452 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_7433 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4711 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_737 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5786 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1529 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5429 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_3542 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_584)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6587 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_6529 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2088 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4840 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_5432 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_289 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_255 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2896 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_4459 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_2590 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_1869 and yHMPu5000034760_Lipomyces_kononenkoae@Seq_708	  0.00	1000.00	  0.00
 r_0154	s_0298[c] + s_0434[c]  -> s_0201[c] + s_0394[c] + s_0794[c] 		  0.00	1000.00	  0.00
 r_1237	s_0794[c] + s_1268[m]  -> s_0799[m] + s_1266[c] 		  0.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_7112	  0.00	1000.00	  0.00
 r_5197	s_0794[c] + s_4275[c]  <=> s_0796[e] + s_4631[e] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_4421	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
@@ -3873,3 +3874,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034760_Lipomyces_kononenkoae@Seq_6070	  0.00	1000.00	  0.00

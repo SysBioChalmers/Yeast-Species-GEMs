@@ -192,6 +192,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Lipomyces_st
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Lipomyces_starkeyi@Seq_534	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Lipomyces_starkeyi@Seq_534	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Lipomyces_starkeyi@Seq_299	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_6915) or (Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_6915 and Lipomyces_starkeyi@Seq_2622) or (Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_2282 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_2781 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_490 and Lipomyces_starkeyi@Seq_3730 and Lipomyces_starkeyi@Seq_4975 and Lipomyces_starkeyi@Seq_6915)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Lipomyces_starkeyi@Seq_928	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Lipomyces_starkeyi@Seq_2490	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Lipomyces_starkeyi@Seq_3789	-1000.00	1000.00	  0.00
@@ -312,6 +313,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Lipomyces_starkeyi@Seq_2248 or Lipomyces_starkeyi@Seq_5467	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Lipomyces_starkeyi@Seq_6509	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Lipomyces_starkeyi@Seq_8612 and Lipomyces_starkeyi@Seq_1889	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	Lipomyces_starkeyi@Seq_8612 and Lipomyces_starkeyi@Seq_497 and Lipomyces_starkeyi@Seq_5086 and Lipomyces_starkeyi@Seq_1485 and Lipomyces_starkeyi@Seq_8042 and Lipomyces_starkeyi@Seq_3715 and Lipomyces_starkeyi@Seq_8707 and Lipomyces_starkeyi@Seq_6804	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Lipomyces_starkeyi@Seq_3934 and Lipomyces_starkeyi@Seq_1150 and Lipomyces_starkeyi@Seq_8612 and Lipomyces_starkeyi@Seq_2395 and Lipomyces_starkeyi@Seq_8307 and Lipomyces_starkeyi@Seq_701 and Lipomyces_starkeyi@Seq_2186 and Lipomyces_starkeyi@Seq_6194	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Lipomyces_starkeyi@Seq_6618	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	Lipomyces_starkeyi@Seq_1013 or Lipomyces_starkeyi@Seq_1169 or Lipomyces_starkeyi@Seq_3811 or Lipomyces_starkeyi@Seq_456	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	Lipomyces_starkeyi@Seq_1013 or Lipomyces_starkeyi@Seq_1169 or Lipomyces_starkeyi@Seq_3811 or Lipomyces_starkeyi@Seq_456	  0.00	1000.00	  0.00
@@ -660,6 +663,7 @@ r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 	Lipomyces_st
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_3055	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	Lipomyces_starkeyi@Seq_871	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	Lipomyces_starkeyi@Seq_4580	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	Lipomyces_starkeyi@Seq_6072 and Lipomyces_starkeyi@Seq_8441	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	Lipomyces_starkeyi@Seq_8441	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	Lipomyces_starkeyi@Seq_8441	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	Lipomyces_starkeyi@Seq_8441	-1000.00	1000.00	  0.00
@@ -3096,8 +3100,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3229,7 +3233,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Lipomyces_s
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Lipomyces_starkeyi@Seq_103 or Lipomyces_starkeyi@Seq_2154 or Lipomyces_starkeyi@Seq_346 or Lipomyces_starkeyi@Seq_3489 or Lipomyces_starkeyi@Seq_5159 or Lipomyces_starkeyi@Seq_5260 or Lipomyces_starkeyi@Seq_762	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Lipomyces_starkeyi@Seq_103 or Lipomyces_starkeyi@Seq_2154 or Lipomyces_starkeyi@Seq_346 or Lipomyces_starkeyi@Seq_3489 or Lipomyces_starkeyi@Seq_5159 or Lipomyces_starkeyi@Seq_5260 or Lipomyces_starkeyi@Seq_762	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Lipomyces_starkeyi@Seq_3695 or Lipomyces_starkeyi@Seq_8201	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_1128 or Lipomyces_starkeyi@Seq_1834 or Lipomyces_starkeyi@Seq_3311	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Lipomyces_starkeyi@Seq_90	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Lipomyces_starkeyi@Seq_90	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Lipomyces_starkeyi@Seq_5266	-1000.00	1000.00	  0.00
@@ -3274,6 +3277,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Lipomyces_starkeyi@Seq_
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Lipomyces_starkeyi@Seq_1966	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Lipomyces_starkeyi@Seq_6659	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Lipomyces_starkeyi@Seq_5085	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Lipomyces_starkeyi@Seq_4798 and Lipomyces_starkeyi@Seq_4523 and Lipomyces_starkeyi@Seq_919 and Lipomyces_starkeyi@Seq_8531	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Lipomyces_starkeyi@Seq_7230	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Lipomyces_starkeyi@Seq_7553 or Lipomyces_starkeyi@Seq_8232	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Lipomyces_starkeyi@Seq_4511	  0.00	1000.00	  0.00
@@ -3642,15 +3646,13 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Lipomyces_starkeyi@Seq_3585	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Lipomyces_starkeyi@Seq_2956 or Lipomyces_starkeyi@Seq_3932 or Lipomyces_starkeyi@Seq_4667 or Lipomyces_starkeyi@Seq_6734 or Lipomyces_starkeyi@Seq_7336	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_7051	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Lipomyces_starkeyi@Seq_7051	  0.00	1000.00	  0.00
-r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Lipomyces_starkeyi@Seq_7752 or Lipomyces_starkeyi@Seq_5216	  0.00	1000.00	  0.00
+r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Lipomyces_starkeyi@Seq_1089 or Lipomyces_starkeyi@Seq_7752 or Lipomyces_starkeyi@Seq_5216	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Lipomyces_starkeyi@Seq_5237	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Lipomyces_starkeyi@Seq_7397	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Lipomyces_starkeyi@Seq_3801 or Lipomyces_starkeyi@Seq_3882 or Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Lipomyces_starkeyi@Seq_7397 or Lipomyces_starkeyi@Seq_4526	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Lipomyces_starkeyi@Seq_7397	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Lipomyces_starkeyi@Seq_7397	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Lipomyces_starkeyi@Seq_7397	  0.00	1000.00	  0.00
@@ -3660,8 +3662,8 @@ r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Lipomyces_starkeyi@Seq_3
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Lipomyces_starkeyi@Seq_3556	  0.00	1000.00	  0.00
 r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Lipomyces_starkeyi@Seq_1097	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Lipomyces_starkeyi@Seq_1809	  0.00	1000.00	  0.00
-r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
+r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Lipomyces_starkeyi@Seq_1870 or Lipomyces_starkeyi@Seq_7051 or Lipomyces_starkeyi@Seq_7922	  0.00	1000.00	  0.00
 r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	Lipomyces_starkeyi@Seq_2285 or Lipomyces_starkeyi@Seq_4100 or Lipomyces_starkeyi@Seq_6077	  0.00	1000.00	  0.00
 r_4670	s_3951[c]  <=> s_3949[c] 	Lipomyces_starkeyi@Seq_3119	-1000.00	1000.00	  0.00
@@ -3684,8 +3686,8 @@ r_4703	s_1198[c] + s_4475[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Lipomyces_s
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Lipomyces_starkeyi@Seq_4575	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Lipomyces_starkeyi@Seq_2138 or Lipomyces_starkeyi@Seq_3672 or Lipomyces_starkeyi@Seq_3896 or Lipomyces_starkeyi@Seq_5754 or Lipomyces_starkeyi@Seq_8433	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Lipomyces_starkeyi@Seq_487	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Lipomyces_starkeyi@Seq_736 or Lipomyces_starkeyi@Seq_3986	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Lipomyces_starkeyi@Seq_4067 or Lipomyces_starkeyi@Seq_4906	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Lipomyces_starkeyi@Seq_3986 or Lipomyces_starkeyi@Seq_736	  0.00	1000.00	  0.00
+r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Lipomyces_starkeyi@Seq_4067	  0.00	1000.00	  0.00
 r_4720	s_0794[c] + s_4486[c]  <=> s_0456[c] + s_3958[c] 	Lipomyces_starkeyi@Seq_5109	-1000.00	1000.00	  0.00
 r_4721	s_1198[c] + s_4486[c]  <=> s_0794[c] + s_1203[c] + s_4485[c] 	Lipomyces_starkeyi@Seq_5109	-1000.00	1000.00	  0.00
 r_4726	s_1006[c] + 3 s_1416[c]  -> 3 s_0794[c] + 3 s_1413[c] + s_4482[c] 	Lipomyces_starkeyi@Seq_7426	  0.00	1000.00	  0.00
@@ -3695,7 +3697,7 @@ r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Lipomyces_starkeyi@Seq_
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Lipomyces_starkeyi@Seq_8538	  0.00	1000.00	  0.00
 r_4736	s_0794[c] + s_4188[c]  -> s_0020[c] + s_0456[c] 	Lipomyces_starkeyi@Seq_2371	  0.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Lipomyces_starkeyi@Seq_3684	  0.00	1000.00	  0.00
-r_4738	s_0264[c] + s_1198[c]  -> s_0456[c] + s_1203[c] + s_4477[c] 	Lipomyces_starkeyi@Seq_4653 or Lipomyces_starkeyi@Seq_1313	  0.00	1000.00	  0.00
+r_4738	s_0264[c] + s_1198[c]  -> s_0456[c] + s_1203[c] + s_4477[c] 	Lipomyces_starkeyi@Seq_1313 or Lipomyces_starkeyi@Seq_4653	  0.00	1000.00	  0.00
 r_4743	s_1275[c] + s_4340[c]  -> 2 s_4352[c] 	Lipomyces_starkeyi@Seq_7991	  0.00	1000.00	  0.00
 r_4744	s_0803[c] + s_1275[c] + s_4450[c]  -> s_0419[c] + s_0837[c] + s_0850[c] 	Lipomyces_starkeyi@Seq_2223 or Lipomyces_starkeyi@Seq_3797	  0.00	1000.00	  0.00
 r_4745	s_0803[c] + s_1275[c] + s_4474[c]  -> s_0419[c] + s_0837[c] + s_4263[c] 	Lipomyces_starkeyi@Seq_2223 or Lipomyces_starkeyi@Seq_3797	  0.00	1000.00	  0.00
@@ -3706,7 +3708,7 @@ r_4749	s_0803[c] + s_1275[c] + s_4472[c]  -> s_0419[c] + s_0837[c] + s_4265[c] 	
 r_4750	s_0803[c] + s_1275[c] + s_4471[c]  -> s_0837[c] + s_4265[c] + s_4470[c] 	Lipomyces_starkeyi@Seq_2223 or Lipomyces_starkeyi@Seq_3797	  0.00	1000.00	  0.00
 r_4752	s_0794[c] + s_1203[c] + s_1399[c]  -> s_0025[c] + s_1198[c] 	Lipomyces_starkeyi@Seq_3110	  0.00	1000.00	  0.00
 r_4754	s_1198[c] + s_4411[c]  <=> s_0794[c] + s_1203[c] + s_4469[c] 	Lipomyces_starkeyi@Seq_8114	-1000.00	1000.00	  0.00
-r_4755	s_0794[c] + s_1006[c]  -> s_0456[c] + s_4350[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
+r_4755	s_0794[c] + s_1006[c]  -> s_0456[c] + s_4350[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
 r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Lipomyces_starkeyi@Seq_1027 or Lipomyces_starkeyi@Seq_5304 or Lipomyces_starkeyi@Seq_6070 or Lipomyces_starkeyi@Seq_740 or Lipomyces_starkeyi@Seq_7699	-1000.00	1000.00	  0.00
 r_4758	s_0794[c] + s_4468[c]  <=> s_0456[c] + s_4405[c] 	Lipomyces_starkeyi@Seq_8701 or Lipomyces_starkeyi@Seq_3576	-1000.00	1000.00	  0.00
 r_4759	s_0581[c] + s_1322[c]  -> s_0764[c] + s_0803[c] + s_4317[c] 	Lipomyces_starkeyi@Seq_2432 or Lipomyces_starkeyi@Seq_6049	  0.00	1000.00	  0.00
@@ -3716,16 +3718,14 @@ r_4765	s_4439[c]  <=> s_0062[c] + s_1399[c] 	Lipomyces_starkeyi@Seq_1027 or Lipo
 r_4766	s_0803[c] + 2 s_1198[c] + s_1543[c]  -> 3 s_0794[c] + 2 s_1203[c] + s_4436[c] 	Lipomyces_starkeyi@Seq_3564	  0.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Lipomyces_starkeyi@Seq_602	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Lipomyces_starkeyi@Seq_2010	  0.00	1000.00	  0.00
-r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
-r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
+r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
+r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
 r_4782	s_0794[c] + s_1212[c] + s_4208[c]  -> s_1207[c] + s_4437[c] 	Lipomyces_starkeyi@Seq_1738 or Lipomyces_starkeyi@Seq_5712	  0.00	1000.00	  0.00
 r_4783	s_0794[c] + s_1212[c] + s_4432[c]  -> s_1207[c] + s_4434[c] 	Lipomyces_starkeyi@Seq_1738 or Lipomyces_starkeyi@Seq_5712	  0.00	1000.00	  0.00
-r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
-r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
-r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Lipomyces_starkeyi@Seq_3777 or Lipomyces_starkeyi@Seq_5917	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
+r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
+r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
+r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Lipomyces_starkeyi@Seq_5917 or Lipomyces_starkeyi@Seq_3777	  0.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Lipomyces_starkeyi@Seq_3754 or Lipomyces_starkeyi@Seq_5729 or Lipomyces_starkeyi@Seq_6154	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Lipomyces_starkeyi@Seq_3636 or Lipomyces_starkeyi@Seq_6369 or Lipomyces_starkeyi@Seq_6540 or Lipomyces_starkeyi@Seq_7980	  0.00	1000.00	  0.00
 r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Lipomyces_starkeyi@Seq_3149 or Lipomyces_starkeyi@Seq_4444 or Lipomyces_starkeyi@Seq_6827	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	Lipomyces_starkeyi@Seq_5583	-1000.00	1000.00	  0.00
@@ -3742,7 +3742,7 @@ r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] +
 r_4846	s_0803[c] + s_4381[c]  -> s_0794[c] + s_4401[c] 	Lipomyces_starkeyi@Seq_2012 or Lipomyces_starkeyi@Seq_4182	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Lipomyces_starkeyi@Seq_6880	  0.00	1000.00	  0.00
 r_4864	s_0581[c] + s_0721[c]  -> s_0764[c] + s_0771[c] 	Lipomyces_starkeyi@Seq_2194 or Lipomyces_starkeyi@Seq_4707	  0.00	1000.00	  0.00
-r_4869	s_0803[c] + s_3980[c]  -> s_0794[c] + s_3778[c] + s_3997[c] 	Lipomyces_starkeyi@Seq_8107 or Lipomyces_starkeyi@Seq_5453	  0.00	1000.00	  0.00
+r_4869	s_0803[c] + s_3980[c]  -> s_0794[c] + s_3778[c] + s_3997[c] 	Lipomyces_starkeyi@Seq_5453 or Lipomyces_starkeyi@Seq_8107	  0.00	1000.00	  0.00
 r_4870	s_1198[c] + s_4372[c]  -> s_0794[c] + s_1203[c] + s_4327[c] 	Lipomyces_starkeyi@Seq_5343	  0.00	1000.00	  0.00
 r_4871	s_1198[c] + s_4371[c]  -> 2 s_0794[c] + s_1203[c] + s_4327[c] 	Lipomyces_starkeyi@Seq_5343	  0.00	1000.00	  0.00
 r_4879	s_1198[c] + s_4382[c]  <=> s_0794[c] + s_1203[c] + s_4381[c] 	Lipomyces_starkeyi@Seq_3149	-1000.00	1000.00	  0.00
@@ -3753,11 +3753,10 @@ r_4894	2 s_0794[c] + s_0803[c] + s_4363[c]  -> s_0419[c] + s_0456[c] + s_1389[c]
 r_4904	4 s_0794[c] + 4 s_0924[c] + s_1275[c]  -> 2 s_0803[c] + 4 s_4355[c] 	Lipomyces_starkeyi@Seq_6911	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Lipomyces_starkeyi@Seq_1763	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Lipomyces_starkeyi@Seq_8673	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
+r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 	Lipomyces_starkeyi@Seq_6562	  0.00	1000.00	  0.00
+r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 	Lipomyces_starkeyi@Seq_6562	  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	Lipomyces_starkeyi@Seq_3242 or Lipomyces_starkeyi@Seq_3939 or Lipomyces_starkeyi@Seq_8636	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	Lipomyces_starkeyi@Seq_3242 or Lipomyces_starkeyi@Seq_3939 or Lipomyces_starkeyi@Seq_8636	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Lipomyces_starkeyi@Seq_719	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_347 or Lipomyces_starkeyi@Seq_3902	-1000.00	1000.00	  0.00
 r_4947	s_1322[c] + s_3948[c]  -> s_0551[c] + s_0803[c] + s_4317[c] 	Lipomyces_starkeyi@Seq_2432 or Lipomyces_starkeyi@Seq_6049	  0.00	1000.00	  0.00
@@ -3780,28 +3779,27 @@ r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] +
 r_4996	s_0434[c] + s_0803[c] + s_1374[e]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1373[c] 	Lipomyces_starkeyi@Seq_1623	  0.00	1000.00	  0.00
 r_5004	s_0794[c] + s_0850[c] + s_1212[c]  -> s_1207[c] + s_1529[c] 	Lipomyces_starkeyi@Seq_7930	  0.00	1000.00	  0.00
 r_5015	s_1198[c] + s_4250[c]  <=> s_0794[c] + s_1203[c] + s_4249[c] 	Lipomyces_starkeyi@Seq_3969	-1000.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Lipomyces_starkeyi@Seq_6401	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	Lipomyces_starkeyi@Seq_6737	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Lipomyces_starkeyi@Seq_1285 or Lipomyces_starkeyi@Seq_1740 or Lipomyces_starkeyi@Seq_2153 or Lipomyces_starkeyi@Seq_2687 or Lipomyces_starkeyi@Seq_3005 or Lipomyces_starkeyi@Seq_3443 or Lipomyces_starkeyi@Seq_4536 or Lipomyces_starkeyi@Seq_4789 or Lipomyces_starkeyi@Seq_5506 or Lipomyces_starkeyi@Seq_6490	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Lipomyces_starkeyi@Seq_1285 or Lipomyces_starkeyi@Seq_1740 or Lipomyces_starkeyi@Seq_2153 or Lipomyces_starkeyi@Seq_2687 or Lipomyces_starkeyi@Seq_3005 or Lipomyces_starkeyi@Seq_3443 or Lipomyces_starkeyi@Seq_4536 or Lipomyces_starkeyi@Seq_4789 or Lipomyces_starkeyi@Seq_5506 or Lipomyces_starkeyi@Seq_6490	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Lipomyces_starkeyi@Seq_3242 or Lipomyces_starkeyi@Seq_3939 or Lipomyces_starkeyi@Seq_579 or Lipomyces_starkeyi@Seq_7981 or Lipomyces_starkeyi@Seq_8280 or Lipomyces_starkeyi@Seq_8636	  0.00	1000.00	  0.00
 r_5050	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4612[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
 r_5051	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4611[c] 	Lipomyces_starkeyi@Seq_8280	  0.00	1000.00	  0.00
-r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Lipomyces_starkeyi@Seq_8265 or Lipomyces_starkeyi@Seq_5026 or Lipomyces_starkeyi@Seq_6666	-1000.00	1000.00	  0.00
+r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Lipomyces_starkeyi@Seq_6666 or Lipomyces_starkeyi@Seq_8265 or Lipomyces_starkeyi@Seq_5026	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Lipomyces_starkeyi@Seq_503	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
 r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
 r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Lipomyces_starkeyi@Seq_7397	-1000.00	1000.00	  0.00
 r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	Lipomyces_starkeyi@Seq_3105 or Lipomyces_starkeyi@Seq_3575 or Lipomyces_starkeyi@Seq_7117	-1000.00	1000.00	  0.00
-r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
-r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_6737 or Lipomyces_starkeyi@Seq_8074	-1000.00	1000.00	  0.00
+r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
+r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_8074 or Lipomyces_starkeyi@Seq_6737	-1000.00	1000.00	  0.00
 r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Lipomyces_starkeyi@Seq_1870 or Lipomyces_starkeyi@Seq_7051 or Lipomyces_starkeyi@Seq_7922	-1000.00	1000.00	  0.00
 r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Lipomyces_starkeyi@Seq_1465 or Lipomyces_starkeyi@Seq_1957 or Lipomyces_starkeyi@Seq_5525	-1000.00	1000.00	  0.00
 r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Lipomyces_starkeyi@Seq_1465 or Lipomyces_starkeyi@Seq_1957 or Lipomyces_starkeyi@Seq_5525	-1000.00	1000.00	  0.00
@@ -3814,13 +3812,13 @@ r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Lipomyces_s
 r_5094	s_0803[c] + s_4303[c]  <=> s_4578[c] 	Lipomyces_starkeyi@Seq_3801 or Lipomyces_starkeyi@Seq_3882	-1000.00	1000.00	  0.00
 r_5095	s_1198[c] + s_4577[c]  <=> s_0794[c] + s_1203[c] + s_4302[c] 	Lipomyces_starkeyi@Seq_3801 or Lipomyces_starkeyi@Seq_3882	-1000.00	1000.00	  0.00
 r_5096	s_4577[c]  <=> s_0803[c] + s_4282[c] 	Lipomyces_starkeyi@Seq_3801 or Lipomyces_starkeyi@Seq_3882	-1000.00	1000.00	  0.00
-r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Lipomyces_starkeyi@Seq_1550 or Lipomyces_starkeyi@Seq_3938 or Lipomyces_starkeyi@Seq_5389 or Lipomyces_starkeyi@Seq_5342	-1000.00	1000.00	  0.00
+r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Lipomyces_starkeyi@Seq_1550 or Lipomyces_starkeyi@Seq_3938 or Lipomyces_starkeyi@Seq_5342 or Lipomyces_starkeyi@Seq_5389	-1000.00	1000.00	  0.00
 r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Lipomyces_starkeyi@Seq_4575	  0.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Lipomyces_starkeyi@Seq_3587	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Lipomyces_starkeyi@Seq_3587	-1000.00	1000.00	  0.00
-r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Lipomyces_starkeyi@Seq_1550 or Lipomyces_starkeyi@Seq_5389 or Lipomyces_starkeyi@Seq_5342 or Lipomyces_starkeyi@Seq_3938	  0.00	1000.00	  0.00
-r_5124	s_0264[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4567[c] 	Lipomyces_starkeyi@Seq_4653 or Lipomyces_starkeyi@Seq_1313	-1000.00	1000.00	  0.00
-r_5125	s_0794[c] + s_4567[c]  -> s_0456[c] + s_4477[c] 	Lipomyces_starkeyi@Seq_4653 or Lipomyces_starkeyi@Seq_1313	  0.00	1000.00	  0.00
+r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Lipomyces_starkeyi@Seq_1550 or Lipomyces_starkeyi@Seq_3938 or Lipomyces_starkeyi@Seq_5342 or Lipomyces_starkeyi@Seq_5389	  0.00	1000.00	  0.00
+r_5124	s_0264[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4567[c] 	Lipomyces_starkeyi@Seq_1313 or Lipomyces_starkeyi@Seq_4653	-1000.00	1000.00	  0.00
+r_5125	s_0794[c] + s_4567[c]  -> s_0456[c] + s_4477[c] 	Lipomyces_starkeyi@Seq_1313 or Lipomyces_starkeyi@Seq_4653	  0.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Lipomyces_starkeyi@Seq_8682	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Lipomyces_starkeyi@Seq_8682	-1000.00	1000.00	  0.00
 r_5128	s_1198[c] + s_4566[c]  <=> s_0794[c] + s_1203[c] + s_4565[c] 	Lipomyces_starkeyi@Seq_7626	-1000.00	1000.00	  0.00
@@ -3829,7 +3827,6 @@ r_5130	s_0687[c] + 2 s_0794[c] + s_1212[c]  <=> s_0689[c] + s_1207[c] 	Lipomyces
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Lipomyces_starkeyi@Seq_1146 or Lipomyces_starkeyi@Seq_2121 or Lipomyces_starkeyi@Seq_2167 or Lipomyces_starkeyi@Seq_5030 or Lipomyces_starkeyi@Seq_5666	  0.00	1000.00	  0.00
 r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	Lipomyces_starkeyi@Seq_1738 or Lipomyces_starkeyi@Seq_5712	-1000.00	1000.00	  0.00
 r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Lipomyces_starkeyi@Seq_1738 or Lipomyces_starkeyi@Seq_5712	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Lipomyces_starkeyi@Seq_1128 or Lipomyces_starkeyi@Seq_128 or Lipomyces_starkeyi@Seq_1834 or Lipomyces_starkeyi@Seq_3311 or Lipomyces_starkeyi@Seq_4231 or Lipomyces_starkeyi@Seq_566 or Lipomyces_starkeyi@Seq_5758 or Lipomyces_starkeyi@Seq_6936 or Lipomyces_starkeyi@Seq_7476	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Lipomyces_starkeyi@Seq_1627 or Lipomyces_starkeyi@Seq_1792 or Lipomyces_starkeyi@Seq_2140 or Lipomyces_starkeyi@Seq_3524	-1000.00	1000.00	  0.00
 r_5181	s_1322[c] + s_4620[c]  <=> s_0551[c] + s_0803[c] + s_4317[c] 	Lipomyces_starkeyi@Seq_2432 or Lipomyces_starkeyi@Seq_6049	-1000.00	1000.00	  0.00
@@ -3846,16 +3843,13 @@ r_2525	s_2970[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3193[erm] 	Li
 r_2526	s_2972[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3195[erm] 	Lipomyces_starkeyi@Seq_8577	  0.00	1000.00	  0.00
 r_2527	s_2974[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3197[erm] 	Lipomyces_starkeyi@Seq_8577	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Lipomyces_starkeyi@Seq_8757	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Lipomyces_starkeyi@Seq_8612 and Lipomyces_starkeyi@Seq_497 and Lipomyces_starkeyi@Seq_5086 and Lipomyces_starkeyi@Seq_1485 and Lipomyces_starkeyi@Seq_6804 and Lipomyces_starkeyi@Seq_8042 and Lipomyces_starkeyi@Seq_3715 and Lipomyces_starkeyi@Seq_8707) or (Lipomyces_starkeyi@Seq_1450 and Lipomyces_starkeyi@Seq_4393 and Lipomyces_starkeyi@Seq_5402 and Lipomyces_starkeyi@Seq_1611 and Lipomyces_starkeyi@Seq_2385)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Lipomyces_starkeyi@Seq_3934 and Lipomyces_starkeyi@Seq_1150 and Lipomyces_starkeyi@Seq_8612 and Lipomyces_starkeyi@Seq_2395 and Lipomyces_starkeyi@Seq_8307 and Lipomyces_starkeyi@Seq_701 and Lipomyces_starkeyi@Seq_2186 and Lipomyces_starkeyi@Seq_6194	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_6915) or (Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_6915 and Lipomyces_starkeyi@Seq_2622) or (Lipomyces_starkeyi@Seq_1120 and Lipomyces_starkeyi@Seq_1143 and Lipomyces_starkeyi@Seq_6536 and Lipomyces_starkeyi@Seq_4908 and Lipomyces_starkeyi@Seq_7681 and Lipomyces_starkeyi@Seq_4905 and Lipomyces_starkeyi@Seq_537 and Lipomyces_starkeyi@Seq_986 and Lipomyces_starkeyi@Seq_6915 and Lipomyces_starkeyi@Seq_2781 and Lipomyces_starkeyi@Seq_490 and Lipomyces_starkeyi@Seq_3730 and Lipomyces_starkeyi@Seq_4975 and Lipomyces_starkeyi@Seq_2282)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Lipomyces_starkeyi@Seq_5885 and Lipomyces_starkeyi@Seq_1057 and Lipomyces_starkeyi@Seq_3923 and Lipomyces_starkeyi@Seq_4076 and Lipomyces_starkeyi@Seq_47 and Lipomyces_starkeyi@Seq_9 and Lipomyces_starkeyi@Seq_6865 and Lipomyces_starkeyi@Seq_253 and Lipomyces_starkeyi@Seq_6457	  0.00	1000.00	  0.00
 r_0154	s_0298[c] + s_0434[c]  -> s_0201[c] + s_0394[c] + s_0794[c] 		  0.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Lipomyces_starkeyi@Seq_6717	  0.00	1000.00	  0.00
 r_5197	s_0794[c] + s_4275[c]  <=> s_0796[e] + s_4631[e] 		-1000.00	1000.00	  0.00
 r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Lipomyces_starkeyi@Seq_765	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	Lipomyces_starkeyi@Seq_6906	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5205	s_0794[c] + s_4624[c]  <=> s_0796[e] + s_4639[e] 		-1000.00	1000.00	  0.00
@@ -3868,3 +3862,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Lipomyces_starkeyi@Seq_3996	  0.00	1000.00	  0.00

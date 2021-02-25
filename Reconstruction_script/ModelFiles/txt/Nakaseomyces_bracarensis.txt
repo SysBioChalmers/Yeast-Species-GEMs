@@ -190,6 +190,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Nakaseomyces
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_4405	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_4405	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Nakaseomyces_bracarensis@Seq_1837	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_4509 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_914) or (Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_914 and Nakaseomyces_bracarensis@Seq_3630) or (Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_4509 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_2020 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_3669 and Nakaseomyces_bracarensis@Seq_1204 and Nakaseomyces_bracarensis@Seq_914)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_1512	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Nakaseomyces_bracarensis@Seq_4854	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	Nakaseomyces_bracarensis@Seq_5061	  0.00	1000.00	  0.00
@@ -307,6 +308,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Nakaseomyces_bracarensis@Seq_3343	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Nakaseomyces_bracarensis@Seq_4367	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Nakaseomyces_bracarensis@Seq_1271 and Nakaseomyces_bracarensis@Seq_3226	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Nakaseomyces_bracarensis@Seq_1557 and Nakaseomyces_bracarensis@Seq_760 and Nakaseomyces_bracarensis@Seq_947 and Nakaseomyces_bracarensis@Seq_1271 and Nakaseomyces_bracarensis@Seq_2586 and Nakaseomyces_bracarensis@Seq_2749 and Nakaseomyces_bracarensis@Seq_3736 and Nakaseomyces_bracarensis@Seq_2988 and Nakaseomyces_bracarensis@Seq_4189 and Nakaseomyces_bracarensis@Seq_5167) or (Nakaseomyces_bracarensis@Seq_1557 and Nakaseomyces_bracarensis@Seq_760 and Nakaseomyces_bracarensis@Seq_4321 and Nakaseomyces_bracarensis@Seq_947 and Nakaseomyces_bracarensis@Seq_1264 and Nakaseomyces_bracarensis@Seq_206 and Nakaseomyces_bracarensis@Seq_3591 and Nakaseomyces_bracarensis@Seq_879)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Nakaseomyces_bracarensis@Seq_1212 and Nakaseomyces_bracarensis@Seq_1401 and Nakaseomyces_bracarensis@Seq_3297 and Nakaseomyces_bracarensis@Seq_3084 and Nakaseomyces_bracarensis@Seq_1271 and Nakaseomyces_bracarensis@Seq_3107 and Nakaseomyces_bracarensis@Seq_3735 and Nakaseomyces_bracarensis@Seq_2465 and Nakaseomyces_bracarensis@Seq_2476	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Nakaseomyces_bracarensis@Seq_556	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Nakaseomyces_bracarensis@Seq_881	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_2918 or Nakaseomyces_bracarensis@Seq_3588	-1000.00	1000.00	  0.00
@@ -577,7 +580,7 @@ r_0769	s_0438[n] + s_0593[n] + s_0808[n] + s_1001[n]  <=> s_0425[n] + s_0637[n] 
 r_0770	s_0794[c] + s_1203[c] + s_1537[m]  -> s_1198[c] + s_1535[m] 	Nakaseomyces_bracarensis@Seq_4456	  0.00	1000.00	  0.00
 r_0771	s_0434[c] + s_1203[c]  -> s_0394[c] + s_0794[c] + s_1212[c] 	Nakaseomyces_bracarensis@Seq_3317 or Nakaseomyces_bracarensis@Seq_3611	  0.00	1000.00	  0.00
 r_0772	s_0437[m] + s_1205[m]  -> s_0397[m] + s_0799[m] + s_1214[m] 	Nakaseomyces_bracarensis@Seq_2200 or Nakaseomyces_bracarensis@Seq_3317 or Nakaseomyces_bracarensis@Seq_3611	  0.00	1000.00	  0.00
-r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	Nakaseomyces_bracarensis@Seq_860	  0.00	1000.00	  0.00
+r_0773	s_0799[m] + s_1205[m] + s_1537[m]  -> s_1200[m] + s_1535[m] 	Nakaseomyces_bracarensis@Seq_5046	  0.00	1000.00	  0.00
 r_0774	s_0794[c] + s_1219[c] + s_1386[c]  -> s_0633[c] + s_1222[c] 	Nakaseomyces_bracarensis@Seq_4700	  0.00	1000.00	  0.00
 r_0775	s_0799[m] + s_1221[m] + s_1387[m]  -> s_0636[m] + s_1223[m] 	Nakaseomyces_bracarensis@Seq_4700	  0.00	1000.00	  0.00
 r_0781	s_0803[c] + s_1216[c]  -> s_0419[c] + s_1219[c] 	Nakaseomyces_bracarensis@Seq_1450	  0.00	1000.00	  0.00
@@ -3307,8 +3310,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.494218 s_0404[c] + 0.173106 s_0428[c] + 0.109551 s_0430[c] + 0.320466 s_0432[c] + 0.0071095 s_0542[c] + 0.113537 s_0747[c] + 0.325098 s_0748[c] + 0.312818 s_0757[c] + 0.0714182 s_0832[c] + 0.207576 s_0847[c] + 0.319281 s_1077[c] + 0.308294 s_1099[c] + 0.0546139 s_1148[c] + 0.144237 s_1314[c] + 0.177414 s_1379[c] + 0.199712 s_1428[c] + 0.206176 s_1491[c] + 0.0305924 s_1527[c] + 0.109874 s_1533[c] + 0.285026 s_1561[c]  -> 0.494218 s_1582[c] + 0.173106 s_1583[c] + 0.109551 s_1585[c] + 0.320466 s_1587[c] + 0.0071095 s_1589[c] + 0.113537 s_1590[c] + 0.325098 s_1591[c] + 0.312818 s_1593[c] + 0.0714182 s_1594[c] + 0.207576 s_1596[c] + 0.319281 s_1598[c] + 0.308294 s_1600[c] + 0.0546139 s_1602[c] + 0.144237 s_1604[c] + 0.177414 s_1606[c] + 0.199712 s_1607[c] + 0.206176 s_1608[c] + 0.0305924 s_1610[c] + 0.109874 s_1612[c] + 0.285026 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.538511 s_0404[c] + 0.18862 s_0428[c] + 0.119369 s_0430[c] + 0.349187 s_0432[c] + 0.00774667 s_0542[c] + 0.123712 s_0747[c] + 0.354234 s_0748[c] + 0.340854 s_0757[c] + 0.0778188 s_0832[c] + 0.226179 s_0847[c] + 0.347896 s_1077[c] + 0.335924 s_1099[c] + 0.0595085 s_1148[c] + 0.157164 s_1314[c] + 0.193315 s_1379[c] + 0.217611 s_1428[c] + 0.224653 s_1491[c] + 0.0333342 s_1527[c] + 0.119721 s_1533[c] + 0.310571 s_1561[c]  -> 0.538511 s_1582[c] + 0.18862 s_1583[c] + 0.119369 s_1585[c] + 0.349187 s_1587[c] + 0.00774667 s_1589[c] + 0.123712 s_1590[c] + 0.354234 s_1591[c] + 0.340854 s_1593[c] + 0.0778188 s_1594[c] + 0.226179 s_1596[c] + 0.347896 s_1598[c] + 0.335924 s_1600[c] + 0.0595085 s_1602[c] + 0.157164 s_1604[c] + 0.193315 s_1606[c] + 0.217611 s_1607[c] + 0.224653 s_1608[c] + 0.0333342 s_1610[c] + 0.119721 s_1612[c] + 0.310571 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.84822 s_0001[ce] + 0.283405 s_0004[ce] + 0.409556 s_0773[c] + 0.805639 s_1107[c] + 0.156695 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.045995 s_0423[c] + 0.0446951 s_0526[c] + 0.045995 s_0782[c] + 0.0598935 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00388965 s_0584[c] + 0.0025931 s_0589[c] + 0.0025931 s_0615[c] + 0.00388965 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3473,6 +3476,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Nakaseomyces_bracarensis@Seq_729	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Nakaseomyces_bracarensis@Seq_384	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Nakaseomyces_bracarensis@Seq_4796	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Nakaseomyces_bracarensis@Seq_3293 and Nakaseomyces_bracarensis@Seq_4689 and Nakaseomyces_bracarensis@Seq_2793 and Nakaseomyces_bracarensis@Seq_5115	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Nakaseomyces_bracarensis@Seq_370	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Nakaseomyces_bracarensis@Seq_3362	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	Nakaseomyces_bracarensis@Seq_1744 or Nakaseomyces_bracarensis@Seq_3331	  0.00	1000.00	  0.00
@@ -3844,26 +3848,15 @@ r_4625	s_4113[c]  <=> s_4010[m] 		-1000.00	1000.00	  0.00
 r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Nakaseomyces_bracarensis@Seq_1982	-1000.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_4907	  0.00	1000.00	  0.00
 r_4992	2 s_0750[c] + s_0794[c] + s_3846[c]  -> s_0754[c] + s_3847[c] 	Nakaseomyces_bracarensis@Seq_5028 or Nakaseomyces_bracarensis@Seq_5287	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Nakaseomyces_bracarensis@Seq_4907	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Nakaseomyces_bracarensis@Seq_1218 or Nakaseomyces_bracarensis@Seq_2713	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
+r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Nakaseomyces_bracarensis@Seq_2713 or Nakaseomyces_bracarensis@Seq_1218	-1000.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Nakaseomyces_bracarensis@Seq_2889	-1000.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Nakaseomyces_bracarensis@Seq_1557 and Nakaseomyces_bracarensis@Seq_760 and Nakaseomyces_bracarensis@Seq_947 and Nakaseomyces_bracarensis@Seq_1271 and Nakaseomyces_bracarensis@Seq_2586 and Nakaseomyces_bracarensis@Seq_2749 and Nakaseomyces_bracarensis@Seq_3736 and Nakaseomyces_bracarensis@Seq_2988 and Nakaseomyces_bracarensis@Seq_4189 and Nakaseomyces_bracarensis@Seq_5167) or (Nakaseomyces_bracarensis@Seq_1557 and Nakaseomyces_bracarensis@Seq_760 and Nakaseomyces_bracarensis@Seq_947 and Nakaseomyces_bracarensis@Seq_1264 and Nakaseomyces_bracarensis@Seq_206 and Nakaseomyces_bracarensis@Seq_4321 and Nakaseomyces_bracarensis@Seq_879 and Nakaseomyces_bracarensis@Seq_3591)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Nakaseomyces_bracarensis@Seq_1212 and Nakaseomyces_bracarensis@Seq_1401 and Nakaseomyces_bracarensis@Seq_3297 and Nakaseomyces_bracarensis@Seq_3084 and Nakaseomyces_bracarensis@Seq_1271 and Nakaseomyces_bracarensis@Seq_3107 and Nakaseomyces_bracarensis@Seq_3735 and Nakaseomyces_bracarensis@Seq_2465 and Nakaseomyces_bracarensis@Seq_2476	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_4509 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_914) or (Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_914 and Nakaseomyces_bracarensis@Seq_3630) or (Nakaseomyces_bracarensis@Seq_3014 and Nakaseomyces_bracarensis@Seq_3646 and Nakaseomyces_bracarensis@Seq_5034 and Nakaseomyces_bracarensis@Seq_644 and Nakaseomyces_bracarensis@Seq_389 and Nakaseomyces_bracarensis@Seq_4509 and Nakaseomyces_bracarensis@Seq_2209 and Nakaseomyces_bracarensis@Seq_583 and Nakaseomyces_bracarensis@Seq_176 and Nakaseomyces_bracarensis@Seq_4303 and Nakaseomyces_bracarensis@Seq_914 and Nakaseomyces_bracarensis@Seq_2020 and Nakaseomyces_bracarensis@Seq_3669 and Nakaseomyces_bracarensis@Seq_1204)	  0.00	1000.00	  0.00
 r_0236	s_0209[c] + s_0794[c] + s_1212[c]  -> s_0296[c] + s_1207[c] 		  0.00	1000.00	  0.00
 r_0237	s_0794[c] + s_1212[c] + s_1579[c]  -> s_1207[c] + s_1569[c] 		  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Nakaseomyces_bracarensis@Seq_1402	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3874,3 +3867,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Nakaseomyces_bracarensis@Seq_1890	  0.00	1000.00	  0.00

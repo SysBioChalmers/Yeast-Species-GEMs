@@ -189,6 +189,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Saprochaete_
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Saprochaete_clavata@Seq_1568	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Saprochaete_clavata@Seq_1568	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Saprochaete_clavata@Seq_3639	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_4242 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_1949) or (Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_1949 and Saprochaete_clavata@Seq_2442) or (Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_3231 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_4242 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_5747 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6420 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_3992 and Saprochaete_clavata@Seq_2039 and Saprochaete_clavata@Seq_1949)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Saprochaete_clavata@Seq_5701	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Saprochaete_clavata@Seq_3670	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Saprochaete_clavata@Seq_761	-1000.00	1000.00	  0.00
@@ -311,6 +312,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Saprochaete_clavata@Seq_2570 or Saprochaete_clavata@Seq_4248 or Saprochaete_clavata@Seq_4661 or Saprochaete_clavata@Seq_5403	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Saprochaete_clavata@Seq_5712	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Saprochaete_clavata@Seq_542 and Saprochaete_clavata@Seq_5372	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_342 and Saprochaete_clavata@Seq_1179 and Saprochaete_clavata@Seq_166 and Saprochaete_clavata@Seq_2182 and Saprochaete_clavata@Seq_1361 and Saprochaete_clavata@Seq_1442) or (Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_542 and Saprochaete_clavata@Seq_20 and Saprochaete_clavata@Seq_5188 and Saprochaete_clavata@Seq_3699 and Saprochaete_clavata@Seq_1133 and Saprochaete_clavata@Seq_645 and Saprochaete_clavata@Seq_5011 and Saprochaete_clavata@Seq_5246) or (Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_5995 and Saprochaete_clavata@Seq_1179 and Saprochaete_clavata@Seq_166 and Saprochaete_clavata@Seq_2182 and Saprochaete_clavata@Seq_1361 and Saprochaete_clavata@Seq_1442)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Saprochaete_clavata@Seq_2522 and Saprochaete_clavata@Seq_1129 and Saprochaete_clavata@Seq_3227 and Saprochaete_clavata@Seq_542 and Saprochaete_clavata@Seq_2313 and Saprochaete_clavata@Seq_2376 and Saprochaete_clavata@Seq_3220 and Saprochaete_clavata@Seq_4323	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Saprochaete_clavata@Seq_5451	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Saprochaete_clavata@Seq_2596	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Saprochaete_clavata@Seq_4824	  0.00	1000.00	  0.00
@@ -1914,6 +1917,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Saprochaete_clavata@Seq
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Saprochaete_clavata@Seq_2309	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Saprochaete_clavata@Seq_2693 or Saprochaete_clavata@Seq_4889 or Saprochaete_clavata@Seq_5900 or Saprochaete_clavata@Seq_6087	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Saprochaete_clavata@Seq_2693 or Saprochaete_clavata@Seq_4889 or Saprochaete_clavata@Seq_5900 or Saprochaete_clavata@Seq_6087	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Saprochaete_clavata@Seq_1891 and Saprochaete_clavata@Seq_5535 and Saprochaete_clavata@Seq_4617 and Saprochaete_clavata@Seq_2009 and Saprochaete_clavata@Seq_5560 and Saprochaete_clavata@Seq_2521 and Saprochaete_clavata@Seq_3521 and Saprochaete_clavata@Seq_4074 and Saprochaete_clavata@Seq_1979 and Saprochaete_clavata@Seq_389 and Saprochaete_clavata@Seq_3170) or (Saprochaete_clavata@Seq_1891 and Saprochaete_clavata@Seq_5535 and Saprochaete_clavata@Seq_4617 and Saprochaete_clavata@Seq_2009 and Saprochaete_clavata@Seq_5560 and Saprochaete_clavata@Seq_2521 and Saprochaete_clavata@Seq_3521 and Saprochaete_clavata@Seq_4074 and Saprochaete_clavata@Seq_2368 and Saprochaete_clavata@Seq_389 and Saprochaete_clavata@Seq_3170)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Saprochaete_clavata@Seq_1891 and Saprochaete_clavata@Seq_5535 and Saprochaete_clavata@Seq_4617 and Saprochaete_clavata@Seq_2009 and Saprochaete_clavata@Seq_5560 and Saprochaete_clavata@Seq_2521 and Saprochaete_clavata@Seq_3521 and Saprochaete_clavata@Seq_4074 and Saprochaete_clavata@Seq_1979 and Saprochaete_clavata@Seq_389 and Saprochaete_clavata@Seq_3170) or (Saprochaete_clavata@Seq_1891 and Saprochaete_clavata@Seq_5535 and Saprochaete_clavata@Seq_4617 and Saprochaete_clavata@Seq_2009 and Saprochaete_clavata@Seq_5560 and Saprochaete_clavata@Seq_2521 and Saprochaete_clavata@Seq_3521 and Saprochaete_clavata@Seq_4074 and Saprochaete_clavata@Seq_2368 and Saprochaete_clavata@Seq_389 and Saprochaete_clavata@Seq_3170)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3223,8 +3228,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.359906 s_0404[c] + 0.126061 s_0428[c] + 0.0797786 s_0430[c] + 0.233374 s_0432[c] + 0.00517737 s_0542[c] + 0.082681 s_0747[c] + 0.236747 s_0748[c] + 0.227804 s_0757[c] + 0.052009 s_0832[c] + 0.151164 s_0847[c] + 0.232511 s_1077[c] + 0.22451 s_1099[c] + 0.0397716 s_1148[c] + 0.105038 s_1314[c] + 0.129199 s_1379[c] + 0.145437 s_1428[c] + 0.150144 s_1491[c] + 0.0222784 s_1527[c] + 0.0800139 s_1533[c] + 0.207565 s_1561[c]  -> 0.359906 s_1582[c] + 0.126061 s_1583[c] + 0.0797786 s_1585[c] + 0.233374 s_1587[c] + 0.00517737 s_1589[c] + 0.082681 s_1590[c] + 0.236747 s_1591[c] + 0.227804 s_1593[c] + 0.052009 s_1594[c] + 0.151164 s_1596[c] + 0.232511 s_1598[c] + 0.22451 s_1600[c] + 0.0397716 s_1602[c] + 0.105038 s_1604[c] + 0.129199 s_1606[c] + 0.145437 s_1607[c] + 0.150144 s_1608[c] + 0.0222784 s_1610[c] + 0.0800139 s_1612[c] + 0.207565 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.606064 s_0404[c] + 0.212281 s_0428[c] + 0.134343 s_0430[c] + 0.392991 s_0432[c] + 0.00871845 s_0542[c] + 0.139231 s_0747[c] + 0.398671 s_0748[c] + 0.383612 s_0757[c] + 0.0875808 s_0832[c] + 0.254552 s_0847[c] + 0.391538 s_1077[c] + 0.378064 s_1099[c] + 0.0669735 s_1148[c] + 0.176879 s_1314[c] + 0.217565 s_1379[c] + 0.244909 s_1428[c] + 0.252835 s_1491[c] + 0.0375157 s_1527[c] + 0.13474 s_1533[c] + 0.349531 s_1561[c]  -> 0.606064 s_1582[c] + 0.212281 s_1583[c] + 0.134343 s_1585[c] + 0.392991 s_1587[c] + 0.00871845 s_1589[c] + 0.139231 s_1590[c] + 0.398671 s_1591[c] + 0.383612 s_1593[c] + 0.0875808 s_1594[c] + 0.254552 s_1596[c] + 0.391538 s_1598[c] + 0.378064 s_1600[c] + 0.0669735 s_1602[c] + 0.176879 s_1604[c] + 0.217565 s_1606[c] + 0.244909 s_1607[c] + 0.252835 s_1608[c] + 0.0375157 s_1610[c] + 0.13474 s_1612[c] + 0.349531 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.617701 s_0001[ce] + 0.206384 s_0004[ce] + 0.298252 s_0773[c] + 0.586693 s_1107[c] + 0.11411 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0569462 s_0423[c] + 0.0553368 s_0526[c] + 0.0569462 s_0782[c] + 0.0741538 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00486206 s_0584[c] + 0.00324138 s_0589[c] + 0.00324138 s_0615[c] + 0.00486206 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3350,7 +3355,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Saprochaete_clavata@Seq_
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Saprochaete_clavata@Seq_3340	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Saprochaete_clavata@Seq_3878	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Saprochaete_clavata@Seq_3573	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Saprochaete_clavata@Seq_6264	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Saprochaete_clavata@Seq_4695	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Saprochaete_clavata@Seq_4695	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Saprochaete_clavata@Seq_2651 or Saprochaete_clavata@Seq_3155	-1000.00	1000.00	  0.00
@@ -3390,6 +3394,7 @@ r_4229	s_0803[c] + s_3869[c]  <=> s_0419[c] + s_3870[c] 	Saprochaete_clavata@Seq
 r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Saprochaete_clavata@Seq_231	-1000.00	1000.00	  0.00
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Saprochaete_clavata@Seq_231	-1000.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Saprochaete_clavata@Seq_4784	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Saprochaete_clavata@Seq_6496 and Saprochaete_clavata@Seq_1917 and Saprochaete_clavata@Seq_2648 and Saprochaete_clavata@Seq_3096	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Saprochaete_clavata@Seq_1246	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Saprochaete_clavata@Seq_1440	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Saprochaete_clavata@Seq_938	  0.00	1000.00	  0.00
@@ -3766,21 +3771,18 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Saprochaete_clavata@Seq_6728	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Saprochaete_clavata@Seq_2776	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Saprochaete_clavata@Seq_2776	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Saprochaete_clavata@Seq_2992	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Saprochaete_clavata@Seq_1885	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Saprochaete_clavata@Seq_4306	-1000.00	1000.00	  0.00
-r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	  0.00	1000.00	  0.00
-r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
-r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_2656	-1000.00	1000.00	  0.00
-r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	  0.00	1000.00	  0.00
-r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	  0.00	1000.00	  0.00
-r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Saprochaete_clavata@Seq_4893	  0.00	1000.00	  0.00
+r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	  0.00	1000.00	  0.00
+r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	  0.00	1000.00	  0.00
+r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	  0.00	1000.00	  0.00
+r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Saprochaete_clavata@Seq_4707	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Saprochaete_clavata@Seq_426	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Saprochaete_clavata@Seq_3874	  0.00	1000.00	  0.00
@@ -3795,7 +3797,7 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Saprochaete
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Saprochaete_clavata@Seq_3792	-1000.00	1000.00	  0.00
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Saprochaete_clavata@Seq_3167	  0.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Saprochaete_clavata@Seq_1853	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Saprochaete_clavata@Seq_3895 or Saprochaete_clavata@Seq_4162	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Saprochaete_clavata@Seq_4162 or Saprochaete_clavata@Seq_3895	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Saprochaete_clavata@Seq_5793	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Saprochaete_clavata@Seq_2058 or Saprochaete_clavata@Seq_5482	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Saprochaete_clavata@Seq_335 or Saprochaete_clavata@Seq_3359 or Saprochaete_clavata@Seq_4018	  0.00	1000.00	  0.00
@@ -3804,6 +3806,7 @@ r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	
 r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Saprochaete_clavata@Seq_335 or Saprochaete_clavata@Seq_3359 or Saprochaete_clavata@Seq_4018	  0.00	1000.00	  0.00
 r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Saprochaete_clavata@Seq_335 or Saprochaete_clavata@Seq_3359 or Saprochaete_clavata@Seq_4018	  0.00	1000.00	  0.00
 r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Saprochaete_clavata@Seq_335 or Saprochaete_clavata@Seq_3359 or Saprochaete_clavata@Seq_4018	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Saprochaete_clavata@Seq_2627	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Saprochaete_clavata@Seq_3007	-1000.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Saprochaete_clavata@Seq_2593 or Saprochaete_clavata@Seq_3984 or Saprochaete_clavata@Seq_4902	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Saprochaete_clavata@Seq_1240	-1000.00	1000.00	  0.00
@@ -3813,13 +3816,10 @@ r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Saprochaete
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Saprochaete_clavata@Seq_4424	  0.00	1000.00	  0.00
 r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Saprochaete_clavata@Seq_2492	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Saprochaete_clavata@Seq_1818	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Saprochaete_clavata@Seq_502	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Saprochaete_clavata@Seq_6078	  0.00	1000.00	  0.00
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Saprochaete_clavata@Seq_4191	  0.00	1000.00	  0.00
 r_4825	s_0794[c] + s_0955[c] + s_1368[c]  -> s_0352[c] + s_0456[c] + s_0529[c] 	Saprochaete_clavata@Seq_6274	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Saprochaete_clavata@Seq_1574 or Saprochaete_clavata@Seq_2326 or Saprochaete_clavata@Seq_3576 or Saprochaete_clavata@Seq_4213 or Saprochaete_clavata@Seq_5954 or Saprochaete_clavata@Seq_6707	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Saprochaete_clavata@Seq_4503	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Saprochaete_clavata@Seq_2593 or Saprochaete_clavata@Seq_4902	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Saprochaete_clavata@Seq_1574 or Saprochaete_clavata@Seq_2326 or Saprochaete_clavata@Seq_3576 or Saprochaete_clavata@Seq_4213 or Saprochaete_clavata@Seq_5954 or Saprochaete_clavata@Seq_6707	  0.00	1000.00	  0.00
@@ -3827,9 +3827,6 @@ r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Saprochaete_clavata@Seq_4229	  0.00	1000.00	  0.00
 r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c] 	Saprochaete_clavata@Seq_2279	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Saprochaete_clavata@Seq_5870	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Saprochaete_clavata@Seq_6144 or Saprochaete_clavata@Seq_4285	  0.00	1000.00	  0.00
 r_4942	s_0775[c] + s_0803[c] + s_1198[c]  -> 2 s_0794[c] + s_1203[c] + s_3997[c] 	Saprochaete_clavata@Seq_2279	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Saprochaete_clavata@Seq_5139 or Saprochaete_clavata@Seq_5348 or Saprochaete_clavata@Seq_6025	  0.00	1000.00	  0.00
@@ -3840,47 +3837,43 @@ r_4965	s_0434[c] + s_0529[c] + s_2829[c]  -> s_0423[c] + s_0633[c] + s_4294[c] 	
 r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	Saprochaete_clavata@Seq_4466	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Saprochaete_clavata@Seq_2992	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Saprochaete_clavata@Seq_5139 or Saprochaete_clavata@Seq_5348 or Saprochaete_clavata@Seq_6025	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
+r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Saprochaete_clavata@Seq_2627	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Saprochaete_clavata@Seq_1745	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Saprochaete_clavata@Seq_148 or Saprochaete_clavata@Seq_3581	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Saprochaete_clavata@Seq_148 or Saprochaete_clavata@Seq_3581	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Saprochaete_clavata@Seq_1959 or Saprochaete_clavata@Seq_2567	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Saprochaete_clavata@Seq_4711	-1000.00	1000.00	  0.00
-r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
-r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
-r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Saprochaete_clavata@Seq_4858 or Saprochaete_clavata@Seq_5656	-1000.00	1000.00	  0.00
+r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
+r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Saprochaete_clavata@Seq_5656 or Saprochaete_clavata@Seq_4858	-1000.00	1000.00	  0.00
 r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Saprochaete_clavata@Seq_2776	-1000.00	1000.00	  0.00
 r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	Saprochaete_clavata@Seq_631	-1000.00	1000.00	  0.00
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Saprochaete_clavata@Seq_631	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Saprochaete_clavata@Seq_2759 or Saprochaete_clavata@Seq_33 or Saprochaete_clavata@Seq_4237 or Saprochaete_clavata@Seq_474	  0.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
 r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Saprochaete_clavata@Seq_3167	  0.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Saprochaete_clavata@Seq_1907 or Saprochaete_clavata@Seq_5379	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Saprochaete_clavata@Seq_1907 or Saprochaete_clavata@Seq_324 or Saprochaete_clavata@Seq_5379	-1000.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Saprochaete_clavata@Seq_5379 or Saprochaete_clavata@Seq_1907	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Saprochaete_clavata@Seq_324 or Saprochaete_clavata@Seq_5379 or Saprochaete_clavata@Seq_1907	-1000.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Saprochaete_clavata@Seq_2370	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Saprochaete_clavata@Seq_2370	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Saprochaete_clavata@Seq_1240	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	Saprochaete_clavata@Seq_5743	  0.00	1000.00	  0.00
 r_5166	s_0291[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4546[c] 	Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Saprochaete_clavata@Seq_4914 or Saprochaete_clavata@Seq_1430 or Saprochaete_clavata@Seq_6264	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Saprochaete_clavata@Seq_6264 or Saprochaete_clavata@Seq_4914 or Saprochaete_clavata@Seq_1430	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Saprochaete_clavata@Seq_631	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Saprochaete_clavata@Seq_3931 or Saprochaete_clavata@Seq_5743	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Saprochaete_clavata@Seq_5743 or Saprochaete_clavata@Seq_3931	-1000.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Saprochaete_clavata@Seq_3402	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Saprochaete_clavata@Seq_3382	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_2182 and Saprochaete_clavata@Seq_1179 and Saprochaete_clavata@Seq_166 and Saprochaete_clavata@Seq_342 and Saprochaete_clavata@Seq_1442 and Saprochaete_clavata@Seq_1361) or (Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_2182 and Saprochaete_clavata@Seq_1179 and Saprochaete_clavata@Seq_166 and Saprochaete_clavata@Seq_5995 and Saprochaete_clavata@Seq_1442 and Saprochaete_clavata@Seq_1361) or (Saprochaete_clavata@Seq_3943 and Saprochaete_clavata@Seq_1145 and Saprochaete_clavata@Seq_542 and Saprochaete_clavata@Seq_20 and Saprochaete_clavata@Seq_5188 and Saprochaete_clavata@Seq_3699 and Saprochaete_clavata@Seq_5246 and Saprochaete_clavata@Seq_1133 and Saprochaete_clavata@Seq_645 and Saprochaete_clavata@Seq_5011)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Saprochaete_clavata@Seq_2522 and Saprochaete_clavata@Seq_1129 and Saprochaete_clavata@Seq_3227 and Saprochaete_clavata@Seq_542 and Saprochaete_clavata@Seq_2313 and Saprochaete_clavata@Seq_2376 and Saprochaete_clavata@Seq_3220 and Saprochaete_clavata@Seq_4323	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_4242 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_1949) or (Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_1949 and Saprochaete_clavata@Seq_2442) or (Saprochaete_clavata@Seq_4492 and Saprochaete_clavata@Seq_4935 and Saprochaete_clavata@Seq_300 and Saprochaete_clavata@Seq_954 and Saprochaete_clavata@Seq_1837 and Saprochaete_clavata@Seq_2212 and Saprochaete_clavata@Seq_4242 and Saprochaete_clavata@Seq_5941 and Saprochaete_clavata@Seq_6059 and Saprochaete_clavata@Seq_3269 and Saprochaete_clavata@Seq_6598 and Saprochaete_clavata@Seq_6145 and Saprochaete_clavata@Seq_1949 and Saprochaete_clavata@Seq_5747 and Saprochaete_clavata@Seq_6420 and Saprochaete_clavata@Seq_3992 and Saprochaete_clavata@Seq_2039 and Saprochaete_clavata@Seq_3231)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Saprochaete_clavata@Seq_5043 and Saprochaete_clavata@Seq_4426 and Saprochaete_clavata@Seq_3885 and Saprochaete_clavata@Seq_4364 and Saprochaete_clavata@Seq_5305 and Saprochaete_clavata@Seq_1775 and Saprochaete_clavata@Seq_2745 and Saprochaete_clavata@Seq_4514 and Saprochaete_clavata@Seq_1887 and Saprochaete_clavata@Seq_4573 and Saprochaete_clavata@Seq_5269 and Saprochaete_clavata@Seq_104 and Saprochaete_clavata@Seq_3196 and Saprochaete_clavata@Seq_2932 and Saprochaete_clavata@Seq_4189 and Saprochaete_clavata@Seq_1112 and Saprochaete_clavata@Seq_2807 and Saprochaete_clavata@Seq_1695 and Saprochaete_clavata@Seq_4823 and Saprochaete_clavata@Seq_6477 and Saprochaete_clavata@Seq_5250 and Saprochaete_clavata@Seq_2982 and Saprochaete_clavata@Seq_2796	  0.00	1000.00	  0.00
 r_1237	s_0794[c] + s_1268[m]  -> s_0799[m] + s_1266[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Saprochaete_clavata@Seq_1430	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Saprochaete_clavata@Seq_3764	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
 r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00
@@ -3890,3 +3883,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Saprochaete_clavata@Seq_1291	-1000.00	1000.00	  0.00

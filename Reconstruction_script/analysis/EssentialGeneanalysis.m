@@ -1,7 +1,13 @@
-function [accurancy,sensitivity,specificity,mcc] = FigS7b_EssentialGeneanalysis(strains,inputpath)
-% This function is to perform essential analysis and plot the figure
-
+function [accurancy,sensitivity,specificity,mcc] = EssentialGeneanalysis(strains,inputpath)
+% Figure 3e right down consistence score figure
 % essential data is loaded from the data filefolder
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% IMPORTANT: download the figshare file for the essentail gene predicted
+% from machine learning https://figshare.com/articles/dataset/Expansion_of_metabolic_networks_combined_with_accelerated_protein_evolution_has_enabled_new_cellular_traits_within_the_yeast_subphylum/13317482?file=25659839
+% save that to the folder  ../data/physiology/ and rename that folder as EssentialGene_ML
+% This function is to perform essential analysis and plot the figure
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 % essentialGenes
 %   Modify media + find essential genes in model. Adapted from:
@@ -16,15 +22,26 @@ function [accurancy,sensitivity,specificity,mcc] = FigS7b_EssentialGeneanalysis(
 %
 %   Feiran Li, 2019-09-25
 %   Feiran Li, 2020-04-08
-%
+%   strains can be found in the downloaded figshare file from the supp:
+%   modelRelated folder
+%   load('strianData.mat') strains = StrianData.strains;
+%   inputpath is also in the folder modelRelated/ssGEMs
+%   Example : inputpath = '../Reconstruction/modelRelated/ssGEMs';
+%             load('../Reconstruction/modelRelated/StrainData.mat');
+%             strains = StrianData.strains;
 
 %initCobraToolbox
 
 ko_tol = 1e-6;
+exp_result_viable = cell(5000,length(strains));
+model_result_viable = cell(5000,length(strains));
+exp_result_inviable = cell(5000,length(strains));
+model_result_inviable = cell(5000,length(strains));
 
 current_path = pwd;
 % load the model
 for i = 1:length(strains)
+    disp(['No.',num2str(i),'/',num2str(length(strains))])
     strain = strains{i};
     cd(inputpath)
     model = load([strain,'.mat']);
@@ -50,12 +67,24 @@ exp_inviable = intersect(exp_inviable,verifiedORFs);
 exp_viable = setdiff(upper(model.genes),inviableORFsAll);
 exp_viable = intersect(exp_viable,verifiedORFs);
 
+[~,idx] = ismember(exp_viable,upper(model.genes));
+exp_viable_prot  = model.proteins(idx);
+[~,idx] = ismember(exp_inviable,upper(model.genes));
+exp_inviable_prot = model.proteins(idx);
+exp_result_viable(1:length(exp_viable_prot),i) = exp_viable_prot;
+exp_result_inviable(1:length(exp_inviable_prot),i) = exp_inviable_prot;
+
 %calculate the growth rate after the single gene deletion using the original model and update model
 grRatio = singleGeneDeletion(model);
 mod_viable  = model.genes(grRatio >= ko_tol);
 mod_viable = intersect(upper(mod_viable),verifiedORFs);
 mod_inviable = model.genes(grRatio < ko_tol );
 mod_inviable = intersect(upper(mod_inviable),verifiedORFs);
+
+mod_viable_prot  = model.proteins(grRatio >= ko_tol);
+mod_inviable_prot = model.proteins(grRatio < ko_tol );
+model_result_viable(1:length(mod_viable_prot),i) = mod_viable_prot;
+model_result_inviable(1:length(mod_inviable_prot),i) = mod_inviable_prot;
 
 %obtain the essential gene and non-essential gene based on the above two calculations
 %calculate the prediction number in the followed four type by comparing the
@@ -69,7 +98,7 @@ fn = intersect(exp_viable,mod_inviable); n_fn = length(fn);
 %compare the prediction performances of two models
 %prediction accuracy was used to evaluate the quality of model update in
 %each step
-accurancy(i,1) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
+accurancy(i) = (n_tp+n_tn)/(n_tp+n_tn+n_fn+n_fp);
 sensitivity(i) = (n_tp/(n_tp+n_fn));
 specificity(i) = (n_tn/(n_tn+n_fp));
 positivePredictive(i) = (n_tp/(n_tp+n_fp));
@@ -85,49 +114,17 @@ n_fns(i) = n_fn;
 acc(i) = accurancy(i);
 end
 
-% combine with published model result
-% load mapping list published model/species
-fid2 = fopen('../data/PublishedModel_list.tsv');
-format = '%s %s %s %s %s %s %s';
-tmp = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
-for i = 1:length(tmp)
-data(:,i) = tmp{i};
-end
-fclose(fid2);
-[~,species_idx] = ismember(strains,data(:,2));
-accuray_published = zeros(length(strains),1);
-accuray_published(species_idx~=0) = cellfun(@str2num,data(species_idx(species_idx~=0),6));
-accuracy_final = [accurancy,accuray_published];
-h = bar(accuracy_final);
-h(2).FaceColor = [178,24,43]/255;
-h(1).FaceColor = [33,102,172]/255;
-xticklabels(strrep(strains,'_',' '))
-xtickangle(45);
-legend({'Models this work','Published models'})
-yticks([0:0.2:1])
-ylim([0,1])
-set(gca,'FontSize',12,'FontName','Helvetica');
-ylabel('Essential gene prediction accuracy','FontSize',24,'FontName','Helvetica','Color','k');
 
 % plot the figure
-P = [accurancy;specificity;sensitivity;mcc];
-spider_plot_R2019b(P',...
-'AxesInterval', 4,...
-'AxesDisplay', 'one',...
-'AxesPrecision', 2,...
-'AxesLimits', [0, 0, 0, 0; 1, 1, 1, 1],...
-'FillOption', 'on',...
-'FillTransparency', 0.1,...
-'LineWidth', 4,...
-'Marker', 'none',...
-'AxesLabels', {'accuracy', 'specificity', 'sensitivity', 'mcc'},...
-'AxesFontSize', 14,...
-'LabelFontSize', 10);
+P = [accurancy;specificity;sensitivity;mcc;n_tps;n_tns;n_fps;n_fns];
+writematrix(P,'accuracyresult.txt')
+save('essential_accuracyresult.mat')
 
-legend(replace(strains,'_',' '), 'Location', 'southoutside');
-set(gcf,'position',[200 400 300 200]);
-
-
+histogram(accurancy)
+xlabel('Consistence score','FontSize',8,'FontName','Helvetica','Color','k');
+ylabel('Density','FontSize',8,'FontName','Helvetica','Color','k');
+% the figure in the paper is ploted in R using the density
+% plot function which reads the accuracyresult.txt
 
 function model = complete_Y7(model)
     % change Y7 model medium to the Kennedy synthetic complete medium
@@ -177,21 +174,22 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [inviableORFs,verifiedORFs] = loaddata(strain)
-cd ../data/physiology/EssentialGene/
+cd ../data/physiology/EssentialGene_ML
 % load essential data
-fileName = [strain,'.csv'];
+fileName = [strain,'.txt'];
 fID       = fopen(fileName);
-temp  = textscan(fID,'%s%s%s','Delimiter','\t','HeaderLines',1);
+temp  = textscan(fID,'%s%s','Delimiter','\t','HeaderLines',1);
 fclose(fID);
 
-verifiedORFs     = temp{2}; 
-condition        = temp{3};
-inviableORFs = verifiedORFs(ismember(condition,'E'));% essential
+%verifiedORFs     = temp{2};
+%condition        = temp{3};
+verifiedORFs     = temp{1};
+condition        = temp{2};
+inviableORFs = verifiedORFs(ismember(condition,'E')|ismember(condition,'Essential'));% essential
     verifiedORFs = upper(verifiedORFs);
     verifiedORFs = unique(verifiedORFs);
     inviableORFs = upper(inviableORFs);
-    inviableORFs = unique(inviableORFs);    
-    cd ../../../analysis/
+    inviableORFs = unique(inviableORFs);
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 end

@@ -188,6 +188,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Arxula_adeni
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Arxula_adeninivorans@Seq_1353	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Arxula_adeninivorans@Seq_1353	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Arxula_adeninivorans@Seq_4185	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_860 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_4154) or (Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_4154 and Arxula_adeninivorans@Seq_2868) or (Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_1072 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_860 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_3076 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_2393 and Arxula_adeninivorans@Seq_252 and Arxula_adeninivorans@Seq_5755 and Arxula_adeninivorans@Seq_4154)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Arxula_adeninivorans@Seq_3069	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Arxula_adeninivorans@Seq_3801	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Arxula_adeninivorans@Seq_2028	-1000.00	1000.00	  0.00
@@ -308,6 +309,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Arxula_adeninivorans@Seq_4060 or Arxula_adeninivorans@Seq_4624 or Arxula_adeninivorans@Seq_5483	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Arxula_adeninivorans@Seq_2320	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Arxula_adeninivorans@Seq_5024 and Arxula_adeninivorans@Seq_2368	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Arxula_adeninivorans@Seq_1990 and Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_5741 and Arxula_adeninivorans@Seq_201 and Arxula_adeninivorans@Seq_434 and Arxula_adeninivorans@Seq_597 and Arxula_adeninivorans@Seq_3510) or (Arxula_adeninivorans@Seq_5585 and Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_5741 and Arxula_adeninivorans@Seq_201 and Arxula_adeninivorans@Seq_434 and Arxula_adeninivorans@Seq_597 and Arxula_adeninivorans@Seq_3510) or (Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_5024 and Arxula_adeninivorans@Seq_4654 and Arxula_adeninivorans@Seq_3198 and Arxula_adeninivorans@Seq_5838 and Arxula_adeninivorans@Seq_4082 and Arxula_adeninivorans@Seq_2887 and Arxula_adeninivorans@Seq_5424 and Arxula_adeninivorans@Seq_2915)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Arxula_adeninivorans@Seq_1681 and Arxula_adeninivorans@Seq_3772 and Arxula_adeninivorans@Seq_5024 and Arxula_adeninivorans@Seq_1440 and Arxula_adeninivorans@Seq_204 and Arxula_adeninivorans@Seq_1380 and Arxula_adeninivorans@Seq_2055	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Arxula_adeninivorans@Seq_75	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	Arxula_adeninivorans@Seq_4893	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	Arxula_adeninivorans@Seq_4893	  0.00	1000.00	  0.00
@@ -3286,8 +3289,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.359906 s_0404[c] + 0.126061 s_0428[c] + 0.0797786 s_0430[c] + 0.233374 s_0432[c] + 0.00517737 s_0542[c] + 0.082681 s_0747[c] + 0.236747 s_0748[c] + 0.227804 s_0757[c] + 0.052009 s_0832[c] + 0.151164 s_0847[c] + 0.232511 s_1077[c] + 0.22451 s_1099[c] + 0.0397716 s_1148[c] + 0.105038 s_1314[c] + 0.129199 s_1379[c] + 0.145437 s_1428[c] + 0.150144 s_1491[c] + 0.0222784 s_1527[c] + 0.0800139 s_1533[c] + 0.207565 s_1561[c]  -> 0.359906 s_1582[c] + 0.126061 s_1583[c] + 0.0797786 s_1585[c] + 0.233374 s_1587[c] + 0.00517737 s_1589[c] + 0.082681 s_1590[c] + 0.236747 s_1591[c] + 0.227804 s_1593[c] + 0.052009 s_1594[c] + 0.151164 s_1596[c] + 0.232511 s_1598[c] + 0.22451 s_1600[c] + 0.0397716 s_1602[c] + 0.105038 s_1604[c] + 0.129199 s_1606[c] + 0.145437 s_1607[c] + 0.150144 s_1608[c] + 0.0222784 s_1610[c] + 0.0800139 s_1612[c] + 0.207565 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.606064 s_0404[c] + 0.212281 s_0428[c] + 0.134343 s_0430[c] + 0.392991 s_0432[c] + 0.00871845 s_0542[c] + 0.139231 s_0747[c] + 0.398671 s_0748[c] + 0.383612 s_0757[c] + 0.0875808 s_0832[c] + 0.254552 s_0847[c] + 0.391538 s_1077[c] + 0.378064 s_1099[c] + 0.0669735 s_1148[c] + 0.176879 s_1314[c] + 0.217565 s_1379[c] + 0.244909 s_1428[c] + 0.252835 s_1491[c] + 0.0375157 s_1527[c] + 0.13474 s_1533[c] + 0.349531 s_1561[c]  -> 0.606064 s_1582[c] + 0.212281 s_1583[c] + 0.134343 s_1585[c] + 0.392991 s_1587[c] + 0.00871845 s_1589[c] + 0.139231 s_1590[c] + 0.398671 s_1591[c] + 0.383612 s_1593[c] + 0.0875808 s_1594[c] + 0.254552 s_1596[c] + 0.391538 s_1598[c] + 0.378064 s_1600[c] + 0.0669735 s_1602[c] + 0.176879 s_1604[c] + 0.217565 s_1606[c] + 0.244909 s_1607[c] + 0.252835 s_1608[c] + 0.0375157 s_1610[c] + 0.13474 s_1612[c] + 0.349531 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.617701 s_0001[ce] + 0.206384 s_0004[ce] + 0.298252 s_0773[c] + 0.586693 s_1107[c] + 0.11411 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0569462 s_0423[c] + 0.0553368 s_0526[c] + 0.0569462 s_0782[c] + 0.0741538 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00486206 s_0584[c] + 0.00324138 s_0589[c] + 0.00324138 s_0615[c] + 0.00486206 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3418,7 +3421,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Arxula_aden
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Arxula_adeninivorans@Seq_1426 or Arxula_adeninivorans@Seq_2104 or Arxula_adeninivorans@Seq_3522 or Arxula_adeninivorans@Seq_4881 or Arxula_adeninivorans@Seq_5204 or Arxula_adeninivorans@Seq_582 or Arxula_adeninivorans@Seq_5935	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Arxula_adeninivorans@Seq_1426 or Arxula_adeninivorans@Seq_2104 or Arxula_adeninivorans@Seq_3522 or Arxula_adeninivorans@Seq_4881 or Arxula_adeninivorans@Seq_5204 or Arxula_adeninivorans@Seq_582 or Arxula_adeninivorans@Seq_5935	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Arxula_adeninivorans@Seq_1741 or Arxula_adeninivorans@Seq_2494	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Arxula_adeninivorans@Seq_4646 or Arxula_adeninivorans@Seq_116 or Arxula_adeninivorans@Seq_4669 or Arxula_adeninivorans@Seq_5127	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Arxula_adeninivorans@Seq_5306	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Arxula_adeninivorans@Seq_5306	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Arxula_adeninivorans@Seq_2264	-1000.00	1000.00	  0.00
@@ -3458,6 +3460,7 @@ r_4229	s_0803[c] + s_3869[c]  <=> s_0419[c] + s_3870[c] 	Arxula_adeninivorans@Se
 r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Arxula_adeninivorans@Seq_2045	-1000.00	1000.00	  0.00
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Arxula_adeninivorans@Seq_2045	-1000.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Arxula_adeninivorans@Seq_723	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Arxula_adeninivorans@Seq_1734 and Arxula_adeninivorans@Seq_4937 and Arxula_adeninivorans@Seq_323 and Arxula_adeninivorans@Seq_1505	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Arxula_adeninivorans@Seq_2314	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Arxula_adeninivorans@Seq_4096	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Arxula_adeninivorans@Seq_4595	  0.00	1000.00	  0.00
@@ -3798,7 +3801,7 @@ r_4581	s_1198[c] + s_4189[c]  -> s_0178[c] + s_0456[c] + s_1203[c] 		  0.00	1000
 r_4582	s_0779[c] + s_0803[c] + s_4183[c]  -> s_0529[c] + s_0794[c] + s_4189[c] 		  0.00	1000.00	  0.00
 r_4583	s_0803[c] + s_4190[c]  -> s_0529[c] + s_0794[c] + s_4191[c] 		  0.00	1000.00	  0.00
 r_4584	s_0434[c] + s_0529[c] + s_4191[c]  -> s_0423[c] + s_0633[c] + s_4190[c] 		  0.00	1000.00	  0.00
-r_4585	s_0803[c] + s_4192[c]  -> s_0558[c] + s_4193[c] 	Arxula_adeninivorans@Seq_4232 or Arxula_adeninivorans@Seq_5138	  0.00	1000.00	  0.00
+r_4585	s_0803[c] + s_4192[c]  -> s_0558[c] + s_4193[c] 	Arxula_adeninivorans@Seq_5138 or Arxula_adeninivorans@Seq_4232	  0.00	1000.00	  0.00
 r_4586	s_3998[c] + s_4192[c]  -> 2 s_4193[c] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 	Arxula_adeninivorans@Seq_549	-1000.00	1000.00	  0.00
 r_4588	s_4200[e]  <=> s_3778[c] 	Arxula_adeninivorans@Seq_4786	-1000.00	1000.00	  0.00
@@ -3843,23 +3846,21 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Arxula_adeninivorans@Seq_3437	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Arxula_adeninivorans@Seq_5793	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Arxula_adeninivorans@Seq_5793	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Arxula_adeninivorans@Seq_110 or Arxula_adeninivorans@Seq_5804 or Arxula_adeninivorans@Seq_5823	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Arxula_adeninivorans@Seq_2798	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Arxula_adeninivorans@Seq_1636	-1000.00	1000.00	  0.00
-r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	  0.00	1000.00	  0.00
-r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_857	-1000.00	1000.00	  0.00
-r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	  0.00	1000.00	  0.00
-r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	  0.00	1000.00	  0.00
-r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	  0.00	1000.00	  0.00
-r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	Arxula_adeninivorans@Seq_4232 or Arxula_adeninivorans@Seq_5138	  0.00	1000.00	  0.00
-r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Arxula_adeninivorans@Seq_4232 or Arxula_adeninivorans@Seq_5138	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Arxula_adeninivorans@Seq_2851 or Arxula_adeninivorans@Seq_1215	  0.00	1000.00	  0.00
+r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	  0.00	1000.00	  0.00
+r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	  0.00	1000.00	  0.00
+r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	  0.00	1000.00	  0.00
+r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	  0.00	1000.00	  0.00
+r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	Arxula_adeninivorans@Seq_5138 or Arxula_adeninivorans@Seq_4232	  0.00	1000.00	  0.00
+r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Arxula_adeninivorans@Seq_5138 or Arxula_adeninivorans@Seq_4232	  0.00	1000.00	  0.00
+r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Arxula_adeninivorans@Seq_2851	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Arxula_adeninivorans@Seq_2751	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Arxula_adeninivorans@Seq_1422 or Arxula_adeninivorans@Seq_2193 or Arxula_adeninivorans@Seq_2854 or Arxula_adeninivorans@Seq_3066	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Arxula_adeninivorans@Seq_2350 or Arxula_adeninivorans@Seq_383 or Arxula_adeninivorans@Seq_4281	  0.00	1000.00	  0.00
@@ -3886,15 +3887,15 @@ r_4703	s_1198[c] + s_4475[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Arxula_aden
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Arxula_adeninivorans@Seq_3771	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Arxula_adeninivorans@Seq_2864 or Arxula_adeninivorans@Seq_4075 or Arxula_adeninivorans@Seq_5536 or Arxula_adeninivorans@Seq_5660	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Arxula_adeninivorans@Seq_808	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Arxula_adeninivorans@Seq_188 or Arxula_adeninivorans@Seq_2471	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Arxula_adeninivorans@Seq_2471 or Arxula_adeninivorans@Seq_188	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Arxula_adeninivorans@Seq_3142 or Arxula_adeninivorans@Seq_72	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Arxula_adeninivorans@Seq_1931 or Arxula_adeninivorans@Seq_5617 or Arxula_adeninivorans@Seq_862	-1000.00	1000.00	  0.00
-r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
-r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
-r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
-r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
-r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
-r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Arxula_adeninivorans@Seq_5739 or Arxula_adeninivorans@Seq_3200	  0.00	1000.00	  0.00
+r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
+r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
+r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
+r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
+r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
+r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Arxula_adeninivorans@Seq_3200 or Arxula_adeninivorans@Seq_5739	  0.00	1000.00	  0.00
 r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Arxula_adeninivorans@Seq_947	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Arxula_adeninivorans@Seq_2967	  0.00	1000.00	  0.00
 r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Arxula_adeninivorans@Seq_1090 or Arxula_adeninivorans@Seq_2800 or Arxula_adeninivorans@Seq_2912	  0.00	1000.00	  0.00
@@ -3910,12 +3911,10 @@ r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Arxula_aden
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Arxula_adeninivorans@Seq_1177	  0.00	1000.00	  0.00
 r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Arxula_adeninivorans@Seq_500	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Arxula_adeninivorans@Seq_5375	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Arxula_adeninivorans@Seq_2601	  0.00	1000.00	  0.00
 r_4795	s_0794[c] + s_1212[c] + s_4444[c]  -> s_0529[c] + s_1207[c] + s_4443[c] 	Arxula_adeninivorans@Seq_2879	  0.00	1000.00	  0.00
 r_4796	s_0794[c] + s_1212[c] + s_4359[c]  -> s_0529[c] + s_1207[c] + s_4418[c] 	Arxula_adeninivorans@Seq_2879	  0.00	1000.00	  0.00
 r_4797	s_0794[c] + s_1212[c] + s_4357[c]  <=> s_0529[c] + s_1207[c] + s_4416[c] 	Arxula_adeninivorans@Seq_2879	-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Arxula_adeninivorans@Seq_3513	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Arxula_adeninivorans@Seq_4567	  0.00	1000.00	  0.00
 r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Arxula_adeninivorans@Seq_425	  0.00	1000.00	  0.00
@@ -3924,7 +3923,7 @@ r_4820	s_0803[c] + s_3761[c]  <=> s_0415[c] + s_0423[c] + 2 s_0794[c] 	Arxula_ad
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Arxula_adeninivorans@Seq_2976	  0.00	1000.00	  0.00
 r_4825	s_0794[c] + s_0955[c] + s_1368[c]  -> s_0352[c] + s_0456[c] + s_0529[c] 	Arxula_adeninivorans@Seq_1818	  0.00	1000.00	  0.00
 r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Arxula_adeninivorans@Seq_1841	-1000.00	1000.00	  0.00
-r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Arxula_adeninivorans@Seq_4062 or Arxula_adeninivorans@Seq_4347 or Arxula_adeninivorans@Seq_610	  0.00	1000.00	  0.00
+r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Arxula_adeninivorans@Seq_4062 or Arxula_adeninivorans@Seq_4347 or Arxula_adeninivorans@Seq_610 or Arxula_adeninivorans@Seq_883	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Arxula_adeninivorans@Seq_1396	  0.00	1000.00	  0.00
 r_4843	s_0803[c] + s_1151[c]  -> s_0025[c] + s_0794[c] 	Arxula_adeninivorans@Seq_2569	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Arxula_adeninivorans@Seq_1176	  0.00	1000.00	  0.00
@@ -3941,12 +3940,9 @@ r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c]
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Arxula_adeninivorans@Seq_4438	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Arxula_adeninivorans@Seq_3009	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Arxula_adeninivorans@Seq_3009	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4922	s_1275[c] + s_4191[c]  -> s_4341[c] 	Arxula_adeninivorans@Seq_5342	  0.00	1000.00	  0.00
 r_4931	s_0803[c] + s_4291[c]  -> s_0362[c] + s_0794[c] + s_4330[c] 	Arxula_adeninivorans@Seq_4577	  0.00	1000.00	  0.00
 r_4932	s_0803[c] + s_4289[c]  -> s_0362[c] + s_0794[c] + s_4329[c] 	Arxula_adeninivorans@Seq_4577	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Arxula_adeninivorans@Seq_1198	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Arxula_adeninivorans@Seq_2839 or Arxula_adeninivorans@Seq_465	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Arxula_adeninivorans@Seq_3096 or Arxula_adeninivorans@Seq_975	  0.00	1000.00	  0.00
@@ -3967,15 +3963,14 @@ r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Arxula_adeni
 r_4987	s_0803[c] + s_4270[c]  -> s_0529[c] + s_0794[c] + s_4269[c] 	Arxula_adeninivorans@Seq_5287	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Arxula_adeninivorans@Seq_3659 or Arxula_adeninivorans@Seq_520	  0.00	1000.00	  0.00
 r_5004	s_0794[c] + s_0850[c] + s_1212[c]  -> s_1207[c] + s_1529[c] 	Arxula_adeninivorans@Seq_3040	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5019	s_1275[c] + s_4244[c]  -> s_4242[c] + s_4243[c] 	Arxula_adeninivorans@Seq_3352	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Arxula_adeninivorans@Seq_4991	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Arxula_adeninivorans@Seq_1669 or Arxula_adeninivorans@Seq_1781 or Arxula_adeninivorans@Seq_2242 or Arxula_adeninivorans@Seq_2463 or Arxula_adeninivorans@Seq_2599 or Arxula_adeninivorans@Seq_346 or Arxula_adeninivorans@Seq_3720 or Arxula_adeninivorans@Seq_423 or Arxula_adeninivorans@Seq_4284 or Arxula_adeninivorans@Seq_4731 or Arxula_adeninivorans@Seq_49 or Arxula_adeninivorans@Seq_4965 or Arxula_adeninivorans@Seq_5432 or Arxula_adeninivorans@Seq_5821	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Arxula_adeninivorans@Seq_1669 or Arxula_adeninivorans@Seq_1781 or Arxula_adeninivorans@Seq_2242 or Arxula_adeninivorans@Seq_2463 or Arxula_adeninivorans@Seq_2599 or Arxula_adeninivorans@Seq_346 or Arxula_adeninivorans@Seq_3720 or Arxula_adeninivorans@Seq_423 or Arxula_adeninivorans@Seq_4284 or Arxula_adeninivorans@Seq_4731 or Arxula_adeninivorans@Seq_49 or Arxula_adeninivorans@Seq_4965 or Arxula_adeninivorans@Seq_5432 or Arxula_adeninivorans@Seq_5821	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Arxula_adeninivorans@Seq_1170	-1000.00	1000.00	  0.00
-r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Arxula_adeninivorans@Seq_3554 or Arxula_adeninivorans@Seq_3046	-1000.00	1000.00	  0.00
-r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	Arxula_adeninivorans@Seq_4232 or Arxula_adeninivorans@Seq_5138	-1000.00	1000.00	  0.00
+r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Arxula_adeninivorans@Seq_3046 or Arxula_adeninivorans@Seq_3554	-1000.00	1000.00	  0.00
+r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	Arxula_adeninivorans@Seq_5138 or Arxula_adeninivorans@Seq_4232	-1000.00	1000.00	  0.00
 r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Arxula_adeninivorans@Seq_5793	-1000.00	1000.00	  0.00
 r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Arxula_adeninivorans@Seq_2356	-1000.00	1000.00	  0.00
 r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Arxula_adeninivorans@Seq_2356	-1000.00	1000.00	  0.00
@@ -3989,21 +3984,20 @@ r_5094	s_0803[c] + s_4303[c]  <=> s_4578[c] 	Arxula_adeninivorans@Seq_943	-1000.
 r_5095	s_1198[c] + s_4577[c]  <=> s_0794[c] + s_1203[c] + s_4302[c] 	Arxula_adeninivorans@Seq_943	-1000.00	1000.00	  0.00
 r_5096	s_4577[c]  <=> s_0803[c] + s_4282[c] 	Arxula_adeninivorans@Seq_943	-1000.00	1000.00	  0.00
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Arxula_adeninivorans@Seq_3009	  0.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Arxula_adeninivorans@Seq_2242 or Arxula_adeninivorans@Seq_2463 or Arxula_adeninivorans@Seq_2599 or Arxula_adeninivorans@Seq_346 or Arxula_adeninivorans@Seq_423 or Arxula_adeninivorans@Seq_49 or Arxula_adeninivorans@Seq_5203 or Arxula_adeninivorans@Seq_5367 or Arxula_adeninivorans@Seq_5432	-1000.00	1000.00	  0.00
 r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Arxula_adeninivorans@Seq_3771	  0.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Arxula_adeninivorans@Seq_4523 or Arxula_adeninivorans@Seq_5168	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Arxula_adeninivorans@Seq_4523 or Arxula_adeninivorans@Seq_1740 or Arxula_adeninivorans@Seq_5168	-1000.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Arxula_adeninivorans@Seq_5168 or Arxula_adeninivorans@Seq_4523	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Arxula_adeninivorans@Seq_1740 or Arxula_adeninivorans@Seq_5168 or Arxula_adeninivorans@Seq_4523	-1000.00	1000.00	  0.00
 r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Arxula_adeninivorans@Seq_2242 or Arxula_adeninivorans@Seq_2463 or Arxula_adeninivorans@Seq_2599 or Arxula_adeninivorans@Seq_346 or Arxula_adeninivorans@Seq_423 or Arxula_adeninivorans@Seq_49 or Arxula_adeninivorans@Seq_5203 or Arxula_adeninivorans@Seq_5367 or Arxula_adeninivorans@Seq_5432	  0.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Arxula_adeninivorans@Seq_531	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Arxula_adeninivorans@Seq_531	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Arxula_adeninivorans@Seq_2530	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5143	s_0794[c] + s_1212[c] + s_4358[c]  <=> s_0529[c] + s_1207[c] + s_4553[c] 	Arxula_adeninivorans@Seq_2879	-1000.00	1000.00	  0.00
 r_5144	s_0794[c] + s_1212[c] + s_4356[c]  <=> s_0529[c] + s_1207[c] + s_4463[c] 	Arxula_adeninivorans@Seq_2879	-1000.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	Arxula_adeninivorans@Seq_2758	  0.00	1000.00	  0.00
@@ -4012,35 +4006,33 @@ r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	Arxula_adeninivorans@Seq_3009	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Arxula_adeninivorans@Seq_3009	  0.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Arxula_adeninivorans@Seq_710 or Arxula_adeninivorans@Seq_4646 or Arxula_adeninivorans@Seq_116 or Arxula_adeninivorans@Seq_5678 or Arxula_adeninivorans@Seq_2631 or Arxula_adeninivorans@Seq_870 or Arxula_adeninivorans@Seq_4669 or Arxula_adeninivorans@Seq_5127 or Arxula_adeninivorans@Seq_4081 or Arxula_adeninivorans@Seq_1841	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Arxula_adeninivorans@Seq_4646 or Arxula_adeninivorans@Seq_5678 or Arxula_adeninivorans@Seq_4669 or Arxula_adeninivorans@Seq_5127 or Arxula_adeninivorans@Seq_116 or Arxula_adeninivorans@Seq_710 or Arxula_adeninivorans@Seq_870 or Arxula_adeninivorans@Seq_4081 or Arxula_adeninivorans@Seq_2631 or Arxula_adeninivorans@Seq_1841	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Arxula_adeninivorans@Seq_3535	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Arxula_adeninivorans@Seq_4831 or Arxula_adeninivorans@Seq_2758	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Arxula_adeninivorans@Seq_2758 or Arxula_adeninivorans@Seq_4831	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Arxula_adeninivorans@Seq_3308	-1000.00	1000.00	  0.00
 r_5187	s_0794[c] + s_1212[c] + s_4381[c]  <=> s_1207[c] + s_4624[c] 	Arxula_adeninivorans@Seq_425	-1000.00	1000.00	  0.00
 r_5188	s_0794[c] + s_1203[c] + s_4381[c]  <=> s_1198[c] + s_4624[c] 	Arxula_adeninivorans@Seq_425	-1000.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Arxula_adeninivorans@Seq_729	  0.00	1000.00	  0.00
 r_0015	s_0141[c] + s_0794[c] + s_1212[c]  -> s_0142[c] + s_1207[c] 	Arxula_adeninivorans@Seq_16	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1535[m] + s_1269[c] 	Arxula_adeninivorans@Seq_3628	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_434 and Arxula_adeninivorans@Seq_5741 and Arxula_adeninivorans@Seq_201 and Arxula_adeninivorans@Seq_1990 and Arxula_adeninivorans@Seq_3510 and Arxula_adeninivorans@Seq_597) or (Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_434 and Arxula_adeninivorans@Seq_5741 and Arxula_adeninivorans@Seq_201 and Arxula_adeninivorans@Seq_5585 and Arxula_adeninivorans@Seq_3510 and Arxula_adeninivorans@Seq_597) or (Arxula_adeninivorans@Seq_5735 and Arxula_adeninivorans@Seq_5024 and Arxula_adeninivorans@Seq_4654 and Arxula_adeninivorans@Seq_3198 and Arxula_adeninivorans@Seq_5838 and Arxula_adeninivorans@Seq_2915 and Arxula_adeninivorans@Seq_4082 and Arxula_adeninivorans@Seq_2887 and Arxula_adeninivorans@Seq_5424)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Arxula_adeninivorans@Seq_1681 and Arxula_adeninivorans@Seq_3772 and Arxula_adeninivorans@Seq_5024 and Arxula_adeninivorans@Seq_1440 and Arxula_adeninivorans@Seq_204 and Arxula_adeninivorans@Seq_1380 and Arxula_adeninivorans@Seq_2055	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_860 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_4154) or (Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_4154 and Arxula_adeninivorans@Seq_2868) or (Arxula_adeninivorans@Seq_2442 and Arxula_adeninivorans@Seq_668 and Arxula_adeninivorans@Seq_484 and Arxula_adeninivorans@Seq_5723 and Arxula_adeninivorans@Seq_860 and Arxula_adeninivorans@Seq_3948 and Arxula_adeninivorans@Seq_1512 and Arxula_adeninivorans@Seq_3640 and Arxula_adeninivorans@Seq_5468 and Arxula_adeninivorans@Seq_4154 and Arxula_adeninivorans@Seq_3076 and Arxula_adeninivorans@Seq_2393 and Arxula_adeninivorans@Seq_252 and Arxula_adeninivorans@Seq_5755 and Arxula_adeninivorans@Seq_1072)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Arxula_adeninivorans@Seq_2717 and Arxula_adeninivorans@Seq_734 and Arxula_adeninivorans@Seq_2483 and Arxula_adeninivorans@Seq_4632 and Arxula_adeninivorans@Seq_3839 and Arxula_adeninivorans@Seq_3051 and Arxula_adeninivorans@Seq_3403 and Arxula_adeninivorans@Seq_2309 and Arxula_adeninivorans@Seq_3591 and Arxula_adeninivorans@Seq_3397 and Arxula_adeninivorans@Seq_4182 and Arxula_adeninivorans@Seq_5626 and Arxula_adeninivorans@Seq_2705 and Arxula_adeninivorans@Seq_3794 and Arxula_adeninivorans@Seq_3858 and Arxula_adeninivorans@Seq_2378 and Arxula_adeninivorans@Seq_5681 and Arxula_adeninivorans@Seq_3643 and Arxula_adeninivorans@Seq_574	  0.00	1000.00	  0.00
 r_0820	s_0633[c] + s_1270[c]  <=> s_1386[c] + s_1269[c] 		-1000.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Arxula_adeninivorans@Seq_120 or Arxula_adeninivorans@Seq_871	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Arxula_adeninivorans@Seq_4081	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Arxula_adeninivorans@Seq_4316	  0.00	1000.00	  0.00
 r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5205	s_0794[c] + s_4624[c]  <=> s_0796[e] + s_4639[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
-r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00
+r_5209	s_4642[e]  -> s_3935[c] 	Arxula_adeninivorans@Seq_1351	  0.00	1000.00	  0.00
 r_5221	s_0794[c] + s_4556[c]  <=> s_0796[e] + s_4649[e] 		-1000.00	1000.00	  0.00
 r_5222	s_4261[c]  <=> s_4650[e] 		-1000.00	1000.00	  0.00
 r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] + s_1203[c] 		  0.00	1000.00	  0.00
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
-r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 		  0.00	1000.00	  0.00
+r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 	Arxula_adeninivorans@Seq_5398	  0.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Arxula_adeninivorans@Seq_3818	  0.00	1000.00	  0.00

@@ -182,6 +182,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Botrytis_cin
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Botrytis_cinerea@Seq_4092	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Botrytis_cinerea@Seq_4092	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Botrytis_cinerea@Seq_5301	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_4569 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_13553) or (Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_13553 and Botrytis_cinerea@Seq_8946) or (Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_813 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_4569 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_4896 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_4220 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_2442 and Botrytis_cinerea@Seq_13553)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Botrytis_cinerea@Seq_13978	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Botrytis_cinerea@Seq_16304	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Botrytis_cinerea@Seq_4078	-1000.00	1000.00	  0.00
@@ -303,6 +304,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Botrytis_cinerea@Seq_1444	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Botrytis_cinerea@Seq_14246	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Botrytis_cinerea@Seq_8267 and Botrytis_cinerea@Seq_1963	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Botrytis_cinerea@Seq_4072 and Botrytis_cinerea@Seq_8267 and Botrytis_cinerea@Seq_11464 and Botrytis_cinerea@Seq_5867 and Botrytis_cinerea@Seq_11905 and Botrytis_cinerea@Seq_9359 and Botrytis_cinerea@Seq_1813) or (Botrytis_cinerea@Seq_1927 and Botrytis_cinerea@Seq_4072 and Botrytis_cinerea@Seq_13094 and Botrytis_cinerea@Seq_14371 and Botrytis_cinerea@Seq_6484 and Botrytis_cinerea@Seq_10526)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Botrytis_cinerea@Seq_15167 and Botrytis_cinerea@Seq_11743 and Botrytis_cinerea@Seq_8267 and Botrytis_cinerea@Seq_13992 and Botrytis_cinerea@Seq_5633 and Botrytis_cinerea@Seq_11458 and Botrytis_cinerea@Seq_12172 and Botrytis_cinerea@Seq_12644	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Botrytis_cinerea@Seq_9792	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	Botrytis_cinerea@Seq_582	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	Botrytis_cinerea@Seq_582	  0.00	1000.00	  0.00
@@ -649,6 +652,7 @@ r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	Botrytis_cin
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	Botrytis_cinerea@Seq_11908 or Botrytis_cinerea@Seq_777	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	Botrytis_cinerea@Seq_13298	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	Botrytis_cinerea@Seq_7855	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	Botrytis_cinerea@Seq_8462 and Botrytis_cinerea@Seq_499	  0.00	1000.00	  0.00
 r_0953	s_0419[c] + 2 s_0803[c] + 0.5 s_1275[c] + s_1392[c]  -> 2 s_0837[c] + s_1394[c] 	Botrytis_cinerea@Seq_14692	  0.00	1000.00	  0.00
 r_0954	s_0803[c] + s_1275[c] + s_1395[c]  -> s_0419[c] + s_0837[c] + s_1393[c] 	Botrytis_cinerea@Seq_14692	  0.00	1000.00	  0.00
 r_0955	s_1275[c] + s_1398[c]  <=> s_0837[c] + s_1393[c] 	Botrytis_cinerea@Seq_14692	-1000.00	1000.00	  0.00
@@ -1832,6 +1836,8 @@ r_4042	s_3715[e]  -> s_0554[e] + s_3716[e] 	Botrytis_cinerea@Seq_8388	  0.00	100
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Botrytis_cinerea@Seq_8462	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Botrytis_cinerea@Seq_11055 or Botrytis_cinerea@Seq_12854 or Botrytis_cinerea@Seq_15855 or Botrytis_cinerea@Seq_7456 or Botrytis_cinerea@Seq_8303 or Botrytis_cinerea@Seq_8750 or Botrytis_cinerea@Seq_9908	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Botrytis_cinerea@Seq_11055 or Botrytis_cinerea@Seq_12854 or Botrytis_cinerea@Seq_15855 or Botrytis_cinerea@Seq_7456 or Botrytis_cinerea@Seq_8303 or Botrytis_cinerea@Seq_8750 or Botrytis_cinerea@Seq_9908	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_1045 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477 and Botrytis_cinerea@Seq_5358) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_16390 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477 and Botrytis_cinerea@Seq_5358) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_1752 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_1045 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_1752 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_16390 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_1045 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477 and Botrytis_cinerea@Seq_5358) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_16390 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477 and Botrytis_cinerea@Seq_5358) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_1752 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_1045 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477) or (Botrytis_cinerea@Seq_8745 and Botrytis_cinerea@Seq_1752 and Botrytis_cinerea@Seq_14435 and Botrytis_cinerea@Seq_8079 and Botrytis_cinerea@Seq_8996 and Botrytis_cinerea@Seq_1523 and Botrytis_cinerea@Seq_11666 and Botrytis_cinerea@Seq_9400 and Botrytis_cinerea@Seq_13370 and Botrytis_cinerea@Seq_16390 and Botrytis_cinerea@Seq_7181 and Botrytis_cinerea@Seq_477)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3145,8 +3151,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3277,7 +3283,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Botrytis_ci
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Botrytis_cinerea@Seq_15539 or Botrytis_cinerea@Seq_312 or Botrytis_cinerea@Seq_3170 or Botrytis_cinerea@Seq_3315 or Botrytis_cinerea@Seq_4859	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Botrytis_cinerea@Seq_15539 or Botrytis_cinerea@Seq_312 or Botrytis_cinerea@Seq_3170 or Botrytis_cinerea@Seq_3315 or Botrytis_cinerea@Seq_4859	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Botrytis_cinerea@Seq_12436 or Botrytis_cinerea@Seq_7639	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Botrytis_cinerea@Seq_14068 or Botrytis_cinerea@Seq_16379	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Botrytis_cinerea@Seq_1650 or Botrytis_cinerea@Seq_8461	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Botrytis_cinerea@Seq_1650 or Botrytis_cinerea@Seq_8461	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Botrytis_cinerea@Seq_3925	-1000.00	1000.00	  0.00
@@ -3705,35 +3710,33 @@ r_4629	s_1275[c] + s_4337[c]  -> s_4539[c] 	Botrytis_cinerea@Seq_1035 or Botryti
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Botrytis_cinerea@Seq_2851 or Botrytis_cinerea@Seq_5046	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Botrytis_cinerea@Seq_11426	  0.00	1000.00	  0.00
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	Botrytis_cinerea@Seq_1405	-1000.00	1000.00	  0.00
-r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Botrytis_cinerea@Seq_14013 or Botrytis_cinerea@Seq_7342	  0.00	1000.00	  0.00
-r_4640	s_0434[c] + s_0445[c] + s_4183[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_4531[c] 	Botrytis_cinerea@Seq_6742 or Botrytis_cinerea@Seq_8263	-1000.00	1000.00	  0.00
+r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Botrytis_cinerea@Seq_4509 or Botrytis_cinerea@Seq_14013 or Botrytis_cinerea@Seq_7342	  0.00	1000.00	  0.00
+r_4640	s_0434[c] + s_0445[c] + s_4183[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_4531[c] 	Botrytis_cinerea@Seq_8263 or Botrytis_cinerea@Seq_6742	-1000.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Botrytis_cinerea@Seq_260	-1000.00	1000.00	  0.00
-r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Botrytis_cinerea@Seq_14877 or Botrytis_cinerea@Seq_7525 or Botrytis_cinerea@Seq_3369	-1000.00	1000.00	  0.00
+r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Botrytis_cinerea@Seq_7525 or Botrytis_cinerea@Seq_14877 or Botrytis_cinerea@Seq_3369	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Botrytis_cinerea@Seq_11423 or Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_5880 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	  0.00	1000.00	  0.00
 r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Botrytis_cinerea@Seq_16086 or Botrytis_cinerea@Seq_5773 or Botrytis_cinerea@Seq_6603 or Botrytis_cinerea@Seq_8657	  0.00	1000.00	  0.00
 r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	Botrytis_cinerea@Seq_15937 or Botrytis_cinerea@Seq_4213 or Botrytis_cinerea@Seq_7946 or Botrytis_cinerea@Seq_8847	  0.00	1000.00	  0.00
 r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Botrytis_cinerea@Seq_15937 or Botrytis_cinerea@Seq_4213 or Botrytis_cinerea@Seq_7946 or Botrytis_cinerea@Seq_8847	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Botrytis_cinerea@Seq_12675 or Botrytis_cinerea@Seq_7863	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Botrytis_cinerea@Seq_3923	  0.00	1000.00	  0.00
-r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Botrytis_cinerea@Seq_13571 or Botrytis_cinerea@Seq_12295 or Botrytis_cinerea@Seq_15893 or Botrytis_cinerea@Seq_10045 or Botrytis_cinerea@Seq_15346	  0.00	1000.00	  0.00
+r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Botrytis_cinerea@Seq_10045 or Botrytis_cinerea@Seq_15893 or Botrytis_cinerea@Seq_13571 or Botrytis_cinerea@Seq_12295 or Botrytis_cinerea@Seq_15346	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Botrytis_cinerea@Seq_10429 or Botrytis_cinerea@Seq_3662	  0.00	1000.00	  0.00
-r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Botrytis_cinerea@Seq_13588 or Botrytis_cinerea@Seq_1525 or Botrytis_cinerea@Seq_1593	-1000.00	1000.00	  0.00
+r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Botrytis_cinerea@Seq_13588 or Botrytis_cinerea@Seq_1525	-1000.00	1000.00	  0.00
 r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Botrytis_cinerea@Seq_13588 or Botrytis_cinerea@Seq_1525	-1000.00	1000.00	  0.00
-r_4662	2 s_0803[c] + s_4512[c]  -> s_0419[c] + s_0853[c] 	Botrytis_cinerea@Seq_12593	  0.00	1000.00	  0.00
-r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Botrytis_cinerea@Seq_7671 or Botrytis_cinerea@Seq_2054 or Botrytis_cinerea@Seq_6745 or Botrytis_cinerea@Seq_2542	  0.00	1000.00	  0.00
+r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Botrytis_cinerea@Seq_2054 or Botrytis_cinerea@Seq_2542 or Botrytis_cinerea@Seq_7671 or Botrytis_cinerea@Seq_6745	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Botrytis_cinerea@Seq_11508 or Botrytis_cinerea@Seq_14740 or Botrytis_cinerea@Seq_6923	  0.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Botrytis_cinerea@Seq_11638	  0.00	1000.00	  0.00
-r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	Botrytis_cinerea@Seq_2341 or Botrytis_cinerea@Seq_1925	  0.00	1000.00	  0.00
-r_4670	s_3951[c]  <=> s_3949[c] 	Botrytis_cinerea@Seq_15771 or Botrytis_cinerea@Seq_10353	-1000.00	1000.00	  0.00
+r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	Botrytis_cinerea@Seq_1925 or Botrytis_cinerea@Seq_2341	  0.00	1000.00	  0.00
+r_4670	s_3951[c]  <=> s_3949[c] 	Botrytis_cinerea@Seq_10353 or Botrytis_cinerea@Seq_15771	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	Botrytis_cinerea@Seq_14213 or Botrytis_cinerea@Seq_1990 or Botrytis_cinerea@Seq_2604 or Botrytis_cinerea@Seq_4729 or Botrytis_cinerea@Seq_6517 or Botrytis_cinerea@Seq_8845	-1000.00	1000.00	  0.00
-r_4672	s_0803[c] + s_1198[c] + s_4298[c]  <=> 2 s_0794[c] + s_1203[c] + s_4259[c] 	Botrytis_cinerea@Seq_10304 or Botrytis_cinerea@Seq_11849	-1000.00	1000.00	  0.00
+r_4672	s_0803[c] + s_1198[c] + s_4298[c]  <=> 2 s_0794[c] + s_1203[c] + s_4259[c] 	Botrytis_cinerea@Seq_11849 or Botrytis_cinerea@Seq_10304	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Botrytis_cinerea@Seq_16078 or Botrytis_cinerea@Seq_14936 or Botrytis_cinerea@Seq_13665	  0.00	1000.00	  0.00
 r_4674	s_0803[c] + s_1275[c] + s_4449[c]  -> s_0419[c] + s_0837[c] + s_1318[c] 	Botrytis_cinerea@Seq_16078 or Botrytis_cinerea@Seq_14936 or Botrytis_cinerea@Seq_13665	  0.00	1000.00	  0.00
 r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	Botrytis_cinerea@Seq_16078 or Botrytis_cinerea@Seq_14936 or Botrytis_cinerea@Seq_13665	  0.00	1000.00	  0.00
@@ -3745,7 +3748,7 @@ r_4680	s_1416[c] + s_4264[c]  -> s_0794[c] + s_1413[c] + s_4266[c] 	Botrytis_cin
 r_4681	s_0803[c] + s_4348[c]  -> s_0794[c] + s_1467[c] + s_4349[c] 	Botrytis_cinerea@Seq_13097	  0.00	1000.00	  0.00
 r_4682	s_0794[c] + s_1203[c] + s_3914[c]  -> s_0803[c] + s_1198[c] + s_3935[c] 	Botrytis_cinerea@Seq_15142 or Botrytis_cinerea@Seq_2218	  0.00	1000.00	  0.00
 r_4683	s_0794[c] + s_1212[c] + s_3914[c]  -> s_0803[c] + s_1207[c] + s_3935[c] 	Botrytis_cinerea@Seq_15142 or Botrytis_cinerea@Seq_2218	  0.00	1000.00	  0.00
-r_4684	s_4497[c]  <=> s_0803[c] + s_4505[c] 	Botrytis_cinerea@Seq_1492 or Botrytis_cinerea@Seq_13088	-1000.00	1000.00	  0.00
+r_4684	s_4497[c]  <=> s_0803[c] + s_4505[c] 	Botrytis_cinerea@Seq_13088 or Botrytis_cinerea@Seq_1492	-1000.00	1000.00	  0.00
 r_4685	s_1207[c] + s_4504[c]  <=> s_0794[c] + s_1212[c] + s_4503[c] 	Botrytis_cinerea@Seq_10103 or Botrytis_cinerea@Seq_11223 or Botrytis_cinerea@Seq_13883 or Botrytis_cinerea@Seq_2902 or Botrytis_cinerea@Seq_31 or Botrytis_cinerea@Seq_3194 or Botrytis_cinerea@Seq_3310	-1000.00	1000.00	  0.00
 r_4686	s_0063[c] + s_1275[c]  -> s_0362[c] + s_0456[c] + s_0803[c] 	Botrytis_cinerea@Seq_16295 or Botrytis_cinerea@Seq_7602	  0.00	1000.00	  0.00
 r_4687	s_0803[c] + s_0843[c] + s_1198[c]  -> s_0357[c] + s_0794[c] + s_1203[c] 	Botrytis_cinerea@Seq_2553 or Botrytis_cinerea@Seq_2436	  0.00	1000.00	  0.00
@@ -3763,8 +3766,7 @@ r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] +
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Botrytis_cinerea@Seq_10240	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Botrytis_cinerea@Seq_5989	-1000.00	1000.00	  0.00
 r_4709	s_0794[c] + s_4322[c]  -> s_0456[c] + s_0722[c] 	Botrytis_cinerea@Seq_11821 or Botrytis_cinerea@Seq_14093 or Botrytis_cinerea@Seq_2883	  0.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Botrytis_cinerea@Seq_9457 or Botrytis_cinerea@Seq_3378	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Botrytis_cinerea@Seq_16295 or Botrytis_cinerea@Seq_7602	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Botrytis_cinerea@Seq_3378 or Botrytis_cinerea@Seq_9457	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Botrytis_cinerea@Seq_15449 or Botrytis_cinerea@Seq_11242 or Botrytis_cinerea@Seq_7635	-1000.00	1000.00	  0.00
 r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Botrytis_cinerea@Seq_7644	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Botrytis_cinerea@Seq_11183 or Botrytis_cinerea@Seq_15076 or Botrytis_cinerea@Seq_15110 or Botrytis_cinerea@Seq_15757 or Botrytis_cinerea@Seq_1829 or Botrytis_cinerea@Seq_4918 or Botrytis_cinerea@Seq_5959	  0.00	1000.00	  0.00
@@ -3776,18 +3778,18 @@ r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	
 r_4720	s_0794[c] + s_4486[c]  <=> s_0456[c] + s_3958[c] 	Botrytis_cinerea@Seq_11915	-1000.00	1000.00	  0.00
 r_4721	s_1198[c] + s_4486[c]  <=> s_0794[c] + s_1203[c] + s_4485[c] 	Botrytis_cinerea@Seq_11915	-1000.00	1000.00	  0.00
 r_4722	s_0803[c] + s_1275[c] + s_1469[c]  -> s_0837[c] + s_1467[c] 	Botrytis_cinerea@Seq_3168	  0.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Botrytis_cinerea@Seq_12846 or Botrytis_cinerea@Seq_13908 or Botrytis_cinerea@Seq_9854	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Botrytis_cinerea@Seq_13908 or Botrytis_cinerea@Seq_12846 or Botrytis_cinerea@Seq_9854	  0.00	1000.00	  0.00
 r_4726	s_1006[c] + 3 s_1416[c]  -> 3 s_0794[c] + 3 s_1413[c] + s_4482[c] 	Botrytis_cinerea@Seq_715 or Botrytis_cinerea@Seq_13560	  0.00	1000.00	  0.00
 r_4727	s_0981[c] + s_1275[c] + s_4482[c]  -> s_0803[c] + s_4481[c] 	Botrytis_cinerea@Seq_715 or Botrytis_cinerea@Seq_13560	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Botrytis_cinerea@Seq_16376 or Botrytis_cinerea@Seq_16118	  0.00	1000.00	  0.00
-r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Botrytis_cinerea@Seq_6177 or Botrytis_cinerea@Seq_14460 or Botrytis_cinerea@Seq_11643	  0.00	1000.00	  0.00
+r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Botrytis_cinerea@Seq_11643 or Botrytis_cinerea@Seq_6177 or Botrytis_cinerea@Seq_14460	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Botrytis_cinerea@Seq_15376 or Botrytis_cinerea@Seq_6895	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Botrytis_cinerea@Seq_1460	  0.00	1000.00	  0.00
 r_4735	s_1198[c] + s_4209[c]  <=> s_0794[c] + s_1203[c] + s_3948[c] 	Botrytis_cinerea@Seq_10820	-1000.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Botrytis_cinerea@Seq_10042 or Botrytis_cinerea@Seq_16163 or Botrytis_cinerea@Seq_7818	  0.00	1000.00	  0.00
 r_4755	s_0794[c] + s_1006[c]  -> s_0456[c] + s_4350[c] 	Botrytis_cinerea@Seq_2939	  0.00	1000.00	  0.00
-r_4756	s_0189[c]  -> s_4379[c] 	Botrytis_cinerea@Seq_8394 or Botrytis_cinerea@Seq_8017	  0.00	1000.00	  0.00
-r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Botrytis_cinerea@Seq_16275 or Botrytis_cinerea@Seq_5513 or Botrytis_cinerea@Seq_15044 or Botrytis_cinerea@Seq_12426	-1000.00	1000.00	  0.00
+r_4756	s_0189[c]  -> s_4379[c] 	Botrytis_cinerea@Seq_8017 or Botrytis_cinerea@Seq_8394	  0.00	1000.00	  0.00
+r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Botrytis_cinerea@Seq_16275 or Botrytis_cinerea@Seq_5513 or Botrytis_cinerea@Seq_12426 or Botrytis_cinerea@Seq_15044	-1000.00	1000.00	  0.00
 r_4758	s_0794[c] + s_4468[c]  <=> s_0456[c] + s_4405[c] 	Botrytis_cinerea@Seq_10394 or Botrytis_cinerea@Seq_14150 or Botrytis_cinerea@Seq_2411 or Botrytis_cinerea@Seq_7757	-1000.00	1000.00	  0.00
 r_4759	s_0581[c] + s_1322[c]  -> s_0764[c] + s_0803[c] + s_4317[c] 	Botrytis_cinerea@Seq_15454 or Botrytis_cinerea@Seq_7543	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Botrytis_cinerea@Seq_15971	-1000.00	1000.00	  0.00
@@ -3801,7 +3803,7 @@ r_4770	s_1416[c] + s_4463[c]  -> s_0794[c] + s_1413[c] + s_4416[c] 	Botrytis_cin
 r_4771	s_4427[c]  <=> s_1399[c] + s_4461[c] 	Botrytis_cinerea@Seq_8565	-1000.00	1000.00	  0.00
 r_4772	s_4462[c]  <=> s_1399[c] + s_4461[c] 	Botrytis_cinerea@Seq_8565	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Botrytis_cinerea@Seq_11959 or Botrytis_cinerea@Seq_2241	  0.00	1000.00	  0.00
-r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Botrytis_cinerea@Seq_4059 or Botrytis_cinerea@Seq_9517 or Botrytis_cinerea@Seq_8263	  0.00	1000.00	  0.00
+r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Botrytis_cinerea@Seq_8263 or Botrytis_cinerea@Seq_4059 or Botrytis_cinerea@Seq_9517	  0.00	1000.00	  0.00
 r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Botrytis_cinerea@Seq_2415 or Botrytis_cinerea@Seq_2939	  0.00	1000.00	  0.00
 r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Botrytis_cinerea@Seq_2415 or Botrytis_cinerea@Seq_2939	  0.00	1000.00	  0.00
 r_4779	s_0434[c] + s_0441[c] + s_1006[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_3991[c] 	Botrytis_cinerea@Seq_1859	  0.00	1000.00	  0.00
@@ -3813,15 +3815,15 @@ r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	Botrytis_cinerea@Seq_293
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Botrytis_cinerea@Seq_2939	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Botrytis_cinerea@Seq_2939	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Botrytis_cinerea@Seq_1227	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
+r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 	Botrytis_cinerea@Seq_1130	-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Botrytis_cinerea@Seq_10393	  0.00	1000.00	  0.00
 r_4794	s_0522[c]  -> s_0362[c] + s_1271[c] 	Botrytis_cinerea@Seq_4551	  0.00	1000.00	  0.00
 r_4795	s_0794[c] + s_1212[c] + s_4444[c]  -> s_0529[c] + s_1207[c] + s_4443[c] 	Botrytis_cinerea@Seq_3630	  0.00	1000.00	  0.00
 r_4796	s_0794[c] + s_1212[c] + s_4359[c]  -> s_0529[c] + s_1207[c] + s_4418[c] 	Botrytis_cinerea@Seq_3630	  0.00	1000.00	  0.00
 r_4797	s_0794[c] + s_1212[c] + s_4357[c]  <=> s_0529[c] + s_1207[c] + s_4416[c] 	Botrytis_cinerea@Seq_3630	-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
+r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 	Botrytis_cinerea@Seq_14881	-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Botrytis_cinerea@Seq_6372 or Botrytis_cinerea@Seq_7426	  0.00	1000.00	  0.00
-r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Botrytis_cinerea@Seq_16368 or Botrytis_cinerea@Seq_2739	  0.00	1000.00	  0.00
+r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Botrytis_cinerea@Seq_2739 or Botrytis_cinerea@Seq_16368	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	Botrytis_cinerea@Seq_8232	-1000.00	1000.00	  0.00
 r_4808	2 s_0803[c] + 2 s_0979[c] + s_1207[c] + 2 s_3913[c]  -> s_0794[c] + s_1212[c] + 2 s_1275[c] + 2 s_4435[c] 	Botrytis_cinerea@Seq_14603	  0.00	1000.00	  0.00
 r_4809	s_0794[c] + 2 s_0965[c] + 3 s_1212[c] + 4 s_1275[c]  -> 4 s_0803[c] + 2 s_0979[c] + 3 s_1207[c] + 2 s_3913[c] 	Botrytis_cinerea@Seq_14603	  0.00	1000.00	  0.00
@@ -3830,7 +3832,6 @@ r_4811	s_1569[c]  -> s_4432[c] 	Botrytis_cinerea@Seq_4615 or Botrytis_cinerea@Se
 r_4816	s_1207[c] + s_1566[c]  <=> s_0580[c] + s_0794[c] + s_1212[c] 	Botrytis_cinerea@Seq_4657	-1000.00	1000.00	  0.00
 r_4820	s_0803[c] + s_3761[c]  <=> s_0415[c] + s_0423[c] + 2 s_0794[c] 	Botrytis_cinerea@Seq_6960	-1000.00	1000.00	  0.00
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Botrytis_cinerea@Seq_9380	  0.00	1000.00	  0.00
-r_4824	s_0794[c] + s_1212[c] + s_4416[c]  -> s_1207[c] + s_4417[c] 	Botrytis_cinerea@Seq_13750	  0.00	1000.00	  0.00
 r_4825	s_0794[c] + s_0955[c] + s_1368[c]  -> s_0352[c] + s_0456[c] + s_0529[c] 	Botrytis_cinerea@Seq_1033 or Botrytis_cinerea@Seq_1305	  0.00	1000.00	  0.00
 r_4827	s_4415[c]  <=> s_1399[c] + s_1458[c] 	Botrytis_cinerea@Seq_6508 or Botrytis_cinerea@Seq_7984	-1000.00	1000.00	  0.00
 r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Botrytis_cinerea@Seq_10805 or Botrytis_cinerea@Seq_15074	-1000.00	1000.00	  0.00
@@ -3840,8 +3841,7 @@ r_4832	s_0803[c] + s_4412[c]  -> s_0794[c] + s_4411[c] 	Botrytis_cinerea@Seq_890
 r_4833	s_0803[c] + s_4393[c]  -> s_0794[c] + s_4410[c] 	Botrytis_cinerea@Seq_8904	  0.00	1000.00	  0.00
 r_4835	s_0445[c] + s_4407[c]  -> s_0456[c] + s_4408[c] 	Botrytis_cinerea@Seq_10672	  0.00	1000.00	  0.00
 r_4836	s_0445[c] + 2 s_0794[c] + s_4407[c]  -> s_0419[c] + 2 s_0456[c] 	Botrytis_cinerea@Seq_10672	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Botrytis_cinerea@Seq_5161 or Botrytis_cinerea@Seq_5987	  0.00	1000.00	  0.00
-r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Botrytis_cinerea@Seq_10150 or Botrytis_cinerea@Seq_12459 or Botrytis_cinerea@Seq_14795 or Botrytis_cinerea@Seq_2274 or Botrytis_cinerea@Seq_245 or Botrytis_cinerea@Seq_2588 or Botrytis_cinerea@Seq_4067 or Botrytis_cinerea@Seq_4278 or Botrytis_cinerea@Seq_4796 or Botrytis_cinerea@Seq_5158 or Botrytis_cinerea@Seq_7061 or Botrytis_cinerea@Seq_7427 or Botrytis_cinerea@Seq_8511 or Botrytis_cinerea@Seq_8752 or Botrytis_cinerea@Seq_9239 or Botrytis_cinerea@Seq_9415 or Botrytis_cinerea@Seq_9791	  0.00	1000.00	  0.00
+r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Botrytis_cinerea@Seq_10150 or Botrytis_cinerea@Seq_12459 or Botrytis_cinerea@Seq_14795 or Botrytis_cinerea@Seq_2274 or Botrytis_cinerea@Seq_245 or Botrytis_cinerea@Seq_2588 or Botrytis_cinerea@Seq_4067 or Botrytis_cinerea@Seq_4278 or Botrytis_cinerea@Seq_4796 or Botrytis_cinerea@Seq_5158 or Botrytis_cinerea@Seq_7061 or Botrytis_cinerea@Seq_7427 or Botrytis_cinerea@Seq_7943 or Botrytis_cinerea@Seq_8511 or Botrytis_cinerea@Seq_8752 or Botrytis_cinerea@Seq_9239 or Botrytis_cinerea@Seq_9415 or Botrytis_cinerea@Seq_9791	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Botrytis_cinerea@Seq_10881 or Botrytis_cinerea@Seq_11674 or Botrytis_cinerea@Seq_11886 or Botrytis_cinerea@Seq_11943 or Botrytis_cinerea@Seq_12270 or Botrytis_cinerea@Seq_1246 or Botrytis_cinerea@Seq_12461 or Botrytis_cinerea@Seq_13022 or Botrytis_cinerea@Seq_13280 or Botrytis_cinerea@Seq_1361 or Botrytis_cinerea@Seq_13699 or Botrytis_cinerea@Seq_14115 or Botrytis_cinerea@Seq_14670 or Botrytis_cinerea@Seq_15538 or Botrytis_cinerea@Seq_2014 or Botrytis_cinerea@Seq_2195 or Botrytis_cinerea@Seq_2714 or Botrytis_cinerea@Seq_3060 or Botrytis_cinerea@Seq_3452 or Botrytis_cinerea@Seq_5755 or Botrytis_cinerea@Seq_5802 or Botrytis_cinerea@Seq_6019 or Botrytis_cinerea@Seq_6123 or Botrytis_cinerea@Seq_6913 or Botrytis_cinerea@Seq_7418 or Botrytis_cinerea@Seq_8436 or Botrytis_cinerea@Seq_8779 or Botrytis_cinerea@Seq_915 or Botrytis_cinerea@Seq_9263 or Botrytis_cinerea@Seq_9681	  0.00	1000.00	  0.00
 r_4846	s_0803[c] + s_4381[c]  -> s_0794[c] + s_4401[c] 	Botrytis_cinerea@Seq_4688	  0.00	1000.00	  0.00
 r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	Botrytis_cinerea@Seq_7544	  0.00	1000.00	  0.00
@@ -3850,8 +3850,8 @@ r_4850	s_0794[c] + s_1212[c] + s_1275[c] + s_4378[c]  -> s_0803[c] + s_1207[c] +
 r_4851	s_0794[c] + s_1212[c] + s_1275[c] + s_4398[c]  -> 2 s_0803[c] + s_1207[c] + s_4397[c] 	Botrytis_cinerea@Seq_14243 or Botrytis_cinerea@Seq_247 or Botrytis_cinerea@Seq_3579 or Botrytis_cinerea@Seq_3886 or Botrytis_cinerea@Seq_5693 or Botrytis_cinerea@Seq_671 or Botrytis_cinerea@Seq_8153 or Botrytis_cinerea@Seq_827	  0.00	1000.00	  0.00
 r_4852	s_1212[c] + s_1275[c] + s_4397[c]  -> s_0803[c] + s_1207[c] + s_4396[c] 	Botrytis_cinerea@Seq_14243 or Botrytis_cinerea@Seq_247 or Botrytis_cinerea@Seq_3579 or Botrytis_cinerea@Seq_3886 or Botrytis_cinerea@Seq_5693 or Botrytis_cinerea@Seq_671 or Botrytis_cinerea@Seq_8153 or Botrytis_cinerea@Seq_827	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Botrytis_cinerea@Seq_10352 or Botrytis_cinerea@Seq_11033 or Botrytis_cinerea@Seq_3584 or Botrytis_cinerea@Seq_4333 or Botrytis_cinerea@Seq_5161 or Botrytis_cinerea@Seq_5788 or Botrytis_cinerea@Seq_5987	  0.00	1000.00	  0.00
-r_4862	s_4391[c]  -> s_4332[c] 	Botrytis_cinerea@Seq_1414 or Botrytis_cinerea@Seq_5552	  0.00	1000.00	  0.00
-r_4863	s_4331[c]  -> s_4320[c] 	Botrytis_cinerea@Seq_1414 or Botrytis_cinerea@Seq_5552	  0.00	1000.00	  0.00
+r_4862	s_4391[c]  -> s_4332[c] 	Botrytis_cinerea@Seq_5552 or Botrytis_cinerea@Seq_1414	  0.00	1000.00	  0.00
+r_4863	s_4331[c]  -> s_4320[c] 	Botrytis_cinerea@Seq_5552 or Botrytis_cinerea@Seq_1414	  0.00	1000.00	  0.00
 r_4869	s_0803[c] + s_3980[c]  -> s_0794[c] + s_3778[c] + s_3997[c] 	Botrytis_cinerea@Seq_814	  0.00	1000.00	  0.00
 r_4870	s_1198[c] + s_4372[c]  -> s_0794[c] + s_1203[c] + s_4327[c] 	Botrytis_cinerea@Seq_1535	  0.00	1000.00	  0.00
 r_4871	s_1198[c] + s_4371[c]  -> 2 s_0794[c] + s_1203[c] + s_4327[c] 	Botrytis_cinerea@Seq_1535	  0.00	1000.00	  0.00
@@ -3868,7 +3868,7 @@ r_4887	s_0803[c] + s_1207[c] + s_4372[c]  -> s_0794[c] + s_1212[c] + s_1275[c] +
 r_4888	s_0803[c] + s_1207[c] + s_4371[c]  -> 2 s_0794[c] + s_1212[c] + s_1275[c] + s_4370[c] 	Botrytis_cinerea@Seq_10881 or Botrytis_cinerea@Seq_12064 or Botrytis_cinerea@Seq_1246 or Botrytis_cinerea@Seq_13022 or Botrytis_cinerea@Seq_13280 or Botrytis_cinerea@Seq_13931 or Botrytis_cinerea@Seq_3566 or Botrytis_cinerea@Seq_6751 or Botrytis_cinerea@Seq_9681	  0.00	1000.00	  0.00
 r_4889	s_0516[c] + s_0794[c]  -> s_0456[c] + s_4369[c] 	Botrytis_cinerea@Seq_6847	  0.00	1000.00	  0.00
 r_4890	s_0803[c] + s_4213[c]  -> s_4368[c] 	Botrytis_cinerea@Seq_12593	  0.00	1000.00	  0.00
-r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	Botrytis_cinerea@Seq_5545 or Botrytis_cinerea@Seq_16275 or Botrytis_cinerea@Seq_5513 or Botrytis_cinerea@Seq_12426	-1000.00	1000.00	  0.00
+r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	Botrytis_cinerea@Seq_16275 or Botrytis_cinerea@Seq_5545 or Botrytis_cinerea@Seq_5513 or Botrytis_cinerea@Seq_12426	-1000.00	1000.00	  0.00
 r_4895	s_0794[c] + s_1203[c] + 2 s_3913[c]  -> s_0803[c] + s_1198[c] + s_4362[c] 	Botrytis_cinerea@Seq_10264	  0.00	1000.00	  0.00
 r_4896	s_0803[c] + s_1207[c] + s_4362[c]  -> s_0794[c] + s_1212[c] + 2 s_3913[c] 	Botrytis_cinerea@Seq_10264	  0.00	1000.00	  0.00
 r_4902	s_1416[c] + s_4358[c]  -> s_0794[c] + s_1413[c] + s_4359[c] 	Botrytis_cinerea@Seq_14535 or Botrytis_cinerea@Seq_6577	  0.00	1000.00	  0.00
@@ -3882,20 +3882,18 @@ r_4911	s_1275[c] + s_4337[c]  -> s_4345[c] 	Botrytis_cinerea@Seq_1035 or Botryti
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Botrytis_cinerea@Seq_2436	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Botrytis_cinerea@Seq_2436	  0.00	1000.00	  0.00
 r_4917	s_4345[c]  -> s_0803[c] + s_1079[c] 	Botrytis_cinerea@Seq_1035 or Botrytis_cinerea@Seq_3072 or Botrytis_cinerea@Seq_7642	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
+r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 	Botrytis_cinerea@Seq_169	  0.00	1000.00	  0.00
+r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 	Botrytis_cinerea@Seq_169	  0.00	1000.00	  0.00
 r_4922	s_1275[c] + s_4191[c]  -> s_4341[c] 	Botrytis_cinerea@Seq_12133 or Botrytis_cinerea@Seq_2408	  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	Botrytis_cinerea@Seq_11943	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	Botrytis_cinerea@Seq_11943	  0.00	1000.00	  0.00
 r_4925	s_1275[c] + s_4337[c]  -> s_0803[c] + s_1079[c] 	Botrytis_cinerea@Seq_1035 or Botrytis_cinerea@Seq_3072 or Botrytis_cinerea@Seq_7642	  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Botrytis_cinerea@Seq_15954 or Botrytis_cinerea@Seq_9044	-1000.00	1000.00	  0.00
 r_4929	s_0794[c] + s_1212[c] + s_1275[c] + s_4332[c]  -> s_0803[c] + s_1207[c] + s_4331[c] 	Botrytis_cinerea@Seq_14921 or Botrytis_cinerea@Seq_1703 or Botrytis_cinerea@Seq_2533 or Botrytis_cinerea@Seq_7833	  0.00	1000.00	  0.00
-r_4930	s_0794[c] + s_1212[c] + s_1275[c] + s_4319[c]  -> 2 s_0803[c] + s_1207[c] + s_4324[c] 	Botrytis_cinerea@Seq_14243	  0.00	1000.00	  0.00
 r_4931	s_0803[c] + s_4291[c]  -> s_0362[c] + s_0794[c] + s_4330[c] 	Botrytis_cinerea@Seq_12164	  0.00	1000.00	  0.00
 r_4932	s_0803[c] + s_4289[c]  -> s_0362[c] + s_0794[c] + s_4329[c] 	Botrytis_cinerea@Seq_12164	  0.00	1000.00	  0.00
-r_4933	s_4329[c]  -> s_0803[c] + s_4328[c] 	Botrytis_cinerea@Seq_10587 or Botrytis_cinerea@Seq_12408 or Botrytis_cinerea@Seq_6754 or Botrytis_cinerea@Seq_797 or Botrytis_cinerea@Seq_9983	  0.00	1000.00	  0.00
+r_4933	s_4329[c]  -> s_0803[c] + s_4328[c] 	Botrytis_cinerea@Seq_10587 or Botrytis_cinerea@Seq_6754 or Botrytis_cinerea@Seq_797 or Botrytis_cinerea@Seq_9983	  0.00	1000.00	  0.00
 r_4934	s_0794[c] + s_4327[c]  -> s_0803[c] + s_4288[c] 	Botrytis_cinerea@Seq_10587 or Botrytis_cinerea@Seq_6754 or Botrytis_cinerea@Seq_797 or Botrytis_cinerea@Seq_9983	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Botrytis_cinerea@Seq_10047 or Botrytis_cinerea@Seq_2306	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Botrytis_cinerea@Seq_5310	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Botrytis_cinerea@Seq_11508 or Botrytis_cinerea@Seq_14740 or Botrytis_cinerea@Seq_6923	  0.00	1000.00	  0.00
@@ -3934,7 +3932,6 @@ r_5007	s_0512[c] + s_0803[c] + 2 s_1275[c]  -> s_0794[c] + 2 s_0837[c] + s_4259[
 r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Botrytis_cinerea@Seq_12846 or Botrytis_cinerea@Seq_13908	  0.00	1000.00	  0.00
 r_5011	s_0794[c] + s_1212[c] + s_1275[c] + s_4253[c]  -> s_0803[c] + s_1207[c] + s_4254[c] 	Botrytis_cinerea@Seq_15046 or Botrytis_cinerea@Seq_6612	  0.00	1000.00	  0.00
 r_5014	s_0803[c] + s_4252[c]  -> s_0794[c] + s_1286[c] + s_4251[c] 	Botrytis_cinerea@Seq_13340	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5019	s_1275[c] + s_4244[c]  -> s_4242[c] + s_4243[c] 	Botrytis_cinerea@Seq_11951 or Botrytis_cinerea@Seq_267 or Botrytis_cinerea@Seq_5323	  0.00	1000.00	  0.00
 r_5020	s_1203[c] + s_1207[c] + s_4241[e]  -> s_1198[c] + s_1212[c] + s_4240[c] 	Botrytis_cinerea@Seq_4882	  0.00	1000.00	  0.00
 r_5027	s_0794[c] + s_1212[c] + s_1275[c] + s_4231[c]  -> s_0803[c] + s_1207[c] + s_4232[c] 	Botrytis_cinerea@Seq_6123 or Botrytis_cinerea@Seq_4471	  0.00	1000.00	  0.00
@@ -3945,8 +3942,8 @@ r_5032	s_0803[c] + s_1275[c] + s_3934[c]  -> s_0359[c] + s_0794[c] + s_0837[c] +
 r_5033	s_0794[c] + s_1212[c] + s_1275[c] + s_4224[c]  -> s_0803[c] + s_1207[c] + s_4223[c] 	Botrytis_cinerea@Seq_12938	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Botrytis_cinerea@Seq_969	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	Botrytis_cinerea@Seq_13588 or Botrytis_cinerea@Seq_1525	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Botrytis_cinerea@Seq_10224 or Botrytis_cinerea@Seq_12265 or Botrytis_cinerea@Seq_12385 or Botrytis_cinerea@Seq_13020 or Botrytis_cinerea@Seq_14051 or Botrytis_cinerea@Seq_14818 or Botrytis_cinerea@Seq_1503 or Botrytis_cinerea@Seq_15465 or Botrytis_cinerea@Seq_1866 or Botrytis_cinerea@Seq_3021 or Botrytis_cinerea@Seq_3512 or Botrytis_cinerea@Seq_3723 or Botrytis_cinerea@Seq_5012 or Botrytis_cinerea@Seq_6852 or Botrytis_cinerea@Seq_7650 or Botrytis_cinerea@Seq_8483 or Botrytis_cinerea@Seq_8506 or Botrytis_cinerea@Seq_8963	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_7331 or Botrytis_cinerea@Seq_7531 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Botrytis_cinerea@Seq_10224 or Botrytis_cinerea@Seq_12265 or Botrytis_cinerea@Seq_12385 or Botrytis_cinerea@Seq_13020 or Botrytis_cinerea@Seq_14051 or Botrytis_cinerea@Seq_14818 or Botrytis_cinerea@Seq_1503 or Botrytis_cinerea@Seq_1528 or Botrytis_cinerea@Seq_15465 or Botrytis_cinerea@Seq_1866 or Botrytis_cinerea@Seq_3021 or Botrytis_cinerea@Seq_3512 or Botrytis_cinerea@Seq_3723 or Botrytis_cinerea@Seq_5012 or Botrytis_cinerea@Seq_6852 or Botrytis_cinerea@Seq_7650 or Botrytis_cinerea@Seq_8483 or Botrytis_cinerea@Seq_8506 or Botrytis_cinerea@Seq_8963	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_7331 or Botrytis_cinerea@Seq_7531 or Botrytis_cinerea@Seq_8483 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_7331 or Botrytis_cinerea@Seq_7531 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_7331 or Botrytis_cinerea@Seq_7531 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Botrytis_cinerea@Seq_11070 or Botrytis_cinerea@Seq_11554 or Botrytis_cinerea@Seq_11943 or Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_2988 or Botrytis_cinerea@Seq_4471 or Botrytis_cinerea@Seq_7331 or Botrytis_cinerea@Seq_7531 or Botrytis_cinerea@Seq_8022 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
@@ -3981,16 +3978,16 @@ r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Botrytis_cinerea@Seq_10707 or Botry
 r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Botrytis_cinerea@Seq_10707 or Botrytis_cinerea@Seq_10991 or Botrytis_cinerea@Seq_14086 or Botrytis_cinerea@Seq_1620 or Botrytis_cinerea@Seq_16219 or Botrytis_cinerea@Seq_2164 or Botrytis_cinerea@Seq_6816	-1000.00	1000.00	  0.00
 r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	Botrytis_cinerea@Seq_10707 or Botrytis_cinerea@Seq_10991 or Botrytis_cinerea@Seq_14086 or Botrytis_cinerea@Seq_1620 or Botrytis_cinerea@Seq_16219 or Botrytis_cinerea@Seq_2164 or Botrytis_cinerea@Seq_6816	-1000.00	1000.00	  0.00
 r_5085	s_0803[c] + s_4587[c]  <=> s_4586[c] 	Botrytis_cinerea@Seq_10707 or Botrytis_cinerea@Seq_10991 or Botrytis_cinerea@Seq_14086 or Botrytis_cinerea@Seq_1620 or Botrytis_cinerea@Seq_16219 or Botrytis_cinerea@Seq_2164 or Botrytis_cinerea@Seq_6816	-1000.00	1000.00	  0.00
-r_5086	s_0559[e]  <=> s_0558[c] 	Botrytis_cinerea@Seq_15771 or Botrytis_cinerea@Seq_10353	-1000.00	1000.00	  0.00
+r_5086	s_0559[e]  <=> s_0558[c] 	Botrytis_cinerea@Seq_10353 or Botrytis_cinerea@Seq_15771	-1000.00	1000.00	  0.00
 r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	Botrytis_cinerea@Seq_1315	-1000.00	1000.00	  0.00
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Botrytis_cinerea@Seq_1315	-1000.00	1000.00	  0.00
-r_5089	s_0803[c] + s_1207[c] + s_4298[c]  <=> 2 s_0794[c] + s_1212[c] + s_4259[c] 	Botrytis_cinerea@Seq_10304 or Botrytis_cinerea@Seq_11849	-1000.00	1000.00	  0.00
+r_5089	s_0803[c] + s_1207[c] + s_4298[c]  <=> 2 s_0794[c] + s_1212[c] + s_4259[c] 	Botrytis_cinerea@Seq_11849 or Botrytis_cinerea@Seq_10304	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Botrytis_cinerea@Seq_16078 or Botrytis_cinerea@Seq_14936 or Botrytis_cinerea@Seq_13665	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Botrytis_cinerea@Seq_5907 or Botrytis_cinerea@Seq_788	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Botrytis_cinerea@Seq_5907 or Botrytis_cinerea@Seq_788	-1000.00	1000.00	  0.00
-r_5094	s_0803[c] + s_4303[c]  <=> s_4578[c] 	Botrytis_cinerea@Seq_1492 or Botrytis_cinerea@Seq_13088	-1000.00	1000.00	  0.00
-r_5095	s_1198[c] + s_4577[c]  <=> s_0794[c] + s_1203[c] + s_4302[c] 	Botrytis_cinerea@Seq_1492 or Botrytis_cinerea@Seq_13088	-1000.00	1000.00	  0.00
-r_5096	s_4577[c]  <=> s_0803[c] + s_4282[c] 	Botrytis_cinerea@Seq_1492 or Botrytis_cinerea@Seq_13088	-1000.00	1000.00	  0.00
+r_5094	s_0803[c] + s_4303[c]  <=> s_4578[c] 	Botrytis_cinerea@Seq_13088 or Botrytis_cinerea@Seq_1492	-1000.00	1000.00	  0.00
+r_5095	s_1198[c] + s_4577[c]  <=> s_0794[c] + s_1203[c] + s_4302[c] 	Botrytis_cinerea@Seq_13088 or Botrytis_cinerea@Seq_1492	-1000.00	1000.00	  0.00
+r_5096	s_4577[c]  <=> s_0803[c] + s_4282[c] 	Botrytis_cinerea@Seq_13088 or Botrytis_cinerea@Seq_1492	-1000.00	1000.00	  0.00
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Botrytis_cinerea@Seq_2553 or Botrytis_cinerea@Seq_2436	  0.00	1000.00	  0.00
 r_5102	2 s_0189[c]  -> 2 s_0633[c] + s_4498[c] 	Botrytis_cinerea@Seq_3594	  0.00	1000.00	  0.00
 r_5104	s_0794[c] + s_1212[c] + s_1275[c] + s_4573[c]  <=> s_0803[c] + s_1207[c] + s_4575[c] 	Botrytis_cinerea@Seq_247 or Botrytis_cinerea@Seq_3886 or Botrytis_cinerea@Seq_671 or Botrytis_cinerea@Seq_8153	-1000.00	1000.00	  0.00
@@ -4003,8 +4000,8 @@ r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Botrytis_ci
 r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Botrytis_cinerea@Seq_10652 or Botrytis_cinerea@Seq_4447 or Botrytis_cinerea@Seq_9195	-1000.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Botrytis_cinerea@Seq_10369 or Botrytis_cinerea@Seq_11063 or Botrytis_cinerea@Seq_14051 or Botrytis_cinerea@Seq_1866 or Botrytis_cinerea@Seq_1904 or Botrytis_cinerea@Seq_200 or Botrytis_cinerea@Seq_6852 or Botrytis_cinerea@Seq_787 or Botrytis_cinerea@Seq_9580	-1000.00	1000.00	  0.00
 r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Botrytis_cinerea@Seq_12698 or Botrytis_cinerea@Seq_16172 or Botrytis_cinerea@Seq_1892 or Botrytis_cinerea@Seq_4479	  0.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Botrytis_cinerea@Seq_10189 or Botrytis_cinerea@Seq_12564 or Botrytis_cinerea@Seq_5008 or Botrytis_cinerea@Seq_9476 or Botrytis_cinerea@Seq_4281	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Botrytis_cinerea@Seq_10189 or Botrytis_cinerea@Seq_12564 or Botrytis_cinerea@Seq_1366 or Botrytis_cinerea@Seq_5008 or Botrytis_cinerea@Seq_9476 or Botrytis_cinerea@Seq_4281	-1000.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Botrytis_cinerea@Seq_9476 or Botrytis_cinerea@Seq_5008 or Botrytis_cinerea@Seq_12564 or Botrytis_cinerea@Seq_4281 or Botrytis_cinerea@Seq_10189	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Botrytis_cinerea@Seq_1366 or Botrytis_cinerea@Seq_9476 or Botrytis_cinerea@Seq_5008 or Botrytis_cinerea@Seq_12564 or Botrytis_cinerea@Seq_4281 or Botrytis_cinerea@Seq_10189	-1000.00	1000.00	  0.00
 r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Botrytis_cinerea@Seq_10369 or Botrytis_cinerea@Seq_11063 or Botrytis_cinerea@Seq_14051 or Botrytis_cinerea@Seq_1866 or Botrytis_cinerea@Seq_1904 or Botrytis_cinerea@Seq_200 or Botrytis_cinerea@Seq_6852 or Botrytis_cinerea@Seq_787 or Botrytis_cinerea@Seq_9580	  0.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Botrytis_cinerea@Seq_11762	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Botrytis_cinerea@Seq_11762	-1000.00	1000.00	  0.00
@@ -4021,7 +4018,6 @@ r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Botrytis_ci
 r_5138	s_0434[c] + s_0529[c] + s_2828[c]  -> s_0423[c] + s_0633[c] + s_4559[c] 	Botrytis_cinerea@Seq_6899	  0.00	1000.00	  0.00
 r_5140	s_0803[c] + s_3991[c]  <=> s_0441[c] + s_1006[c] 	Botrytis_cinerea@Seq_7123	-1000.00	1000.00	  0.00
 r_5141	s_0803[c] + s_4451[c]  <=> s_0734[c] + s_1006[c] 	Botrytis_cinerea@Seq_7123	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5143	s_0794[c] + s_1212[c] + s_4358[c]  <=> s_0529[c] + s_1207[c] + s_4553[c] 	Botrytis_cinerea@Seq_3630	-1000.00	1000.00	  0.00
 r_5144	s_0794[c] + s_1212[c] + s_4356[c]  <=> s_0529[c] + s_1207[c] + s_4463[c] 	Botrytis_cinerea@Seq_3630	-1000.00	1000.00	  0.00
 r_5146	s_0794[c] + s_1212[c] + s_1275[c] + s_4333[c]  -> s_0803[c] + s_1207[c] + s_4558[c] 	Botrytis_cinerea@Seq_13819 or Botrytis_cinerea@Seq_14052 or Botrytis_cinerea@Seq_16057 or Botrytis_cinerea@Seq_8719	  0.00	1000.00	  0.00
@@ -4047,13 +4043,10 @@ r_5185	s_0803[c] + s_1207[c] + s_4435[c]  <=> s_0965[c] + s_1212[c] + s_1275[c] 
 r_5187	s_0794[c] + s_1212[c] + s_4381[c]  <=> s_1207[c] + s_4624[c] 	Botrytis_cinerea@Seq_2739	-1000.00	1000.00	  0.00
 r_5188	s_0794[c] + s_1203[c] + s_4381[c]  <=> s_1198[c] + s_4624[c] 	Botrytis_cinerea@Seq_2739	-1000.00	1000.00	  0.00
 r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_0794[c] + s_4627[c] 	Botrytis_cinerea@Seq_11616 or Botrytis_cinerea@Seq_12264 or Botrytis_cinerea@Seq_2228 or Botrytis_cinerea@Seq_3196 or Botrytis_cinerea@Seq_3967 or Botrytis_cinerea@Seq_4012 or Botrytis_cinerea@Seq_465 or Botrytis_cinerea@Seq_5248 or Botrytis_cinerea@Seq_8570 or Botrytis_cinerea@Seq_9256	-1000.00	1000.00	  0.00
-r_0039	s_0210[c]  -> s_0803[c] + s_0211[c] 	Botrytis_cinerea@Seq_1804 or Botrytis_cinerea@Seq_9780 or Botrytis_cinerea@Seq_11525	  0.00	1000.00	  0.00
+r_0039	s_0210[c]  -> s_0803[c] + s_0211[c] 	Botrytis_cinerea@Seq_11525 or Botrytis_cinerea@Seq_1804 or Botrytis_cinerea@Seq_9780	  0.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Botrytis_cinerea@Seq_8230	  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 	Botrytis_cinerea@Seq_14832	  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Botrytis_cinerea@Seq_2601	  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Botrytis_cinerea@Seq_4072 and Botrytis_cinerea@Seq_8267 and Botrytis_cinerea@Seq_11464 and Botrytis_cinerea@Seq_5867 and Botrytis_cinerea@Seq_11905 and Botrytis_cinerea@Seq_1813 and Botrytis_cinerea@Seq_9359) or (Botrytis_cinerea@Seq_4072 and Botrytis_cinerea@Seq_14371 and Botrytis_cinerea@Seq_13094 and Botrytis_cinerea@Seq_1927 and Botrytis_cinerea@Seq_10526 and Botrytis_cinerea@Seq_6484)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Botrytis_cinerea@Seq_15167 and Botrytis_cinerea@Seq_11743 and Botrytis_cinerea@Seq_8267 and Botrytis_cinerea@Seq_13992 and Botrytis_cinerea@Seq_5633 and Botrytis_cinerea@Seq_11458 and Botrytis_cinerea@Seq_12172 and Botrytis_cinerea@Seq_12644	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_4569 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_13553) or (Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_13553 and Botrytis_cinerea@Seq_8946) or (Botrytis_cinerea@Seq_9588 and Botrytis_cinerea@Seq_6232 and Botrytis_cinerea@Seq_16330 and Botrytis_cinerea@Seq_8509 and Botrytis_cinerea@Seq_4569 and Botrytis_cinerea@Seq_12444 and Botrytis_cinerea@Seq_10129 and Botrytis_cinerea@Seq_4634 and Botrytis_cinerea@Seq_5449 and Botrytis_cinerea@Seq_837 and Botrytis_cinerea@Seq_13553 and Botrytis_cinerea@Seq_4896 and Botrytis_cinerea@Seq_4220 and Botrytis_cinerea@Seq_2442 and Botrytis_cinerea@Seq_813)	  0.00	1000.00	  0.00
 r_0040	s_0349[c]  -> s_0210[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0065	s_1360[c] + s_0261[c]  -> s_0324[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0795	s_0434[c] + s_0467[c]  -> s_0394[c] + s_0539[c] 		  0.00	1000.00	  0.00

@@ -1,6 +1,6 @@
 % This function is to generate the file for decision tree and precursor
-% yiled analysis figure 
-
+% yiled analysis 
+currentpath = pwd;
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
 data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
@@ -11,8 +11,14 @@ fclose(fid2);
 strains = Strain_information(:,1);
 
 %load panmodel
-load('/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/Reconstruction/otherchanges/model_original_withfullgpr.mat')
+load('../modelRelated/panModel.mat')
 
-path = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+path = '../modelRelated/ssGEMs';
 cd ../Reconstruction/otherchanges/
 [proMarix,rxnMatrix,mets_test,~,solresult] = getprecursorMatrixCobra(model_original,strains,path);
+matrix.proMarix = proMarix;
+matrix.rxnMatrix = rxnMatrix;
+matrix.species = strains;
+matrix.mets_test = mets_test;
+save('../modelRelated/allMatrix.mat','matrix')
+cd(currentpath)

@@ -12,6 +12,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	Hyphopichia_
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	Hyphopichia_burtonii@Seq_3224 or Hyphopichia_burtonii@Seq_3125 or Hyphopichia_burtonii@Seq_2014	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	Hyphopichia_burtonii@Seq_1642	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	Hyphopichia_burtonii@Seq_4281 or Hyphopichia_burtonii@Seq_1594	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	Hyphopichia_burtonii@Seq_491 and Hyphopichia_burtonii@Seq_3612 and Hyphopichia_burtonii@Seq_2211 and Hyphopichia_burtonii@Seq_2255 and Hyphopichia_burtonii@Seq_2532 and Hyphopichia_burtonii@Seq_909	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	Hyphopichia_burtonii@Seq_491 and Hyphopichia_burtonii@Seq_3612 and Hyphopichia_burtonii@Seq_2211 and Hyphopichia_burtonii@Seq_2255 and Hyphopichia_burtonii@Seq_2532 and Hyphopichia_burtonii@Seq_909	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	Hyphopichia_burtonii@Seq_4610	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_2825 or Hyphopichia_burtonii@Seq_4239	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	Hyphopichia_burtonii@Seq_2825 or Hyphopichia_burtonii@Seq_4239	  0.00	1000.00	  0.00
@@ -296,6 +298,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Hyphopichia_burtonii@Seq_3108 or Hyphopichia_burtonii@Seq_4308	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Hyphopichia_burtonii@Seq_3108 or Hyphopichia_burtonii@Seq_4308	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Hyphopichia_burtonii@Seq_3138	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_1932 and Hyphopichia_burtonii@Seq_4784 and Hyphopichia_burtonii@Seq_3699 and Hyphopichia_burtonii@Seq_2676 and Hyphopichia_burtonii@Seq_425 and Hyphopichia_burtonii@Seq_215) or (Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_4584 and Hyphopichia_burtonii@Seq_4784 and Hyphopichia_burtonii@Seq_3699 and Hyphopichia_burtonii@Seq_2676 and Hyphopichia_burtonii@Seq_425 and Hyphopichia_burtonii@Seq_215)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Hyphopichia_burtonii@Seq_5008 and Hyphopichia_burtonii@Seq_1877 and Hyphopichia_burtonii@Seq_4705 and Hyphopichia_burtonii@Seq_2525 and Hyphopichia_burtonii@Seq_3485 and Hyphopichia_burtonii@Seq_870 and Hyphopichia_burtonii@Seq_1489) or (Hyphopichia_burtonii@Seq_5008 and Hyphopichia_burtonii@Seq_1877 and Hyphopichia_burtonii@Seq_4705 and Hyphopichia_burtonii@Seq_907 and Hyphopichia_burtonii@Seq_3485 and Hyphopichia_burtonii@Seq_870 and Hyphopichia_burtonii@Seq_1489)	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Hyphopichia_burtonii@Seq_2491	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Hyphopichia_burtonii@Seq_2410	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Hyphopichia_burtonii@Seq_4755	  0.00	1000.00	  0.00
@@ -370,6 +374,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	Hyphopichia_burtonii@Seq
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	Hyphopichia_burtonii@Seq_3979	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	Hyphopichia_burtonii@Seq_4447 or (Hyphopichia_burtonii@Seq_2208 and Hyphopichia_burtonii@Seq_4926)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	Hyphopichia_burtonii@Seq_3223	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	Hyphopichia_burtonii@Seq_491 and Hyphopichia_burtonii@Seq_3612 and Hyphopichia_burtonii@Seq_2211 and Hyphopichia_burtonii@Seq_2255 and Hyphopichia_burtonii@Seq_2532 and Hyphopichia_burtonii@Seq_909	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_34 or Hyphopichia_burtonii@Seq_1676	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_34 or Hyphopichia_burtonii@Seq_3487 or Hyphopichia_burtonii@Seq_1676	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_34 or Hyphopichia_burtonii@Seq_1676	  0.00	1000.00	  0.00
@@ -641,6 +646,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Hyphopichia_burtonii@Seq
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Hyphopichia_burtonii@Seq_3855 or Hyphopichia_burtonii@Seq_4431	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Hyphopichia_burtonii@Seq_3683 and Hyphopichia_burtonii@Seq_4452 and Hyphopichia_burtonii@Seq_3800 and Hyphopichia_burtonii@Seq_2188 and Hyphopichia_burtonii@Seq_1534	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Hyphopichia_burtonii@Seq_1554	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Hyphopichia_burtonii@Seq_491 and Hyphopichia_burtonii@Seq_3612 and Hyphopichia_burtonii@Seq_2211 and Hyphopichia_burtonii@Seq_2255 and Hyphopichia_burtonii@Seq_2532 and Hyphopichia_burtonii@Seq_909	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_4747	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	Hyphopichia_burtonii@Seq_4747	  0.00	1000.00	  0.00
 r_0968	2 s_0328[c]  -> s_0314[c] + s_1405[c] 	Hyphopichia_burtonii@Seq_2930	  0.00	1000.00	  0.00
@@ -658,6 +664,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	Hyphopichia_
 r_0982	s_0577[c]  <=> s_1408[c] 	Hyphopichia_burtonii@Seq_3333	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	Hyphopichia_burtonii@Seq_4119	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	Hyphopichia_burtonii@Seq_320	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	Hyphopichia_burtonii@Seq_491 and Hyphopichia_burtonii@Seq_3612 and Hyphopichia_burtonii@Seq_2211 and Hyphopichia_burtonii@Seq_2255 and Hyphopichia_burtonii@Seq_2532 and Hyphopichia_burtonii@Seq_909	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	Hyphopichia_burtonii@Seq_3980	  0.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Hyphopichia_burtonii@Seq_3631	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	Hyphopichia_burtonii@Seq_1444 or Hyphopichia_burtonii@Seq_2645	  0.00	1000.00	  0.00
@@ -682,6 +689,7 @@ r_1009	s_0516[c]  <=> s_1503[c] 		-1000.00	1000.00	  0.00
 r_1010	s_0795[er] + s_1204[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1199[er] 	Hyphopichia_burtonii@Seq_1259	  0.00	1000.00	  0.00
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Hyphopichia_burtonii@Seq_1259	  0.00	1000.00	  0.00
 r_1012	2 s_0190[c] + s_0794[c] + s_1212[c]  -> 2 s_0633[c] + s_1207[c] + s_1447[c] 	Hyphopichia_burtonii@Seq_99	  0.00	1000.00	  0.00
+r_1021	s_1460[m] + s_1537[m]  <=> s_0727[m] + s_1535[m] 	Hyphopichia_burtonii@Seq_4101 and Hyphopichia_burtonii@Seq_2447 and Hyphopichia_burtonii@Seq_1262	-1000.00	1000.00	  0.00
 r_1022	s_0397[m] + s_1326[m] + s_1464[m]  -> s_0437[m] + s_0532[m] + s_1460[m] 	Hyphopichia_burtonii@Seq_4141 and Hyphopichia_burtonii@Seq_875	  0.00	1000.00	  0.00
 r_1023	s_0803[c] + s_1207[c] + s_1461[c]  -> 2 s_0794[c] + s_1212[c] + s_1458[c] 	Hyphopichia_burtonii@Seq_1367 or Hyphopichia_burtonii@Seq_2839	  0.00	1000.00	  0.00
 r_1024	s_0805[e] + s_1466[e]  -> s_0554[e] + s_0565[e] 	Hyphopichia_burtonii@Seq_2288 or Hyphopichia_burtonii@Seq_2902 or Hyphopichia_burtonii@Seq_3594	  0.00	1000.00	  0.00
@@ -3098,8 +3106,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3262,6 +3270,7 @@ r_4224	s_0434[c] + s_0803[c] + s_1437[c]  -> s_0394[c] + s_0794[c] + s_1322[c] +
 r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3866[c] 	Hyphopichia_burtonii@Seq_3712 or Hyphopichia_burtonii@Seq_5079	-1000.00	1000.00	  0.00
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Hyphopichia_burtonii@Seq_2272	-1000.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Hyphopichia_burtonii@Seq_2417	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Hyphopichia_burtonii@Seq_4075 and Hyphopichia_burtonii@Seq_4354 and Hyphopichia_burtonii@Seq_2785 and Hyphopichia_burtonii@Seq_455	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Hyphopichia_burtonii@Seq_3487	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Hyphopichia_burtonii@Seq_4365	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	Hyphopichia_burtonii@Seq_2879	  0.00	1000.00	  0.00
@@ -3638,8 +3647,6 @@ r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Hyphopichia_burtonii@Seq_4345	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Hyphopichia_burtonii@Seq_2226	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Hyphopichia_burtonii@Seq_3159	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Hyphopichia_burtonii@Seq_2666	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Hyphopichia_burtonii@Seq_1514	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Hyphopichia_burtonii@Seq_2588	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Hyphopichia_burtonii@Seq_2807	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Hyphopichia_burtonii@Seq_4575 or Hyphopichia_burtonii@Seq_2049	  0.00	1000.00	  0.00
@@ -3653,15 +3660,13 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Hyphopichia
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Hyphopichia_burtonii@Seq_855	-1000.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Hyphopichia_burtonii@Seq_3184 or Hyphopichia_burtonii@Seq_1692	-1000.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Hyphopichia_burtonii@Seq_859	  0.00	1000.00	  0.00
-r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Hyphopichia_burtonii@Seq_3558 or Hyphopichia_burtonii@Seq_135 or Hyphopichia_burtonii@Seq_542	  0.00	1000.00	  0.00
+r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Hyphopichia_burtonii@Seq_542 or Hyphopichia_burtonii@Seq_135 or Hyphopichia_burtonii@Seq_3558	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Hyphopichia_burtonii@Seq_68	-1000.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Hyphopichia_burtonii@Seq_2564 or Hyphopichia_burtonii@Seq_3537	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Hyphopichia_burtonii@Seq_3537 or Hyphopichia_burtonii@Seq_2564	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Hyphopichia_burtonii@Seq_2362	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Hyphopichia_burtonii@Seq_4834	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Hyphopichia_burtonii@Seq_567	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Hyphopichia_burtonii@Seq_920	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Hyphopichia_burtonii@Seq_237	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Hyphopichia_burtonii@Seq_3256	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Hyphopichia_burtonii@Seq_749	  0.00	1000.00	  0.00
@@ -3670,10 +3675,7 @@ r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	Hyphopichia_
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Hyphopichia_burtonii@Seq_5040	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Hyphopichia_burtonii@Seq_520	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Hyphopichia_burtonii@Seq_2281	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Hyphopichia_burtonii@Seq_1113 or Hyphopichia_burtonii@Seq_1309	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Hyphopichia_burtonii@Seq_856	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Hyphopichia_burtonii@Seq_1960 or Hyphopichia_burtonii@Seq_2058	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Hyphopichia_burtonii@Seq_175	-1000.00	1000.00	  0.00
@@ -3682,8 +3684,7 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Hyphopichia_burtonii@Seq
 r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Hyphopichia_burtonii@Seq_856	-1000.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Hyphopichia_burtonii@Seq_2226	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Hyphopichia_burtonii@Seq_650	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Hyphopichia_burtonii@Seq_220 or Hyphopichia_burtonii@Seq_3249 or Hyphopichia_burtonii@Seq_3608 or Hyphopichia_burtonii@Seq_833	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Hyphopichia_burtonii@Seq_220 or Hyphopichia_burtonii@Seq_3249 or Hyphopichia_burtonii@Seq_3608 or Hyphopichia_burtonii@Seq_833	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Hyphopichia_burtonii@Seq_5000	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Hyphopichia_burtonii@Seq_165 or Hyphopichia_burtonii@Seq_3492	  0.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Hyphopichia_burtonii@Seq_3 or Hyphopichia_burtonii@Seq_833	-1000.00	1000.00	  0.00
@@ -3693,7 +3694,6 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Hyphopichia_burtonii@Seq
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Hyphopichia_burtonii@Seq_4293	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Hyphopichia_burtonii@Seq_4293	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Hyphopichia_burtonii@Seq_2362	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Hyphopichia_burtonii@Seq_353	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Hyphopichia_burtonii@Seq_175	-1000.00	1000.00	  0.00
 r_0821	s_0794[c] + s_1270[c]  -> s_0456[c] + s_1545[c] 	Hyphopichia_burtonii@Seq_3465	  0.00	1000.00	  0.00
@@ -3702,19 +3702,17 @@ r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Hyphopichia_
 r_0735	s_0028[c] + s_0434[c]  -> s_0019[c] + s_0394[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_1286	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	Hyphopichia_burtonii@Seq_2817	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Hyphopichia_burtonii@Seq_2989	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_4784 and Hyphopichia_burtonii@Seq_425 and Hyphopichia_burtonii@Seq_3699 and Hyphopichia_burtonii@Seq_2676 and Hyphopichia_burtonii@Seq_1932 and Hyphopichia_burtonii@Seq_215) or (Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_4784 and Hyphopichia_burtonii@Seq_425 and Hyphopichia_burtonii@Seq_3699 and Hyphopichia_burtonii@Seq_2676 and Hyphopichia_burtonii@Seq_4584 and Hyphopichia_burtonii@Seq_215) or (Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_4784 and Hyphopichia_burtonii@Seq_3709 and Hyphopichia_burtonii@Seq_59 and Hyphopichia_burtonii@Seq_4176 and Hyphopichia_burtonii@Seq_1017)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Hyphopichia_burtonii@Seq_5008 and Hyphopichia_burtonii@Seq_1877 and Hyphopichia_burtonii@Seq_4705 and Hyphopichia_burtonii@Seq_2525 and Hyphopichia_burtonii@Seq_3485 and Hyphopichia_burtonii@Seq_870 and Hyphopichia_burtonii@Seq_1489) or (Hyphopichia_burtonii@Seq_5008 and Hyphopichia_burtonii@Seq_1877 and Hyphopichia_burtonii@Seq_4705 and Hyphopichia_burtonii@Seq_907 and Hyphopichia_burtonii@Seq_3485 and Hyphopichia_burtonii@Seq_870 and Hyphopichia_burtonii@Seq_1489)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Hyphopichia_burtonii@Seq_1269 and Hyphopichia_burtonii@Seq_2990 and Hyphopichia_burtonii@Seq_925 and Hyphopichia_burtonii@Seq_3865 and Hyphopichia_burtonii@Seq_2346 and Hyphopichia_burtonii@Seq_4826 and Hyphopichia_burtonii@Seq_3291 and Hyphopichia_burtonii@Seq_270 and Hyphopichia_burtonii@Seq_1031 and Hyphopichia_burtonii@Seq_1493 and Hyphopichia_burtonii@Seq_3651 and Hyphopichia_burtonii@Seq_1950 and Hyphopichia_burtonii@Seq_3767 and Hyphopichia_burtonii@Seq_2381 and Hyphopichia_burtonii@Seq_4315 and Hyphopichia_burtonii@Seq_1543 and Hyphopichia_burtonii@Seq_1487 and Hyphopichia_burtonii@Seq_3575 and Hyphopichia_burtonii@Seq_2823 and Hyphopichia_burtonii@Seq_3030 and Hyphopichia_burtonii@Seq_339 and Hyphopichia_burtonii@Seq_620 and Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_3313) or (Hyphopichia_burtonii@Seq_1269 and Hyphopichia_burtonii@Seq_2990 and Hyphopichia_burtonii@Seq_925 and Hyphopichia_burtonii@Seq_3865 and Hyphopichia_burtonii@Seq_2346 and Hyphopichia_burtonii@Seq_4826 and Hyphopichia_burtonii@Seq_3291 and Hyphopichia_burtonii@Seq_270 and Hyphopichia_burtonii@Seq_1031 and Hyphopichia_burtonii@Seq_1493 and Hyphopichia_burtonii@Seq_3651 and Hyphopichia_burtonii@Seq_2002 and Hyphopichia_burtonii@Seq_3767 and Hyphopichia_burtonii@Seq_2381 and Hyphopichia_burtonii@Seq_4315 and Hyphopichia_burtonii@Seq_1543 and Hyphopichia_burtonii@Seq_1487 and Hyphopichia_burtonii@Seq_3575 and Hyphopichia_burtonii@Seq_2823 and Hyphopichia_burtonii@Seq_3030 and Hyphopichia_burtonii@Seq_339 and Hyphopichia_burtonii@Seq_620 and Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_3313) or (Hyphopichia_burtonii@Seq_1269 and Hyphopichia_burtonii@Seq_2990 and Hyphopichia_burtonii@Seq_925 and Hyphopichia_burtonii@Seq_3865 and Hyphopichia_burtonii@Seq_2346 and Hyphopichia_burtonii@Seq_4826 and Hyphopichia_burtonii@Seq_3291 and Hyphopichia_burtonii@Seq_270 and Hyphopichia_burtonii@Seq_1031 and Hyphopichia_burtonii@Seq_1493 and Hyphopichia_burtonii@Seq_3651 and Hyphopichia_burtonii@Seq_4377 and Hyphopichia_burtonii@Seq_3767 and Hyphopichia_burtonii@Seq_2381 and Hyphopichia_burtonii@Seq_4315 and Hyphopichia_burtonii@Seq_1543 and Hyphopichia_burtonii@Seq_1487 and Hyphopichia_burtonii@Seq_3575 and Hyphopichia_burtonii@Seq_2823 and Hyphopichia_burtonii@Seq_3030 and Hyphopichia_burtonii@Seq_339 and Hyphopichia_burtonii@Seq_620 and Hyphopichia_burtonii@Seq_4232 and Hyphopichia_burtonii@Seq_3313)	  0.00	1000.00	  0.00
 r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Hyphopichia_burtonii@Seq_4842 and Hyphopichia_burtonii@Seq_4279 and Hyphopichia_burtonii@Seq_4439 and Hyphopichia_burtonii@Seq_4789 and Hyphopichia_burtonii@Seq_2419 and Hyphopichia_burtonii@Seq_2114 and Hyphopichia_burtonii@Seq_1815) or (Hyphopichia_burtonii@Seq_4842 and Hyphopichia_burtonii@Seq_4279 and Hyphopichia_burtonii@Seq_4439 and Hyphopichia_burtonii@Seq_4789 and Hyphopichia_burtonii@Seq_2419 and Hyphopichia_burtonii@Seq_2114 and Hyphopichia_burtonii@Seq_1815 and Hyphopichia_burtonii@Seq_357 and Hyphopichia_burtonii@Seq_1770 and Hyphopichia_burtonii@Seq_2138)	  0.00	1000.00	  0.00
 r_0061	s_0009[c] + s_1198[c]  -> s_0010[c] + s_0794[c] + s_1203[c] 		  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 		  0.00	1000.00	  0.00
 r_4591	s_0796[e] + s_4203[e]  <=> s_0794[c] + s_3822[c] 		-1000.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Hyphopichia_burtonii@Seq_2288 or Hyphopichia_burtonii@Seq_2902 or Hyphopichia_burtonii@Seq_3594	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Hyphopichia_burtonii@Seq_1262	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Hyphopichia_burtonii@Seq_1000	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	Hyphopichia_burtonii@Seq_2488	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
@@ -3727,3 +3725,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Hyphopichia_burtonii@Seq_3057	-1000.00	1000.00	  0.00
