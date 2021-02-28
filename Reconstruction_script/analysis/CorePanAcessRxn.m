@@ -1,11 +1,11 @@
-% this function is to generate plot for pan/core/accessory reactions and
+% Figure 2b: this function is to generate plot for pan/core/accessory reactions Figure 2b and
 % also the dataset for pathway figure using iPath3.0
-
-load('../Reconstruction/StrainData.mat')
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+currentpath= pwd;
+load('../Reconstruction/modelRelated/StrainData.mat')
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
 strains = StrianData.strains;
 cd(inputpath)
-for j = 1:10
+for j = 1:10 % sample 10 times
     j
     samplesize = [1:1:343];
     for i = 1:343
@@ -50,8 +50,9 @@ xlim([0,350])
 set(gcf,'position',[10 50 200 100]);
 set(gca,'position',[0.15 0.2 0.65 0.85]);
 
-% generate data for ipath3.0
+% generate data for ipath3.0 for showing those rxns in pathway map
 [~,ID] = ismember(acce_rxn,model_original.rxns);
 acce_rxn_kegg = model_original.rxnKEGGID(ID(ID~=0));
 [~,ID] = ismember(core_rxn,model_original.rxns);
 core_rxn_kegg = model_original.rxnKEGGID(ID(ID~=0));
+cd(currentpath)

@@ -173,6 +173,7 @@ r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	
 r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_3240	  0.00	1000.00	  0.00
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_3240	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_3240	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_3208 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_3844) or (Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_3844 and Wickerhamiella_domercqiae@Seq_1127) or (Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_2556 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_3208 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_3485 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_1001 and Wickerhamiella_domercqiae@Seq_1134 and Wickerhamiella_domercqiae@Seq_3844)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_2711	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Wickerhamiella_domercqiae@Seq_553	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Wickerhamiella_domercqiae@Seq_974	-1000.00	1000.00	  0.00
@@ -640,6 +641,7 @@ r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Wickerhamie
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Wickerhamiella_domercqiae@Seq_3798	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	Wickerhamiella_domercqiae@Seq_3335	  0.00	1000.00	  0.00
 r_0990	s_1426[c]  <=> s_0551[c] + s_0629[c] 	Wickerhamiella_domercqiae@Seq_1424	-1000.00	1000.00	  0.00
+r_0992	s_0373[c] + s_1039[c]  -> s_0529[c] + s_1234[c] 	Wickerhamiella_domercqiae@Seq_3870 and Wickerhamiella_domercqiae@Seq_1034	  0.00	1000.00	  0.00
 r_0993	s_1040[er] + s_1303[er]  -> s_0231[er] + s_0457[er] + s_0530[er] 	Wickerhamiella_domercqiae@Seq_485 and Wickerhamiella_domercqiae@Seq_2862	  0.00	1000.00	  0.00
 r_0995	s_0434[c] + s_1039[c] + s_1607[c]  -> s_0423[c] + s_0633[c] + s_1428[c] 	Wickerhamiella_domercqiae@Seq_457 or Wickerhamiella_domercqiae@Seq_3683	  0.00	1000.00	  0.00
 r_0996	s_0211[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1429[c] 	Wickerhamiella_domercqiae@Seq_4066	  0.00	1000.00	  0.00
@@ -658,6 +660,7 @@ r_1009	s_0516[c]  <=> s_1503[c] 		-1000.00	1000.00	  0.00
 r_1010	s_0795[er] + s_1204[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1199[er] 	Wickerhamiella_domercqiae@Seq_76	  0.00	1000.00	  0.00
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Wickerhamiella_domercqiae@Seq_76	  0.00	1000.00	  0.00
 r_1012	2 s_0190[c] + s_0794[c] + s_1212[c]  -> 2 s_0633[c] + s_1207[c] + s_1447[c] 	Wickerhamiella_domercqiae@Seq_4083	  0.00	1000.00	  0.00
+r_1021	s_1460[m] + s_1537[m]  <=> s_0727[m] + s_1535[m] 	Wickerhamiella_domercqiae@Seq_1831 and Wickerhamiella_domercqiae@Seq_2290 and Wickerhamiella_domercqiae@Seq_669	-1000.00	1000.00	  0.00
 r_1022	s_0397[m] + s_1326[m] + s_1464[m]  -> s_0437[m] + s_0532[m] + s_1460[m] 	Wickerhamiella_domercqiae@Seq_2465 and Wickerhamiella_domercqiae@Seq_3985	  0.00	1000.00	  0.00
 r_1023	s_0803[c] + s_1207[c] + s_1461[c]  -> 2 s_0794[c] + s_1212[c] + s_1458[c] 	Wickerhamiella_domercqiae@Seq_3169	  0.00	1000.00	  0.00
 r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	Wickerhamiella_domercqiae@Seq_2587	  0.00	1000.00	  0.00
@@ -1759,6 +1762,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Wickerhamiella_domercqi
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Wickerhamiella_domercqiae@Seq_1902	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_15 or Wickerhamiella_domercqiae@Seq_17 or Wickerhamiella_domercqiae@Seq_2076 or Wickerhamiella_domercqiae@Seq_3616 or Wickerhamiella_domercqiae@Seq_3654 or Wickerhamiella_domercqiae@Seq_4079 or Wickerhamiella_domercqiae@Seq_656 or Wickerhamiella_domercqiae@Seq_679	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Wickerhamiella_domercqiae@Seq_15 or Wickerhamiella_domercqiae@Seq_17 or Wickerhamiella_domercqiae@Seq_2076 or Wickerhamiella_domercqiae@Seq_3616 or Wickerhamiella_domercqiae@Seq_3654 or Wickerhamiella_domercqiae@Seq_4079 or Wickerhamiella_domercqiae@Seq_656 or Wickerhamiella_domercqiae@Seq_679	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Wickerhamiella_domercqiae@Seq_3738 and Wickerhamiella_domercqiae@Seq_2148 and Wickerhamiella_domercqiae@Seq_2521 and Wickerhamiella_domercqiae@Seq_1063 and Wickerhamiella_domercqiae@Seq_2864 and Wickerhamiella_domercqiae@Seq_3718 and Wickerhamiella_domercqiae@Seq_966 and Wickerhamiella_domercqiae@Seq_3227 and Wickerhamiella_domercqiae@Seq_1115 and Wickerhamiella_domercqiae@Seq_1191 and Wickerhamiella_domercqiae@Seq_2649) or (Wickerhamiella_domercqiae@Seq_3738 and Wickerhamiella_domercqiae@Seq_2148 and Wickerhamiella_domercqiae@Seq_2521 and Wickerhamiella_domercqiae@Seq_1063 and Wickerhamiella_domercqiae@Seq_2864 and Wickerhamiella_domercqiae@Seq_3718 and Wickerhamiella_domercqiae@Seq_966 and Wickerhamiella_domercqiae@Seq_3227 and Wickerhamiella_domercqiae@Seq_1115 and Wickerhamiella_domercqiae@Seq_1678 and Wickerhamiella_domercqiae@Seq_2649)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Wickerhamiella_domercqiae@Seq_3738 and Wickerhamiella_domercqiae@Seq_2148 and Wickerhamiella_domercqiae@Seq_2521 and Wickerhamiella_domercqiae@Seq_1063 and Wickerhamiella_domercqiae@Seq_2864 and Wickerhamiella_domercqiae@Seq_3718 and Wickerhamiella_domercqiae@Seq_966 and Wickerhamiella_domercqiae@Seq_3227 and Wickerhamiella_domercqiae@Seq_1115 and Wickerhamiella_domercqiae@Seq_1191 and Wickerhamiella_domercqiae@Seq_2649) or (Wickerhamiella_domercqiae@Seq_3738 and Wickerhamiella_domercqiae@Seq_2148 and Wickerhamiella_domercqiae@Seq_2521 and Wickerhamiella_domercqiae@Seq_1063 and Wickerhamiella_domercqiae@Seq_2864 and Wickerhamiella_domercqiae@Seq_3718 and Wickerhamiella_domercqiae@Seq_966 and Wickerhamiella_domercqiae@Seq_3227 and Wickerhamiella_domercqiae@Seq_1115 and Wickerhamiella_domercqiae@Seq_1678 and Wickerhamiella_domercqiae@Seq_2649)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3039,8 +3044,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3163,7 +3168,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Wickerhamiella_domercqia
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Wickerhamiella_domercqiae@Seq_1290	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Wickerhamiella_domercqiae@Seq_3501	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Wickerhamiella_domercqiae@Seq_3421 or Wickerhamiella_domercqiae@Seq_3571	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Wickerhamiella_domercqiae@Seq_96	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Wickerhamiella_domercqiae@Seq_3307	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Wickerhamiella_domercqiae@Seq_3307	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Wickerhamiella_domercqiae@Seq_3064	-1000.00	1000.00	  0.00
@@ -3556,7 +3560,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Wickerhamiella_domercqiae@Seq_3167	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Wickerhamiella_domercqiae@Seq_181	-1000.00	1000.00	  0.00
 r_4642	s_1032[c] + s_1275[c]  -> s_0456[c] + s_0803[c] + s_3867[c] 	Wickerhamiella_domercqiae@Seq_2677	  0.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Wickerhamiella_domercqiae@Seq_2957	-1000.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Wickerhamiella_domercqiae@Seq_2311	  0.00	1000.00	  0.00
 r_4672	s_0803[c] + s_1198[c] + s_4298[c]  <=> 2 s_0794[c] + s_1203[c] + s_4259[c] 	Wickerhamiella_domercqiae@Seq_3748	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Wickerhamiella_domercqiae@Seq_1352 or Wickerhamiella_domercqiae@Seq_371 or Wickerhamiella_domercqiae@Seq_769	  0.00	1000.00	  0.00
@@ -3572,8 +3575,7 @@ r_4687	s_0803[c] + s_0843[c] + s_1198[c]  -> s_0357[c] + s_0794[c] + s_1203[c] 	
 r_4688	s_0357[c] + s_0803[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4502[c] 	Wickerhamiella_domercqiae@Seq_3292	-1000.00	1000.00	  0.00
 r_4689	s_0357[c] + s_0803[c] + s_1275[c]  -> s_0837[c] + s_4502[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Wickerhamiella_domercqiae@Seq_3139	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_866 or Wickerhamiella_domercqiae@Seq_3612	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Wickerhamiella_domercqiae@Seq_1817	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_3612 or Wickerhamiella_domercqiae@Seq_866	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Wickerhamiella_domercqiae@Seq_3251	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Wickerhamiella_domercqiae@Seq_1362	  0.00	1000.00	  0.00
 r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	Wickerhamiella_domercqiae@Seq_1362	  0.00	1000.00	  0.00
@@ -3581,21 +3583,19 @@ r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	
 r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Wickerhamiella_domercqiae@Seq_1362	  0.00	1000.00	  0.00
 r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Wickerhamiella_domercqiae@Seq_1362	  0.00	1000.00	  0.00
 r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Wickerhamiella_domercqiae@Seq_1362	  0.00	1000.00	  0.00
-r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Wickerhamiella_domercqiae@Seq_1576 or Wickerhamiella_domercqiae@Seq_1638	  0.00	1000.00	  0.00
+r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Wickerhamiella_domercqiae@Seq_1638 or Wickerhamiella_domercqiae@Seq_1576	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Wickerhamiella_domercqiae@Seq_1893	-1000.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Wickerhamiella_domercqiae@Seq_1637	  0.00	1000.00	  0.00
 r_4752	s_0794[c] + s_1203[c] + s_1399[c]  -> s_0025[c] + s_1198[c] 	Wickerhamiella_domercqiae@Seq_3536	  0.00	1000.00	  0.00
 r_4754	s_1198[c] + s_4411[c]  <=> s_0794[c] + s_1203[c] + s_4469[c] 	Wickerhamiella_domercqiae@Seq_3648	-1000.00	1000.00	  0.00
 r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Wickerhamiella_domercqiae@Seq_4131 or Wickerhamiella_domercqiae@Seq_3542	-1000.00	1000.00	  0.00
-r_4763	s_1302[c] + s_4251[c]  -> s_0529[c] + s_4252[c] 	Wickerhamiella_domercqiae@Seq_1990 or Wickerhamiella_domercqiae@Seq_552	  0.00	1000.00	  0.00
+r_4763	s_1302[c] + s_4251[c]  -> s_0529[c] + s_4252[c] 	Wickerhamiella_domercqiae@Seq_552 or Wickerhamiella_domercqiae@Seq_1990	  0.00	1000.00	  0.00
 r_4764	s_0803[c] + s_1239[c]  <=> s_0359[c] + s_0419[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_3154	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Wickerhamiella_domercqiae@Seq_2410	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Wickerhamiella_domercqiae@Seq_3091	  0.00	1000.00	  0.00
 r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Wickerhamiella_domercqiae@Seq_31	  0.00	1000.00	  0.00
 r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Wickerhamiella_domercqiae@Seq_31	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Wickerhamiella_domercqiae@Seq_2554	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Wickerhamiella_domercqiae@Seq_3438	  0.00	1000.00	  0.00
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Wickerhamiella_domercqiae@Seq_1589 or Wickerhamiella_domercqiae@Seq_1607	  0.00	1000.00	  0.00
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	Wickerhamiella_domercqiae@Seq_3103	  0.00	1000.00	  0.00
@@ -3613,9 +3613,6 @@ r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	Wickerhamiella_domercqiae@Seq_4131	
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Wickerhamiella_domercqiae@Seq_2820	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Wickerhamiella_domercqiae@Seq_1025	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Wickerhamiella_domercqiae@Seq_2311	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_1368 or Wickerhamiella_domercqiae@Seq_1710 or Wickerhamiella_domercqiae@Seq_2912	  0.00	1000.00	  0.00
@@ -3633,9 +3630,8 @@ r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] +
 r_5007	s_0512[c] + s_0803[c] + 2 s_1275[c]  -> s_0794[c] + 2 s_0837[c] + s_4259[c] 	Wickerhamiella_domercqiae@Seq_3595 or Wickerhamiella_domercqiae@Seq_412	  0.00	1000.00	  0.00
 r_5011	s_0794[c] + s_1212[c] + s_1275[c] + s_4253[c]  -> s_0803[c] + s_1207[c] + s_4254[c] 	Wickerhamiella_domercqiae@Seq_1354	  0.00	1000.00	  0.00
 r_5016	s_0138[c] + s_1322[c]  <=> s_1550[c] + s_4248[c] 	Wickerhamiella_domercqiae@Seq_2013	-1000.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Wickerhamiella_domercqiae@Seq_583	  0.00	1000.00	  0.00
-r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Wickerhamiella_domercqiae@Seq_1601 or Wickerhamiella_domercqiae@Seq_1231	-1000.00	1000.00	  0.00
+r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Wickerhamiella_domercqiae@Seq_1231 or Wickerhamiella_domercqiae@Seq_1601	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Wickerhamiella_domercqiae@Seq_3267	-1000.00	1000.00	  0.00
 r_5089	s_0803[c] + s_1207[c] + s_4298[c]  <=> 2 s_0794[c] + s_1212[c] + s_4259[c] 	Wickerhamiella_domercqiae@Seq_3748	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Wickerhamiella_domercqiae@Seq_1352 or Wickerhamiella_domercqiae@Seq_371 or Wickerhamiella_domercqiae@Seq_769	  0.00	1000.00	  0.00
@@ -3644,12 +3640,11 @@ r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Wickerhamiel
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Wickerhamiella_domercqiae@Seq_2975 or Wickerhamiella_domercqiae@Seq_3017 or Wickerhamiella_domercqiae@Seq_580	-1000.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Wickerhamiella_domercqiae@Seq_3435	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Wickerhamiella_domercqiae@Seq_3435	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5160	s_0415[c] + s_0545[c]  -> s_0543[c] + s_1322[c] 	Wickerhamiella_domercqiae@Seq_2013	  0.00	1000.00	  0.00
 r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Wickerhamiella_domercqiae@Seq_3292	  0.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Wickerhamiella_domercqiae@Seq_3139 or Wickerhamiella_domercqiae@Seq_96	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Wickerhamiella_domercqiae@Seq_96 or Wickerhamiella_domercqiae@Seq_3139	-1000.00	1000.00	  0.00
 r_0237	s_0794[c] + s_1212[c] + s_1579[c]  -> s_1207[c] + s_1569[c] 	Wickerhamiella_domercqiae@Seq_3798	  0.00	1000.00	  0.00
 r_0361	s_0645[c] + s_0743[c]  -> s_0644[er] + s_0739[c] 	Wickerhamiella_domercqiae@Seq_1600	  0.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Wickerhamiella_domercqiae@Seq_3540	  0.00	1000.00	  0.00
@@ -3672,22 +3667,21 @@ r_2502	s_3182[erm] + s_3196[erm]  -> s_2783[erm] + s_3183[erm] + s_3205[erm] 	Wi
 r_2503	s_3182[erm] + s_3198[erm]  -> s_2783[erm] + s_3183[erm] + s_3206[erm] 	Wickerhamiella_domercqiae@Seq_414	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Wickerhamiella_domercqiae@Seq_3254	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	Wickerhamiella_domercqiae@Seq_3254	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Wickerhamiella_domercqiae@Seq_388 and Wickerhamiella_domercqiae@Seq_3288 and Wickerhamiella_domercqiae@Seq_73 and Wickerhamiella_domercqiae@Seq_508 and Wickerhamiella_domercqiae@Seq_1451 and Wickerhamiella_domercqiae@Seq_2403 and Wickerhamiella_domercqiae@Seq_1346 and Wickerhamiella_domercqiae@Seq_533 and Wickerhamiella_domercqiae@Seq_2296 and Wickerhamiella_domercqiae@Seq_1890 and Wickerhamiella_domercqiae@Seq_472 and Wickerhamiella_domercqiae@Seq_1468 and Wickerhamiella_domercqiae@Seq_2355 and Wickerhamiella_domercqiae@Seq_1102 and Wickerhamiella_domercqiae@Seq_707 and Wickerhamiella_domercqiae@Seq_771 and Wickerhamiella_domercqiae@Seq_3614 and Wickerhamiella_domercqiae@Seq_1719 and Wickerhamiella_domercqiae@Seq_2717 and Wickerhamiella_domercqiae@Seq_2540 and Wickerhamiella_domercqiae@Seq_3938) or (Wickerhamiella_domercqiae@Seq_388 and Wickerhamiella_domercqiae@Seq_3288 and Wickerhamiella_domercqiae@Seq_73 and Wickerhamiella_domercqiae@Seq_508 and Wickerhamiella_domercqiae@Seq_1451 and Wickerhamiella_domercqiae@Seq_2403 and Wickerhamiella_domercqiae@Seq_1346 and Wickerhamiella_domercqiae@Seq_533 and Wickerhamiella_domercqiae@Seq_2296 and Wickerhamiella_domercqiae@Seq_1890 and Wickerhamiella_domercqiae@Seq_472 and Wickerhamiella_domercqiae@Seq_1468 and Wickerhamiella_domercqiae@Seq_3938 and Wickerhamiella_domercqiae@Seq_1102 and Wickerhamiella_domercqiae@Seq_707 and Wickerhamiella_domercqiae@Seq_771 and Wickerhamiella_domercqiae@Seq_3614 and Wickerhamiella_domercqiae@Seq_1719 and Wickerhamiella_domercqiae@Seq_2717 and Wickerhamiella_domercqiae@Seq_2540)	  0.00	1000.00	  0.00
 r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Wickerhamiella_domercqiae@Seq_3152 and Wickerhamiella_domercqiae@Seq_529 and Wickerhamiella_domercqiae@Seq_613 and Wickerhamiella_domercqiae@Seq_2682 and Wickerhamiella_domercqiae@Seq_1572 and Wickerhamiella_domercqiae@Seq_882) or (Wickerhamiella_domercqiae@Seq_362 and Wickerhamiella_domercqiae@Seq_368 and Wickerhamiella_domercqiae@Seq_831) or (Wickerhamiella_domercqiae@Seq_372 and Wickerhamiella_domercqiae@Seq_368 and Wickerhamiella_domercqiae@Seq_831)	  0.00	1000.00	  0.00
 r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Wickerhamiella_domercqiae@Seq_3943 and Wickerhamiella_domercqiae@Seq_267 and Wickerhamiella_domercqiae@Seq_1371 and Wickerhamiella_domercqiae@Seq_1813	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_3208 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_3844) or (Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_3844 and Wickerhamiella_domercqiae@Seq_1127) or (Wickerhamiella_domercqiae@Seq_4150 and Wickerhamiella_domercqiae@Seq_1494 and Wickerhamiella_domercqiae@Seq_446 and Wickerhamiella_domercqiae@Seq_138 and Wickerhamiella_domercqiae@Seq_3208 and Wickerhamiella_domercqiae@Seq_2295 and Wickerhamiella_domercqiae@Seq_2592 and Wickerhamiella_domercqiae@Seq_1172 and Wickerhamiella_domercqiae@Seq_663 and Wickerhamiella_domercqiae@Seq_3844 and Wickerhamiella_domercqiae@Seq_3485 and Wickerhamiella_domercqiae@Seq_1001 and Wickerhamiella_domercqiae@Seq_1134 and Wickerhamiella_domercqiae@Seq_2556)	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 		  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
 r_1194	s_0991[c]  -> s_0993[m] 		  0.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Wickerhamiella_domercqiae@Seq_177	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Wickerhamiella_domercqiae@Seq_3139	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
 r_5204	s_0794[c] + s_4637[c]  <=> s_0796[e] + s_4638[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
-r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
+r_5208	s_3914[c]  <=> s_4641[e] 	Wickerhamiella_domercqiae@Seq_502	-1000.00	1000.00	  0.00
 r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00
 r_5210	s_0373[c] + s_1025[c]  -> s_0529[c] + s_0794[c] + s_4643[c] 		  0.00	1000.00	  0.00
 r_5211	s_0180[c] + s_4643[c]  <=> s_0991[c] + s_4644[c] 		-1000.00	1000.00	  0.00
@@ -3701,4 +3695,7 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
-r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 		  0.00	1000.00	  0.00
+r_4751	5 s_0794[c] + 3 s_1203[c] + s_3935[c]  -> s_0419[c] + 2 s_0803[c] + 3 s_1198[c] 	Wickerhamiella_domercqiae@Seq_2853	  0.00	1000.00	  0.00
+r_0458	s_0434[c] + s_0558[c]  -> s_0394[c] + s_0410[c] + s_0794[c] 	Wickerhamiella_domercqiae@Seq_4135	  0.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Wickerhamiella_domercqiae@Seq_2801	  0.00	1000.00	  0.00
+r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Wickerhamiella_domercqiae@Seq_3554	  0.00	1000.00	  0.00

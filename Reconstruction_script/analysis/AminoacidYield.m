@@ -1,9 +1,9 @@
-% This function is to generate  the figure of amino acid yield and ATP yield of different
+% This function is to generate the figure 2c and of amino acid yield and figure S2d ATP yield of different
 % species.
-
+currentpath = pwd;
 %load panmodel
-load('../ModelFiles/model_original.mat')
-inputpath = '/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/ModelFiles/mat';
+load('../Reconstruction/modelRelated/panModel.mat')
+
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
 data = textscan(fid2,format,'Delimiter','\t','HeaderLines',1);
@@ -14,11 +14,11 @@ fclose(fid2);
 strains = Strain_information(:,1);
 
 cd ../Reconstruction/otherchanges/
+inputpath = '../modelRelated/ssGEMs';
 [~,~,mets_test,~,solresult] = getprecursorMatrixCobra(model_original,strains,inputpath);
-yield_precursor = zeros(length(solresult),2);
-save
+yield_precursor = zeros(length(solresult(1,:)),2);
 % calculate the range of yield for each precursors
-for i = 1:length(solresult)
+for i = 1:length(solresult(1,:))
     yield_precursor(i,1) = max(solresult(:,i));
     yield_precursor(i,2) = min(solresult(:,i));
 end
@@ -29,7 +29,7 @@ mets = {'L-alanine [extracellular]';'L-arginine [extracellular]';'L-asparagine [
     'L-histidine [extracellular]';'L-isoleucine [extracellular]';'L-leucine [extracellular]';'L-lysine [extracellular]';...
     'L-methionine [extracellular]';'L-phenylalanine [extracellular]';'L-proline [extracellular]';'L-serine [extracellular]';...
     'L-threonine [extracellular]';'L-tryptophan [extracellular]';'L-tyrosine [extracellular]';'L-valine [extracellular]'};
-legend = {'L-ala';'L-arg';'L-asp';'L-asp';'L-cys';'L-glu';'L-glu';'L-gly';'L-his';'L-iso';'L-leu';'L-lys';'L-met';'L-phe';'L-pro';'L-ser';'L-thr';'L-try';'L-tyr';'L-val'};
+legend = {'L-ala';'L-arg';'L-asn';'L-asp';'L-cys';'L-gln';'L-glu';'L-gly';'L-his';'L-iso';'L-leu';'L-lys';'L-met';'L-phe';'L-pro';'L-ser';'L-thr';'L-trp';'L-tyr';'L-val'};
 
 [~,idx] = ismember(mets_test,model_original.mets);
 metname = model_original.metNames(idx);
@@ -41,6 +41,7 @@ metname = model_original.metNames(idx);
 yield_aa = yield_precursor(idx,:);
 
 % plot
+% this function is downloaded from https://se.mathworks.com/matlabcentral/fileexchange/59561-spider_plot
 spider_plot_R2019b(yield_aa',...
     'AxesInterval', 4,...
     'AxesDisplay', 'one',...
@@ -53,7 +54,7 @@ spider_plot_R2019b(yield_aa',...
     'AxesFontSize', 14,...
     'AxesLabels', legend',...
     'LabelFontSize', 14);
-
+cd(currentpath)
 %% find the ATP production by clade
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
 format = '%s %s %s';
@@ -64,8 +65,9 @@ end
 fclose(fid2);
 strainlist = Strain_information(:,1);
 solresult = zeros(length(strainlist),1);
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
+cd(inputpath)
 for i = 1:length(strainlist)
-    cd(inputpath)
     load([strainlist{i},'.mat']);
     model = reducedModel;
     model= setParam(model,'ub',{'r_4046'},1000);
@@ -89,3 +91,4 @@ set(gca,'FontSize',10,'XTickLabelRotation',90)
 ylabel('ATP yielf on glucose','FontSize',10,'FontName','Helvetica','Color','k');
 set(gcf,'position',[200 0 350 300]);
 set(gca,'position',[0.11 0.31 0.77 0.65]);
+cd(currentpath)

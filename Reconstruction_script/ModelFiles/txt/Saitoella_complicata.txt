@@ -187,6 +187,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Saitoella_co
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Saitoella_complicata@Seq_4104	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Saitoella_complicata@Seq_4104	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Saitoella_complicata@Seq_4448	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_3173) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_1074 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_3483 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_6463 and Saitoella_complicata@Seq_718) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_1074 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_4267 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_6463 and Saitoella_complicata@Seq_718) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_6118 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_3483 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_6463 and Saitoella_complicata@Seq_718) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_6118 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_4267 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_6463 and Saitoella_complicata@Seq_718)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Saitoella_complicata@Seq_4555	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Saitoella_complicata@Seq_6689	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Saitoella_complicata@Seq_4785	-1000.00	1000.00	  0.00
@@ -307,6 +308,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Saitoella_complicata@Seq_5426	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Saitoella_complicata@Seq_3385	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_6795	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_244 and Saitoella_complicata@Seq_6360 and Saitoella_complicata@Seq_5454 and Saitoella_complicata@Seq_880 and Saitoella_complicata@Seq_2999 and Saitoella_complicata@Seq_6791) or (Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_244 and Saitoella_complicata@Seq_6360 and Saitoella_complicata@Seq_5454 and Saitoella_complicata@Seq_880 and Saitoella_complicata@Seq_3504 and Saitoella_complicata@Seq_6791)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Saitoella_complicata@Seq_4210 and Saitoella_complicata@Seq_3456 and Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_239 and Saitoella_complicata@Seq_4379 and Saitoella_complicata@Seq_6484 and Saitoella_complicata@Seq_6122 and Saitoella_complicata@Seq_473	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Saitoella_complicata@Seq_6423	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Saitoella_complicata@Seq_2001	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Saitoella_complicata@Seq_1308	  0.00	1000.00	  0.00
@@ -657,6 +660,7 @@ r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	Saitoella_co
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	Saitoella_complicata@Seq_1070	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	Saitoella_complicata@Seq_1643	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	Saitoella_complicata@Seq_665	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	Saitoella_complicata@Seq_5751 and Saitoella_complicata@Seq_4701	  0.00	1000.00	  0.00
 r_0953	s_0419[c] + 2 s_0803[c] + 0.5 s_1275[c] + s_1392[c]  -> 2 s_0837[c] + s_1394[c] 	Saitoella_complicata@Seq_5045	  0.00	1000.00	  0.00
 r_0954	s_0803[c] + s_1275[c] + s_1395[c]  -> s_0419[c] + s_0837[c] + s_1393[c] 	Saitoella_complicata@Seq_5045	  0.00	1000.00	  0.00
 r_0955	s_1275[c] + s_1398[c]  <=> s_0837[c] + s_1393[c] 	Saitoella_complicata@Seq_5045	-1000.00	1000.00	  0.00
@@ -3158,8 +3162,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3291,7 +3295,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Saitoella_c
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Saitoella_complicata@Seq_5204 or Saitoella_complicata@Seq_372	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Saitoella_complicata@Seq_5204 or Saitoella_complicata@Seq_372	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Saitoella_complicata@Seq_2204 or Saitoella_complicata@Seq_2686	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_6561 or Saitoella_complicata@Seq_5210	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Saitoella_complicata@Seq_233	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Saitoella_complicata@Seq_233	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Saitoella_complicata@Seq_4331	-1000.00	1000.00	  0.00
@@ -3718,27 +3721,25 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Saitoella_complicata@Seq_5941	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Saitoella_complicata@Seq_2040	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_4235	-1000.00	1000.00	  0.00
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	Saitoella_complicata@Seq_2702	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Saitoella_complicata@Seq_4235	  0.00	1000.00	  0.00
-r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Saitoella_complicata@Seq_4253 or Saitoella_complicata@Seq_1722 or Saitoella_complicata@Seq_4310	  0.00	1000.00	  0.00
+r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Saitoella_complicata@Seq_1722 or Saitoella_complicata@Seq_4253 or Saitoella_complicata@Seq_4310	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Saitoella_complicata@Seq_4293	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Saitoella_complicata@Seq_2924	-1000.00	1000.00	  0.00
-r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	  0.00	1000.00	  0.00
-r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_1169	-1000.00	1000.00	  0.00
-r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_4128	-1000.00	1000.00	  0.00
-r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	  0.00	1000.00	  0.00
-r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	  0.00	1000.00	  0.00
-r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	  0.00	1000.00	  0.00
+r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	  0.00	1000.00	  0.00
+r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	  0.00	1000.00	  0.00
+r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	  0.00	1000.00	  0.00
+r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	  0.00	1000.00	  0.00
 r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	Saitoella_complicata@Seq_19	  0.00	1000.00	  0.00
 r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Saitoella_complicata@Seq_19	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Saitoella_complicata@Seq_3162 or Saitoella_complicata@Seq_3454	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Saitoella_complicata@Seq_3987	  0.00	1000.00	  0.00
-r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
+r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Saitoella_complicata@Seq_4878	  0.00	1000.00	  0.00
+r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Saitoella_complicata@Seq_6242 or Saitoella_complicata@Seq_6770	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Saitoella_complicata@Seq_5824	  0.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Saitoella_complicata@Seq_4235	  0.00	1000.00	  0.00
@@ -3754,7 +3755,7 @@ r_4686	s_0063[c] + s_1275[c]  -> s_0362[c] + s_0456[c] + s_0803[c] 	Saitoella_co
 r_4687	s_0803[c] + s_0843[c] + s_1198[c]  -> s_0357[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
 r_4688	s_0357[c] + s_0803[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4502[c] 	Saitoella_complicata@Seq_2025	-1000.00	1000.00	  0.00
 r_4689	s_0357[c] + s_0803[c] + s_1275[c]  -> s_0837[c] + s_4502[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
-r_4690	s_1032[c]  -> s_0419[c] + s_4488[c] 	Saitoella_complicata@Seq_5207 or Saitoella_complicata@Seq_5618	  0.00	1000.00	  0.00
+r_4690	s_1032[c]  -> s_0419[c] + s_4488[c] 	Saitoella_complicata@Seq_5618 or Saitoella_complicata@Seq_5207	  0.00	1000.00	  0.00
 r_4691	s_0794[c] + s_1203[c] + s_3750[c]  -> s_1198[c] + s_4501[c] 	Saitoella_complicata@Seq_4932 or Saitoella_complicata@Seq_5510	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Saitoella_complicata@Seq_1339	-1000.00	1000.00	  0.00
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Saitoella_complicata@Seq_2428 or Saitoella_complicata@Seq_2637	-1000.00	1000.00	  0.00
@@ -3762,29 +3763,29 @@ r_4694	2 s_0189[c]  -> s_0633[c] + s_4499[c] 	Saitoella_complicata@Seq_6017	  0.
 r_4695	s_4499[c]  -> s_0633[c] + s_4498[c] 	Saitoella_complicata@Seq_6017	  0.00	1000.00	  0.00
 r_4701	s_0721[c] + s_0803[c] + s_1198[c]  -> s_0722[c] + 2 s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_3595	  0.00	1000.00	  0.00
 r_4702	s_1045[c] + s_1198[c]  -> s_0794[c] + s_0952[c] + s_1203[c] 	Saitoella_complicata@Seq_4505	  0.00	1000.00	  0.00
-r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Saitoella_complicata@Seq_3228 or Saitoella_complicata@Seq_6775 or Saitoella_complicata@Seq_2840	  0.00	1000.00	  0.00
+r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Saitoella_complicata@Seq_6775 or Saitoella_complicata@Seq_3228 or Saitoella_complicata@Seq_2840	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Saitoella_complicata@Seq_3046	-1000.00	1000.00	  0.00
 r_4707	s_1039[c] + s_4492[c]  -> s_0803[c] + s_1048[c] 	Saitoella_complicata@Seq_5999	  0.00	1000.00	  0.00
 r_4708	s_4245[c]  <=> s_0764[c] + s_4492[c] 	Saitoella_complicata@Seq_5999	-1000.00	1000.00	  0.00
 r_4709	s_0794[c] + s_4322[c]  -> s_0456[c] + s_0722[c] 	Saitoella_complicata@Seq_5524	  0.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Saitoella_complicata@Seq_4562 or Saitoella_complicata@Seq_4028	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Saitoella_complicata@Seq_1896 or Saitoella_complicata@Seq_3557 or Saitoella_complicata@Seq_6599	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Saitoella_complicata@Seq_4028 or Saitoella_complicata@Seq_4562	  0.00	1000.00	  0.00
+r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Saitoella_complicata@Seq_1896 or Saitoella_complicata@Seq_3557	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Saitoella_complicata@Seq_2668	-1000.00	1000.00	  0.00
-r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Saitoella_complicata@Seq_3270 or Saitoella_complicata@Seq_5478 or Saitoella_complicata@Seq_160	-1000.00	1000.00	  0.00
-r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
-r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
-r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
-r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
-r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
-r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_3737 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900	  0.00	1000.00	  0.00
+r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Saitoella_complicata@Seq_5478 or Saitoella_complicata@Seq_3270 or Saitoella_complicata@Seq_160	-1000.00	1000.00	  0.00
+r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
+r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
+r_4716	s_0434[c] + s_0529[c] + s_4464[c]  -> s_0423[c] + s_0633[c] + s_4359[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
+r_4717	s_0434[c] + s_0529[c] + s_4466[c]  -> s_0423[c] + s_0633[c] + s_4357[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
+r_4718	s_0434[c] + s_0529[c] + s_4488[c]  -> s_0423[c] + s_0633[c] + s_4487[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
+r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_679 or Saitoella_complicata@Seq_6361 or Saitoella_complicata@Seq_900 or Saitoella_complicata@Seq_3737	  0.00	1000.00	  0.00
 r_4720	s_0794[c] + s_4486[c]  <=> s_0456[c] + s_3958[c] 	Saitoella_complicata@Seq_5416	-1000.00	1000.00	  0.00
 r_4721	s_1198[c] + s_4486[c]  <=> s_0794[c] + s_1203[c] + s_4485[c] 	Saitoella_complicata@Seq_5416	-1000.00	1000.00	  0.00
-r_4722	s_0803[c] + s_1275[c] + s_1469[c]  -> s_0837[c] + s_1467[c] 	Saitoella_complicata@Seq_6066 or Saitoella_complicata@Seq_921	  0.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Saitoella_complicata@Seq_5533	  0.00	1000.00	  0.00
+r_4722	s_0803[c] + s_1275[c] + s_1469[c]  -> s_0837[c] + s_1467[c] 	Saitoella_complicata@Seq_921 or Saitoella_complicata@Seq_6066	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Saitoella_complicata@Seq_3941 or Saitoella_complicata@Seq_5533	  0.00	1000.00	  0.00
 r_4726	s_1006[c] + 3 s_1416[c]  -> 3 s_0794[c] + 3 s_1413[c] + s_4482[c] 	Saitoella_complicata@Seq_2872	  0.00	1000.00	  0.00
 r_4727	s_0981[c] + s_1275[c] + s_4482[c]  -> s_0803[c] + s_4481[c] 	Saitoella_complicata@Seq_2872	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Saitoella_complicata@Seq_6752	  0.00	1000.00	  0.00
-r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Saitoella_complicata@Seq_906 or Saitoella_complicata@Seq_1542	  0.00	1000.00	  0.00
+r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Saitoella_complicata@Seq_1542 or Saitoella_complicata@Seq_906	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Saitoella_complicata@Seq_1138	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Saitoella_complicata@Seq_280	  0.00	1000.00	  0.00
 r_4735	s_1198[c] + s_4209[c]  <=> s_0794[c] + s_1203[c] + s_3948[c] 	Saitoella_complicata@Seq_4035	-1000.00	1000.00	  0.00
@@ -3808,17 +3809,16 @@ r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Saitoella_complicata@Seq
 r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Saitoella_complicata@Seq_339	  0.00	1000.00	  0.00
 r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Saitoella_complicata@Seq_4834	  0.00	1000.00	  0.00
 r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Saitoella_complicata@Seq_4834	  0.00	1000.00	  0.00
-r_4782	s_0794[c] + s_1212[c] + s_4208[c]  -> s_1207[c] + s_4437[c] 	Saitoella_complicata@Seq_1511 or Saitoella_complicata@Seq_1914	  0.00	1000.00	  0.00
-r_4783	s_0794[c] + s_1212[c] + s_4432[c]  -> s_1207[c] + s_4434[c] 	Saitoella_complicata@Seq_1511 or Saitoella_complicata@Seq_1914	  0.00	1000.00	  0.00
+r_4782	s_0794[c] + s_1212[c] + s_4208[c]  -> s_1207[c] + s_4437[c] 	Saitoella_complicata@Seq_1914 or Saitoella_complicata@Seq_1511	  0.00	1000.00	  0.00
+r_4783	s_0794[c] + s_1212[c] + s_4432[c]  -> s_1207[c] + s_4434[c] 	Saitoella_complicata@Seq_1914 or Saitoella_complicata@Seq_1511	  0.00	1000.00	  0.00
 r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	Saitoella_complicata@Seq_4834	  0.00	1000.00	  0.00
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Saitoella_complicata@Seq_4834	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Saitoella_complicata@Seq_4834	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Saitoella_complicata@Seq_1024	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
+r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 	Saitoella_complicata@Seq_349	-1000.00	1000.00	  0.00
 r_4791	s_0803[c] + s_1224[c]  -> s_0419[c] + s_1222[c] 	Saitoella_complicata@Seq_6439	  0.00	1000.00	  0.00
 r_4794	s_0522[c]  -> s_0362[c] + s_1271[c] 	Saitoella_complicata@Seq_3007	  0.00	1000.00	  0.00
 r_4798	s_0359[c] + s_0529[c] + s_1198[c]  <=> s_0373[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_270	-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Saitoella_complicata@Seq_224	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Saitoella_complicata@Seq_5619	  0.00	1000.00	  0.00
 r_4802	s_0346[c]  -> s_0794[c] + s_4098[c] + s_4440[c] 	Saitoella_complicata@Seq_1276	  0.00	1000.00	  0.00
@@ -3829,7 +3829,6 @@ r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Saitoella_co
 r_4825	s_0794[c] + s_0955[c] + s_1368[c]  -> s_0352[c] + s_0456[c] + s_0529[c] 	Saitoella_complicata@Seq_3378	  0.00	1000.00	  0.00
 r_4827	s_4415[c]  <=> s_1399[c] + s_1458[c] 	Saitoella_complicata@Seq_1126	-1000.00	1000.00	  0.00
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	Saitoella_complicata@Seq_4277	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Saitoella_complicata@Seq_304	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Saitoella_complicata@Seq_1877 or Saitoella_complicata@Seq_2237 or Saitoella_complicata@Seq_2356 or Saitoella_complicata@Seq_2978 or Saitoella_complicata@Seq_4869	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Saitoella_complicata@Seq_5937 or Saitoella_complicata@Seq_567	  0.00	1000.00	  0.00
 r_4842	s_0340[c] + s_1198[c]  -> s_0456[c] + s_0577[c] + s_1203[c] 	Saitoella_complicata@Seq_1191	  0.00	1000.00	  0.00
@@ -3851,18 +3850,14 @@ r_4876	s_4384[c]  -> s_4375[c] 	Saitoella_complicata@Seq_6017	  0.00	1000.00	  0
 r_4877	s_1207[c] + s_4181[c]  <=> s_0580[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_4505	-1000.00	1000.00	  0.00
 r_4878	s_1207[c] + s_4181[c]  <=> s_0794[c] + s_1212[c] + s_4383[c] 	Saitoella_complicata@Seq_4505	-1000.00	1000.00	  0.00
 r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	Saitoella_complicata@Seq_5469	  0.00	1000.00	  0.00
-r_4884	s_0803[c] + s_1198[c] + s_4352[c]  -> 2 s_0794[c] + s_1203[c] + s_4351[c] 	Saitoella_complicata@Seq_5154 or Saitoella_complicata@Seq_3555	  0.00	1000.00	  0.00
 r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	Saitoella_complicata@Seq_116	-1000.00	1000.00	  0.00
 r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_1891	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Saitoella_complicata@Seq_3155	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4922	s_1275[c] + s_4191[c]  -> s_4341[c] 	Saitoella_complicata@Seq_5805	  0.00	1000.00	  0.00
 r_4933	s_4329[c]  -> s_0803[c] + s_4328[c] 	Saitoella_complicata@Seq_4885	  0.00	1000.00	  0.00
 r_4934	s_0794[c] + s_4327[c]  -> s_0803[c] + s_4288[c] 	Saitoella_complicata@Seq_4885	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Saitoella_complicata@Seq_5206	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_1327	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Saitoella_complicata@Seq_5824	  0.00	1000.00	  0.00
@@ -3887,16 +3882,16 @@ r_4991	s_1322[c] + s_1520[c]  <=> s_0567[c] + s_3951[c] 	Saitoella_complicata@Se
 r_4994	s_1212[c] + s_1266[c] + s_1275[c]  -> s_0803[c] + s_1207[c] + s_4267[c] 	Saitoella_complicata@Seq_4413	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Saitoella_complicata@Seq_1218 or Saitoella_complicata@Seq_171 or Saitoella_complicata@Seq_3856 or Saitoella_complicata@Seq_5802 or Saitoella_complicata@Seq_6086	  0.00	1000.00	  0.00
 r_5000	s_0434[c] + s_0529[c] + s_1321[c]  -> s_0423[c] + s_0633[c] + s_4262[c] 	Saitoella_complicata@Seq_2076 or Saitoella_complicata@Seq_6361	  0.00	1000.00	  0.00
+r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Saitoella_complicata@Seq_3941	  0.00	1000.00	  0.00
 r_5014	s_0803[c] + s_4252[c]  -> s_0794[c] + s_1286[c] + s_4251[c] 	Saitoella_complicata@Seq_1274 or Saitoella_complicata@Seq_3703	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Saitoella_complicata@Seq_5999	  0.00	1000.00	  0.00
 r_5019	s_1275[c] + s_4244[c]  -> s_4242[c] + s_4243[c] 	Saitoella_complicata@Seq_3079 or Saitoella_complicata@Seq_5894	  0.00	1000.00	  0.00
 r_5022	s_1198[c] + s_4239[c]  -> s_0794[c] + s_1203[c] + s_4238[c] 	Saitoella_complicata@Seq_2594	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Saitoella_complicata@Seq_2777	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	Saitoella_complicata@Seq_6149	  0.00	1000.00	  0.00
 r_5044	s_0794[c] + s_1212[c] + s_4207[c]  -> s_1207[c] + s_4208[c] 	Saitoella_complicata@Seq_1231	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Saitoella_complicata@Seq_1711 or Saitoella_complicata@Seq_177 or Saitoella_complicata@Seq_1832 or Saitoella_complicata@Seq_2083 or Saitoella_complicata@Seq_310 or Saitoella_complicata@Seq_5563	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Saitoella_complicata@Seq_1711 or Saitoella_complicata@Seq_177 or Saitoella_complicata@Seq_1832 or Saitoella_complicata@Seq_2083 or Saitoella_complicata@Seq_310 or Saitoella_complicata@Seq_5563	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2383 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_391 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
@@ -3911,16 +3906,16 @@ r_5061	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] +
 r_5062	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4590[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
 r_5063	s_0794[c] + s_1212[c] + s_1275[c] + s_4601[c]  <=> s_0803[c] + s_1207[c] + s_4602[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Saitoella_complicata@Seq_4645	-1000.00	1000.00	  0.00
-r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	-1000.00	1000.00	  0.00
-r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	-1000.00	1000.00	  0.00
-r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Saitoella_complicata@Seq_3982 or Saitoella_complicata@Seq_6009	-1000.00	1000.00	  0.00
+r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
+r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Saitoella_complicata@Seq_6009 or Saitoella_complicata@Seq_3982	-1000.00	1000.00	  0.00
 r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	Saitoella_complicata@Seq_19	-1000.00	1000.00	  0.00
-r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
-r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_4256 or Saitoella_complicata@Seq_6149	-1000.00	1000.00	  0.00
+r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
+r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_6149 or Saitoella_complicata@Seq_4256	-1000.00	1000.00	  0.00
 r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Saitoella_complicata@Seq_4235	-1000.00	1000.00	  0.00
 r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Saitoella_complicata@Seq_3233 or Saitoella_complicata@Seq_3503 or Saitoella_complicata@Seq_6036 or Saitoella_complicata@Seq_6159 or Saitoella_complicata@Seq_6340	-1000.00	1000.00	  0.00
 r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Saitoella_complicata@Seq_3233 or Saitoella_complicata@Seq_3503 or Saitoella_complicata@Seq_6036 or Saitoella_complicata@Seq_6159 or Saitoella_complicata@Seq_6340	-1000.00	1000.00	  0.00
@@ -3932,33 +3927,29 @@ r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
 r_5102	2 s_0189[c]  -> 2 s_0633[c] + s_4498[c] 	Saitoella_complicata@Seq_6017	  0.00	1000.00	  0.00
 r_5112	s_0803[c] + s_4293[c]  <=> s_0558[c] + s_3951[c] 	Saitoella_complicata@Seq_3598 or Saitoella_complicata@Seq_5563	-1000.00	1000.00	  0.00
-r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Saitoella_complicata@Seq_3228 or Saitoella_complicata@Seq_6775 or Saitoella_complicata@Seq_2840	  0.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Saitoella_complicata@Seq_2963 or Saitoella_complicata@Seq_535 or Saitoella_complicata@Seq_2217 or Saitoella_complicata@Seq_5576 or Saitoella_complicata@Seq_6150	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Saitoella_complicata@Seq_2963 or Saitoella_complicata@Seq_535 or Saitoella_complicata@Seq_2217 or Saitoella_complicata@Seq_5576 or Saitoella_complicata@Seq_6150	-1000.00	1000.00	  0.00
+r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Saitoella_complicata@Seq_6775 or Saitoella_complicata@Seq_3228 or Saitoella_complicata@Seq_2840	  0.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Saitoella_complicata@Seq_5576 or Saitoella_complicata@Seq_535 or Saitoella_complicata@Seq_2963 or Saitoella_complicata@Seq_6150 or Saitoella_complicata@Seq_2217	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Saitoella_complicata@Seq_5576 or Saitoella_complicata@Seq_535 or Saitoella_complicata@Seq_2963 or Saitoella_complicata@Seq_6150 or Saitoella_complicata@Seq_2217	-1000.00	1000.00	  0.00
 r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Saitoella_complicata@Seq_3598 or Saitoella_complicata@Seq_5563	  0.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Saitoella_complicata@Seq_2612	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Saitoella_complicata@Seq_2612	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Saitoella_complicata@Seq_3810 or Saitoella_complicata@Seq_448 or Saitoella_complicata@Seq_5986	  0.00	1000.00	  0.00
-r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	Saitoella_complicata@Seq_1511 or Saitoella_complicata@Seq_1914	-1000.00	1000.00	  0.00
-r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Saitoella_complicata@Seq_1511 or Saitoella_complicata@Seq_1914	-1000.00	1000.00	  0.00
+r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	Saitoella_complicata@Seq_1914 or Saitoella_complicata@Seq_1511	-1000.00	1000.00	  0.00
+r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Saitoella_complicata@Seq_1914 or Saitoella_complicata@Seq_1511	-1000.00	1000.00	  0.00
 r_5138	s_0434[c] + s_0529[c] + s_2828[c]  -> s_0423[c] + s_0633[c] + s_4559[c] 	Saitoella_complicata@Seq_4283	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5145	s_0529[c] + s_1198[c] + s_4314[c]  <=> s_0794[c] + s_1203[c] + s_4559[c] 	Saitoella_complicata@Seq_270	-1000.00	1000.00	  0.00
 r_5146	s_0794[c] + s_1212[c] + s_1275[c] + s_4333[c]  -> s_0803[c] + s_1207[c] + s_4558[c] 	Saitoella_complicata@Seq_2071 or Saitoella_complicata@Seq_2744 or Saitoella_complicata@Seq_644	  0.00	1000.00	  0.00
 r_5147	s_1198[c] + s_4437[c]  <=> s_0794[c] + s_1203[c] + s_4438[c] 	Saitoella_complicata@Seq_1231	-1000.00	1000.00	  0.00
 r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Saitoella_complicata@Seq_2025	  0.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Saitoella_complicata@Seq_160 or Saitoella_complicata@Seq_6561 or Saitoella_complicata@Seq_5210 or Saitoella_complicata@Seq_2594	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Saitoella_complicata@Seq_6561 or Saitoella_complicata@Seq_5210 or Saitoella_complicata@Seq_160 or Saitoella_complicata@Seq_2594	-1000.00	1000.00	  0.00
 r_5181	s_1322[c] + s_4620[c]  <=> s_0551[c] + s_0803[c] + s_4317[c] 	Saitoella_complicata@Seq_534	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Saitoella_complicata@Seq_2859	-1000.00	1000.00	  0.00
 r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_0794[c] + s_4627[c] 	Saitoella_complicata@Seq_5087	-1000.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Saitoella_complicata@Seq_3441	  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 	Saitoella_complicata@Seq_2332 or Saitoella_complicata@Seq_5999	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Saitoella_complicata@Seq_6298	-1000.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Saitoella_complicata@Seq_205 and Saitoella_complicata@Seq_3135 and Saitoella_complicata@Seq_2643 and Saitoella_complicata@Seq_2824 and Saitoella_complicata@Seq_2714) or (Saitoella_complicata@Seq_205 and Saitoella_complicata@Seq_3135 and Saitoella_complicata@Seq_6860 and Saitoella_complicata@Seq_2824 and Saitoella_complicata@Seq_2714) or (Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_244 and Saitoella_complicata@Seq_6360 and Saitoella_complicata@Seq_5454 and Saitoella_complicata@Seq_6791 and Saitoella_complicata@Seq_880 and Saitoella_complicata@Seq_2999) or (Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_244 and Saitoella_complicata@Seq_6360 and Saitoella_complicata@Seq_5454 and Saitoella_complicata@Seq_6791 and Saitoella_complicata@Seq_880 and Saitoella_complicata@Seq_3504)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Saitoella_complicata@Seq_4210 and Saitoella_complicata@Seq_3456 and Saitoella_complicata@Seq_6940 and Saitoella_complicata@Seq_239 and Saitoella_complicata@Seq_4379 and Saitoella_complicata@Seq_6484 and Saitoella_complicata@Seq_6122 and Saitoella_complicata@Seq_473	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_3173) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_1074 and Saitoella_complicata@Seq_3483 and Saitoella_complicata@Seq_6463) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_1074 and Saitoella_complicata@Seq_4267 and Saitoella_complicata@Seq_6463) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_6118 and Saitoella_complicata@Seq_3483 and Saitoella_complicata@Seq_6463) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718 and Saitoella_complicata@Seq_6118 and Saitoella_complicata@Seq_4267 and Saitoella_complicata@Seq_6463) or (Saitoella_complicata@Seq_5587 and Saitoella_complicata@Seq_7016 and Saitoella_complicata@Seq_4897 and Saitoella_complicata@Seq_4870 and Saitoella_complicata@Seq_5598 and Saitoella_complicata@Seq_1235 and Saitoella_complicata@Seq_4012 and Saitoella_complicata@Seq_3318 and Saitoella_complicata@Seq_2890 and Saitoella_complicata@Seq_2346 and Saitoella_complicata@Seq_718)	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
 r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00

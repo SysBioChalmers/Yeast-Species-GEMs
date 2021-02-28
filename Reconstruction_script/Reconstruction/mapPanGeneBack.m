@@ -99,7 +99,7 @@ for i = 1:length(strains)
     save([strains{i},'.mat'],'reducedModel')
 end
 
-
+cd(currentpath)
 function grRules=rulesTogrrules(model)
     %This function takes rules, replaces &/| for and/or, replaces the x(i)
     %format with the actual gene ID, and takes out extra whitespace and

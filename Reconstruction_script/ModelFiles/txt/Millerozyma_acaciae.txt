@@ -174,6 +174,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Millerozyma_
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Millerozyma_acaciae@Seq_4234	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Millerozyma_acaciae@Seq_4234	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Millerozyma_acaciae@Seq_1723	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_2414 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_4022) or (Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_4022) or (Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_390 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_2414 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_2886 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_62 and Millerozyma_acaciae@Seq_4063 and Millerozyma_acaciae@Seq_4398 and Millerozyma_acaciae@Seq_4022)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Millerozyma_acaciae@Seq_3260	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Millerozyma_acaciae@Seq_1521	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Millerozyma_acaciae@Seq_1676	-1000.00	1000.00	  0.00
@@ -287,6 +288,8 @@ r_0368	s_0434[c] + s_0683[c]  -> s_0394[c] + s_0794[c] + s_1239[c] 	Millerozyma_
 r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	Millerozyma_acaciae@Seq_1037 or Millerozyma_acaciae@Seq_1338 or Millerozyma_acaciae@Seq_2740 or Millerozyma_acaciae@Seq_4157 or Millerozyma_acaciae@Seq_4740 or Millerozyma_acaciae@Seq_4821	  0.00	1000.00	  0.00
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	Millerozyma_acaciae@Seq_3013	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Millerozyma_acaciae@Seq_921	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	Millerozyma_acaciae@Seq_581 and Millerozyma_acaciae@Seq_1443 and Millerozyma_acaciae@Seq_3267 and Millerozyma_acaciae@Seq_3876 and Millerozyma_acaciae@Seq_4529 and Millerozyma_acaciae@Seq_4487	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Millerozyma_acaciae@Seq_439 and Millerozyma_acaciae@Seq_3004 and Millerozyma_acaciae@Seq_2217 and Millerozyma_acaciae@Seq_3608 and Millerozyma_acaciae@Seq_3017 and Millerozyma_acaciae@Seq_3474 and Millerozyma_acaciae@Seq_2020 and Millerozyma_acaciae@Seq_4106	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Millerozyma_acaciae@Seq_40	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Millerozyma_acaciae@Seq_4305	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Millerozyma_acaciae@Seq_3711	  0.00	1000.00	  0.00
@@ -638,6 +641,7 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	Millerozym
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	Millerozyma_acaciae@Seq_329	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Millerozyma_acaciae@Seq_3456 or Millerozyma_acaciae@Seq_46	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Millerozyma_acaciae@Seq_3456 or Millerozyma_acaciae@Seq_46	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Millerozyma_acaciae@Seq_2788 and Millerozyma_acaciae@Seq_2798 and Millerozyma_acaciae@Seq_1246 and Millerozyma_acaciae@Seq_4272	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Millerozyma_acaciae@Seq_3348	  0.00	1000.00	  0.00
 r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Millerozyma_acaciae@Seq_3352 and Millerozyma_acaciae@Seq_4070 and Millerozyma_acaciae@Seq_3800 and Millerozyma_acaciae@Seq_345 and Millerozyma_acaciae@Seq_2528 and Millerozyma_acaciae@Seq_3893 and Millerozyma_acaciae@Seq_3529	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	Millerozyma_acaciae@Seq_1281	  0.00	1000.00	  0.00
@@ -1849,6 +1853,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Millerozyma_acaciae@Seq
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Millerozyma_acaciae@Seq_430	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Millerozyma_acaciae@Seq_1511 or Millerozyma_acaciae@Seq_2864 or Millerozyma_acaciae@Seq_3164 or Millerozyma_acaciae@Seq_3856 or Millerozyma_acaciae@Seq_4621 or Millerozyma_acaciae@Seq_823	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Millerozyma_acaciae@Seq_1511 or Millerozyma_acaciae@Seq_2864 or Millerozyma_acaciae@Seq_3164 or Millerozyma_acaciae@Seq_3856 or Millerozyma_acaciae@Seq_4621 or Millerozyma_acaciae@Seq_823	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Millerozyma_acaciae@Seq_1177 and Millerozyma_acaciae@Seq_2347 and Millerozyma_acaciae@Seq_4580 and Millerozyma_acaciae@Seq_422 and Millerozyma_acaciae@Seq_2780 and Millerozyma_acaciae@Seq_732 and Millerozyma_acaciae@Seq_4495 and Millerozyma_acaciae@Seq_4541 and Millerozyma_acaciae@Seq_2558 and Millerozyma_acaciae@Seq_2120 and Millerozyma_acaciae@Seq_1888 and Millerozyma_acaciae@Seq_1948) or (Millerozyma_acaciae@Seq_1177 and Millerozyma_acaciae@Seq_2347 and Millerozyma_acaciae@Seq_4580 and Millerozyma_acaciae@Seq_422 and Millerozyma_acaciae@Seq_2780 and Millerozyma_acaciae@Seq_732 and Millerozyma_acaciae@Seq_4495 and Millerozyma_acaciae@Seq_4541 and Millerozyma_acaciae@Seq_2558 and Millerozyma_acaciae@Seq_4151 and Millerozyma_acaciae@Seq_1888 and Millerozyma_acaciae@Seq_1948)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Millerozyma_acaciae@Seq_1177 and Millerozyma_acaciae@Seq_2347 and Millerozyma_acaciae@Seq_4580 and Millerozyma_acaciae@Seq_422 and Millerozyma_acaciae@Seq_2780 and Millerozyma_acaciae@Seq_732 and Millerozyma_acaciae@Seq_4495 and Millerozyma_acaciae@Seq_4541 and Millerozyma_acaciae@Seq_2558 and Millerozyma_acaciae@Seq_2120 and Millerozyma_acaciae@Seq_1888 and Millerozyma_acaciae@Seq_1948) or (Millerozyma_acaciae@Seq_1177 and Millerozyma_acaciae@Seq_2347 and Millerozyma_acaciae@Seq_4580 and Millerozyma_acaciae@Seq_422 and Millerozyma_acaciae@Seq_2780 and Millerozyma_acaciae@Seq_732 and Millerozyma_acaciae@Seq_4495 and Millerozyma_acaciae@Seq_4541 and Millerozyma_acaciae@Seq_2558 and Millerozyma_acaciae@Seq_4151 and Millerozyma_acaciae@Seq_1888 and Millerozyma_acaciae@Seq_1948)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3063,8 +3069,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3187,7 +3193,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Millerozyma_acaciae@Seq_
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Millerozyma_acaciae@Seq_1305	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Millerozyma_acaciae@Seq_77	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Millerozyma_acaciae@Seq_1720 or Millerozyma_acaciae@Seq_4328	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Millerozyma_acaciae@Seq_1961	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Millerozyma_acaciae@Seq_3794	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Millerozyma_acaciae@Seq_3794	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Millerozyma_acaciae@Seq_4460	-1000.00	1000.00	  0.00
@@ -3598,7 +3603,6 @@ r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	Millerozyma_acaciae@Seq_2366	-1000.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Millerozyma_acaciae@Seq_1751	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Millerozyma_acaciae@Seq_3177	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Millerozyma_acaciae@Seq_2816	-1000.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Millerozyma_acaciae@Seq_3231	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Millerozyma_acaciae@Seq_3370	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Millerozyma_acaciae@Seq_2389	  0.00	1000.00	  0.00
@@ -3619,24 +3623,19 @@ r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Millerozyma
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Millerozyma_acaciae@Seq_4387	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Millerozyma_acaciae@Seq_2866	-1000.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Millerozyma_acaciae@Seq_3940 or Millerozyma_acaciae@Seq_3275	  0.00	1000.00	  0.00
-r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Millerozyma_acaciae@Seq_3835 or Millerozyma_acaciae@Seq_2692	-1000.00	1000.00	  0.00
+r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Millerozyma_acaciae@Seq_2692 or Millerozyma_acaciae@Seq_3835	-1000.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Millerozyma_acaciae@Seq_1167	-1000.00	1000.00	  0.00
 r_4765	s_4439[c]  <=> s_0062[c] + s_1399[c] 	Millerozyma_acaciae@Seq_3835	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Millerozyma_acaciae@Seq_1781	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Millerozyma_acaciae@Seq_2803	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Millerozyma_acaciae@Seq_4071	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Millerozyma_acaciae@Seq_870	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Millerozyma_acaciae@Seq_1492	  0.00	1000.00	  0.00
 r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Millerozyma_acaciae@Seq_3280	-1000.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Millerozyma_acaciae@Seq_3075	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Millerozyma_acaciae@Seq_613	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Millerozyma_acaciae@Seq_2448	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Millerozyma_acaciae@Seq_3879	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Millerozyma_acaciae@Seq_381	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	Millerozyma_acaciae@Seq_1901 or Millerozyma_acaciae@Seq_3994	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Millerozyma_acaciae@Seq_3618 or Millerozyma_acaciae@Seq_1829	  0.00	1000.00	  0.00
@@ -3646,8 +3645,7 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Millerozyma_acaciae@Seq_
 r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Millerozyma_acaciae@Seq_1901 or Millerozyma_acaciae@Seq_3994	-1000.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Millerozyma_acaciae@Seq_1751	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Millerozyma_acaciae@Seq_4868	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Millerozyma_acaciae@Seq_1111 or Millerozyma_acaciae@Seq_36 or Millerozyma_acaciae@Seq_1484	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Millerozyma_acaciae@Seq_36 or Millerozyma_acaciae@Seq_1484 or Millerozyma_acaciae@Seq_1111	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Millerozyma_acaciae@Seq_716	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Millerozyma_acaciae@Seq_2616 or Millerozyma_acaciae@Seq_3509	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Millerozyma_acaciae@Seq_409	-1000.00	1000.00	  0.00
@@ -3659,7 +3657,6 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	Millerozyma_acaciae@Seq_
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Millerozyma_acaciae@Seq_298	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Millerozyma_acaciae@Seq_298	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Millerozyma_acaciae@Seq_1167	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Millerozyma_acaciae@Seq_1961 or Millerozyma_acaciae@Seq_3280	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Millerozyma_acaciae@Seq_376	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Millerozyma_acaciae@Seq_1494	-1000.00	1000.00	  0.00
@@ -3683,10 +3680,7 @@ r_2451	s_3089[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3114[erm] 	Mi
 r_2452	s_3090[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3115[erm] 	Millerozyma_acaciae@Seq_6	  0.00	1000.00	  0.00
 r_2453	s_3091[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3116[erm] 	Millerozyma_acaciae@Seq_6	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Millerozyma_acaciae@Seq_1828	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Millerozyma_acaciae@Seq_1443 and Millerozyma_acaciae@Seq_2697 and Millerozyma_acaciae@Seq_510 and Millerozyma_acaciae@Seq_363 and Millerozyma_acaciae@Seq_1576 and Millerozyma_acaciae@Seq_1343) or (Millerozyma_acaciae@Seq_1443 and Millerozyma_acaciae@Seq_3876 and Millerozyma_acaciae@Seq_3267 and Millerozyma_acaciae@Seq_581 and Millerozyma_acaciae@Seq_4487 and Millerozyma_acaciae@Seq_4529)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Millerozyma_acaciae@Seq_439 and Millerozyma_acaciae@Seq_3004 and Millerozyma_acaciae@Seq_2217 and Millerozyma_acaciae@Seq_3608 and Millerozyma_acaciae@Seq_3017 and Millerozyma_acaciae@Seq_3474 and Millerozyma_acaciae@Seq_2020 and Millerozyma_acaciae@Seq_4106	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_2414 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_4022) or (Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_4022) or (Millerozyma_acaciae@Seq_2827 and Millerozyma_acaciae@Seq_596 and Millerozyma_acaciae@Seq_617 and Millerozyma_acaciae@Seq_2351 and Millerozyma_acaciae@Seq_2414 and Millerozyma_acaciae@Seq_4570 and Millerozyma_acaciae@Seq_1496 and Millerozyma_acaciae@Seq_2588 and Millerozyma_acaciae@Seq_2066 and Millerozyma_acaciae@Seq_4022 and Millerozyma_acaciae@Seq_2886 and Millerozyma_acaciae@Seq_62 and Millerozyma_acaciae@Seq_4063 and Millerozyma_acaciae@Seq_4398 and Millerozyma_acaciae@Seq_390)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Millerozyma_acaciae@Seq_1876 and Millerozyma_acaciae@Seq_4764 and Millerozyma_acaciae@Seq_2427 and Millerozyma_acaciae@Seq_3802 and Millerozyma_acaciae@Seq_1610 and Millerozyma_acaciae@Seq_3770 and Millerozyma_acaciae@Seq_4338 and Millerozyma_acaciae@Seq_2541 and Millerozyma_acaciae@Seq_2221 and Millerozyma_acaciae@Seq_3340 and Millerozyma_acaciae@Seq_3799 and Millerozyma_acaciae@Seq_4468 and Millerozyma_acaciae@Seq_811 and Millerozyma_acaciae@Seq_4100 and Millerozyma_acaciae@Seq_3270 and Millerozyma_acaciae@Seq_4479 and Millerozyma_acaciae@Seq_4870 and Millerozyma_acaciae@Seq_1420 and Millerozyma_acaciae@Seq_4296 and Millerozyma_acaciae@Seq_2795 and Millerozyma_acaciae@Seq_2042 and Millerozyma_acaciae@Seq_3294 and Millerozyma_acaciae@Seq_4602	  0.00	1000.00	  0.00
 r_0029	s_0010[c] + s_0794[c]  -> s_0291[c] + s_0456[c] 		  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0548	s_0434[c] + s_1014[c]  -> s_0394[c] + s_0794[c] + s_1238[c] 		  0.00	1000.00	  0.00
@@ -3695,9 +3689,9 @@ r_0699	s_0180[c] + s_1021[c]  <=> s_0291[c] + s_0991[c] 		-1000.00	1000.00	  0.0
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 		  0.00	1000.00	  0.00
 r_1088	s_0182[m] + s_1058[m]  <=> s_0233[m] + s_0993[m] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Millerozyma_acaciae@Seq_1961	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Millerozyma_acaciae@Seq_520	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	Millerozyma_acaciae@Seq_2464	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00

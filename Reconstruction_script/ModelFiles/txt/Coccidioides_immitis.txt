@@ -185,6 +185,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Coccidioides
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Coccidioides_immitis@Seq_1282 or Coccidioides_immitis@Seq_3197	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Coccidioides_immitis@Seq_1282 or Coccidioides_immitis@Seq_3197	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Coccidioides_immitis@Seq_3259	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_2495 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_5371) or (Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_5371 and Coccidioides_immitis@Seq_3112) or (Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_8403 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_2495 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5658 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_1850 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_9476 and Coccidioides_immitis@Seq_5371)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Coccidioides_immitis@Seq_1624	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Coccidioides_immitis@Seq_5993	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Coccidioides_immitis@Seq_2188	-1000.00	1000.00	  0.00
@@ -302,6 +303,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Coccidioides_immitis@Seq_1120	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Coccidioides_immitis@Seq_8409	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Coccidioides_immitis@Seq_7217 and Coccidioides_immitis@Seq_7376	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Coccidioides_immitis@Seq_8301 and Coccidioides_immitis@Seq_7217 and Coccidioides_immitis@Seq_1953 and Coccidioides_immitis@Seq_53 and Coccidioides_immitis@Seq_9562 and Coccidioides_immitis@Seq_200 and Coccidioides_immitis@Seq_9796) or (Coccidioides_immitis@Seq_8111 and Coccidioides_immitis@Seq_8301 and Coccidioides_immitis@Seq_8996 and Coccidioides_immitis@Seq_647 and Coccidioides_immitis@Seq_1580 and Coccidioides_immitis@Seq_1973)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Coccidioides_immitis@Seq_5218 and Coccidioides_immitis@Seq_1868 and Coccidioides_immitis@Seq_7217 and Coccidioides_immitis@Seq_4622 and Coccidioides_immitis@Seq_9669 and Coccidioides_immitis@Seq_4280 and Coccidioides_immitis@Seq_4212 and Coccidioides_immitis@Seq_6687	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Coccidioides_immitis@Seq_184	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	Coccidioides_immitis@Seq_908	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	Coccidioides_immitis@Seq_908	  0.00	1000.00	  0.00
@@ -3067,8 +3070,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3200,7 +3203,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Coccidioide
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Coccidioides_immitis@Seq_2910 or Coccidioides_immitis@Seq_1359	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Coccidioides_immitis@Seq_2910 or Coccidioides_immitis@Seq_1359	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Coccidioides_immitis@Seq_4154 or Coccidioides_immitis@Seq_8754	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_5139	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Coccidioides_immitis@Seq_5315	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Coccidioides_immitis@Seq_5315	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Coccidioides_immitis@Seq_9132	-1000.00	1000.00	  0.00
@@ -3245,6 +3247,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Coccidioides_immitis@Se
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Coccidioides_immitis@Seq_9638	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Coccidioides_immitis@Seq_7828	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Coccidioides_immitis@Seq_9475	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Coccidioides_immitis@Seq_6522 and Coccidioides_immitis@Seq_5612 and Coccidioides_immitis@Seq_1432 and Coccidioides_immitis@Seq_8546	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Coccidioides_immitis@Seq_336	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Coccidioides_immitis@Seq_9573	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Coccidioides_immitis@Seq_2767 or Coccidioides_immitis@Seq_6772	  0.00	1000.00	  0.00
@@ -3391,7 +3394,7 @@ r_4392	s_0796[e] + s_4125[e]  <=> s_0794[c] + s_4122[c] 		-1000.00	1000.00	  0.0
 r_4393	s_0434[c] + s_4128[c]  -> s_0394[c] + s_0794[c] + s_4129[c] 		  0.00	1000.00	  0.00
 r_4394	s_4129[c]  <=> s_0557[c] 		-1000.00	1000.00	  0.00
 r_4395	s_4130[e]  <=> s_4128[c] 	Coccidioides_immitis@Seq_51	-1000.00	1000.00	  0.00
-r_4396	s_0434[c] + s_0529[c] + s_4132[c]  -> s_0367[c] + s_0423[c] + s_0633[c] 	Coccidioides_immitis@Seq_701 or Coccidioides_immitis@Seq_4396 or Coccidioides_immitis@Seq_2508	  0.00	1000.00	  0.00
+r_4396	s_0434[c] + s_0529[c] + s_4132[c]  -> s_0367[c] + s_0423[c] + s_0633[c] 	Coccidioides_immitis@Seq_2508 or Coccidioides_immitis@Seq_701 or Coccidioides_immitis@Seq_4396	  0.00	1000.00	  0.00
 r_4397	s_0803[c] + s_4134[c]  <=> s_0362[c] + s_1029[c] 		-1000.00	1000.00	  0.00
 r_4398	s_0796[e] + s_4034[e]  <=> s_0794[c] + s_4035[c] 	Coccidioides_immitis@Seq_4437 or Coccidioides_immitis@Seq_5560 or Coccidioides_immitis@Seq_5968 or Coccidioides_immitis@Seq_7820 or Coccidioides_immitis@Seq_9505	-1000.00	1000.00	  0.00
 r_4399	s_0794[c] + s_4038[c]  <=> s_0802[v] + s_4039[v] 		-1000.00	1000.00	  0.00
@@ -3625,31 +3628,29 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Coccidioides_immitis@Seq_4097	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	Coccidioides_immitis@Seq_72	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_9397 or Coccidioides_immitis@Seq_3522	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Coccidioides_immitis@Seq_3522	  0.00	1000.00	  0.00
+r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_9397	-1000.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Coccidioides_immitis@Seq_2460 or Coccidioides_immitis@Seq_4679 or Coccidioides_immitis@Seq_4933	  0.00	1000.00	  0.00
-r_4640	s_0434[c] + s_0445[c] + s_4183[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_4531[c] 	Coccidioides_immitis@Seq_1315 or Coccidioides_immitis@Seq_7317	-1000.00	1000.00	  0.00
+r_4640	s_0434[c] + s_0445[c] + s_4183[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_4531[c] 	Coccidioides_immitis@Seq_7317 or Coccidioides_immitis@Seq_1315	-1000.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Coccidioides_immitis@Seq_5617	-1000.00	1000.00	  0.00
-r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Coccidioides_immitis@Seq_4229 or Coccidioides_immitis@Seq_7764	-1000.00	1000.00	  0.00
+r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Coccidioides_immitis@Seq_7764 or Coccidioides_immitis@Seq_4229	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604 or Coccidioides_immitis@Seq_9397	-1000.00	1000.00	  0.00
-r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Coccidioides_immitis@Seq_1252 or Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
+r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Coccidioides_immitis@Seq_1084 or Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	  0.00	1000.00	  0.00
-r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604 or Coccidioides_immitis@Seq_9397	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Coccidioides_immitis@Seq_959 or Coccidioides_immitis@Seq_6469	  0.00	1000.00	  0.00
+r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Coccidioides_immitis@Seq_5662	  0.00	1000.00	  0.00
-r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Coccidioides_immitis@Seq_4989 or Coccidioides_immitis@Seq_1090	  0.00	1000.00	  0.00
+r_4658	s_1416[c] + s_4513[c]  -> s_0794[c] + s_1413[c] + s_4514[c] 	Coccidioides_immitis@Seq_925 or Coccidioides_immitis@Seq_4989 or Coccidioides_immitis@Seq_1090	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Coccidioides_immitis@Seq_1111 or Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_9108	  0.00	1000.00	  0.00
-r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4320	-1000.00	1000.00	  0.00
-r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
+r_4660	s_1207[c] + s_4275[c]  <=> s_0558[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_4661	s_0961[c] + s_1207[c]  <=> s_0794[c] + s_0963[c] + s_1212[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Coccidioides_immitis@Seq_1350 or Coccidioides_immitis@Seq_4160 or Coccidioides_immitis@Seq_4805 or Coccidioides_immitis@Seq_577 or Coccidioides_immitis@Seq_9232	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Coccidioides_immitis@Seq_1355 or Coccidioides_immitis@Seq_3646 or Coccidioides_immitis@Seq_4706	  0.00	1000.00	  0.00
-r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Coccidioides_immitis@Seq_3522 or Coccidioides_immitis@Seq_1275	  0.00	1000.00	  0.00
-r_4670	s_3951[c]  <=> s_3949[c] 	Coccidioides_immitis@Seq_1886 or Coccidioides_immitis@Seq_4559	-1000.00	1000.00	  0.00
+r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	Coccidioides_immitis@Seq_1275 or Coccidioides_immitis@Seq_3522	  0.00	1000.00	  0.00
+r_4670	s_3951[c]  <=> s_3949[c] 	Coccidioides_immitis@Seq_4559 or Coccidioides_immitis@Seq_1886	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	Coccidioides_immitis@Seq_765	-1000.00	1000.00	  0.00
 r_4672	s_0803[c] + s_1198[c] + s_4298[c]  <=> 2 s_0794[c] + s_1203[c] + s_4259[c] 	Coccidioides_immitis@Seq_1988	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Coccidioides_immitis@Seq_2761 or Coccidioides_immitis@Seq_2823 or Coccidioides_immitis@Seq_3042 or Coccidioides_immitis@Seq_3789 or Coccidioides_immitis@Seq_3905 or Coccidioides_immitis@Seq_6081 or Coccidioides_immitis@Seq_6232	  0.00	1000.00	  0.00
@@ -3671,10 +3672,10 @@ r_4691	s_0794[c] + s_1203[c] + s_3750[c]  -> s_1198[c] + s_4501[c] 	Coccidioides
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Coccidioides_immitis@Seq_2610 or Coccidioides_immitis@Seq_6283 or Coccidioides_immitis@Seq_951	-1000.00	1000.00	  0.00
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Coccidioides_immitis@Seq_7923 or Coccidioides_immitis@Seq_565	-1000.00	1000.00	  0.00
 r_4702	s_1045[c] + s_1198[c]  -> s_0794[c] + s_0952[c] + s_1203[c] 	Coccidioides_immitis@Seq_5852	  0.00	1000.00	  0.00
-r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Coccidioides_immitis@Seq_6218 or Coccidioides_immitis@Seq_4254 or Coccidioides_immitis@Seq_3157	  0.00	1000.00	  0.00
+r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Coccidioides_immitis@Seq_4254 or Coccidioides_immitis@Seq_6218 or Coccidioides_immitis@Seq_3157	  0.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Coccidioides_immitis@Seq_3250	-1000.00	1000.00	  0.00
 r_4709	s_0794[c] + s_4322[c]  -> s_0456[c] + s_0722[c] 	Coccidioides_immitis@Seq_9348	  0.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Coccidioides_immitis@Seq_1659 or Coccidioides_immitis@Seq_3032	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Coccidioides_immitis@Seq_3032 or Coccidioides_immitis@Seq_1659	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Coccidioides_immitis@Seq_5347	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Coccidioides_immitis@Seq_8710	-1000.00	1000.00	  0.00
 r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Coccidioides_immitis@Seq_8121	-1000.00	1000.00	  0.00
@@ -3695,8 +3696,8 @@ r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Coccidioides_immitis@Seq_1741	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Coccidioides_immitis@Seq_2195	  0.00	1000.00	  0.00
 r_4735	s_1198[c] + s_4209[c]  <=> s_0794[c] + s_1203[c] + s_3948[c] 	Coccidioides_immitis@Seq_9419 or Coccidioides_immitis@Seq_5785	-1000.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Coccidioides_immitis@Seq_8260 or Coccidioides_immitis@Seq_4631 or Coccidioides_immitis@Seq_4755 or Coccidioides_immitis@Seq_919	  0.00	1000.00	  0.00
-r_4742	s_0803[c] + s_4354[c]  -> s_0178[c] + s_0419[c] 	Coccidioides_immitis@Seq_6954 or Coccidioides_immitis@Seq_5102	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Coccidioides_immitis@Seq_4755 or Coccidioides_immitis@Seq_4631 or Coccidioides_immitis@Seq_919 or Coccidioides_immitis@Seq_8260	  0.00	1000.00	  0.00
+r_4742	s_0803[c] + s_4354[c]  -> s_0178[c] + s_0419[c] 	Coccidioides_immitis@Seq_5102 or Coccidioides_immitis@Seq_6954	  0.00	1000.00	  0.00
 r_4743	s_1275[c] + s_4340[c]  -> 2 s_4352[c] 	Coccidioides_immitis@Seq_6141	  0.00	1000.00	  0.00
 r_4744	s_0803[c] + s_1275[c] + s_4450[c]  -> s_0419[c] + s_0837[c] + s_0850[c] 	Coccidioides_immitis@Seq_2823 or Coccidioides_immitis@Seq_3905	  0.00	1000.00	  0.00
 r_4745	s_0803[c] + s_1275[c] + s_4474[c]  -> s_0419[c] + s_0837[c] + s_4263[c] 	Coccidioides_immitis@Seq_2823	  0.00	1000.00	  0.00
@@ -3717,7 +3718,7 @@ r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Coccidioide
 r_4771	s_4427[c]  <=> s_1399[c] + s_4461[c] 	Coccidioides_immitis@Seq_7652	-1000.00	1000.00	  0.00
 r_4772	s_4462[c]  <=> s_1399[c] + s_4461[c] 	Coccidioides_immitis@Seq_7652	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Coccidioides_immitis@Seq_8687	  0.00	1000.00	  0.00
-r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Coccidioides_immitis@Seq_6406 or Coccidioides_immitis@Seq_7317	  0.00	1000.00	  0.00
+r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Coccidioides_immitis@Seq_7317 or Coccidioides_immitis@Seq_6406	  0.00	1000.00	  0.00
 r_4776	s_0794[c] + s_1051[c]  -> s_0456[c] + s_4457[c] 	Coccidioides_immitis@Seq_6309 or Coccidioides_immitis@Seq_5048	  0.00	1000.00	  0.00
 r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	Coccidioides_immitis@Seq_6309 or Coccidioides_immitis@Seq_5048	  0.00	1000.00	  0.00
 r_4779	s_0434[c] + s_0441[c] + s_1006[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_3991[c] 	Coccidioides_immitis@Seq_9373	  0.00	1000.00	  0.00
@@ -3730,11 +3731,11 @@ r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Coccidioides_immitis@Seq
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Coccidioides_immitis@Seq_5048	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Coccidioides_immitis@Seq_2854	  0.00	1000.00	  0.00
 r_4788	s_0803[c] + s_4436[c]  -> s_0794[c] + s_1538[c] + s_4441[c] 	Coccidioides_immitis@Seq_1679	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
+r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 	Coccidioides_immitis@Seq_3006 or Coccidioides_immitis@Seq_355	-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Coccidioides_immitis@Seq_1519 or Coccidioides_immitis@Seq_719	  0.00	1000.00	  0.00
 r_4794	s_0522[c]  -> s_0362[c] + s_1271[c] 	Coccidioides_immitis@Seq_9133	  0.00	1000.00	  0.00
 r_4798	s_0359[c] + s_0529[c] + s_1198[c]  <=> s_0373[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_2475	-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
+r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 	Coccidioides_immitis@Seq_1433	-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Coccidioides_immitis@Seq_3943	  0.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Coccidioides_immitis@Seq_3334 or Coccidioides_immitis@Seq_8291	  0.00	1000.00	  0.00
 r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	Coccidioides_immitis@Seq_2514	  0.00	1000.00	  0.00
@@ -3750,8 +3751,7 @@ r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Coccidioide
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	Coccidioides_immitis@Seq_1503	  0.00	1000.00	  0.00
 r_4835	s_0445[c] + s_4407[c]  -> s_0456[c] + s_4408[c] 	Coccidioides_immitis@Seq_6755	  0.00	1000.00	  0.00
 r_4836	s_0445[c] + 2 s_0794[c] + s_4407[c]  -> s_0419[c] + 2 s_0456[c] 	Coccidioides_immitis@Seq_6755	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Coccidioides_immitis@Seq_1907	  0.00	1000.00	  0.00
-r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Coccidioides_immitis@Seq_1442 or Coccidioides_immitis@Seq_3615 or Coccidioides_immitis@Seq_437 or Coccidioides_immitis@Seq_613 or Coccidioides_immitis@Seq_7414 or Coccidioides_immitis@Seq_1211	  0.00	1000.00	  0.00
+r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Coccidioides_immitis@Seq_3615 or Coccidioides_immitis@Seq_613 or Coccidioides_immitis@Seq_1442 or Coccidioides_immitis@Seq_1211 or Coccidioides_immitis@Seq_437 or Coccidioides_immitis@Seq_7414	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Coccidioides_immitis@Seq_1685 or Coccidioides_immitis@Seq_3614 or Coccidioides_immitis@Seq_3773 or Coccidioides_immitis@Seq_5017 or Coccidioides_immitis@Seq_5031 or Coccidioides_immitis@Seq_5187 or Coccidioides_immitis@Seq_5802 or Coccidioides_immitis@Seq_585 or Coccidioides_immitis@Seq_6471 or Coccidioides_immitis@Seq_8299 or Coccidioides_immitis@Seq_8323 or Coccidioides_immitis@Seq_8582 or Coccidioides_immitis@Seq_9011 or Coccidioides_immitis@Seq_9205 or Coccidioides_immitis@Seq_9642	  0.00	1000.00	  0.00
 r_4850	s_0794[c] + s_1212[c] + s_1275[c] + s_4378[c]  -> s_0803[c] + s_1207[c] + s_4398[c] 	Coccidioides_immitis@Seq_7551 or Coccidioides_immitis@Seq_5469	  0.00	1000.00	  0.00
 r_4851	s_0794[c] + s_1212[c] + s_1275[c] + s_4398[c]  -> 2 s_0803[c] + s_1207[c] + s_4397[c] 	Coccidioides_immitis@Seq_7551 or Coccidioides_immitis@Seq_5469	  0.00	1000.00	  0.00
@@ -3774,12 +3774,11 @@ r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Coccidioides
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Coccidioides_immitis@Seq_6599	  0.00	1000.00	  0.00
 r_4913	s_0803[c] + s_1275[c] + s_4350[c]  -> s_0419[c] + s_0837[c] + s_3967[c] 	Coccidioides_immitis@Seq_3905	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Coccidioides_immitis@Seq_6599	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
+r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 	Coccidioides_immitis@Seq_1021	  0.00	1000.00	  0.00
+r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 	Coccidioides_immitis@Seq_1021	  0.00	1000.00	  0.00
 r_4922	s_1275[c] + s_4191[c]  -> s_4341[c] 	Coccidioides_immitis@Seq_2360 or Coccidioides_immitis@Seq_3100 or Coccidioides_immitis@Seq_8433	  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Coccidioides_immitis@Seq_4667	-1000.00	1000.00	  0.00
 r_4929	s_0794[c] + s_1212[c] + s_1275[c] + s_4332[c]  -> s_0803[c] + s_1207[c] + s_4331[c] 	Coccidioides_immitis@Seq_7601	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	Coccidioides_immitis@Seq_9541	-1000.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Coccidioides_immitis@Seq_1355 or Coccidioides_immitis@Seq_3646 or Coccidioides_immitis@Seq_4706	  0.00	1000.00	  0.00
 r_4941	s_0794[c] + s_1212[c] + s_1275[c] + s_4260[c]  -> s_0803[c] + s_1207[c] + s_4321[c] 	Coccidioides_immitis@Seq_3773	  0.00	1000.00	  0.00
@@ -3812,7 +3811,6 @@ r_5007	s_0512[c] + s_0803[c] + 2 s_1275[c]  -> s_0794[c] + 2 s_0837[c] + s_4259[
 r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Coccidioides_immitis@Seq_524	  0.00	1000.00	  0.00
 r_5014	s_0803[c] + s_4252[c]  -> s_0794[c] + s_1286[c] + s_4251[c] 	Coccidioides_immitis@Seq_9066	  0.00	1000.00	  0.00
 r_5015	s_1198[c] + s_4250[c]  <=> s_0794[c] + s_1203[c] + s_4249[c] 	Coccidioides_immitis@Seq_6611	-1000.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5020	s_1203[c] + s_1207[c] + s_4241[e]  -> s_1198[c] + s_1212[c] + s_4240[c] 	Coccidioides_immitis@Seq_4863	  0.00	1000.00	  0.00
 r_5027	s_0794[c] + s_1212[c] + s_1275[c] + s_4231[c]  -> s_0803[c] + s_1207[c] + s_4232[c] 	Coccidioides_immitis@Seq_5187 or Coccidioides_immitis@Seq_9642	  0.00	1000.00	  0.00
 r_5028	s_0794[c] + s_1212[c] + s_1275[c] + s_4229[c]  -> s_0803[c] + s_1207[c] + s_4231[c] 	Coccidioides_immitis@Seq_5187 or Coccidioides_immitis@Seq_9642	  0.00	1000.00	  0.00
@@ -3820,8 +3818,8 @@ r_5029	s_0794[c] + s_1212[c] + s_1275[c] + s_4230[c]  -> s_0803[c] + s_1207[c] +
 r_5033	s_0794[c] + s_1212[c] + s_1275[c] + s_4224[c]  -> s_0803[c] + s_1207[c] + s_4223[c] 	Coccidioides_immitis@Seq_6941	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Coccidioides_immitis@Seq_2906	  0.00	1000.00	  0.00
 r_5042	s_0574[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4209[c] 	Coccidioides_immitis@Seq_3314	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Coccidioides_immitis@Seq_1422 or Coccidioides_immitis@Seq_6685 or Coccidioides_immitis@Seq_8166 or Coccidioides_immitis@Seq_9750	-1000.00	1000.00	  0.00
-r_5046	s_4539[c]  -> s_4616[c] 	Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_1195	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Coccidioides_immitis@Seq_1422 or Coccidioides_immitis@Seq_6685 or Coccidioides_immitis@Seq_8166 or Coccidioides_immitis@Seq_9750	-1000.00	1000.00	  0.00
+r_5046	s_0803[c] + s_4261[c]  -> 2 s_0563[c] 	Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_1195	  0.00	1000.00	  0.00
 r_5047	s_4539[c]  -> s_4615[c] 	Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_1195	  0.00	1000.00	  0.00
 r_5048	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4614[c] 	Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_1195	  0.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Coccidioides_immitis@Seq_2806 or Coccidioides_immitis@Seq_1195	  0.00	1000.00	  0.00
@@ -3832,27 +3830,27 @@ r_5056	s_0794[c] + s_1212[c] + s_1275[c] + s_4609[c]  -> s_0803[c] + s_1207[c] +
 r_5058	s_0794[c] + s_1203[c] + s_1275[c] + s_4349[c]  -> s_0803[c] + s_1198[c] + s_4581[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
 r_5059	s_0794[c] + s_1212[c] + s_1275[c] + s_4349[c]  -> s_0803[c] + s_1207[c] + s_4581[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
 r_5060	s_0794[c] + s_1212[c] + s_1275[c] + s_4604[c]  -> s_0803[c] + s_1207[c] + s_4605[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
-r_5061	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4591[c] 	Coccidioides_immitis@Seq_5469 or Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
-r_5062	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4590[c] 	Coccidioides_immitis@Seq_5469 or Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
+r_5061	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4591[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_5469 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
+r_5062	s_0794[c] + s_1212[c] + s_1275[c] + s_4603[c]  -> s_0803[c] + s_1207[c] + s_4590[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_5469 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
 r_5063	s_0794[c] + s_1212[c] + s_1275[c] + s_4601[c]  <=> s_0803[c] + s_1207[c] + s_4602[c] 	Coccidioides_immitis@Seq_5469 or Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Coccidioides_immitis@Seq_3902	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
 r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
 r_5069	s_0803[c] + s_4529[c]  <=> s_4592[c] 	Coccidioides_immitis@Seq_4781 or Coccidioides_immitis@Seq_5473 or Coccidioides_immitis@Seq_6009 or Coccidioides_immitis@Seq_7604	-1000.00	1000.00	  0.00
-r_5071	2 s_0794[c] + s_1051[c] + s_1275[c]  -> s_0803[c] + s_4456[c] 	Coccidioides_immitis@Seq_8160 or Coccidioides_immitis@Seq_8478 or Coccidioides_immitis@Seq_4215 or Coccidioides_immitis@Seq_9167	  0.00	1000.00	  0.00
-r_5072	s_0794[c] + s_1203[c] + s_1275[c] + s_4457[c]  -> s_0803[c] + s_1198[c] + s_4455[c] 	Coccidioides_immitis@Seq_8160 or Coccidioides_immitis@Seq_8478 or Coccidioides_immitis@Seq_4215 or Coccidioides_immitis@Seq_9167	  0.00	1000.00	  0.00
-r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_4003 or Coccidioides_immitis@Seq_3314	-1000.00	1000.00	  0.00
-r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_3522 or Coccidioides_immitis@Seq_1275	-1000.00	1000.00	  0.00
-r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Coccidioides_immitis@Seq_7613 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_839	-1000.00	1000.00	  0.00
-r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Coccidioides_immitis@Seq_7613 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_839	-1000.00	1000.00	  0.00
-r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	Coccidioides_immitis@Seq_7613 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_839	-1000.00	1000.00	  0.00
-r_5085	s_0803[c] + s_4587[c]  <=> s_4586[c] 	Coccidioides_immitis@Seq_7613 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_839	-1000.00	1000.00	  0.00
-r_5086	s_0559[e]  <=> s_0558[c] 	Coccidioides_immitis@Seq_1886 or Coccidioides_immitis@Seq_4559	-1000.00	1000.00	  0.00
+r_5071	2 s_0794[c] + s_1051[c] + s_1275[c]  -> s_0803[c] + s_4456[c] 	Coccidioides_immitis@Seq_8160 or Coccidioides_immitis@Seq_4215 or Coccidioides_immitis@Seq_9167 or Coccidioides_immitis@Seq_8478	  0.00	1000.00	  0.00
+r_5072	s_0794[c] + s_1203[c] + s_1275[c] + s_4457[c]  -> s_0803[c] + s_1198[c] + s_4455[c] 	Coccidioides_immitis@Seq_8160 or Coccidioides_immitis@Seq_4215 or Coccidioides_immitis@Seq_9167 or Coccidioides_immitis@Seq_8478	  0.00	1000.00	  0.00
+r_5073	s_0765[c] + s_1198[c]  <=> s_0570[c] + s_0794[c] + s_1203[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5074	s_0558[c] + s_0794[c] + s_1203[c]  <=> s_1198[c] + s_4275[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5075	s_0961[c] + s_1198[c]  <=> s_0794[c] + s_0963[c] + s_1203[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5076	s_0561[c] + s_1207[c]  <=> s_0563[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5077	s_0062[c] + s_1198[c]  <=> s_0794[c] + s_1151[c] + s_1203[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5078	s_1207[c] + s_4556[c]  <=> s_0062[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_3314 or Coccidioides_immitis@Seq_4003	-1000.00	1000.00	  0.00
+r_5081	s_1207[c] + s_4592[c]  <=> s_0367[c] + s_0794[c] + s_1212[c] 	Coccidioides_immitis@Seq_1275 or Coccidioides_immitis@Seq_3522	-1000.00	1000.00	  0.00
+r_5082	s_0803[c] + s_4591[c]  <=> s_4563[c] 	Coccidioides_immitis@Seq_839 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_7613	-1000.00	1000.00	  0.00
+r_5083	s_0803[c] + s_4590[c]  <=> s_4563[c] 	Coccidioides_immitis@Seq_839 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_7613	-1000.00	1000.00	  0.00
+r_5084	s_0803[c] + s_4588[c]  <=> s_4589[c] 	Coccidioides_immitis@Seq_839 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_7613	-1000.00	1000.00	  0.00
+r_5085	s_0803[c] + s_4587[c]  <=> s_4586[c] 	Coccidioides_immitis@Seq_839 or Coccidioides_immitis@Seq_3144 or Coccidioides_immitis@Seq_7613	-1000.00	1000.00	  0.00
+r_5086	s_0559[e]  <=> s_0558[c] 	Coccidioides_immitis@Seq_4559 or Coccidioides_immitis@Seq_1886	-1000.00	1000.00	  0.00
 r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	Coccidioides_immitis@Seq_4118	-1000.00	1000.00	  0.00
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Coccidioides_immitis@Seq_4118	-1000.00	1000.00	  0.00
 r_5089	s_0803[c] + s_1207[c] + s_4298[c]  <=> 2 s_0794[c] + s_1212[c] + s_4259[c] 	Coccidioides_immitis@Seq_1988	-1000.00	1000.00	  0.00
@@ -3865,13 +3863,13 @@ r_5096	s_4577[c]  <=> s_0803[c] + s_4282[c] 	Coccidioides_immitis@Seq_4203 or Co
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Coccidioides_immitis@Seq_6599	  0.00	1000.00	  0.00
 r_5104	s_0794[c] + s_1212[c] + s_1275[c] + s_4573[c]  <=> s_0803[c] + s_1207[c] + s_4575[c] 	Coccidioides_immitis@Seq_5469	-1000.00	1000.00	  0.00
 r_5105	s_0794[c] + s_1212[c] + s_1275[c] + s_4573[c]  <=> s_0803[c] + s_1207[c] + s_4574[c] 	Coccidioides_immitis@Seq_5469	-1000.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Coccidioides_immitis@Seq_6218 or Coccidioides_immitis@Seq_4254 or Coccidioides_immitis@Seq_3157	  0.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5113	s_0794[c] + s_1212[c] + s_1275[c] + s_4318[c]  -> s_0803[c] + s_1207[c] + s_4569[c] 	Coccidioides_immitis@Seq_4254 or Coccidioides_immitis@Seq_6218 or Coccidioides_immitis@Seq_3157	  0.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Coccidioides_immitis@Seq_1203 or Coccidioides_immitis@Seq_1556 or Coccidioides_immitis@Seq_301 or Coccidioides_immitis@Seq_3841 or Coccidioides_immitis@Seq_3878 or Coccidioides_immitis@Seq_6060 or Coccidioides_immitis@Seq_8227 or Coccidioides_immitis@Seq_8867	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Coccidioides_immitis@Seq_1203 or Coccidioides_immitis@Seq_1556 or Coccidioides_immitis@Seq_1781 or Coccidioides_immitis@Seq_301 or Coccidioides_immitis@Seq_3841 or Coccidioides_immitis@Seq_3878 or Coccidioides_immitis@Seq_6060 or Coccidioides_immitis@Seq_8227 or Coccidioides_immitis@Seq_8867	-1000.00	1000.00	  0.00
 r_5120	s_0803[c] + s_0973[c] + s_1275[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Coccidioides_immitis@Seq_9737	  0.00	1000.00	  0.00
@@ -3886,7 +3884,6 @@ r_5136	s_1207[c] + s_4433[c]  <=> s_0794[c] + s_1212[c] + s_1569[c] 	Coccidioide
 r_5137	s_0794[c] + s_1212[c] + s_4207[c]  <=> s_1207[c] + s_4438[c] 	Coccidioides_immitis@Seq_1922 or Coccidioides_immitis@Seq_8722	-1000.00	1000.00	  0.00
 r_5138	s_0434[c] + s_0529[c] + s_2828[c]  -> s_0423[c] + s_0633[c] + s_4559[c] 	Coccidioides_immitis@Seq_8262	  0.00	1000.00	  0.00
 r_5139	s_4436[c] + s_4562[c]  -> s_0794[c] + s_1538[c] + s_4561[c] 	Coccidioides_immitis@Seq_1679	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5145	s_0529[c] + s_1198[c] + s_4314[c]  <=> s_0794[c] + s_1203[c] + s_4559[c] 	Coccidioides_immitis@Seq_2475	-1000.00	1000.00	  0.00
 r_5146	s_0794[c] + s_1212[c] + s_1275[c] + s_4333[c]  -> s_0803[c] + s_1207[c] + s_4558[c] 	Coccidioides_immitis@Seq_1195 or Coccidioides_immitis@Seq_2806	  0.00	1000.00	  0.00
 r_5148	s_0281[c] + s_1266[c]  -> s_0734[c] + s_0965[c] 	Coccidioides_immitis@Seq_394	  0.00	1000.00	  0.00
@@ -3898,8 +3895,8 @@ r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Coccidioides_immitis@Seq_6599	  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Coccidioides_immitis@Seq_2610 or Coccidioides_immitis@Seq_5139 or Coccidioides_immitis@Seq_6505 or Coccidioides_immitis@Seq_951	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Coccidioides_immitis@Seq_4118	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Coccidioides_immitis@Seq_5083 or Coccidioides_immitis@Seq_1311	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Coccidioides_immitis@Seq_1311 or Coccidioides_immitis@Seq_5083	-1000.00	1000.00	  0.00
 r_5181	s_1322[c] + s_4620[c]  <=> s_0551[c] + s_0803[c] + s_4317[c] 	Coccidioides_immitis@Seq_5973	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Coccidioides_immitis@Seq_5531 or Coccidioides_immitis@Seq_5922	-1000.00	1000.00	  0.00
 r_5187	s_0794[c] + s_1212[c] + s_4381[c]  <=> s_1207[c] + s_4624[c] 	Coccidioides_immitis@Seq_2514	-1000.00	1000.00	  0.00
@@ -3908,10 +3905,7 @@ r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Coccidioides_immitis@Seq_2824	  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 	Coccidioides_immitis@Seq_1428	  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Coccidioides_immitis@Seq_3722	  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Coccidioides_immitis@Seq_8301 and Coccidioides_immitis@Seq_7217 and Coccidioides_immitis@Seq_1953 and Coccidioides_immitis@Seq_53 and Coccidioides_immitis@Seq_9562 and Coccidioides_immitis@Seq_9796 and Coccidioides_immitis@Seq_200) or (Coccidioides_immitis@Seq_8301 and Coccidioides_immitis@Seq_647 and Coccidioides_immitis@Seq_8996 and Coccidioides_immitis@Seq_8111 and Coccidioides_immitis@Seq_1973 and Coccidioides_immitis@Seq_1580)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Coccidioides_immitis@Seq_5218 and Coccidioides_immitis@Seq_1868 and Coccidioides_immitis@Seq_7217 and Coccidioides_immitis@Seq_4622 and Coccidioides_immitis@Seq_9669 and Coccidioides_immitis@Seq_4280 and Coccidioides_immitis@Seq_4212 and Coccidioides_immitis@Seq_6687	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_2495 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_5371) or (Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_5371 and Coccidioides_immitis@Seq_3112) or (Coccidioides_immitis@Seq_2768 and Coccidioides_immitis@Seq_5853 and Coccidioides_immitis@Seq_4407 and Coccidioides_immitis@Seq_5526 and Coccidioides_immitis@Seq_2495 and Coccidioides_immitis@Seq_1029 and Coccidioides_immitis@Seq_5465 and Coccidioides_immitis@Seq_8724 and Coccidioides_immitis@Seq_2688 and Coccidioides_immitis@Seq_7902 and Coccidioides_immitis@Seq_5371 and Coccidioides_immitis@Seq_5658 and Coccidioides_immitis@Seq_1850 and Coccidioides_immitis@Seq_9476 and Coccidioides_immitis@Seq_8403)	  0.00	1000.00	  0.00
-r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 		-1000.00	1000.00	  0.00
+r_0453	s_0061[c] + s_0725[c]  -> s_1269[c] + s_1458[c] 		  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
 r_5209	s_4642[e]  -> s_3935[c] 		  0.00	1000.00	  0.00

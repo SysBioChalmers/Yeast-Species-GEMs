@@ -180,6 +180,7 @@ r_0219	s_0295[c] + s_0794[c] + s_1212[c]  -> s_0978[c] + s_1207[c] + s_1322[c] 	
 r_0220	s_0434[c] + s_0973[c] + s_1587[c]  -> s_0423[c] + s_0432[c] + s_0633[c] 	Metschnikowia_arizonensis@Seq_2373	  0.00	1000.00	  0.00
 r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	Metschnikowia_arizonensis@Seq_2802	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Metschnikowia_arizonensis@Seq_5838	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_3874 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_2917) or (Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_2917 and Metschnikowia_arizonensis@Seq_1984) or (Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2776 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_3874 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1290 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_4676 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_4541 and Metschnikowia_arizonensis@Seq_4844 and Metschnikowia_arizonensis@Seq_2917)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Metschnikowia_arizonensis@Seq_2976	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Metschnikowia_arizonensis@Seq_2949	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Metschnikowia_arizonensis@Seq_5722	-1000.00	1000.00	  0.00
@@ -300,6 +301,8 @@ r_0400	s_0439[p] + s_0534[p] + s_1070[p]  <=> s_0426[p] + s_0638[p] + s_1076[p] 
 r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 	Metschnikowia_arizonensis@Seq_1043 or Metschnikowia_arizonensis@Seq_1083 or Metschnikowia_arizonensis@Seq_3593	-1000.00	1000.00	  0.00
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Metschnikowia_arizonensis@Seq_1043 or Metschnikowia_arizonensis@Seq_1083 or Metschnikowia_arizonensis@Seq_3593	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Metschnikowia_arizonensis@Seq_1043 or Metschnikowia_arizonensis@Seq_1083 or Metschnikowia_arizonensis@Seq_3593	-1000.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_arizonensis@Seq_5592 and Metschnikowia_arizonensis@Seq_5561 and Metschnikowia_arizonensis@Seq_953 and Metschnikowia_arizonensis@Seq_2429 and Metschnikowia_arizonensis@Seq_1651 and Metschnikowia_arizonensis@Seq_251 and Metschnikowia_arizonensis@Seq_2392) or (Metschnikowia_arizonensis@Seq_5802 and Metschnikowia_arizonensis@Seq_5592 and Metschnikowia_arizonensis@Seq_4376 and Metschnikowia_arizonensis@Seq_5076 and Metschnikowia_arizonensis@Seq_2174 and Metschnikowia_arizonensis@Seq_1311)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_arizonensis@Seq_1090 and Metschnikowia_arizonensis@Seq_4730 and Metschnikowia_arizonensis@Seq_3829 and Metschnikowia_arizonensis@Seq_2045 and Metschnikowia_arizonensis@Seq_635 and Metschnikowia_arizonensis@Seq_437 and Metschnikowia_arizonensis@Seq_3646 and Metschnikowia_arizonensis@Seq_3816	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Metschnikowia_arizonensis@Seq_1929	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Metschnikowia_arizonensis@Seq_1708	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Metschnikowia_arizonensis@Seq_1847	  0.00	1000.00	  0.00
@@ -694,6 +697,7 @@ r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Metschnikow
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Metschnikowia_arizonensis@Seq_1144	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	Metschnikowia_arizonensis@Seq_2187	  0.00	1000.00	  0.00
 r_0990	s_1426[c]  <=> s_0551[c] + s_0629[c] 	Metschnikowia_arizonensis@Seq_3270	-1000.00	1000.00	  0.00
+r_0992	s_0373[c] + s_1039[c]  -> s_0529[c] + s_1234[c] 	Metschnikowia_arizonensis@Seq_3631 and Metschnikowia_arizonensis@Seq_599	  0.00	1000.00	  0.00
 r_0993	s_1040[er] + s_1303[er]  -> s_0231[er] + s_0457[er] + s_0530[er] 	Metschnikowia_arizonensis@Seq_5591 and Metschnikowia_arizonensis@Seq_4467	  0.00	1000.00	  0.00
 r_0995	s_0434[c] + s_1039[c] + s_1607[c]  -> s_0423[c] + s_0633[c] + s_1428[c] 	Metschnikowia_arizonensis@Seq_3940 or Metschnikowia_arizonensis@Seq_4803	  0.00	1000.00	  0.00
 r_0996	s_0211[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1429[c] 	Metschnikowia_arizonensis@Seq_3403	  0.00	1000.00	  0.00
@@ -3185,8 +3189,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3308,7 +3312,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Metschnikowia_arizonensi
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Metschnikowia_arizonensis@Seq_3277	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Metschnikowia_arizonensis@Seq_550	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Metschnikowia_arizonensis@Seq_2449 or Metschnikowia_arizonensis@Seq_576	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Metschnikowia_arizonensis@Seq_554 or Metschnikowia_arizonensis@Seq_5661	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Metschnikowia_arizonensis@Seq_5778	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Metschnikowia_arizonensis@Seq_5778	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Metschnikowia_arizonensis@Seq_436	-1000.00	1000.00	  0.00
@@ -3720,8 +3723,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Metschnikowia_arizonensis@Seq_2510	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Metschnikowia_arizonensis@Seq_2941	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Metschnikowia_arizonensis@Seq_5330	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Metschnikowia_arizonensis@Seq_1748	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Metschnikowia_arizonensis@Seq_3735	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Metschnikowia_arizonensis@Seq_1293	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Metschnikowia_arizonensis@Seq_1051	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Metschnikowia_arizonensis@Seq_2081	  0.00	1000.00	  0.00
@@ -3737,32 +3738,26 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Metschnikow
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Metschnikowia_arizonensis@Seq_1357	-1000.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Metschnikowia_arizonensis@Seq_2633 or Metschnikowia_arizonensis@Seq_462	-1000.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Metschnikowia_arizonensis@Seq_4107	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_arizonensis@Seq_3780 or Metschnikowia_arizonensis@Seq_3043	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_arizonensis@Seq_3043 or Metschnikowia_arizonensis@Seq_3780	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Metschnikowia_arizonensis@Seq_3332	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Metschnikowia_arizonensis@Seq_1372	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Metschnikowia_arizonensis@Seq_2477	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Metschnikowia_arizonensis@Seq_1339	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Metschnikowia_arizonensis@Seq_1362	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Metschnikowia_arizonensis@Seq_4952	  0.00	1000.00	  0.00
 r_4839	s_0180[c] + s_0373[c] + s_0803[c]  <=> s_0529[c] + s_0794[c] + s_4404[c] 	Metschnikowia_arizonensis@Seq_4788	-1000.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Metschnikowia_arizonensis@Seq_3043	  0.00	1000.00	  0.00
-r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	Metschnikowia_arizonensis@Seq_2839 or Metschnikowia_arizonensis@Seq_2737	  0.00	1000.00	  0.00
+r_4847	s_1198[c] + s_4296[c]  -> s_0210[c] + s_0794[c] + s_1203[c] 	Metschnikowia_arizonensis@Seq_2737 or Metschnikowia_arizonensis@Seq_2839	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Metschnikowia_arizonensis@Seq_3672	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Metschnikowia_arizonensis@Seq_3015	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Metschnikowia_arizonensis@Seq_4406	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Metschnikowia_arizonensis@Seq_2081	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Metschnikowia_arizonensis@Seq_1132	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Metschnikowia_arizonensis@Seq_5859	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Metschnikowia_arizonensis@Seq_3226	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Metschnikowia_arizonensis@Seq_2941	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Metschnikowia_arizonensis@Seq_5859	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Metschnikowia_arizonensis@Seq_4272 or Metschnikowia_arizonensis@Seq_514 or Metschnikowia_arizonensis@Seq_5359	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Metschnikowia_arizonensis@Seq_4272 or Metschnikowia_arizonensis@Seq_514 or Metschnikowia_arizonensis@Seq_5359	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Metschnikowia_arizonensis@Seq_1714 or Metschnikowia_arizonensis@Seq_535	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Metschnikowia_arizonensis@Seq_4871	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Metschnikowia_arizonensis@Seq_4871	-1000.00	1000.00	  0.00
@@ -3771,7 +3766,6 @@ r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Metschnikow
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_arizonensis@Seq_4577	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_arizonensis@Seq_4577	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Metschnikowia_arizonensis@Seq_3332	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Metschnikowia_arizonensis@Seq_554 or Metschnikowia_arizonensis@Seq_5661	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Metschnikowia_arizonensis@Seq_2109	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Metschnikowia_arizonensis@Seq_1132	-1000.00	1000.00	  0.00
@@ -3786,15 +3780,12 @@ r_2451	s_3089[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3114[erm] 	Me
 r_2452	s_3090[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3115[erm] 	Metschnikowia_arizonensis@Seq_3227	  0.00	1000.00	  0.00
 r_2453	s_3091[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3116[erm] 	Metschnikowia_arizonensis@Seq_3227	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Metschnikowia_arizonensis@Seq_1981	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_arizonensis@Seq_5592 and Metschnikowia_arizonensis@Seq_5561 and Metschnikowia_arizonensis@Seq_953 and Metschnikowia_arizonensis@Seq_2429 and Metschnikowia_arizonensis@Seq_2392 and Metschnikowia_arizonensis@Seq_1651 and Metschnikowia_arizonensis@Seq_251) or (Metschnikowia_arizonensis@Seq_5592 and Metschnikowia_arizonensis@Seq_5076 and Metschnikowia_arizonensis@Seq_4376 and Metschnikowia_arizonensis@Seq_5802 and Metschnikowia_arizonensis@Seq_1311 and Metschnikowia_arizonensis@Seq_2174)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_arizonensis@Seq_1090 and Metschnikowia_arizonensis@Seq_4730 and Metschnikowia_arizonensis@Seq_3829 and Metschnikowia_arizonensis@Seq_2045 and Metschnikowia_arizonensis@Seq_635 and Metschnikowia_arizonensis@Seq_437 and Metschnikowia_arizonensis@Seq_3646 and Metschnikowia_arizonensis@Seq_3816	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_3874 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_2917) or (Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_2917 and Metschnikowia_arizonensis@Seq_1984) or (Metschnikowia_arizonensis@Seq_3724 and Metschnikowia_arizonensis@Seq_463 and Metschnikowia_arizonensis@Seq_2356 and Metschnikowia_arizonensis@Seq_1455 and Metschnikowia_arizonensis@Seq_3874 and Metschnikowia_arizonensis@Seq_4483 and Metschnikowia_arizonensis@Seq_1551 and Metschnikowia_arizonensis@Seq_44 and Metschnikowia_arizonensis@Seq_2094 and Metschnikowia_arizonensis@Seq_2042 and Metschnikowia_arizonensis@Seq_2917 and Metschnikowia_arizonensis@Seq_1290 and Metschnikowia_arizonensis@Seq_4676 and Metschnikowia_arizonensis@Seq_4541 and Metschnikowia_arizonensis@Seq_4844 and Metschnikowia_arizonensis@Seq_2776)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Metschnikowia_arizonensis@Seq_709 and Metschnikowia_arizonensis@Seq_2197 and Metschnikowia_arizonensis@Seq_3468 and Metschnikowia_arizonensis@Seq_4268 and Metschnikowia_arizonensis@Seq_5146 and Metschnikowia_arizonensis@Seq_933 and Metschnikowia_arizonensis@Seq_1634 and Metschnikowia_arizonensis@Seq_3064 and Metschnikowia_arizonensis@Seq_1252 and Metschnikowia_arizonensis@Seq_5481 and Metschnikowia_arizonensis@Seq_1383 and Metschnikowia_arizonensis@Seq_5467 and Metschnikowia_arizonensis@Seq_2526 and Metschnikowia_arizonensis@Seq_3989 and Metschnikowia_arizonensis@Seq_5080 and Metschnikowia_arizonensis@Seq_4184 and Metschnikowia_arizonensis@Seq_4136 and Metschnikowia_arizonensis@Seq_4025 and Metschnikowia_arizonensis@Seq_3305 and Metschnikowia_arizonensis@Seq_450 and Metschnikowia_arizonensis@Seq_5666 and Metschnikowia_arizonensis@Seq_3458) or (Metschnikowia_arizonensis@Seq_709 and Metschnikowia_arizonensis@Seq_2197 and Metschnikowia_arizonensis@Seq_3468 and Metschnikowia_arizonensis@Seq_4268 and Metschnikowia_arizonensis@Seq_5146 and Metschnikowia_arizonensis@Seq_933 and Metschnikowia_arizonensis@Seq_1634 and Metschnikowia_arizonensis@Seq_3064 and Metschnikowia_arizonensis@Seq_1252 and Metschnikowia_arizonensis@Seq_5481 and Metschnikowia_arizonensis@Seq_1383 and Metschnikowia_arizonensis@Seq_5467 and Metschnikowia_arizonensis@Seq_2526 and Metschnikowia_arizonensis@Seq_3989 and Metschnikowia_arizonensis@Seq_5080 and Metschnikowia_arizonensis@Seq_4184 and Metschnikowia_arizonensis@Seq_4136 and Metschnikowia_arizonensis@Seq_4025 and Metschnikowia_arizonensis@Seq_4716 and Metschnikowia_arizonensis@Seq_450 and Metschnikowia_arizonensis@Seq_5666 and Metschnikowia_arizonensis@Seq_3458)	  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Metschnikowia_arizonensis@Seq_5661	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Metschnikowia_arizonensis@Seq_3148	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
 r_5204	s_0794[c] + s_4637[c]  <=> s_0796[e] + s_4638[e] 		-1000.00	1000.00	  0.00
@@ -3806,3 +3797,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Metschnikowia_arizonensis@Seq_1056	  0.00	1000.00	  0.00

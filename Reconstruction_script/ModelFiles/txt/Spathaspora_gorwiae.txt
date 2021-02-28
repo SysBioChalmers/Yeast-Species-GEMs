@@ -12,6 +12,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	Spathaspora_
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	Spathaspora_gorwiae@Seq_1602 or Spathaspora_gorwiae@Seq_246 or Spathaspora_gorwiae@Seq_2589 or Spathaspora_gorwiae@Seq_5903	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	Spathaspora_gorwiae@Seq_3878	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	Spathaspora_gorwiae@Seq_1503 or Spathaspora_gorwiae@Seq_5825	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	Spathaspora_gorwiae@Seq_4679 and Spathaspora_gorwiae@Seq_156 and Spathaspora_gorwiae@Seq_3404 and Spathaspora_gorwiae@Seq_3263 and Spathaspora_gorwiae@Seq_3724 and Spathaspora_gorwiae@Seq_6636	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	Spathaspora_gorwiae@Seq_4679 and Spathaspora_gorwiae@Seq_156 and Spathaspora_gorwiae@Seq_3404 and Spathaspora_gorwiae@Seq_3263 and Spathaspora_gorwiae@Seq_3724 and Spathaspora_gorwiae@Seq_6636	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	Spathaspora_gorwiae@Seq_365 or Spathaspora_gorwiae@Seq_457 or Spathaspora_gorwiae@Seq_6391	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_5502 or Spathaspora_gorwiae@Seq_6173	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	Spathaspora_gorwiae@Seq_5502 or Spathaspora_gorwiae@Seq_6173	  0.00	1000.00	  0.00
@@ -176,6 +178,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Spathaspora_
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_3728	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_3728	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Spathaspora_gorwiae@Seq_6250	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_4836 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_5655) or (Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_5655 and Spathaspora_gorwiae@Seq_1885) or (Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2927 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_4836 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_5107 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_6144 and Spathaspora_gorwiae@Seq_3155 and Spathaspora_gorwiae@Seq_1544 and Spathaspora_gorwiae@Seq_5655)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Spathaspora_gorwiae@Seq_3701	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Spathaspora_gorwiae@Seq_4076 or Spathaspora_gorwiae@Seq_414	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Spathaspora_gorwiae@Seq_3352	-1000.00	1000.00	  0.00
@@ -295,6 +298,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Spathaspora_gorwiae@Seq_1985 or Spathaspora_gorwiae@Seq_2583 or Spathaspora_gorwiae@Seq_3222 or Spathaspora_gorwiae@Seq_5623	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Spathaspora_gorwiae@Seq_1985 or Spathaspora_gorwiae@Seq_2583 or Spathaspora_gorwiae@Seq_3222 or Spathaspora_gorwiae@Seq_5623	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Spathaspora_gorwiae@Seq_61	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	Spathaspora_gorwiae@Seq_3723 and Spathaspora_gorwiae@Seq_3667 and Spathaspora_gorwiae@Seq_4596 and Spathaspora_gorwiae@Seq_1241 and Spathaspora_gorwiae@Seq_6290 and Spathaspora_gorwiae@Seq_2392 and Spathaspora_gorwiae@Seq_6322	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Spathaspora_gorwiae@Seq_276 and Spathaspora_gorwiae@Seq_4828 and Spathaspora_gorwiae@Seq_2282 and Spathaspora_gorwiae@Seq_666 and Spathaspora_gorwiae@Seq_1587 and Spathaspora_gorwiae@Seq_4026 and Spathaspora_gorwiae@Seq_4926 and Spathaspora_gorwiae@Seq_3354 and Spathaspora_gorwiae@Seq_5210	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Spathaspora_gorwiae@Seq_5648	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Spathaspora_gorwiae@Seq_6396	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Spathaspora_gorwiae@Seq_1464 or Spathaspora_gorwiae@Seq_4140 or Spathaspora_gorwiae@Seq_4207 or Spathaspora_gorwiae@Seq_5170 or Spathaspora_gorwiae@Seq_849 or Spathaspora_gorwiae@Seq_918	  0.00	1000.00	  0.00
@@ -370,6 +375,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	Spathaspora_gorwiae@Seq_
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	Spathaspora_gorwiae@Seq_2905 or Spathaspora_gorwiae@Seq_4527	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	Spathaspora_gorwiae@Seq_3180 or (Spathaspora_gorwiae@Seq_1517 and Spathaspora_gorwiae@Seq_760)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	Spathaspora_gorwiae@Seq_5832	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	Spathaspora_gorwiae@Seq_4679 and Spathaspora_gorwiae@Seq_156 and Spathaspora_gorwiae@Seq_3404 and Spathaspora_gorwiae@Seq_3263 and Spathaspora_gorwiae@Seq_3724 and Spathaspora_gorwiae@Seq_6636	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_3252 or Spathaspora_gorwiae@Seq_957	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_3252 or Spathaspora_gorwiae@Seq_1099 or Spathaspora_gorwiae@Seq_957	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_3252 or Spathaspora_gorwiae@Seq_957	  0.00	1000.00	  0.00
@@ -662,7 +668,9 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	Spathaspor
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_3206	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Spathaspora_gorwiae@Seq_1599 or Spathaspora_gorwiae@Seq_2260	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Spathaspora_gorwiae@Seq_1599 or Spathaspora_gorwiae@Seq_2260	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Spathaspora_gorwiae@Seq_962 and Spathaspora_gorwiae@Seq_2840 and Spathaspora_gorwiae@Seq_4319 and Spathaspora_gorwiae@Seq_194	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Spathaspora_gorwiae@Seq_4849	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Spathaspora_gorwiae@Seq_4679 and Spathaspora_gorwiae@Seq_156 and Spathaspora_gorwiae@Seq_3404 and Spathaspora_gorwiae@Seq_3263 and Spathaspora_gorwiae@Seq_3724 and Spathaspora_gorwiae@Seq_6636	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_6249	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	Spathaspora_gorwiae@Seq_6249	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_1895	  0.00	1000.00	  0.00
@@ -681,11 +689,13 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	Spathaspora_
 r_0982	s_0577[c]  <=> s_1408[c] 	Spathaspora_gorwiae@Seq_3907	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	Spathaspora_gorwiae@Seq_1505	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	Spathaspora_gorwiae@Seq_825	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	Spathaspora_gorwiae@Seq_4679 and Spathaspora_gorwiae@Seq_156 and Spathaspora_gorwiae@Seq_3404 and Spathaspora_gorwiae@Seq_3263 and Spathaspora_gorwiae@Seq_3724 and Spathaspora_gorwiae@Seq_6636	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	Spathaspora_gorwiae@Seq_2033	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Spathaspora_gorwiae@Seq_5041	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Spathaspora_gorwiae@Seq_4994	  0.00	1000.00	  0.00
 r_0989	s_0794[c] + s_0959[c] + s_0991[c] + s_1212[c]  -> s_0803[c] + s_1038[c] + s_1207[c] 	Spathaspora_gorwiae@Seq_462	  0.00	1000.00	  0.00
 r_0990	s_1426[c]  <=> s_0551[c] + s_0629[c] 	Spathaspora_gorwiae@Seq_1516	-1000.00	1000.00	  0.00
+r_0992	s_0373[c] + s_1039[c]  -> s_0529[c] + s_1234[c] 	Spathaspora_gorwiae@Seq_5528 and Spathaspora_gorwiae@Seq_1937	  0.00	1000.00	  0.00
 r_0993	s_1040[er] + s_1303[er]  -> s_0231[er] + s_0457[er] + s_0530[er] 	Spathaspora_gorwiae@Seq_2660 and Spathaspora_gorwiae@Seq_6542	  0.00	1000.00	  0.00
 r_0995	s_0434[c] + s_1039[c] + s_1607[c]  -> s_0423[c] + s_0633[c] + s_1428[c] 	Spathaspora_gorwiae@Seq_2709 or Spathaspora_gorwiae@Seq_171	  0.00	1000.00	  0.00
 r_0996	s_0211[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1429[c] 	Spathaspora_gorwiae@Seq_3425	  0.00	1000.00	  0.00
@@ -1872,6 +1882,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Spathaspora_gorwiae@Seq
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Spathaspora_gorwiae@Seq_64	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_1475 or Spathaspora_gorwiae@Seq_1564 or Spathaspora_gorwiae@Seq_2552 or Spathaspora_gorwiae@Seq_4188 or Spathaspora_gorwiae@Seq_5343 or Spathaspora_gorwiae@Seq_5454 or Spathaspora_gorwiae@Seq_5972 or Spathaspora_gorwiae@Seq_6457 or Spathaspora_gorwiae@Seq_89	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Spathaspora_gorwiae@Seq_1475 or Spathaspora_gorwiae@Seq_1564 or Spathaspora_gorwiae@Seq_2552 or Spathaspora_gorwiae@Seq_4188 or Spathaspora_gorwiae@Seq_5343 or Spathaspora_gorwiae@Seq_5454 or Spathaspora_gorwiae@Seq_5972 or Spathaspora_gorwiae@Seq_6457 or Spathaspora_gorwiae@Seq_89	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_1784 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523) or (Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_413 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523) or (Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_4651 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_1784 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523) or (Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_413 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523) or (Spathaspora_gorwiae@Seq_1154 and Spathaspora_gorwiae@Seq_1496 and Spathaspora_gorwiae@Seq_4216 and Spathaspora_gorwiae@Seq_5573 and Spathaspora_gorwiae@Seq_1102 and Spathaspora_gorwiae@Seq_5371 and Spathaspora_gorwiae@Seq_3301 and Spathaspora_gorwiae@Seq_491 and Spathaspora_gorwiae@Seq_4651 and Spathaspora_gorwiae@Seq_4333 and Spathaspora_gorwiae@Seq_1523)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3257,8 +3269,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3390,7 +3402,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Spathaspora
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Spathaspora_gorwiae@Seq_4745	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Spathaspora_gorwiae@Seq_4745	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Spathaspora_gorwiae@Seq_2327 or Spathaspora_gorwiae@Seq_293	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Spathaspora_gorwiae@Seq_1321 or Spathaspora_gorwiae@Seq_1525 or Spathaspora_gorwiae@Seq_577	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Spathaspora_gorwiae@Seq_284	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Spathaspora_gorwiae@Seq_284	  0.00	1000.00	  0.00
 r_4187	s_0437[m] + s_1037[m] + s_3808[m]  -> s_0424[m] + s_0636[m] + s_3809[m] 	Spathaspora_gorwiae@Seq_3945	  0.00	1000.00	  0.00
@@ -3807,8 +3818,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Spathaspora_gorwiae@Seq_3264	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Spathaspora_gorwiae@Seq_2547	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Spathaspora_gorwiae@Seq_3083	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Spathaspora_gorwiae@Seq_5909	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Spathaspora_gorwiae@Seq_4796	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Spathaspora_gorwiae@Seq_1030	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Spathaspora_gorwiae@Seq_6065 or Spathaspora_gorwiae@Seq_1865	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Spathaspora_gorwiae@Seq_4458 or Spathaspora_gorwiae@Seq_2669	  0.00	1000.00	  0.00
@@ -3826,17 +3835,15 @@ r_4691	s_0794[c] + s_1203[c] + s_3750[c]  -> s_1198[c] + s_4501[c] 	Spathaspora_
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Spathaspora_gorwiae@Seq_3388	-1000.00	1000.00	  0.00
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Spathaspora_gorwiae@Seq_2791	-1000.00	1000.00	  0.00
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Spathaspora_gorwiae@Seq_1526 or Spathaspora_gorwiae@Seq_3499 or Spathaspora_gorwiae@Seq_3737 or Spathaspora_gorwiae@Seq_3979 or Spathaspora_gorwiae@Seq_5345 or Spathaspora_gorwiae@Seq_5587 or Spathaspora_gorwiae@Seq_6587	  0.00	1000.00	  0.00
-r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Spathaspora_gorwiae@Seq_2636 or Spathaspora_gorwiae@Seq_2873 or Spathaspora_gorwiae@Seq_4646 or Spathaspora_gorwiae@Seq_1061	-1000.00	1000.00	  0.00
+r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Spathaspora_gorwiae@Seq_2636 or Spathaspora_gorwiae@Seq_4646 or Spathaspora_gorwiae@Seq_1061 or Spathaspora_gorwiae@Seq_2873	-1000.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Spathaspora_gorwiae@Seq_3463	-1000.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Spathaspora_gorwiae@Seq_4889	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Spathaspora_gorwiae@Seq_2889 or Spathaspora_gorwiae@Seq_4889	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Spathaspora_gorwiae@Seq_958	  0.00	1000.00	  0.00
 r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Spathaspora_gorwiae@Seq_6610 or Spathaspora_gorwiae@Seq_2939	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Spathaspora_gorwiae@Seq_108 or Spathaspora_gorwiae@Seq_2661	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Spathaspora_gorwiae@Seq_5807	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Spathaspora_gorwiae@Seq_1488	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Spathaspora_gorwiae@Seq_6357	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Spathaspora_gorwiae@Seq_3790	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Spathaspora_gorwiae@Seq_1395 or Spathaspora_gorwiae@Seq_2722 or Spathaspora_gorwiae@Seq_3095 or Spathaspora_gorwiae@Seq_4148 or Spathaspora_gorwiae@Seq_6606	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Spathaspora_gorwiae@Seq_4747	  0.00	1000.00	  0.00
@@ -3844,9 +3851,6 @@ r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] +
 r_4866	s_1275[c] + s_4390[c]  -> s_0794[c] + s_4389[c] 	Spathaspora_gorwiae@Seq_3983	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Spathaspora_gorwiae@Seq_3909	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Spathaspora_gorwiae@Seq_4756	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Spathaspora_gorwiae@Seq_4458 or Spathaspora_gorwiae@Seq_2669	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Spathaspora_gorwiae@Seq_6315	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_6443	  0.00	1000.00	  0.00
@@ -3854,8 +3858,8 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Spathaspora_gorwiae@Seq_
 r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	Spathaspora_gorwiae@Seq_3649	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Spathaspora_gorwiae@Seq_2547	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Spathaspora_gorwiae@Seq_6443	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Spathaspora_gorwiae@Seq_2288 or Spathaspora_gorwiae@Seq_3521 or Spathaspora_gorwiae@Seq_4743 or Spathaspora_gorwiae@Seq_4822 or Spathaspora_gorwiae@Seq_5008 or Spathaspora_gorwiae@Seq_5314	-1000.00	1000.00	  0.00
+r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Spathaspora_gorwiae@Seq_2889	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Spathaspora_gorwiae@Seq_2288 or Spathaspora_gorwiae@Seq_3521 or Spathaspora_gorwiae@Seq_4743 or Spathaspora_gorwiae@Seq_4822 or Spathaspora_gorwiae@Seq_5008 or Spathaspora_gorwiae@Seq_5314	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Spathaspora_gorwiae@Seq_5699 or Spathaspora_gorwiae@Seq_5068	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Spathaspora_gorwiae@Seq_6463	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Spathaspora_gorwiae@Seq_6463	-1000.00	1000.00	  0.00
@@ -3865,7 +3869,6 @@ r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Spathaspora
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Spathaspora_gorwiae@Seq_442	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Spathaspora_gorwiae@Seq_442	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Spathaspora_gorwiae@Seq_108 or Spathaspora_gorwiae@Seq_2661	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Spathaspora_gorwiae@Seq_1321 or Spathaspora_gorwiae@Seq_1525 or Spathaspora_gorwiae@Seq_577	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Spathaspora_gorwiae@Seq_6315	-1000.00	1000.00	  0.00
 r_0361	s_0645[c] + s_0743[c]  -> s_0644[er] + s_0739[c] 	Spathaspora_gorwiae@Seq_765	  0.00	1000.00	  0.00
@@ -3873,15 +3876,12 @@ r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] +
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Spathaspora_gorwiae@Seq_1666	  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Spathaspora_gorwiae@Seq_773	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Spathaspora_gorwiae@Seq_967	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Spathaspora_gorwiae@Seq_3667 and Spathaspora_gorwiae@Seq_1228 and Spathaspora_gorwiae@Seq_3042 and Spathaspora_gorwiae@Seq_1689 and Spathaspora_gorwiae@Seq_5886 and Spathaspora_gorwiae@Seq_5428) or (Spathaspora_gorwiae@Seq_3667 and Spathaspora_gorwiae@Seq_6290 and Spathaspora_gorwiae@Seq_4596 and Spathaspora_gorwiae@Seq_1241 and Spathaspora_gorwiae@Seq_3723 and Spathaspora_gorwiae@Seq_6322 and Spathaspora_gorwiae@Seq_2392)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Spathaspora_gorwiae@Seq_276 and Spathaspora_gorwiae@Seq_4828 and Spathaspora_gorwiae@Seq_2282 and Spathaspora_gorwiae@Seq_666 and Spathaspora_gorwiae@Seq_1587 and Spathaspora_gorwiae@Seq_4026 and Spathaspora_gorwiae@Seq_4926 and Spathaspora_gorwiae@Seq_3354 and Spathaspora_gorwiae@Seq_5210	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_4836 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_5655) or (Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_5655 and Spathaspora_gorwiae@Seq_1885) or (Spathaspora_gorwiae@Seq_2640 and Spathaspora_gorwiae@Seq_4436 and Spathaspora_gorwiae@Seq_2359 and Spathaspora_gorwiae@Seq_3839 and Spathaspora_gorwiae@Seq_4836 and Spathaspora_gorwiae@Seq_1716 and Spathaspora_gorwiae@Seq_1313 and Spathaspora_gorwiae@Seq_1872 and Spathaspora_gorwiae@Seq_2443 and Spathaspora_gorwiae@Seq_5655 and Spathaspora_gorwiae@Seq_5107 and Spathaspora_gorwiae@Seq_6144 and Spathaspora_gorwiae@Seq_3155 and Spathaspora_gorwiae@Seq_1544 and Spathaspora_gorwiae@Seq_2927)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Spathaspora_gorwiae@Seq_4652 and Spathaspora_gorwiae@Seq_251 and Spathaspora_gorwiae@Seq_1085 and Spathaspora_gorwiae@Seq_1140 and Spathaspora_gorwiae@Seq_2581 and Spathaspora_gorwiae@Seq_4988 and Spathaspora_gorwiae@Seq_1999 and Spathaspora_gorwiae@Seq_4030 and Spathaspora_gorwiae@Seq_5888 and Spathaspora_gorwiae@Seq_4254 and Spathaspora_gorwiae@Seq_3028 and Spathaspora_gorwiae@Seq_3089 and Spathaspora_gorwiae@Seq_2878 and Spathaspora_gorwiae@Seq_4173 and Spathaspora_gorwiae@Seq_3333 and Spathaspora_gorwiae@Seq_6502 and Spathaspora_gorwiae@Seq_1996 and Spathaspora_gorwiae@Seq_6053 and Spathaspora_gorwiae@Seq_4650 and Spathaspora_gorwiae@Seq_6572 and Spathaspora_gorwiae@Seq_6363 and Spathaspora_gorwiae@Seq_5108 and Spathaspora_gorwiae@Seq_2442) or (Spathaspora_gorwiae@Seq_4652 and Spathaspora_gorwiae@Seq_251 and Spathaspora_gorwiae@Seq_1085 and Spathaspora_gorwiae@Seq_1140 and Spathaspora_gorwiae@Seq_2581 and Spathaspora_gorwiae@Seq_4988 and Spathaspora_gorwiae@Seq_1999 and Spathaspora_gorwiae@Seq_4030 and Spathaspora_gorwiae@Seq_5888 and Spathaspora_gorwiae@Seq_4254 and Spathaspora_gorwiae@Seq_3028 and Spathaspora_gorwiae@Seq_3089 and Spathaspora_gorwiae@Seq_2878 and Spathaspora_gorwiae@Seq_4173 and Spathaspora_gorwiae@Seq_3476 and Spathaspora_gorwiae@Seq_6502 and Spathaspora_gorwiae@Seq_1996 and Spathaspora_gorwiae@Seq_6053 and Spathaspora_gorwiae@Seq_4650 and Spathaspora_gorwiae@Seq_6572 and Spathaspora_gorwiae@Seq_6363 and Spathaspora_gorwiae@Seq_5108 and Spathaspora_gorwiae@Seq_2442)	  0.00	1000.00	  0.00
 r_0215	s_0434[c] + s_0973[c]  -> s_0295[c] + s_0394[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0913	s_1187[c]  -> s_0076[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Spathaspora_gorwiae@Seq_577	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Spathaspora_gorwiae@Seq_3970	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3892,3 +3892,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Spathaspora_gorwiae@Seq_6341	  0.00	1000.00	  0.00

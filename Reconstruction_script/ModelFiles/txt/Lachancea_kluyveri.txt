@@ -196,6 +196,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Lachancea_kl
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Lachancea_kluyveri@Seq_4133	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Lachancea_kluyveri@Seq_4133	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Lachancea_kluyveri@Seq_2020	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_36 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_3574) or (Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_3574 and Lachancea_kluyveri@Seq_3140) or (Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_2035 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_36 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_3773 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_4301 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_2048 and Lachancea_kluyveri@Seq_180 and Lachancea_kluyveri@Seq_3574)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Lachancea_kluyveri@Seq_2653	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Lachancea_kluyveri@Seq_1960	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Lachancea_kluyveri@Seq_2709	-1000.00	1000.00	  0.00
@@ -321,6 +322,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Lachancea_kluyveri@Seq_14	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Lachancea_kluyveri@Seq_4839	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Lachancea_kluyveri@Seq_1324 and Lachancea_kluyveri@Seq_2165	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_1324 and Lachancea_kluyveri@Seq_1465 and Lachancea_kluyveri@Seq_3686 and Lachancea_kluyveri@Seq_1680 and Lachancea_kluyveri@Seq_1733 and Lachancea_kluyveri@Seq_479) or (Lachancea_kluyveri@Seq_2090 and Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_5075 and Lachancea_kluyveri@Seq_3902 and Lachancea_kluyveri@Seq_80 and Lachancea_kluyveri@Seq_766 and Lachancea_kluyveri@Seq_767) or (Lachancea_kluyveri@Seq_732 and Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_5075 and Lachancea_kluyveri@Seq_3902 and Lachancea_kluyveri@Seq_80 and Lachancea_kluyveri@Seq_766 and Lachancea_kluyveri@Seq_767)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Lachancea_kluyveri@Seq_1927 and Lachancea_kluyveri@Seq_4528 and Lachancea_kluyveri@Seq_2225 and Lachancea_kluyveri@Seq_1324 and Lachancea_kluyveri@Seq_4607 and Lachancea_kluyveri@Seq_3758 and Lachancea_kluyveri@Seq_1648 and Lachancea_kluyveri@Seq_3816	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Lachancea_kluyveri@Seq_3776	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Lachancea_kluyveri@Seq_286	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	Lachancea_kluyveri@Seq_387 or Lachancea_kluyveri@Seq_4138	-1000.00	1000.00	  0.00
@@ -743,6 +746,7 @@ r_1009	s_0516[c]  <=> s_1503[c] 		-1000.00	1000.00	  0.00
 r_1010	s_0795[er] + s_1204[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1199[er] 	Lachancea_kluyveri@Seq_2884	  0.00	1000.00	  0.00
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Lachancea_kluyveri@Seq_2884	  0.00	1000.00	  0.00
 r_1012	2 s_0190[c] + s_0794[c] + s_1212[c]  -> 2 s_0633[c] + s_1207[c] + s_1447[c] 	Lachancea_kluyveri@Seq_575	  0.00	1000.00	  0.00
+r_1021	s_1460[m] + s_1537[m]  <=> s_0727[m] + s_1535[m] 	Lachancea_kluyveri@Seq_4736 and Lachancea_kluyveri@Seq_4675 and Lachancea_kluyveri@Seq_4451	-1000.00	1000.00	  0.00
 r_1022	s_0397[m] + s_1326[m] + s_1464[m]  -> s_0437[m] + s_0532[m] + s_1460[m] 	Lachancea_kluyveri@Seq_2413 and Lachancea_kluyveri@Seq_3804	  0.00	1000.00	  0.00
 r_1023	s_0803[c] + s_1207[c] + s_1461[c]  -> 2 s_0794[c] + s_1212[c] + s_1458[c] 	Lachancea_kluyveri@Seq_3752 or Lachancea_kluyveri@Seq_3995	  0.00	1000.00	  0.00
 r_1024	s_0805[e] + s_1466[e]  -> s_0554[e] + s_0565[e] 	Lachancea_kluyveri@Seq_1086 or Lachancea_kluyveri@Seq_2082 or Lachancea_kluyveri@Seq_2715	  0.00	1000.00	  0.00
@@ -3325,8 +3329,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3459,7 +3463,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Lachancea_k
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Lachancea_kluyveri@Seq_4179	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Lachancea_kluyveri@Seq_4179	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Lachancea_kluyveri@Seq_2573 or Lachancea_kluyveri@Seq_4226	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Lachancea_kluyveri@Seq_3856 or Lachancea_kluyveri@Seq_4707 or Lachancea_kluyveri@Seq_562	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Lachancea_kluyveri@Seq_2006	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Lachancea_kluyveri@Seq_2006	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Lachancea_kluyveri@Seq_759	-1000.00	1000.00	  0.00
@@ -3504,6 +3507,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Lachancea_kluyveri@Seq_
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Lachancea_kluyveri@Seq_3673	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Lachancea_kluyveri@Seq_5060	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Lachancea_kluyveri@Seq_3417	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Lachancea_kluyveri@Seq_5130 and Lachancea_kluyveri@Seq_3033 and Lachancea_kluyveri@Seq_4629 and Lachancea_kluyveri@Seq_2234	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Lachancea_kluyveri@Seq_2076	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Lachancea_kluyveri@Seq_2737	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Lachancea_kluyveri@Seq_4720	  0.00	1000.00	  0.00
@@ -3886,7 +3890,6 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Lachancea_kluyveri@Seq_3230	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Lachancea_kluyveri@Seq_3288	-1000.00	1000.00	  0.00
 r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	Lachancea_kluyveri@Seq_3113	  0.00	1000.00	  0.00
 r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	Lachancea_kluyveri@Seq_3113	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Lachancea_kluyveri@Seq_3349	  0.00	1000.00	  0.00
@@ -3899,33 +3902,26 @@ r_4681	s_0803[c] + s_4348[c]  -> s_0794[c] + s_1467[c] + s_4349[c] 	Lachancea_kl
 r_4691	s_0794[c] + s_1203[c] + s_3750[c]  -> s_1198[c] + s_4501[c] 	Lachancea_kluyveri@Seq_4571	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Lachancea_kluyveri@Seq_3223	-1000.00	1000.00	  0.00
 r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Lachancea_kluyveri@Seq_3274	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Lachancea_kluyveri@Seq_2814 or Lachancea_kluyveri@Seq_3345 or Lachancea_kluyveri@Seq_3279	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Lachancea_kluyveri@Seq_3345 or Lachancea_kluyveri@Seq_2814 or Lachancea_kluyveri@Seq_3279	  0.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Lachancea_kluyveri@Seq_3326	-1000.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Lachancea_kluyveri@Seq_839	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Lachancea_kluyveri@Seq_741	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Lachancea_kluyveri@Seq_2663 or Lachancea_kluyveri@Seq_328	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Lachancea_kluyveri@Seq_3345	  0.00	1000.00	  0.00
 r_4892	s_0529[c] + s_4295[c]  <=> s_4296[c] + s_4358[c] 	Lachancea_kluyveri@Seq_3066	-1000.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Lachancea_kluyveri@Seq_392 or Lachancea_kluyveri@Seq_4602	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Lachancea_kluyveri@Seq_1972 or Lachancea_kluyveri@Seq_1667	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Lachancea_kluyveri@Seq_2029	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Lachancea_kluyveri@Seq_1804	  0.00	1000.00	  0.00
 r_4980	2 s_4193[c]  -> s_3998[c] + s_4192[c] 	Lachancea_kluyveri@Seq_3113	  0.00	1000.00	  0.00
 r_4981	2 s_4192[c]  -> s_4193[c] + s_4277[c] 	Lachancea_kluyveri@Seq_3113	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Lachancea_kluyveri@Seq_2029	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Lachancea_kluyveri@Seq_2565	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Lachancea_kluyveri@Seq_2565	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Lachancea_kluyveri@Seq_1533	-1000.00	1000.00	  0.00
 r_5070	s_0803[c] + s_4442[c]  <=> s_0558[c] + s_1153[c] 	Lachancea_kluyveri@Seq_3113	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Lachancea_kluyveri@Seq_1357	  0.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Lachancea_kluyveri@Seq_2688	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Lachancea_kluyveri@Seq_2688	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Lachancea_kluyveri@Seq_3856 or Lachancea_kluyveri@Seq_4707 or Lachancea_kluyveri@Seq_562	-1000.00	1000.00	  0.00
 r_0236	s_0209[c] + s_0794[c] + s_1212[c]  -> s_0296[c] + s_1207[c] 	Lachancea_kluyveri@Seq_4136	  0.00	1000.00	  0.00
 r_0237	s_0794[c] + s_1212[c] + s_1579[c]  -> s_1207[c] + s_1569[c] 	Lachancea_kluyveri@Seq_4136	  0.00	1000.00	  0.00
@@ -3934,13 +3930,10 @@ r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] +
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Lachancea_kluyveri@Seq_338	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Lachancea_kluyveri@Seq_4781	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	Lachancea_kluyveri@Seq_4781	  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_1324 and Lachancea_kluyveri@Seq_1465 and Lachancea_kluyveri@Seq_3686 and Lachancea_kluyveri@Seq_1680 and Lachancea_kluyveri@Seq_1733 and Lachancea_kluyveri@Seq_479) or (Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_80 and Lachancea_kluyveri@Seq_5075 and Lachancea_kluyveri@Seq_3902 and Lachancea_kluyveri@Seq_2090 and Lachancea_kluyveri@Seq_767 and Lachancea_kluyveri@Seq_766) or (Lachancea_kluyveri@Seq_2033 and Lachancea_kluyveri@Seq_80 and Lachancea_kluyveri@Seq_5075 and Lachancea_kluyveri@Seq_3902 and Lachancea_kluyveri@Seq_732 and Lachancea_kluyveri@Seq_767 and Lachancea_kluyveri@Seq_766)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Lachancea_kluyveri@Seq_1927 and Lachancea_kluyveri@Seq_4528 and Lachancea_kluyveri@Seq_2225 and Lachancea_kluyveri@Seq_1324 and Lachancea_kluyveri@Seq_4607 and Lachancea_kluyveri@Seq_3758 and Lachancea_kluyveri@Seq_1648 and Lachancea_kluyveri@Seq_3816	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_36 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_3574) or (Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_3574 and Lachancea_kluyveri@Seq_3140) or (Lachancea_kluyveri@Seq_2249 and Lachancea_kluyveri@Seq_3823 and Lachancea_kluyveri@Seq_4122 and Lachancea_kluyveri@Seq_96 and Lachancea_kluyveri@Seq_36 and Lachancea_kluyveri@Seq_2350 and Lachancea_kluyveri@Seq_2703 and Lachancea_kluyveri@Seq_2077 and Lachancea_kluyveri@Seq_3652 and Lachancea_kluyveri@Seq_3531 and Lachancea_kluyveri@Seq_3574 and Lachancea_kluyveri@Seq_3773 and Lachancea_kluyveri@Seq_4301 and Lachancea_kluyveri@Seq_2048 and Lachancea_kluyveri@Seq_180 and Lachancea_kluyveri@Seq_2035)	  0.00	1000.00	  0.00
 r_0361	s_0645[c] + s_0743[c]  -> s_0644[er] + s_0739[c] 		  0.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Lachancea_kluyveri@Seq_2715	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Lachancea_kluyveri@Seq_3856	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Lachancea_kluyveri@Seq_1945	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
@@ -3960,3 +3953,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Lachancea_kluyveri@Seq_2308	-1000.00	1000.00	  0.00

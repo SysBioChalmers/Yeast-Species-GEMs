@@ -188,6 +188,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1599	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1599	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4384	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_195) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3118 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5726 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_551 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5668 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_826 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_667	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5766	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2532	  0.00	1000.00	  0.00
@@ -306,6 +307,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2274 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4009	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5784	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1657 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3007	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034757_Lipomyces_doorenjongii@Seq_4999 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4519 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1657 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4362 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5588 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2312 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5896 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4275 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1746 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_365) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_4999 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4519 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4293 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4507 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1840)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_110 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2261 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3687 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1657 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2299 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3545 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4721 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5162 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3555	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3923	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5584	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5584	  0.00	1000.00	  0.00
@@ -355,9 +358,15 @@ r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 	yHMPu5000034
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1842 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_931	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5476	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_526	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_526	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4224 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5704	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 	(yHMPu5000034757_Lipomyces_doorenjongii@Seq_5049 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4080) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_5049 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5167)	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4580	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1702	  0.00	1000.00	  0.00
@@ -636,6 +645,7 @@ r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 	yHMPu5000034
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2132	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_33	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1440	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4569 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_466	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_466	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_466	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_466	-1000.00	1000.00	  0.00
@@ -696,6 +706,7 @@ r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	yHMPu5000034
 r_1026	s_0394[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1599	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4550 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_993	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_753	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4093 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2533 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5597	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5702	-1000.00	1000.00	  0.00
 r_1032	2 s_0805[e] + s_1476[e]  -> s_0796[e] + 2 s_1324[e] + s_1490[e] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4050 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_444	  0.00	1000.00	  0.00
 r_1033	s_0805[e] + s_1498[e]  -> s_1324[e] + s_1490[e] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4050 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_444	  0.00	1000.00	  0.00
@@ -3071,8 +3082,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3205,7 +3216,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1750	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1750	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1107 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_2650	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3072 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4954	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_349	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_349	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4694	-1000.00	1000.00	  0.00
@@ -3241,6 +3251,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3819	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4720	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4853	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_655 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4667 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3134 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2937	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5751	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3617	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3850	  0.00	1000.00	  0.00
@@ -3614,27 +3625,24 @@ r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4088	  0.00	1000.00	  0.00
 r_4631	s_0803[c] + s_4368[c]  -> s_0419[c] + s_0722[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_210 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_325 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4932	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3053	-1000.00	1000.00	  0.00
 r_4634	s_1198[c] + s_4527[c]  <=> s_0794[c] + s_1203[c] + s_4536[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2714	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3053	  0.00	1000.00	  0.00
-r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5813	  0.00	1000.00	  0.00
+r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5593 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5813	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_140	-1000.00	1000.00	  0.00
 r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	  0.00	1000.00	  0.00
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	-1000.00	1000.00	  0.00
 r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5514	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	  0.00	1000.00	  0.00
 r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	  0.00	1000.00	  0.00
 r_4654	s_0805[e] + s_3716[e]  -> s_0559[e] + s_0565[e] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4851	  0.00	1000.00	  0.00
 r_4655	s_0803[c] + s_4193[c]  -> s_0558[c] + s_3998[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4851	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3704	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4950	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_842	  0.00	1000.00	  0.00
 r_4665	s_0367[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_4270[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3053	  0.00	1000.00	  0.00
-r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5255 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_3985	  0.00	1000.00	  0.00
+r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3985 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5255	  0.00	1000.00	  0.00
 r_4670	s_3951[c]  <=> s_3949[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5252	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3297 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_1332	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2613	  0.00	1000.00	  0.00
@@ -3647,8 +3655,8 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	yHMPu500003
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4393	-1000.00	1000.00	  0.00
 r_4702	s_1045[c] + s_1198[c]  -> s_0794[c] + s_0952[c] + s_1203[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1088	  0.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2529	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5355 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_2517	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1742 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4385	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2517 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5355	  0.00	1000.00	  0.00
+r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1742	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5875	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1939	  0.00	1000.00	  0.00
 r_4715	s_0434[c] + s_0529[c] + s_4297[c]  -> s_0423[c] + s_0633[c] + s_4358[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1939	  0.00	1000.00	  0.00
@@ -3662,7 +3670,7 @@ r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	yHMPu5000034757_Lipomyc
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_54	  0.00	1000.00	  0.00
 r_4752	s_0794[c] + s_1203[c] + s_1399[c]  -> s_0025[c] + s_1198[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2357	  0.00	1000.00	  0.00
 r_4755	s_0794[c] + s_1006[c]  -> s_0456[c] + s_4350[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2116	  0.00	1000.00	  0.00
-r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5172 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_1239 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4471 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_430	-1000.00	1000.00	  0.00
+r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1239 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5172 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_430 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4471	-1000.00	1000.00	  0.00
 r_4759	s_0581[c] + s_1322[c]  -> s_0764[c] + s_0803[c] + s_4317[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_846	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5634	-1000.00	1000.00	  0.00
 r_4763	s_1302[c] + s_4251[c]  -> s_0529[c] + s_4252[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3219	  0.00	1000.00	  0.00
@@ -3675,9 +3683,7 @@ r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	yHMPu5000034757_Lipomyce
 r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2116	  0.00	1000.00	  0.00
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2116	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2116	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2666	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1552	  0.00	1000.00	  0.00
 r_4803	s_4401[c]  -> s_0803[c] + s_4439[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1720	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3921	-1000.00	1000.00	  0.00
@@ -3686,7 +3692,6 @@ r_4820	s_0803[c] + s_3761[c]  <=> s_0415[c] + s_0423[c] + 2 s_0794[c] 	yHMPu5000
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1492	  0.00	1000.00	  0.00
 r_4835	s_0445[c] + s_4407[c]  -> s_0456[c] + s_4408[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1904	  0.00	1000.00	  0.00
 r_4836	s_0445[c] + 2 s_0794[c] + s_4407[c]  -> s_0419[c] + 2 s_0456[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1904	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1003	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4549	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4502 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_3803	  0.00	1000.00	  0.00
 r_4849	s_4399[c]  -> s_0803[c] + s_4367[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_687	  0.00	1000.00	  0.00
@@ -3697,13 +3702,10 @@ r_4878	s_1207[c] + s_4181[c]  <=> s_0794[c] + s_1212[c] + s_4383[c] 	yHMPu500003
 r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1070	  0.00	1000.00	  0.00
 r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1239 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_430 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5172	-1000.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4300	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3803	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3803	  0.00	1000.00	  0.00
 r_4931	s_0803[c] + s_4291[c]  -> s_0362[c] + s_0794[c] + s_4330[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3771	  0.00	1000.00	  0.00
 r_4932	s_0803[c] + s_4289[c]  -> s_0362[c] + s_0794[c] + s_4329[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3771	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1075	-1000.00	1000.00	  0.00
 r_4937	s_0961[c] + s_1198[c]  <=> s_0580[c] + s_0794[c] + s_1203[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1974	-1000.00	1000.00	  0.00
 r_4947	s_1322[c] + s_3948[c]  -> s_0551[c] + s_0803[c] + s_4317[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_846	  0.00	1000.00	  0.00
@@ -3715,9 +3717,8 @@ r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu500003
 r_4991	s_1322[c] + s_1520[c]  <=> s_0567[c] + s_3951[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5344	-1000.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1543 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_2 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_224 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_2726 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_2764 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4503 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_540 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_642 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_671 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_7 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_716 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_986	  0.00	1000.00	  0.00
 r_5004	s_0794[c] + s_0850[c] + s_1212[c]  -> s_1207[c] + s_1529[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_792	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5612	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1187 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_1979 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4518 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5534	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1187 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_1979 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4518 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5534	-1000.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3154 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_3803 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_5271	  0.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_2758	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3568	-1000.00	1000.00	  0.00
@@ -3734,7 +3735,6 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000034757_Lipomyce
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1361	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1361	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_5634	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5155	s_0794[c] + s_1203[c] + s_4503[c]  <=> s_1198[c] + s_4504[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1332	-1000.00	1000.00	  0.00
 r_5164	s_0794[c] + s_1212[c] + s_1275[c] + s_4548[c]  -> s_0803[c] + s_1207[c] + s_4177[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_537	  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_3072 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_3833 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4942 or yHMPu5000034757_Lipomyces_doorenjongii@Seq_4954	-1000.00	1000.00	  0.00
@@ -3751,22 +3751,17 @@ r_2525	s_2970[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3193[erm] 	yH
 r_2526	s_2972[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3195[erm] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4062	  0.00	1000.00	  0.00
 r_2527	s_2974[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3197[erm] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4062	  0.00	1000.00	  0.00
 r_0883	s_1616[c] + s_0201[c]  -> s_0390[c] + 2 s_0794[c] + s_1469[c] + s_1620[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1175	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034757_Lipomyces_doorenjongii@Seq_4999 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4519 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1657 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4362 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5588 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2312 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_365 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5896 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4275 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1746) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_4999 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4519 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4507 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4293 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1840)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_110 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2261 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3687 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1657 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2299 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3545 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4721 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5162 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3555	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_195) or (yHMPu5000034757_Lipomyces_doorenjongii@Seq_3028 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4677 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5321 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4092 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2766 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_985 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1941 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3777 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4198 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_4948 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5726 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_551 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5668 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_826 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3118)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1031 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_539 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_549 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_2481 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1184 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_618 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_3086 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_206 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_1585 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5551 and yHMPu5000034757_Lipomyces_doorenjongii@Seq_5198	  0.00	1000.00	  0.00
 r_0154	s_0298[c] + s_0434[c]  -> s_0394[c] + s_0794[c] + s_0201[c] 		  0.00	1000.00	  0.00
+r_0453	s_0061[c] + s_0725[c]  -> s_1269[c] + s_1458[c] 		  0.00	1000.00	  0.00
 r_1266	s_1468[e]  -> s_1467[c] 		  0.00	1000.00	  0.00
 r_2446	s_3084[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3109[erm] 		  0.00	1000.00	  0.00
-r_2447	s_3085[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3110[erm] 		  0.00	1000.00	  0.00
-r_2448	s_3086[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3111[erm] 		  0.00	1000.00	  0.00
 r_2450	s_3088[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3113[erm] 		  0.00	1000.00	  0.00
 r_4764	s_0803[c] + s_1239[c]  <=> s_0359[c] + s_0419[c] + s_1322[c] 		-1000.00	1000.00	  0.00
-r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 		-1000.00	1000.00	  0.00
 r_5197	s_0794[c] + s_4275[c]  <=> s_0796[e] + s_4631[e] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_4942	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1064	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_919	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3777,3 +3772,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034757_Lipomyces_doorenjongii@Seq_1555	  0.00	1000.00	  0.00

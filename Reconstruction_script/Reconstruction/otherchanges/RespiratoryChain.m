@@ -34,15 +34,19 @@ end
 % only gapfill the r_0773 for the species without complexI; THOSE WITH
 % COMPLEXI have been fixed at add alternative pathways
 for i = 1:length(strain_withoutcomplexI)
-    cd(inputpath)
     m = strain_withoutcomplexI{i};
-    if ismember(lower(m),lower(strains)) % check whether it is in the list of strains
-        load([m,'.mat'])
+    [~,idx] = ismember(lower(m),lower(strains)); % check whether it is in the list of strains
+    if idx~=0
+         cd(inputpath)
+        load([strains{idx},'.mat'])
         cd(current_path)
-        reducedModel = addrxnBack(reducedModel,model_original,rxn(4),model_original.grRules(idx));
+        [~,idx2] = ismember('r_0773',model_original.rxns);
+        reducedModel = addrxnBack(reducedModel,model_original,rxn(4),model_original.grRules(idx2));
         newrxns = [newrxns;rxn(4),m,{''},{'complexI'}];
         cd(inputpath)
         save([m,'.mat'],'reducedModel')
+    else
+        warning(['no species found for',m])
     end
 end
 

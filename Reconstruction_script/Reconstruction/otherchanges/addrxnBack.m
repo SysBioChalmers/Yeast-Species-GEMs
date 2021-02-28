@@ -63,12 +63,12 @@ end
         [~,rxnIndex] = ismember(rxnID,model.rxns);
     end
     % Add rxn annotation:
-    model.rxnNames{rxnIndex}      = model_original.rxnNames{ID};
-    model.rxnECNumbers(rxnIndex)  = model_original.rxnECNumbers(ID);
-    model.rxnKEGGID(rxnIndex)     = model_original.rxnKEGGID(ID);
-    model.rxnMetaNetXID(rxnIndex) = model_original.rxnMetaNetXID(ID);
-    model.rxnConfidenceScores(rxnIndex) = 0;
-    model.rxnNotes{rxnIndex} = 'NOTES: added after Gapfilling; ';
+    model.rxnNames{rxnIndex,1}      = model_original.rxnNames{ID};
+    model.rxnECNumbers(rxnIndex,1)  = model_original.rxnECNumbers(ID);
+    model.rxnKEGGID(rxnIndex,1)     = model_original.rxnKEGGID(ID);
+    model.rxnMetaNetXID(rxnIndex,1) = model_original.rxnMetaNetXID(ID);
+    model.rxnConfidenceScores(rxnIndex,1) = 0;
+    model.rxnNotes{rxnIndex,1} = 'NOTES: added after Gapfilling; ';
     % Display the 
     disp(['rxn: ',rxnID, ' has been added back to the model '])
     printRxnFormula(model,'rxnAbbrList',rxnID,'metNameFlag',true);
@@ -88,5 +88,5 @@ for i = 1: length(model.genes)
         model.geneNames{i} = model.genes{i};
     end
 end
-model.proteins(length(model.genes)) = {''};
+model.proteins(length(model.genes),1) = {''};
 end

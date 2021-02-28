@@ -188,6 +188,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	yHMPu5000034
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1169	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1169	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2051	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5417 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2634) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2868 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5417 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5811 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2610 and yHMPu5000034748_Lipomyces_oligophaga@Seq_416 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3966	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3521	  0.00	1000.00	  0.00
 r_0230	s_0434[c] + s_0451[c] + s_0794[c]  -> s_0453[c] + s_0633[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3107	  0.00	1000.00	  0.00
@@ -306,6 +307,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2339 or yHMPu5000034748_Lipomyces_oligophaga@Seq_548	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2339 or yHMPu5000034748_Lipomyces_oligophaga@Seq_548	-1000.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4576	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_2439 and yHMPu5000034748_Lipomyces_oligophaga@Seq_96 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3886 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1345 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4817 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4696 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2005 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3700 and yHMPu5000034748_Lipomyces_oligophaga@Seq_126) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_2439 and yHMPu5000034748_Lipomyces_oligophaga@Seq_96 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5772 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3769 and yHMPu5000034748_Lipomyces_oligophaga@Seq_38 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2027 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3162)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_1744 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1924 and yHMPu5000034748_Lipomyces_oligophaga@Seq_808 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2945 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1359 and yHMPu5000034748_Lipomyces_oligophaga@Seq_580 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1667) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_4906 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1924 and yHMPu5000034748_Lipomyces_oligophaga@Seq_808 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2945 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1359 and yHMPu5000034748_Lipomyces_oligophaga@Seq_580 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1667)	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2255	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_480	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_480	  0.00	1000.00	  0.00
@@ -356,9 +359,15 @@ r_0492	s_0632[m] + s_0799[m] + s_1205[m]  -> s_0770[m] + s_1200[m] 	yHMPu5000034
 r_0497	s_0803[c] + s_1433[c]  -> s_0512[c] + s_0767[c] + s_0794[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4487 or yHMPu5000034748_Lipomyces_oligophaga@Seq_476	  0.00	1000.00	  0.00
 r_0499	s_0120[c] + s_0325[c]  -> s_0301[c] + s_0794[c] + s_1487[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2405	  0.00	1000.00	  0.00
 r_0500	s_0529[c] + s_0952[c]  -> s_0373[c] + s_1003[c] 		  0.00	1000.00	  0.00
+r_0501	s_1005[m] + s_1200[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0460[m] + s_1205[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
 r_0502	s_1039[c] + s_1487[c]  <=> s_0306[c] + s_0803[c] + s_1003[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4120	-1000.00	1000.00	  0.00
 r_0503	s_1042[m] + s_1488[m]  <=> s_0307[m] + s_0807[m] + s_1005[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4120	-1000.00	1000.00	  0.00
+r_0504	s_0799[m] + s_1005[m] + s_1097[m]  -> s_0460[m] + s_1409[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
 r_0505	s_0627[m] + s_1200[m]  -> s_0799[m] + s_1097[m] + s_1205[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2987 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_728	  0.00	1000.00	  0.00
+r_0506	s_0799[m] + s_1005[m] + s_1098[m]  -> s_0460[m] + s_1410[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
+r_0507	s_1410[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0628[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
+r_0508	s_0628[m] + s_1200[m]  -> s_0799[m] + s_1098[m] + s_1205[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
+r_0509	s_1409[m] + s_1488[m]  -> s_0307[m] + s_0421[m] + s_0627[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4437 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3731	  0.00	1000.00	  0.00
 r_0511	s_0773[c] + s_1322[c]  -> s_0567[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1058	  0.00	1000.00	  0.00
 r_0512	s_0434[c] + s_1003[c] + s_1593[c]  -> s_0423[c] + s_0633[c] + s_0757[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_926	  0.00	1000.00	  0.00
@@ -644,6 +653,7 @@ r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 	yHMPu5000034
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1974	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5549	  0.00	1000.00	  0.00
 r_0942	3 s_1278[m] + 2 s_1385[m]  -> 6 s_0807[m] + 2 s_1383[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2801	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_420 and yHMPu5000034748_Lipomyces_oligophaga@Seq_917	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_917	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_917	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_917	-1000.00	1000.00	  0.00
@@ -707,6 +717,7 @@ r_1025	s_0434[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_0633[c] 	yHMPu5000034
 r_1026	s_0394[c] + s_0794[c] + s_1467[c]  -> s_0298[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1169	  0.00	1000.00	  0.00
 r_1027	5 s_0794[c] + 3 s_1212[c] + s_1469[c]  -> 3 s_0803[c] + s_0841[c] + 3 s_1207[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2453 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5327	  0.00	1000.00	  0.00
 r_1029	s_0180[c] + s_1275[c] + s_1471[c]  -> s_0417[c] + s_0456[c] + s_0794[c] + s_1458[c] + s_1469[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5422	  0.00	1000.00	  0.00
+r_1030	s_0305[m] + s_0807[m]  -> s_0321[m] + s_0799[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3329 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5069	  0.00	1000.00	  0.00
 r_1031	s_0434[c] + s_0991[c] + s_1487[c]  <=> s_0308[c] + s_0394[c] + s_0794[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2941	-1000.00	1000.00	  0.00
 r_1032	2 s_0805[e] + s_1476[e]  -> s_0796[e] + 2 s_1324[e] + s_1490[e] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2082 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4596 or yHMPu5000034748_Lipomyces_oligophaga@Seq_826	  0.00	1000.00	  0.00
 r_1033	s_0805[e] + s_1498[e]  -> s_1324[e] + s_1490[e] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2082 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4596 or yHMPu5000034748_Lipomyces_oligophaga@Seq_826	  0.00	1000.00	  0.00
@@ -3046,8 +3057,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3177,7 +3188,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	yHMPu500003
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1818 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2740 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3287 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4833 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5584	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1818 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2740 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3287 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4833 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5584	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5179 or yHMPu5000034748_Lipomyces_oligophaga@Seq_964	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3832 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5248 or yHMPu5000034748_Lipomyces_oligophaga@Seq_775 or yHMPu5000034748_Lipomyces_oligophaga@Seq_951	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5717	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5717	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2055	-1000.00	1000.00	  0.00
@@ -3220,6 +3230,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	yHMPu5000034748_Lipomyc
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2468	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_43	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2711	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_191 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2882 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1111 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3356	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3972	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2215	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3926	  0.00	1000.00	  0.00
@@ -3583,15 +3594,14 @@ r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	yHMPu5000034748_Lipomyces_oligophaga
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	-1000.00	1000.00	  0.00
 r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425 or yHMPu5000034748_Lipomyces_oligophaga@Seq_757	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	  0.00	1000.00	  0.00
 r_4653	s_4519[c]  -> s_0803[c] + s_4518[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	  0.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4986	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5236	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3896	  0.00	1000.00	  0.00
-r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4315 or yHMPu5000034748_Lipomyces_oligophaga@Seq_1762	  0.00	1000.00	  0.00
+r_4668	s_4509[c]  -> s_0803[c] + s_4508[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1762 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4315	  0.00	1000.00	  0.00
 r_4670	s_3951[c]  <=> s_3949[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4106	-1000.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3219	-1000.00	1000.00	  0.00
 r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1822	  0.00	1000.00	  0.00
@@ -3607,8 +3617,7 @@ r_4703	s_1198[c] + s_4475[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	yHMPu500003
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3084	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3265 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3581 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5850	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1309	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3960 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2804	  0.00	1000.00	  0.00
-r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2781	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2804 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3960	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_922	-1000.00	1000.00	  0.00
 r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2312	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4181	  0.00	1000.00	  0.00
@@ -3638,9 +3647,7 @@ r_4777	s_0794[c] + s_4456[c]  -> s_0456[c] + s_4455[c] 	yHMPu5000034748_Lipomyce
 r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2575	  0.00	1000.00	  0.00
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2575	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2575	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1576	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1512	  0.00	1000.00	  0.00
 r_4804	s_0362[c] + s_0434[c]  <=> s_0394[c] + s_4317[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_470	-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2434	  0.00	1000.00	  0.00
@@ -3648,7 +3655,6 @@ r_4820	s_0803[c] + s_3761[c]  <=> s_0415[c] + s_0423[c] + 2 s_0794[c] 	yHMPu5000
 r_4829	s_0373[c] + s_1389[c]  -> s_0529[c] + s_0794[c] + s_1193[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_621	  0.00	1000.00	  0.00
 r_4835	s_0445[c] + s_4407[c]  -> s_0456[c] + s_4408[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2228	  0.00	1000.00	  0.00
 r_4836	s_0445[c] + 2 s_0794[c] + s_4407[c]  -> s_0419[c] + 2 s_0456[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2228	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2789	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4525	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2462 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2490 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2785	  0.00	1000.00	  0.00
 r_4849	s_4399[c]  -> s_0803[c] + s_4367[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2541	  0.00	1000.00	  0.00
@@ -3660,13 +3666,10 @@ r_4880	s_0803[c] + s_1275[c] + s_1439[c]  -> s_0274[c] + s_0837[c] + s_1526[c] 	
 r_4891	s_4367[c]  <=> s_1399[c] + s_4366[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4666 or yHMPu5000034748_Lipomyces_oligophaga@Seq_649 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4354	-1000.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_3386	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_645	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4923	s_0794[c] + s_1203[c] + s_1275[c] + s_4340[c]  -> s_0803[c] + s_1198[c] + s_4338[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2462 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2490	  0.00	1000.00	  0.00
 r_4924	s_0803[c] + s_1198[c] + s_4339[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_4338[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2462 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2490	  0.00	1000.00	  0.00
 r_4931	s_0803[c] + s_4291[c]  -> s_0362[c] + s_0794[c] + s_4330[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5230	  0.00	1000.00	  0.00
 r_4932	s_0803[c] + s_4289[c]  -> s_0362[c] + s_0794[c] + s_4329[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5230	  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4936	s_1198[c] + s_3861[c]  <=> s_0794[c] + s_1203[c] + s_4325[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5798	-1000.00	1000.00	  0.00
 r_4947	s_1322[c] + s_3948[c]  -> s_0551[c] + s_0803[c] + s_4317[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2406	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1236 or yHMPu5000034748_Lipomyces_oligophaga@Seq_1836 or yHMPu5000034748_Lipomyces_oligophaga@Seq_1850 or yHMPu5000034748_Lipomyces_oligophaga@Seq_25 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2951 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3196 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4184	  0.00	1000.00	  0.00
@@ -3679,9 +3682,8 @@ r_4991	s_1322[c] + s_1520[c]  <=> s_0567[c] + s_3951[c] 	yHMPu5000034748_Lipomyc
 r_4994	s_1212[c] + s_1266[c] + s_1275[c]  -> s_0803[c] + s_1207[c] + s_4267[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_700	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1236 or yHMPu5000034748_Lipomyces_oligophaga@Seq_1836 or yHMPu5000034748_Lipomyces_oligophaga@Seq_1850 or yHMPu5000034748_Lipomyces_oligophaga@Seq_25 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2951 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3196 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4184	  0.00	1000.00	  0.00
 r_5004	s_0794[c] + s_0850[c] + s_1212[c]  -> s_1207[c] + s_1529[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_147	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_246	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1267 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3701	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1267 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3701	-1000.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2462 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2490 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3378 or yHMPu5000034748_Lipomyces_oligophaga@Seq_4896	  0.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4180	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_425	-1000.00	1000.00	  0.00
@@ -3700,7 +3702,6 @@ r_5119	s_0558[c] + s_0563[c]  -> s_0803[c] + s_4293[c] 	yHMPu5000034748_Lipomyce
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5286	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_5286	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4438 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5235	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1799 or yHMPu5000034748_Lipomyces_oligophaga@Seq_2670 or yHMPu5000034748_Lipomyces_oligophaga@Seq_3832 or yHMPu5000034748_Lipomyces_oligophaga@Seq_5248 or yHMPu5000034748_Lipomyces_oligophaga@Seq_775 or yHMPu5000034748_Lipomyces_oligophaga@Seq_951	-1000.00	1000.00	  0.00
 r_5181	s_1322[c] + s_4620[c]  <=> s_0551[c] + s_0803[c] + s_4317[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2406	-1000.00	1000.00	  0.00
 r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_0794[c] + s_4627[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1844	-1000.00	1000.00	  0.00
@@ -3714,16 +3715,14 @@ r_2525	s_2970[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3193[erm] 	yH
 r_2526	s_2972[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3195[erm] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4363	  0.00	1000.00	  0.00
 r_2527	s_2974[erm] + s_3216[erm]  -> s_2783[erm] + s_3108[erm] + s_3197[erm] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4363	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4096	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_2439 and yHMPu5000034748_Lipomyces_oligophaga@Seq_96 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3886 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1345 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4817 and yHMPu5000034748_Lipomyces_oligophaga@Seq_126 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4696 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2005 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3700) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_2439 and yHMPu5000034748_Lipomyces_oligophaga@Seq_96 and yHMPu5000034748_Lipomyces_oligophaga@Seq_38 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3769 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5772 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3162 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2027)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_1744 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1924 and yHMPu5000034748_Lipomyces_oligophaga@Seq_808 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2945 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1359 and yHMPu5000034748_Lipomyces_oligophaga@Seq_580 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1667) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_4906 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1924 and yHMPu5000034748_Lipomyces_oligophaga@Seq_808 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1586 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2945 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1359 and yHMPu5000034748_Lipomyces_oligophaga@Seq_580 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1667)	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5417 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2634) or (yHMPu5000034748_Lipomyces_oligophaga@Seq_5604 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1241 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4913 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2559 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5417 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5183 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1922 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4240 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3765 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2692 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5811 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2610 and yHMPu5000034748_Lipomyces_oligophaga@Seq_416 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1687 and yHMPu5000034748_Lipomyces_oligophaga@Seq_2868)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_373 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4578 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1484 and yHMPu5000034748_Lipomyces_oligophaga@Seq_4532 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5273 and yHMPu5000034748_Lipomyces_oligophaga@Seq_29 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5342 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3574 and yHMPu5000034748_Lipomyces_oligophaga@Seq_389 and yHMPu5000034748_Lipomyces_oligophaga@Seq_725 and yHMPu5000034748_Lipomyces_oligophaga@Seq_1873 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5587 and yHMPu5000034748_Lipomyces_oligophaga@Seq_867 and yHMPu5000034748_Lipomyces_oligophaga@Seq_5180 and yHMPu5000034748_Lipomyces_oligophaga@Seq_3815	  0.00	1000.00	  0.00
 r_0154	s_0298[c] + s_0434[c]  -> s_0201[c] + s_0394[c] + s_0794[c] 		  0.00	1000.00	  0.00
 r_1266	s_1468[e]  -> s_1467[c] 		  0.00	1000.00	  0.00
-r_2446	s_3084[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3109[erm] 		  0.00	1000.00	  0.00
+r_2447	s_3085[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3110[erm] 		  0.00	1000.00	  0.00
+r_2451	s_3089[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3114[erm] 		  0.00	1000.00	  0.00
 r_4764	s_0803[c] + s_1239[c]  <=> s_0359[c] + s_0419[c] + s_1322[c] 		-1000.00	1000.00	  0.00
 r_5197	s_0794[c] + s_4275[c]  <=> s_0796[e] + s_4631[e] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_1799	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3734,3 +3733,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_4308	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	yHMPu5000034748_Lipomyces_oligophaga@Seq_2451	  0.00	1000.00	  0.00

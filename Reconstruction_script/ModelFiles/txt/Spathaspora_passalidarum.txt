@@ -15,6 +15,8 @@ r_0017	s_0148[m] + s_0437[m]  -> s_0006[m] + s_0424[m] + s_0799[m] 	Spathaspora_
 r_0018	s_0176[c] + s_0991[c]  <=> s_0180[c] + s_0953[c] 	Spathaspora_passalidarum@Seq_5414 or Spathaspora_passalidarum@Seq_1358 or Spathaspora_passalidarum@Seq_4007	-1000.00	1000.00	  0.00
 r_0019	s_0149[c] + s_0794[c] + s_1212[c]  -> s_0030[c] + s_1207[c] 	Spathaspora_passalidarum@Seq_2705	  0.00	1000.00	  0.00
 r_0020	s_0552[m] + s_0807[m] + s_1361[m]  -> s_0350[m] + s_1326[m] 	Spathaspora_passalidarum@Seq_4160 or Spathaspora_passalidarum@Seq_500	  0.00	1000.00	  0.00
+r_0021	s_0155[m] + s_1419[m]  -> s_0156[m] + s_0799[m] + s_1415[m] 	Spathaspora_passalidarum@Seq_5589 and Spathaspora_passalidarum@Seq_3466 and Spathaspora_passalidarum@Seq_969 and Spathaspora_passalidarum@Seq_2360 and Spathaspora_passalidarum@Seq_5496 and Spathaspora_passalidarum@Seq_98	  0.00	1000.00	  0.00
+r_0022	s_0157[m] + s_1278[m]  -> s_0155[m] + s_0807[m] 	Spathaspora_passalidarum@Seq_5589 and Spathaspora_passalidarum@Seq_3466 and Spathaspora_passalidarum@Seq_969 and Spathaspora_passalidarum@Seq_2360 and Spathaspora_passalidarum@Seq_5496 and Spathaspora_passalidarum@Seq_98	  0.00	1000.00	  0.00
 r_0023	s_0165[c] + s_0803[c]  <=> s_0162[c] 	Spathaspora_passalidarum@Seq_2790	-1000.00	1000.00	  0.00
 r_0024	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0162[c] + s_0529[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_1384 or Spathaspora_passalidarum@Seq_2927	  0.00	1000.00	  0.00
 r_0025	s_0233[m] + s_0376[m] + s_0807[m]  -> s_0164[m] + s_0532[m] + s_0799[m] 	Spathaspora_passalidarum@Seq_1384 or Spathaspora_passalidarum@Seq_2927	  0.00	1000.00	  0.00
@@ -181,6 +183,7 @@ r_0219	s_0295[c] + s_0794[c] + s_1212[c]  -> s_0978[c] + s_1207[c] + s_1322[c] 	
 r_0220	s_0434[c] + s_0973[c] + s_1587[c]  -> s_0423[c] + s_0432[c] + s_0633[c] 	Spathaspora_passalidarum@Seq_1568	  0.00	1000.00	  0.00
 r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	Spathaspora_passalidarum@Seq_1798	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Spathaspora_passalidarum@Seq_2131	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4732 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_370) or (Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_370) or (Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_4625 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4732 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_5588 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_984 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_3242 and Spathaspora_passalidarum@Seq_2634 and Spathaspora_passalidarum@Seq_370)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Spathaspora_passalidarum@Seq_674	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Spathaspora_passalidarum@Seq_3523	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Spathaspora_passalidarum@Seq_2261	-1000.00	1000.00	  0.00
@@ -301,6 +304,8 @@ r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Spathaspora_passalidarum@Seq_1183 or Spathaspora_passalidarum@Seq_5206 or Spathaspora_passalidarum@Seq_5623 or Spathaspora_passalidarum@Seq_5637	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Spathaspora_passalidarum@Seq_1626	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_590	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Spathaspora_passalidarum@Seq_2166 and Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_4673 and Spathaspora_passalidarum@Seq_5441 and Spathaspora_passalidarum@Seq_1100 and Spathaspora_passalidarum@Seq_2745 and Spathaspora_passalidarum@Seq_974) or (Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_4321 and Spathaspora_passalidarum@Seq_876 and Spathaspora_passalidarum@Seq_3696 and Spathaspora_passalidarum@Seq_3728 and Spathaspora_passalidarum@Seq_1292 and Spathaspora_passalidarum@Seq_574) or (Spathaspora_passalidarum@Seq_627 and Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_4673 and Spathaspora_passalidarum@Seq_5441 and Spathaspora_passalidarum@Seq_1100 and Spathaspora_passalidarum@Seq_2745 and Spathaspora_passalidarum@Seq_974)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Spathaspora_passalidarum@Seq_4184 and Spathaspora_passalidarum@Seq_2629 and Spathaspora_passalidarum@Seq_1288 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_640 and Spathaspora_passalidarum@Seq_546 and Spathaspora_passalidarum@Seq_3150 and Spathaspora_passalidarum@Seq_644 and Spathaspora_passalidarum@Seq_358) or (Spathaspora_passalidarum@Seq_4184 and Spathaspora_passalidarum@Seq_2629 and Spathaspora_passalidarum@Seq_1288 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_640 and Spathaspora_passalidarum@Seq_546 and Spathaspora_passalidarum@Seq_4652 and Spathaspora_passalidarum@Seq_644 and Spathaspora_passalidarum@Seq_358)	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Spathaspora_passalidarum@Seq_1520	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Spathaspora_passalidarum@Seq_5578	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Spathaspora_passalidarum@Seq_1219 or Spathaspora_passalidarum@Seq_2435	  0.00	1000.00	  0.00
@@ -377,6 +382,7 @@ r_0528	s_0434[c] + s_0782[c]  -> s_0394[c] + s_0739[c] 	Spathaspora_passalidarum
 r_0529	s_0586[c] + s_0782[c]  <=> s_0582[c] + s_0739[c] 	Spathaspora_passalidarum@Seq_1131	-1000.00	1000.00	  0.00
 r_0530	s_0812[m] + s_1205[m] + s_1278[m]  -> s_0807[m] + s_0811[m] + s_1200[m] 	Spathaspora_passalidarum@Seq_1137 or (Spathaspora_passalidarum@Seq_5101 and Spathaspora_passalidarum@Seq_1457)	  0.00	1000.00	  0.00
 r_0531	s_0191[m] + s_0712[m] + s_0807[m]  -> s_0636[m] + s_0812[m] 	Spathaspora_passalidarum@Seq_1405	  0.00	1000.00	  0.00
+r_0532	s_0154[m] + s_0799[m] + s_1419[m]  -> s_1415[m] + s_1535[m] 	Spathaspora_passalidarum@Seq_5589 and Spathaspora_passalidarum@Seq_3466 and Spathaspora_passalidarum@Seq_969 and Spathaspora_passalidarum@Seq_2360 and Spathaspora_passalidarum@Seq_5496 and Spathaspora_passalidarum@Seq_98	  0.00	1000.00	  0.00
 r_0533	s_0434[c] + s_0553[c]  -> s_0394[c] + s_0557[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_3832 or Spathaspora_passalidarum@Seq_5598	  0.00	1000.00	  0.00
 r_0534	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_3832 or Spathaspora_passalidarum@Seq_1815 or Spathaspora_passalidarum@Seq_5598	  0.00	1000.00	  0.00
 r_0535	s_0434[c] + s_0571[c]  -> s_0394[c] + s_0574[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_3832 or Spathaspora_passalidarum@Seq_5598	  0.00	1000.00	  0.00
@@ -675,6 +681,7 @@ r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Spathaspora_passalidarum
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Spathaspora_passalidarum@Seq_4959 or Spathaspora_passalidarum@Seq_5085	  0.00	1000.00	  0.00
 r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Spathaspora_passalidarum@Seq_5353 and Spathaspora_passalidarum@Seq_706 and Spathaspora_passalidarum@Seq_1215 and Spathaspora_passalidarum@Seq_4571 and Spathaspora_passalidarum@Seq_1636	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Spathaspora_passalidarum@Seq_4804	  0.00	1000.00	  0.00
+r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Spathaspora_passalidarum@Seq_5589 and Spathaspora_passalidarum@Seq_3466 and Spathaspora_passalidarum@Seq_969 and Spathaspora_passalidarum@Seq_2360 and Spathaspora_passalidarum@Seq_5496 and Spathaspora_passalidarum@Seq_98	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_5082	  0.00	1000.00	  0.00
 r_0966	s_0437[m] + s_1407[m]  -> s_0397[m] + s_0716[m] + s_0799[m] 	Spathaspora_passalidarum@Seq_5082	  0.00	1000.00	  0.00
 r_0967	s_0158[c] + s_0314[c]  -> s_0328[c] + 2 s_0803[c] + s_1322[c] 	Spathaspora_passalidarum@Seq_5453	  0.00	1000.00	  0.00
@@ -693,6 +700,7 @@ r_0979	s_0742[n] + s_1618[n]  -> s_0614[n] + s_0808[n] + s_1622[n] 	Spathaspora_
 r_0982	s_0577[c]  <=> s_1408[c] 	Spathaspora_passalidarum@Seq_1132	-1000.00	1000.00	  0.00
 r_0983	s_0434[c] + s_1218[c]  -> s_0394[c] + s_0794[c] + s_1224[c] 	Spathaspora_passalidarum@Seq_258	  0.00	1000.00	  0.00
 r_0984	s_0577[c]  <=> s_0581[c] 	Spathaspora_passalidarum@Seq_1628	-1000.00	1000.00	  0.00
+r_0985	s_0213[m] + s_1419[m]  -> s_0214[m] + s_0799[m] + s_1415[m] 	Spathaspora_passalidarum@Seq_5589 and Spathaspora_passalidarum@Seq_3466 and Spathaspora_passalidarum@Seq_969 and Spathaspora_passalidarum@Seq_2360 and Spathaspora_passalidarum@Seq_5496 and Spathaspora_passalidarum@Seq_98	  0.00	1000.00	  0.00
 r_0986	s_1416[c] + s_1569[c]  -> s_0700[c] + s_0794[c] + s_1413[c] 	Spathaspora_passalidarum@Seq_5488	  0.00	1000.00	  0.00
 r_0987	s_0803[c] + s_1421[c]  <=> s_0722[c] + s_0750[c] + s_0794[c] 	Spathaspora_passalidarum@Seq_1095	-1000.00	1000.00	  0.00
 r_0988	s_0803[c] + s_1038[c] + s_1198[c]  -> s_0180[c] + s_0794[c] + s_1025[c] + s_1203[c] 	Spathaspora_passalidarum@Seq_2101	  0.00	1000.00	  0.00
@@ -1894,6 +1902,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Spathaspora_passalidaru
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Spathaspora_passalidarum@Seq_2320	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Spathaspora_passalidarum@Seq_2334 or Spathaspora_passalidarum@Seq_2495 or Spathaspora_passalidarum@Seq_2710 or Spathaspora_passalidarum@Seq_2779 or Spathaspora_passalidarum@Seq_4054 or Spathaspora_passalidarum@Seq_5246 or Spathaspora_passalidarum@Seq_5269 or Spathaspora_passalidarum@Seq_5479	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Spathaspora_passalidarum@Seq_2334 or Spathaspora_passalidarum@Seq_2495 or Spathaspora_passalidarum@Seq_2710 or Spathaspora_passalidarum@Seq_2779 or Spathaspora_passalidarum@Seq_4054 or Spathaspora_passalidarum@Seq_5246 or Spathaspora_passalidarum@Seq_5269 or Spathaspora_passalidarum@Seq_5479	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Spathaspora_passalidarum@Seq_2786 and Spathaspora_passalidarum@Seq_3985 and Spathaspora_passalidarum@Seq_3540 and Spathaspora_passalidarum@Seq_2870 and Spathaspora_passalidarum@Seq_3809 and Spathaspora_passalidarum@Seq_1016 and Spathaspora_passalidarum@Seq_3677 and Spathaspora_passalidarum@Seq_3792 and Spathaspora_passalidarum@Seq_4992 and Spathaspora_passalidarum@Seq_2061) or (Spathaspora_passalidarum@Seq_2786 and Spathaspora_passalidarum@Seq_3985 and Spathaspora_passalidarum@Seq_3540 and Spathaspora_passalidarum@Seq_2870 and Spathaspora_passalidarum@Seq_3809 and Spathaspora_passalidarum@Seq_1016 and Spathaspora_passalidarum@Seq_3677 and Spathaspora_passalidarum@Seq_3792 and Spathaspora_passalidarum@Seq_5530 and Spathaspora_passalidarum@Seq_2061)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Spathaspora_passalidarum@Seq_2786 and Spathaspora_passalidarum@Seq_3985 and Spathaspora_passalidarum@Seq_3540 and Spathaspora_passalidarum@Seq_2870 and Spathaspora_passalidarum@Seq_3809 and Spathaspora_passalidarum@Seq_1016 and Spathaspora_passalidarum@Seq_3677 and Spathaspora_passalidarum@Seq_3792 and Spathaspora_passalidarum@Seq_4992 and Spathaspora_passalidarum@Seq_2061) or (Spathaspora_passalidarum@Seq_2786 and Spathaspora_passalidarum@Seq_3985 and Spathaspora_passalidarum@Seq_3540 and Spathaspora_passalidarum@Seq_2870 and Spathaspora_passalidarum@Seq_3809 and Spathaspora_passalidarum@Seq_1016 and Spathaspora_passalidarum@Seq_3677 and Spathaspora_passalidarum@Seq_3792 and Spathaspora_passalidarum@Seq_5530 and Spathaspora_passalidarum@Seq_2061)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3278,8 +3288,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3411,7 +3421,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Spathaspora
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Spathaspora_passalidarum@Seq_3453	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Spathaspora_passalidarum@Seq_3453	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Spathaspora_passalidarum@Seq_1402 or Spathaspora_passalidarum@Seq_2263	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Spathaspora_passalidarum@Seq_1779 or Spathaspora_passalidarum@Seq_3142 or Spathaspora_passalidarum@Seq_3778 or Spathaspora_passalidarum@Seq_4852 or Spathaspora_passalidarum@Seq_798	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Spathaspora_passalidarum@Seq_5396	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Spathaspora_passalidarum@Seq_5396	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Spathaspora_passalidarum@Seq_786	-1000.00	1000.00	  0.00
@@ -3828,8 +3837,6 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Spathaspora_passalidarum@Seq_3746	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Spathaspora_passalidarum@Seq_1746	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Spathaspora_passalidarum@Seq_2584	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Spathaspora_passalidarum@Seq_4046	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Spathaspora_passalidarum@Seq_4358	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Spathaspora_passalidarum@Seq_229	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Spathaspora_passalidarum@Seq_650	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Spathaspora_passalidarum@Seq_2162 or Spathaspora_passalidarum@Seq_595	  0.00	1000.00	  0.00
@@ -3850,15 +3857,13 @@ r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Spathaspora
 r_4704	s_0794[c] + s_1212[c] + s_1275[c] + s_4495[c]  -> s_0803[c] + s_1207[c] + s_4405[c] 	Spathaspora_passalidarum@Seq_2136	  0.00	1000.00	  0.00
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Spathaspora_passalidarum@Seq_3032 or Spathaspora_passalidarum@Seq_4036	-1000.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Spathaspora_passalidarum@Seq_4472	-1000.00	1000.00	  0.00
-r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Spathaspora_passalidarum@Seq_533	  0.00	1000.00	  0.00
+r_4723	s_1275[c] + s_4405[c]  -> 2 s_0794[c] + s_4484[c] 	Spathaspora_passalidarum@Seq_1385 or Spathaspora_passalidarum@Seq_533	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Spathaspora_passalidarum@Seq_160	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Spathaspora_passalidarum@Seq_3003 or Spathaspora_passalidarum@Seq_589 or Spathaspora_passalidarum@Seq_2168	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Spathaspora_passalidarum@Seq_589 or Spathaspora_passalidarum@Seq_3003 or Spathaspora_passalidarum@Seq_2168	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Spathaspora_passalidarum@Seq_99	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Spathaspora_passalidarum@Seq_1925	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Spathaspora_passalidarum@Seq_5099	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Spathaspora_passalidarum@Seq_757	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Spathaspora_passalidarum@Seq_5421	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Spathaspora_passalidarum@Seq_4228	  0.00	1000.00	  0.00
 r_4838	2 s_0794[c] + s_1203[c] + s_1275[c] + s_4406[c]  -> s_0456[c] + s_0803[c] + s_1198[c] + s_4405[c] 	Spathaspora_passalidarum@Seq_4217 or Spathaspora_passalidarum@Seq_353	  0.00	1000.00	  0.00
@@ -3866,9 +3871,6 @@ r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	
 r_4866	s_1275[c] + s_4390[c]  -> s_0794[c] + s_4389[c] 	Spathaspora_passalidarum@Seq_817	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Spathaspora_passalidarum@Seq_4585	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Spathaspora_passalidarum@Seq_3428	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Spathaspora_passalidarum@Seq_2929 or Spathaspora_passalidarum@Seq_561	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Spathaspora_passalidarum@Seq_2998	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Spathaspora_passalidarum@Seq_3706	  0.00	1000.00	  0.00
@@ -3876,8 +3878,8 @@ r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Spathaspora_passalidarum
 r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	Spathaspora_passalidarum@Seq_2732	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Spathaspora_passalidarum@Seq_1746	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Spathaspora_passalidarum@Seq_3706	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Spathaspora_passalidarum@Seq_1144 or Spathaspora_passalidarum@Seq_1637 or Spathaspora_passalidarum@Seq_2084 or Spathaspora_passalidarum@Seq_2615 or Spathaspora_passalidarum@Seq_3246 or Spathaspora_passalidarum@Seq_4339 or Spathaspora_passalidarum@Seq_4623 or Spathaspora_passalidarum@Seq_96	-1000.00	1000.00	  0.00
+r_5008	s_1275[c] + s_4258[c]  -> 2 s_0794[c] + s_4257[c] 	Spathaspora_passalidarum@Seq_1385	  0.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Spathaspora_passalidarum@Seq_1144 or Spathaspora_passalidarum@Seq_1637 or Spathaspora_passalidarum@Seq_2084 or Spathaspora_passalidarum@Seq_2615 or Spathaspora_passalidarum@Seq_3246 or Spathaspora_passalidarum@Seq_4339 or Spathaspora_passalidarum@Seq_4623 or Spathaspora_passalidarum@Seq_96	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Spathaspora_passalidarum@Seq_3642 or Spathaspora_passalidarum@Seq_1313	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Spathaspora_passalidarum@Seq_4254	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Spathaspora_passalidarum@Seq_4254	-1000.00	1000.00	  0.00
@@ -3887,7 +3889,6 @@ r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Spathaspora
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Spathaspora_passalidarum@Seq_4504	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Spathaspora_passalidarum@Seq_4504	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Spathaspora_passalidarum@Seq_99	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Spathaspora_passalidarum@Seq_1779 or Spathaspora_passalidarum@Seq_3142 or Spathaspora_passalidarum@Seq_3778 or Spathaspora_passalidarum@Seq_4852 or Spathaspora_passalidarum@Seq_798	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Spathaspora_passalidarum@Seq_2998	-1000.00	1000.00	  0.00
 r_0739	s_0018[c] + s_0434[c]  -> s_0394[c] + s_0456[c] + s_0943[c] + s_1322[c] 	Spathaspora_passalidarum@Seq_493	  0.00	1000.00	  0.00
@@ -3896,14 +3897,11 @@ r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] +
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Spathaspora_passalidarum@Seq_2222	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Spathaspora_passalidarum@Seq_5138	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	Spathaspora_passalidarum@Seq_5138	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_1100 and Spathaspora_passalidarum@Seq_4673 and Spathaspora_passalidarum@Seq_5441 and Spathaspora_passalidarum@Seq_2166 and Spathaspora_passalidarum@Seq_974 and Spathaspora_passalidarum@Seq_2745) or (Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_1100 and Spathaspora_passalidarum@Seq_4673 and Spathaspora_passalidarum@Seq_5441 and Spathaspora_passalidarum@Seq_627 and Spathaspora_passalidarum@Seq_974 and Spathaspora_passalidarum@Seq_2745) or (Spathaspora_passalidarum@Seq_2216 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_4321 and Spathaspora_passalidarum@Seq_876 and Spathaspora_passalidarum@Seq_3696 and Spathaspora_passalidarum@Seq_574 and Spathaspora_passalidarum@Seq_3728 and Spathaspora_passalidarum@Seq_1292)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	(Spathaspora_passalidarum@Seq_4184 and Spathaspora_passalidarum@Seq_2629 and Spathaspora_passalidarum@Seq_1288 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_640 and Spathaspora_passalidarum@Seq_546 and Spathaspora_passalidarum@Seq_3150 and Spathaspora_passalidarum@Seq_644 and Spathaspora_passalidarum@Seq_358) or (Spathaspora_passalidarum@Seq_4184 and Spathaspora_passalidarum@Seq_2629 and Spathaspora_passalidarum@Seq_1288 and Spathaspora_passalidarum@Seq_710 and Spathaspora_passalidarum@Seq_640 and Spathaspora_passalidarum@Seq_546 and Spathaspora_passalidarum@Seq_4652 and Spathaspora_passalidarum@Seq_644 and Spathaspora_passalidarum@Seq_358)	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4732 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_370) or (Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_370) or (Spathaspora_passalidarum@Seq_41 and Spathaspora_passalidarum@Seq_2312 and Spathaspora_passalidarum@Seq_3650 and Spathaspora_passalidarum@Seq_5193 and Spathaspora_passalidarum@Seq_4732 and Spathaspora_passalidarum@Seq_4847 and Spathaspora_passalidarum@Seq_251 and Spathaspora_passalidarum@Seq_4723 and Spathaspora_passalidarum@Seq_1580 and Spathaspora_passalidarum@Seq_3673 and Spathaspora_passalidarum@Seq_370 and Spathaspora_passalidarum@Seq_5588 and Spathaspora_passalidarum@Seq_984 and Spathaspora_passalidarum@Seq_3242 and Spathaspora_passalidarum@Seq_2634 and Spathaspora_passalidarum@Seq_4625)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Spathaspora_passalidarum@Seq_5284 and Spathaspora_passalidarum@Seq_4692 and Spathaspora_passalidarum@Seq_2458 and Spathaspora_passalidarum@Seq_2687 and Spathaspora_passalidarum@Seq_4120 and Spathaspora_passalidarum@Seq_3019 and Spathaspora_passalidarum@Seq_4063 and Spathaspora_passalidarum@Seq_420 and Spathaspora_passalidarum@Seq_4157 and Spathaspora_passalidarum@Seq_1563 and Spathaspora_passalidarum@Seq_666 and Spathaspora_passalidarum@Seq_4126 and Spathaspora_passalidarum@Seq_3032 and Spathaspora_passalidarum@Seq_1594 and Spathaspora_passalidarum@Seq_1202 and Spathaspora_passalidarum@Seq_1893 and Spathaspora_passalidarum@Seq_5577 and Spathaspora_passalidarum@Seq_4937 and Spathaspora_passalidarum@Seq_904 and Spathaspora_passalidarum@Seq_1915 and Spathaspora_passalidarum@Seq_113	  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Spathaspora_passalidarum@Seq_1779 or Spathaspora_passalidarum@Seq_4852 or Spathaspora_passalidarum@Seq_798	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Spathaspora_passalidarum@Seq_2339	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	Spathaspora_passalidarum@Seq_4604	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
@@ -3923,3 +3921,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Spathaspora_passalidarum@Seq_2688	  0.00	1000.00	  0.00

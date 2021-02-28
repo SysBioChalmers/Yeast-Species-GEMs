@@ -160,7 +160,7 @@ r_0194	s_0803[c] + s_1520[c]  -> 2 s_0563[c] 	Metschnikowia_matae@Seq_7041	  0.0
 r_0195	s_0568[c] + s_1543[c]  -> s_0409[c] + s_0794[c] + s_1538[c] 	Metschnikowia_matae@Seq_591 and Metschnikowia_matae@Seq_5146 and Metschnikowia_matae@Seq_7094	  0.00	1000.00	  0.00
 r_0198	s_0803[c] + s_1105[c]  -> 2 s_0563[c] 	Metschnikowia_matae@Seq_3387	  0.00	1000.00	  0.00
 r_0199	s_0280[c] + s_0803[c]  -> s_0281[c] + s_0419[c] 	Metschnikowia_matae@Seq_3743	  0.00	1000.00	  0.00
-r_0200	s_0418[c] + s_0803[c] + s_1275[c]  -> s_0419[c] + s_0837[c] + s_1151[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
+r_0200	s_0418[c] + s_0803[c] + s_1275[c]  -> s_0419[c] + s_0837[c] + s_1151[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
 r_0201	s_0275[m] + s_0807[m] + s_1200[m]  -> s_0738[m] + 2 s_0799[m] + s_1205[m] 	Metschnikowia_matae@Seq_4445	  0.00	1000.00	  0.00
 r_0202	s_0427[c] + s_1386[c]  -> s_0633[c] + s_1187[c] 	Metschnikowia_matae@Seq_3952	  0.00	1000.00	  0.00
 r_0203	s_0515[c] + s_0999[c]  -> s_0427[c] + s_0794[c] + s_0991[c] + s_1399[c] 	Metschnikowia_matae@Seq_2688 and Metschnikowia_matae@Seq_6555	  0.00	1000.00	  0.00
@@ -186,6 +186,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Metschnikowi
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Metschnikowia_matae@Seq_4384	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Metschnikowia_matae@Seq_4384	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Metschnikowia_matae@Seq_7230	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1189 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1108 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_2546 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3355 and Metschnikowia_matae@Seq_2326 and Metschnikowia_matae@Seq_3147) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1189 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1476 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_2546 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3355 and Metschnikowia_matae@Seq_2326 and Metschnikowia_matae@Seq_3147) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147 and Metschnikowia_matae@Seq_4095) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Metschnikowia_matae@Seq_1233	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Metschnikowia_matae@Seq_3348	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Metschnikowia_matae@Seq_2755	-1000.00	1000.00	  0.00
@@ -307,6 +308,8 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Metschnikowia_matae@Seq_2983 or Metschnikowia_matae@Seq_4130 or Metschnikowia_matae@Seq_5050	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Metschnikowia_matae@Seq_2983 or Metschnikowia_matae@Seq_4130 or Metschnikowia_matae@Seq_5050	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Metschnikowia_matae@Seq_4996	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_matae@Seq_3502 and Metschnikowia_matae@Seq_5843 and Metschnikowia_matae@Seq_5400 and Metschnikowia_matae@Seq_328 and Metschnikowia_matae@Seq_5714 and Metschnikowia_matae@Seq_152 and Metschnikowia_matae@Seq_3066 and Metschnikowia_matae@Seq_3635) or (Metschnikowia_matae@Seq_4840 and Metschnikowia_matae@Seq_3502 and Metschnikowia_matae@Seq_4502 and Metschnikowia_matae@Seq_3651 and Metschnikowia_matae@Seq_5266 and Metschnikowia_matae@Seq_4642)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_matae@Seq_7247 and Metschnikowia_matae@Seq_4899 and Metschnikowia_matae@Seq_7211 and Metschnikowia_matae@Seq_5843 and Metschnikowia_matae@Seq_4324 and Metschnikowia_matae@Seq_2643 and Metschnikowia_matae@Seq_5528 and Metschnikowia_matae@Seq_6241 and Metschnikowia_matae@Seq_2476 and Metschnikowia_matae@Seq_506	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Metschnikowia_matae@Seq_6499	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Metschnikowia_matae@Seq_5378	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Metschnikowia_matae@Seq_3171	  0.00	1000.00	  0.00
@@ -670,6 +673,7 @@ r_0957	s_0118[c] + 2 s_0794[c] + s_1212[c]  -> s_1035[c] + s_1207[c] 	Metschniko
 r_0958	s_0434[c] + s_0445[c] + s_1399[c]  -> s_0394[c] + s_0794[c] + s_1271[c] + s_1322[c] 	Metschnikowia_matae@Seq_1396 or Metschnikowia_matae@Seq_3354 or Metschnikowia_matae@Seq_404 or Metschnikowia_matae@Seq_4607 or Metschnikowia_matae@Seq_5562	  0.00	1000.00	  0.00
 r_0959	s_0794[c] + s_1399[c]  -> s_0359[c] + s_0456[c] 	Metschnikowia_matae@Seq_3435	  0.00	1000.00	  0.00
 r_0960	s_0359[c] + s_0794[c] + s_1399[c]  -> s_0020[c] + s_0456[c] 	Metschnikowia_matae@Seq_3435	  0.00	1000.00	  0.00
+r_0961	s_0532[m] + s_1200[m] + s_1401[m]  -> s_0376[m] + s_0460[m] + s_1205[m] 	Metschnikowia_matae@Seq_5229 and Metschnikowia_matae@Seq_3970 and Metschnikowia_matae@Seq_370 and Metschnikowia_matae@Seq_1680	  0.00	1000.00	  0.00
 r_0962	s_0394[c] + s_0794[c] + s_1360[c]  -> s_0434[c] + s_1399[c] 	Metschnikowia_matae@Seq_5054	  0.00	1000.00	  0.00
 r_0963	s_0156[m] + s_0799[m] + s_1205[m] + s_1278[m]  -> s_0154[m] + s_0807[m] + s_1200[m] 	Metschnikowia_matae@Seq_595 and Metschnikowia_matae@Seq_6112 and Metschnikowia_matae@Seq_1555 and Metschnikowia_matae@Seq_3455 and Metschnikowia_matae@Seq_5731 and Metschnikowia_matae@Seq_252 and Metschnikowia_matae@Seq_3859	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Metschnikowia_matae@Seq_99	  0.00	1000.00	  0.00
@@ -1852,6 +1856,8 @@ r_4039	s_0365[m] + s_1464[m]  <=> s_0376[m] + s_1460[m] 	Metschnikowia_matae@Seq
 r_4045	s_0803[c] + s_1556[c]  -> s_0575[c] + s_1550[c] 	Metschnikowia_matae@Seq_3954	  0.00	1000.00	  0.00
 r_0964	s_0434[c] + s_0750[c] + s_0803[c]  -> s_0394[c] + s_0753[v] + s_0794[c] + s_1322[c] 	Metschnikowia_matae@Seq_1030 or Metschnikowia_matae@Seq_1032 or Metschnikowia_matae@Seq_1931 or Metschnikowia_matae@Seq_2145 or Metschnikowia_matae@Seq_2386 or Metschnikowia_matae@Seq_2480	  0.00	1000.00	  0.00
 r_1028	s_0434[c] + s_0803[c] + s_1473[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_1474[v] 	Metschnikowia_matae@Seq_1030 or Metschnikowia_matae@Seq_1032 or Metschnikowia_matae@Seq_1931 or Metschnikowia_matae@Seq_2145 or Metschnikowia_matae@Seq_2386 or Metschnikowia_matae@Seq_2480	  0.00	1000.00	  0.00
+r_1085	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0797[g] + s_1322[c] 	(Metschnikowia_matae@Seq_5677 and Metschnikowia_matae@Seq_489 and Metschnikowia_matae@Seq_1014 and Metschnikowia_matae@Seq_5255 and Metschnikowia_matae@Seq_543 and Metschnikowia_matae@Seq_3154 and Metschnikowia_matae@Seq_6577 and Metschnikowia_matae@Seq_1435 and Metschnikowia_matae@Seq_6835 and Metschnikowia_matae@Seq_17 and Metschnikowia_matae@Seq_3911 and Metschnikowia_matae@Seq_4479) or (Metschnikowia_matae@Seq_5677 and Metschnikowia_matae@Seq_489 and Metschnikowia_matae@Seq_1014 and Metschnikowia_matae@Seq_5255 and Metschnikowia_matae@Seq_543 and Metschnikowia_matae@Seq_3154 and Metschnikowia_matae@Seq_6577 and Metschnikowia_matae@Seq_1435 and Metschnikowia_matae@Seq_6835 and Metschnikowia_matae@Seq_90 and Metschnikowia_matae@Seq_3911 and Metschnikowia_matae@Seq_4479)	  0.00	1000.00	  0.00
+r_1086	s_0434[c] + s_0794[c] + s_0803[c]  -> s_0394[c] + 2 s_0802[v] + s_1322[c] 	(Metschnikowia_matae@Seq_5677 and Metschnikowia_matae@Seq_489 and Metschnikowia_matae@Seq_1014 and Metschnikowia_matae@Seq_5255 and Metschnikowia_matae@Seq_543 and Metschnikowia_matae@Seq_3154 and Metschnikowia_matae@Seq_6577 and Metschnikowia_matae@Seq_1435 and Metschnikowia_matae@Seq_6835 and Metschnikowia_matae@Seq_17 and Metschnikowia_matae@Seq_3911 and Metschnikowia_matae@Seq_4479) or (Metschnikowia_matae@Seq_5677 and Metschnikowia_matae@Seq_489 and Metschnikowia_matae@Seq_1014 and Metschnikowia_matae@Seq_5255 and Metschnikowia_matae@Seq_543 and Metschnikowia_matae@Seq_3154 and Metschnikowia_matae@Seq_6577 and Metschnikowia_matae@Seq_1435 and Metschnikowia_matae@Seq_6835 and Metschnikowia_matae@Seq_90 and Metschnikowia_matae@Seq_3911 and Metschnikowia_matae@Seq_4479)	  0.00	1000.00	  0.00
 r_1096	s_0029[e]  <=> s_0028[c] 		-1000.00	1000.00	  0.00
 r_1097	s_0035[c]  <=> s_0036[e] 		-1000.00	1000.00	  0.00
 r_1098	s_0172[c]  -> s_0173[e] 		  0.00	1000.00	  0.00
@@ -3153,8 +3159,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3278,7 +3284,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Metschnikowia_matae@Seq_
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Metschnikowia_matae@Seq_5368	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Metschnikowia_matae@Seq_840	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Metschnikowia_matae@Seq_6297 or Metschnikowia_matae@Seq_92	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Metschnikowia_matae@Seq_6436 or Metschnikowia_matae@Seq_3115	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Metschnikowia_matae@Seq_3004	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Metschnikowia_matae@Seq_3004	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Metschnikowia_matae@Seq_3920	-1000.00	1000.00	  0.00
@@ -3317,6 +3322,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Metschnikowia_matae@Seq_3792	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Metschnikowia_matae@Seq_4382	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Metschnikowia_matae@Seq_3086	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Metschnikowia_matae@Seq_4331 and Metschnikowia_matae@Seq_5658 and Metschnikowia_matae@Seq_5773 and Metschnikowia_matae@Seq_1102	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Metschnikowia_matae@Seq_1608	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Metschnikowia_matae@Seq_5269 or Metschnikowia_matae@Seq_5779 or Metschnikowia_matae@Seq_799	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Metschnikowia_matae@Seq_3465	  0.00	1000.00	  0.00
@@ -3698,17 +3704,15 @@ r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Metschnikowia_matae@Seq_5348	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Metschnikowia_matae@Seq_3565	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Metschnikowia_matae@Seq_5328	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Metschnikowia_matae@Seq_725	-1000.00	1000.00	  0.00
-r_4656	s_0803[c] + s_1198[c] + s_4516[c]  -> 2 s_0794[c] + s_1203[c] + s_4515[c] 	Metschnikowia_matae@Seq_3811	  0.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Metschnikowia_matae@Seq_5879	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Metschnikowia_matae@Seq_4975	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Metschnikowia_matae@Seq_5209	  0.00	1000.00	  0.00
 r_4664	s_0803[c] + s_4483[c]  -> s_1389[c] + s_1552[c] 	Metschnikowia_matae@Seq_1868 or Metschnikowia_matae@Seq_5123	  0.00	1000.00	  0.00
 r_4671	s_1207[c] + s_4251[c]  <=> s_0794[c] + s_1212[c] + s_4352[c] 	Metschnikowia_matae@Seq_5047	-1000.00	1000.00	  0.00
-r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
-r_4674	s_0803[c] + s_1275[c] + s_4449[c]  -> s_0419[c] + s_0837[c] + s_1318[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
-r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
-r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
+r_4673	s_0803[c] + s_1275[c] + s_4457[c]  -> s_0419[c] + s_0837[c] + s_4507[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
+r_4674	s_0803[c] + s_1275[c] + s_4449[c]  -> s_0419[c] + s_0837[c] + s_1318[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
+r_4675	s_0803[c] + s_1275[c] + s_1526[c]  -> s_0208[c] + s_0419[c] + s_0837[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
+r_4676	s_0803[c] + s_1275[c] + s_4455[c]  -> s_0419[c] + s_0837[c] + s_4215[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
 r_4677	s_1416[c] + s_4474[c]  -> s_0794[c] + s_1413[c] + s_4472[c] 	Metschnikowia_matae@Seq_235	  0.00	1000.00	  0.00
 r_4678	s_1416[c] + s_4473[c]  -> s_0794[c] + s_1413[c] + s_4471[c] 	Metschnikowia_matae@Seq_235	  0.00	1000.00	  0.00
 r_4679	s_1416[c] + s_4455[c]  -> s_0794[c] + s_1413[c] + s_4506[c] 	Metschnikowia_matae@Seq_235	  0.00	1000.00	  0.00
@@ -3718,13 +3722,11 @@ r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Metschnikow
 r_4705	s_1153[c] + s_1198[c]  <=> s_0794[c] + s_1203[c] + s_4476[c] 	Metschnikowia_matae@Seq_6143 or Metschnikowia_matae@Seq_137	-1000.00	1000.00	  0.00
 r_4725	s_0803[c] + s_1207[c] + s_4416[c]  -> 2 s_0794[c] + s_1212[c] + s_4466[c] 	Metschnikowia_matae@Seq_3	  0.00	1000.00	  0.00
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Metschnikowia_matae@Seq_5735	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_matae@Seq_4936 or Metschnikowia_matae@Seq_2628 or Metschnikowia_matae@Seq_2986	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Metschnikowia_matae@Seq_2628 or Metschnikowia_matae@Seq_4936 or Metschnikowia_matae@Seq_2986	  0.00	1000.00	  0.00
 r_4760	s_0578[c] + s_1207[c]  <=> s_0794[c] + s_1212[c] + s_4467[c] 	Metschnikowia_matae@Seq_5258	-1000.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Metschnikowia_matae@Seq_3725	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Metschnikowia_matae@Seq_5951	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Metschnikowia_matae@Seq_296	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Metschnikowia_matae@Seq_5152	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Metschnikowia_matae@Seq_4817	  0.00	1000.00	  0.00
 r_4843	s_0803[c] + s_1151[c]  -> s_0025[c] + s_0794[c] 	Metschnikowia_matae@Seq_2387 or Metschnikowia_matae@Seq_3362 or Metschnikowia_matae@Seq_565 or Metschnikowia_matae@Seq_612	  0.00	1000.00	  0.00
@@ -3734,19 +3736,15 @@ r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] +
 r_4868	s_0232[c] + s_0373[c] + s_0803[c]  -> s_0529[c] + s_0794[c] + s_4388[c] 	Metschnikowia_matae@Seq_3410	  0.00	1000.00	  0.00
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Metschnikowia_matae@Seq_5069	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Metschnikowia_matae@Seq_1440	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Metschnikowia_matae@Seq_1868 or Metschnikowia_matae@Seq_5123	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Metschnikowia_matae@Seq_4858	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Metschnikowia_matae@Seq_2656	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Metschnikowia_matae@Seq_7155	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Metschnikowia_matae@Seq_3565	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Metschnikowia_matae@Seq_2656	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Metschnikowia_matae@Seq_1122 or Metschnikowia_matae@Seq_121 or Metschnikowia_matae@Seq_2509 or Metschnikowia_matae@Seq_3399 or Metschnikowia_matae@Seq_4401 or Metschnikowia_matae@Seq_531 or Metschnikowia_matae@Seq_6134 or Metschnikowia_matae@Seq_6782	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Metschnikowia_matae@Seq_1122 or Metschnikowia_matae@Seq_121 or Metschnikowia_matae@Seq_2509 or Metschnikowia_matae@Seq_3399 or Metschnikowia_matae@Seq_4401 or Metschnikowia_matae@Seq_531 or Metschnikowia_matae@Seq_6134 or Metschnikowia_matae@Seq_6782	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Metschnikowia_matae@Seq_1958	-1000.00	1000.00	  0.00
-r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Metschnikowia_matae@Seq_6718 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515	  0.00	1000.00	  0.00
+r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Metschnikowia_matae@Seq_2548 or Metschnikowia_matae@Seq_1515 or Metschnikowia_matae@Seq_1829 or Metschnikowia_matae@Seq_6718	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Metschnikowia_matae@Seq_235	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Metschnikowia_matae@Seq_235	-1000.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Metschnikowia_matae@Seq_6741	  0.00	1000.00	  0.00
@@ -3757,28 +3755,24 @@ r_5118	s_0803[c] + s_1198[c] + s_4416[c]  <=> 2 s_0794[c] + s_1203[c] + s_4466[c
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_matae@Seq_7102	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Metschnikowia_matae@Seq_7102	-1000.00	1000.00	  0.00
 r_5131	s_1207[c] + s_4563[c]  -> s_0794[c] + s_1212[c] + s_4564[c] 	Metschnikowia_matae@Seq_5258	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Metschnikowia_matae@Seq_6436 or Metschnikowia_matae@Seq_3115	-1000.00	1000.00	  0.00
 r_5180	2 s_0794[c] + 2 s_0803[c] + 2 s_3846[c]  <=> s_1275[c] + 2 s_3847[c] 	Metschnikowia_matae@Seq_3466	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Metschnikowia_matae@Seq_4858	-1000.00	1000.00	  0.00
 r_0109	s_0373[c] + s_0434[c] + s_0445[c]  -> s_0394[c] + s_0794[c] + s_1101[c] + s_1322[c] 	Metschnikowia_matae@Seq_2704 or Metschnikowia_matae@Seq_5712	  0.00	1000.00	  0.00
-r_0545	s_0836[m] + s_1200[m]  -> s_0177[m] + s_0460[m] + s_0799[m] + s_1205[m] 	Metschnikowia_matae@Seq_4857	  0.00	1000.00	  0.00
-r_0739	s_0018[c] + s_0434[c]  -> s_0394[c] + s_0456[c] + s_0943[c] + s_1322[c] 	Metschnikowia_matae@Seq_1578	  0.00	1000.00	  0.00
+r_0545	s_0836[m] + s_1200[m]  -> s_0177[m] + s_0460[m] + s_0799[m] + s_1205[m] 		  0.00	1000.00	  0.00
+r_0739	s_0018[c] + s_0434[c]  -> s_0394[c] + s_0456[c] + s_0943[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0821	s_0794[c] + s_1270[c]  -> s_0456[c] + s_1545[c] 	Metschnikowia_matae@Seq_3100	  0.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Metschnikowia_matae@Seq_856	  0.00	1000.00	  0.00
 r_1011	s_0795[er] + s_1213[er] + s_1276[er] + s_1448[er]  -> s_0038[er] + s_0804[er] + s_1208[er] 	Metschnikowia_matae@Seq_5068	  0.00	1000.00	  0.00
-r_0667	s_0943[c]  <=> s_1376[c] 	Metschnikowia_matae@Seq_4486	-1000.00	1000.00	  0.00
+r_0667	s_0943[c]  <=> s_1376[c] 		-1000.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Metschnikowia_matae@Seq_3452	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Metschnikowia_matae@Seq_3502 and Metschnikowia_matae@Seq_5843 and Metschnikowia_matae@Seq_5400 and Metschnikowia_matae@Seq_328 and Metschnikowia_matae@Seq_5714 and Metschnikowia_matae@Seq_3635 and Metschnikowia_matae@Seq_152 and Metschnikowia_matae@Seq_3066) or (Metschnikowia_matae@Seq_3502 and Metschnikowia_matae@Seq_5266 and Metschnikowia_matae@Seq_4502 and Metschnikowia_matae@Seq_3651 and Metschnikowia_matae@Seq_4840 and Metschnikowia_matae@Seq_4642)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Metschnikowia_matae@Seq_7247 and Metschnikowia_matae@Seq_4899 and Metschnikowia_matae@Seq_7211 and Metschnikowia_matae@Seq_5843 and Metschnikowia_matae@Seq_4324 and Metschnikowia_matae@Seq_2643 and Metschnikowia_matae@Seq_5528 and Metschnikowia_matae@Seq_6241 and Metschnikowia_matae@Seq_2476 and Metschnikowia_matae@Seq_506	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147 and Metschnikowia_matae@Seq_4095) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147 and Metschnikowia_matae@Seq_1108 and Metschnikowia_matae@Seq_2546 and Metschnikowia_matae@Seq_3355 and Metschnikowia_matae@Seq_2326 and Metschnikowia_matae@Seq_1189) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147 and Metschnikowia_matae@Seq_1476 and Metschnikowia_matae@Seq_2546 and Metschnikowia_matae@Seq_3355 and Metschnikowia_matae@Seq_2326 and Metschnikowia_matae@Seq_1189) or (Metschnikowia_matae@Seq_2811 and Metschnikowia_matae@Seq_6281 and Metschnikowia_matae@Seq_1446 and Metschnikowia_matae@Seq_6129 and Metschnikowia_matae@Seq_6659 and Metschnikowia_matae@Seq_4557 and Metschnikowia_matae@Seq_1629 and Metschnikowia_matae@Seq_5814 and Metschnikowia_matae@Seq_308 and Metschnikowia_matae@Seq_4431 and Metschnikowia_matae@Seq_3147)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Metschnikowia_matae@Seq_5621 and Metschnikowia_matae@Seq_7132 and Metschnikowia_matae@Seq_6581 and Metschnikowia_matae@Seq_4210 and Metschnikowia_matae@Seq_139 and Metschnikowia_matae@Seq_2454 and Metschnikowia_matae@Seq_4312 and Metschnikowia_matae@Seq_4747 and Metschnikowia_matae@Seq_5108 and Metschnikowia_matae@Seq_2907 and Metschnikowia_matae@Seq_83 and Metschnikowia_matae@Seq_2796 and Metschnikowia_matae@Seq_1732 and Metschnikowia_matae@Seq_2305 and Metschnikowia_matae@Seq_3541 and Metschnikowia_matae@Seq_3244 and Metschnikowia_matae@Seq_1498 and Metschnikowia_matae@Seq_5875 and Metschnikowia_matae@Seq_3177 and Metschnikowia_matae@Seq_4441 and Metschnikowia_matae@Seq_2058 and Metschnikowia_matae@Seq_1892 and Metschnikowia_matae@Seq_564) or (Metschnikowia_matae@Seq_5621 and Metschnikowia_matae@Seq_7132 and Metschnikowia_matae@Seq_6581 and Metschnikowia_matae@Seq_4210 and Metschnikowia_matae@Seq_139 and Metschnikowia_matae@Seq_2454 and Metschnikowia_matae@Seq_4312 and Metschnikowia_matae@Seq_4747 and Metschnikowia_matae@Seq_5108 and Metschnikowia_matae@Seq_2907 and Metschnikowia_matae@Seq_83 and Metschnikowia_matae@Seq_2796 and Metschnikowia_matae@Seq_1732 and Metschnikowia_matae@Seq_2305 and Metschnikowia_matae@Seq_3541 and Metschnikowia_matae@Seq_3244 and Metschnikowia_matae@Seq_1498 and Metschnikowia_matae@Seq_5875 and Metschnikowia_matae@Seq_3177 and Metschnikowia_matae@Seq_5563 and Metschnikowia_matae@Seq_2058 and Metschnikowia_matae@Seq_1892 and Metschnikowia_matae@Seq_564)	  0.00	1000.00	  0.00
 r_0510	s_0803[c] + s_1543[c]  -> s_0773[c] + s_0794[c] + s_1538[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Metschnikowia_matae@Seq_3115	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Metschnikowia_matae@Seq_484	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3789,3 +3783,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Metschnikowia_matae@Seq_751	  0.00	1000.00	  0.00

@@ -186,6 +186,7 @@ r_0221	s_0437[m] + s_0975[m] + s_1588[m]  -> s_0424[m] + s_0433[m] + s_0636[m] 	
 r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Pichia_membranifaciens@Seq_439	  0.00	1000.00	  0.00
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Pichia_membranifaciens@Seq_439	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Pichia_membranifaciens@Seq_439	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_4491) or (Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_4491 and Pichia_membranifaciens@Seq_312) or (Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_3939 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_3782 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_2371 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_406 and Pichia_membranifaciens@Seq_3115 and Pichia_membranifaciens@Seq_4491)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Pichia_membranifaciens@Seq_3255	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Pichia_membranifaciens@Seq_4816	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Pichia_membranifaciens@Seq_116	-1000.00	1000.00	  0.00
@@ -299,6 +300,8 @@ r_0369	s_0685[c] + s_0803[c]  -> s_0362[c] + s_0680[c] + s_0794[c] 	Pichia_membr
 r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	Pichia_membranifaciens@Seq_1487 or Pichia_membranifaciens@Seq_1898 or Pichia_membranifaciens@Seq_4555 or Pichia_membranifaciens@Seq_4799 or Pichia_membranifaciens@Seq_759	  0.00	1000.00	  0.00
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	Pichia_membranifaciens@Seq_4396	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Pichia_membranifaciens@Seq_2668	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	Pichia_membranifaciens@Seq_3615 and Pichia_membranifaciens@Seq_266 and Pichia_membranifaciens@Seq_4109 and Pichia_membranifaciens@Seq_3925 and Pichia_membranifaciens@Seq_3811 and Pichia_membranifaciens@Seq_2447 and Pichia_membranifaciens@Seq_3031	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Pichia_membranifaciens@Seq_3208 and Pichia_membranifaciens@Seq_63 and Pichia_membranifaciens@Seq_4678 and Pichia_membranifaciens@Seq_266 and Pichia_membranifaciens@Seq_128 and Pichia_membranifaciens@Seq_954 and Pichia_membranifaciens@Seq_2000 and Pichia_membranifaciens@Seq_4689 and Pichia_membranifaciens@Seq_3739 and Pichia_membranifaciens@Seq_2013	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Pichia_membranifaciens@Seq_1245	  0.00	1000.00	  0.00
 r_0446	s_0434[c] + s_0722[c] + s_1487[c]  <=> s_0120[c] + s_0394[c] + s_1322[c] 	Pichia_membranifaciens@Seq_3661 or Pichia_membranifaciens@Seq_3978	-1000.00	1000.00	  0.00
 r_0447	s_0437[m] + s_0724[m] + s_1488[m]  <=> s_0121[m] + s_0397[m] + s_1326[m] 	Pichia_membranifaciens@Seq_3661 or Pichia_membranifaciens@Seq_3978	-1000.00	1000.00	  0.00
@@ -3201,8 +3204,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3334,7 +3337,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Pichia_memb
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Pichia_membranifaciens@Seq_1555 or Pichia_membranifaciens@Seq_3940 or Pichia_membranifaciens@Seq_4603	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Pichia_membranifaciens@Seq_1555 or Pichia_membranifaciens@Seq_3940 or Pichia_membranifaciens@Seq_4603	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Pichia_membranifaciens@Seq_3252 or Pichia_membranifaciens@Seq_676	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Pichia_membranifaciens@Seq_4294	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Pichia_membranifaciens@Seq_1940	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Pichia_membranifaciens@Seq_1940	  0.00	1000.00	  0.00
 r_4187	s_0437[m] + s_1037[m] + s_3808[m]  -> s_0424[m] + s_0636[m] + s_3809[m] 	Pichia_membranifaciens@Seq_3254	  0.00	1000.00	  0.00
@@ -3370,6 +3372,7 @@ r_4230	s_0419[c] + s_3871[c]  <=> s_0803[c] + s_3872[c] 	Pichia_membranifaciens@
 r_4231	s_0803[c] + s_3873[c]  <=> s_0419[c] + s_3874[c] 	Pichia_membranifaciens@Seq_4532 or Pichia_membranifaciens@Seq_86	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Pichia_membranifaciens@Seq_2673	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Pichia_membranifaciens@Seq_2652	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Pichia_membranifaciens@Seq_2686 and Pichia_membranifaciens@Seq_4157 and Pichia_membranifaciens@Seq_4250 and Pichia_membranifaciens@Seq_3640	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Pichia_membranifaciens@Seq_3343	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Pichia_membranifaciens@Seq_2428	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	Pichia_membranifaciens@Seq_3667	  0.00	1000.00	  0.00
@@ -3737,7 +3740,6 @@ r_4625	s_4113[c]  <=> s_4010[m] 		-1000.00	1000.00	  0.00
 r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Pichia_membranifaciens@Seq_4019	-1000.00	1000.00	  0.00
 r_4657	s_0803[c] + s_1275[c] + s_4502[c]  -> s_0837[c] + s_4425[c] 	Pichia_membranifaciens@Seq_882	  0.00	1000.00	  0.00
 r_4659	s_0803[c] + s_1198[c] + s_4445[c]  -> s_0794[c] + s_1203[c] + s_1275[c] + s_1321[c] 	Pichia_membranifaciens@Seq_3416 or Pichia_membranifaciens@Seq_3736	  0.00	1000.00	  0.00
 r_4663	s_0803[c] + s_4511[c]  -> 2 s_4017[c] 	Pichia_membranifaciens@Seq_2895	  0.00	1000.00	  0.00
@@ -3753,32 +3755,25 @@ r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Pichia_membranifaciens@S
 r_4731	s_0803[c] + s_1275[c] + s_4479[c]  -> s_0721[c] + s_0837[c] + s_1003[c] 	Pichia_membranifaciens@Seq_1062 or Pichia_membranifaciens@Seq_2187 or Pichia_membranifaciens@Seq_2419 or Pichia_membranifaciens@Seq_2574 or Pichia_membranifaciens@Seq_3566 or Pichia_membranifaciens@Seq_64 or Pichia_membranifaciens@Seq_843	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Pichia_membranifaciens@Seq_2523 or Pichia_membranifaciens@Seq_3867	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Pichia_membranifaciens@Seq_4373	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Pichia_membranifaciens@Seq_4467 or Pichia_membranifaciens@Seq_4286 or Pichia_membranifaciens@Seq_3921	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Pichia_membranifaciens@Seq_4286 or Pichia_membranifaciens@Seq_4467 or Pichia_membranifaciens@Seq_3921	  0.00	1000.00	  0.00
 r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Pichia_membranifaciens@Seq_4670	-1000.00	1000.00	  0.00
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Pichia_membranifaciens@Seq_4591	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Pichia_membranifaciens@Seq_1070	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4801	s_1153[c] + s_1275[c]  -> s_0794[c] + s_0803[c] + s_4441[c] 	Pichia_membranifaciens@Seq_492	  0.00	1000.00	  0.00
 r_4816	s_1207[c] + s_1566[c]  <=> s_0580[c] + s_0794[c] + s_1212[c] 	Pichia_membranifaciens@Seq_624	-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Pichia_membranifaciens@Seq_4935	  0.00	1000.00	  0.00
-r_4843	s_0803[c] + s_1151[c]  -> s_0025[c] + s_0794[c] 	Pichia_membranifaciens@Seq_1850 or Pichia_membranifaciens@Seq_1402	  0.00	1000.00	  0.00
+r_4843	s_0803[c] + s_1151[c]  -> s_0025[c] + s_0794[c] 	Pichia_membranifaciens@Seq_1402 or Pichia_membranifaciens@Seq_1850	  0.00	1000.00	  0.00
 r_4845	s_0803[c] + s_1275[c] + s_4402[c]  -> s_0419[c] + s_0837[c] + s_1271[c] 	Pichia_membranifaciens@Seq_4286	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Pichia_membranifaciens@Seq_1874	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Pichia_membranifaciens@Seq_1147 or Pichia_membranifaciens@Seq_703	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Pichia_membranifaciens@Seq_2761 or Pichia_membranifaciens@Seq_617 or Pichia_membranifaciens@Seq_950	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Pichia_membranifaciens@Seq_4378	-1000.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Pichia_membranifaciens@Seq_1064	  0.00	1000.00	  0.00
 r_4954	s_1275[c] + s_4306[c]  -> s_0456[c] + s_4307[c] 	Pichia_membranifaciens@Seq_3165 or Pichia_membranifaciens@Seq_3595 or Pichia_membranifaciens@Seq_4085	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Pichia_membranifaciens@Seq_1064	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Pichia_membranifaciens@Seq_3468	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Pichia_membranifaciens@Seq_3468	-1000.00	1000.00	  0.00
 r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Pichia_membranifaciens@Seq_2801 or Pichia_membranifaciens@Seq_589	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Pichia_membranifaciens@Seq_3081 or Pichia_membranifaciens@Seq_559	  0.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Pichia_membranifaciens@Seq_4294	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Pichia_membranifaciens@Seq_4378	-1000.00	1000.00	  0.00
 r_0344	s_0625[c] + s_0794[c] + s_1212[c]  -> s_1207[c] + s_1487[c] 	Pichia_membranifaciens@Seq_4069	  0.00	1000.00	  0.00
@@ -3794,20 +3789,17 @@ r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Pichia_membr
 r_0038	s_0577[c]  -> s_0158[c] + s_0722[c] + s_0794[c] 	Pichia_membranifaciens@Seq_3835	  0.00	1000.00	  0.00
 r_0965	s_0434[c] + s_1405[c]  -> s_0394[c] + s_0714[c] + s_0794[c] 	Pichia_membranifaciens@Seq_3314	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Pichia_membranifaciens@Seq_1288	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Pichia_membranifaciens@Seq_3615 and Pichia_membranifaciens@Seq_266 and Pichia_membranifaciens@Seq_4109 and Pichia_membranifaciens@Seq_3925 and Pichia_membranifaciens@Seq_3031 and Pichia_membranifaciens@Seq_3811 and Pichia_membranifaciens@Seq_2447) or (Pichia_membranifaciens@Seq_3615 and Pichia_membranifaciens@Seq_4363 and Pichia_membranifaciens@Seq_4172 and Pichia_membranifaciens@Seq_455)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Pichia_membranifaciens@Seq_3208 and Pichia_membranifaciens@Seq_63 and Pichia_membranifaciens@Seq_4678 and Pichia_membranifaciens@Seq_266 and Pichia_membranifaciens@Seq_128 and Pichia_membranifaciens@Seq_954 and Pichia_membranifaciens@Seq_2000 and Pichia_membranifaciens@Seq_4689 and Pichia_membranifaciens@Seq_3739 and Pichia_membranifaciens@Seq_2013	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_4491) or (Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_4491 and Pichia_membranifaciens@Seq_312) or (Pichia_membranifaciens@Seq_411 and Pichia_membranifaciens@Seq_1760 and Pichia_membranifaciens@Seq_1714 and Pichia_membranifaciens@Seq_935 and Pichia_membranifaciens@Seq_4817 and Pichia_membranifaciens@Seq_1481 and Pichia_membranifaciens@Seq_2998 and Pichia_membranifaciens@Seq_630 and Pichia_membranifaciens@Seq_4491 and Pichia_membranifaciens@Seq_3782 and Pichia_membranifaciens@Seq_2371 and Pichia_membranifaciens@Seq_406 and Pichia_membranifaciens@Seq_3115 and Pichia_membranifaciens@Seq_3939)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	(Pichia_membranifaciens@Seq_241 and Pichia_membranifaciens@Seq_4856 and Pichia_membranifaciens@Seq_4406 and Pichia_membranifaciens@Seq_861 and Pichia_membranifaciens@Seq_31 and Pichia_membranifaciens@Seq_3221 and Pichia_membranifaciens@Seq_1180 and Pichia_membranifaciens@Seq_1022 and Pichia_membranifaciens@Seq_2060 and Pichia_membranifaciens@Seq_4133 and Pichia_membranifaciens@Seq_1485 and Pichia_membranifaciens@Seq_2772 and Pichia_membranifaciens@Seq_3389 and Pichia_membranifaciens@Seq_2549 and Pichia_membranifaciens@Seq_3470 and Pichia_membranifaciens@Seq_2730 and Pichia_membranifaciens@Seq_149 and Pichia_membranifaciens@Seq_1574 and Pichia_membranifaciens@Seq_2853 and Pichia_membranifaciens@Seq_3830 and Pichia_membranifaciens@Seq_2993 and Pichia_membranifaciens@Seq_1803) or (Pichia_membranifaciens@Seq_241 and Pichia_membranifaciens@Seq_4856 and Pichia_membranifaciens@Seq_4406 and Pichia_membranifaciens@Seq_861 and Pichia_membranifaciens@Seq_31 and Pichia_membranifaciens@Seq_3221 and Pichia_membranifaciens@Seq_1180 and Pichia_membranifaciens@Seq_1022 and Pichia_membranifaciens@Seq_2060 and Pichia_membranifaciens@Seq_4133 and Pichia_membranifaciens@Seq_1485 and Pichia_membranifaciens@Seq_2772 and Pichia_membranifaciens@Seq_3389 and Pichia_membranifaciens@Seq_2549 and Pichia_membranifaciens@Seq_3470 and Pichia_membranifaciens@Seq_2993 and Pichia_membranifaciens@Seq_149 and Pichia_membranifaciens@Seq_1574 and Pichia_membranifaciens@Seq_2853 and Pichia_membranifaciens@Seq_3830 and Pichia_membranifaciens@Seq_1803)	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 		  0.00	1000.00	  0.00
 r_0757	s_0126[c] + s_0803[c]  -> s_1153[c] + s_1322[c] 		  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
-r_2447	s_3085[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3110[erm] 		  0.00	1000.00	  0.00
-r_2451	s_3089[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3114[erm] 		  0.00	1000.00	  0.00
+r_2448	s_3086[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3111[erm] 		  0.00	1000.00	  0.00
+r_2453	s_3091[erm] + s_3107[erm]  -> s_2783[erm] + s_3108[erm] + s_3116[erm] 		  0.00	1000.00	  0.00
 r_4587	s_0796[e] + s_4199[e]  <=> s_0794[c] + s_3880[c] 		-1000.00	1000.00	  0.00
 r_4589	s_0796[e] + s_4201[e]  <=> s_0794[c] + s_4019[c] 		-1000.00	1000.00	  0.00
 r_4764	s_0803[c] + s_1239[c]  <=> s_0359[c] + s_0419[c] + s_1322[c] 		-1000.00	1000.00	  0.00
 r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Pichia_membranifaciens@Seq_3299	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5207	s_0434[c] + s_4656[e]  -> s_0394[c] + s_0794[c] + s_1190[c] 		  0.00	1000.00	  0.00
 r_5208	s_3914[c]  <=> s_4641[e] 		-1000.00	1000.00	  0.00
@@ -3818,3 +3810,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Pichia_membranifaciens@Seq_3890	-1000.00	1000.00	  0.00
+r_0255	2 s_0837[c]  -> 2 s_0803[c] + s_1275[c] 	Pichia_membranifaciens@Seq_4787	  0.00	1000.00	  0.00

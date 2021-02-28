@@ -182,6 +182,7 @@ r_0222	s_0394[c] + s_0434[c] + s_0794[c]  -> s_1282[c] + s_1322[c] 	Yarrowia_lip
 r_0223	s_0394[c] + s_0785[c] + s_0794[c]  -> s_1284[c] + s_1322[c] 	Yarrowia_lipolytica@Seq_173	  0.00	1000.00	  0.00
 r_0224	s_0739[c] + s_0785[c] + s_0794[c]  -> s_1283[c] + s_1322[c] 	Yarrowia_lipolytica@Seq_173	  0.00	1000.00	  0.00
 r_0225	s_0434[c] + s_1386[c]  -> s_0326[c] + s_0633[c] 	Yarrowia_lipolytica@Seq_889	  0.00	1000.00	  0.00
+r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_5595 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6279) or (Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6279 and Yarrowia_lipolytica@Seq_1974) or (Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_416 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_5595 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_3324 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_2047 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6016 and Yarrowia_lipolytica@Seq_4877 and Yarrowia_lipolytica@Seq_6279)	  0.00	1000.00	  0.00
 r_0227	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0796[e] + s_1322[c] 	Yarrowia_lipolytica@Seq_486	  0.00	1000.00	  0.00
 r_0228	s_0743[c] + s_1184[c]  -> s_0443[c] + s_0739[c] 	Yarrowia_lipolytica@Seq_2628	  0.00	1000.00	  0.00
 r_0229	s_0612[c] + s_1371[c]  <=> s_0451[c] + 2 s_0794[c] 	Yarrowia_lipolytica@Seq_385	-1000.00	1000.00	  0.00
@@ -301,6 +302,8 @@ r_0370	s_0003[e] + s_0805[e]  -> s_0565[e] 	Yarrowia_lipolytica@Seq_1262 or Yarr
 r_0373	s_0190[c] + s_0943[c]  -> s_0189[c] + s_0633[c] 	Yarrowia_lipolytica@Seq_3365	  0.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Yarrowia_lipolytica@Seq_3261	  0.00	1000.00	  0.00
 r_0437	2 s_0710[m] + s_0838[m]  -> 2 s_0709[m] + 2 s_0807[m] 	Yarrowia_lipolytica@Seq_5421 and Yarrowia_lipolytica@Seq_3965	  0.00	1000.00	  0.00
+r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Yarrowia_lipolytica@Seq_1547 and Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_3586 and Yarrowia_lipolytica@Seq_590 and Yarrowia_lipolytica@Seq_3433 and Yarrowia_lipolytica@Seq_2270) or (Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_5421 and Yarrowia_lipolytica@Seq_4814 and Yarrowia_lipolytica@Seq_4347 and Yarrowia_lipolytica@Seq_2916 and Yarrowia_lipolytica@Seq_5881 and Yarrowia_lipolytica@Seq_242 and Yarrowia_lipolytica@Seq_4194 and Yarrowia_lipolytica@Seq_4134) or (Yarrowia_lipolytica@Seq_5154 and Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_3586 and Yarrowia_lipolytica@Seq_590 and Yarrowia_lipolytica@Seq_3433 and Yarrowia_lipolytica@Seq_2270)	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Yarrowia_lipolytica@Seq_1322 and Yarrowia_lipolytica@Seq_2822 and Yarrowia_lipolytica@Seq_5421 and Yarrowia_lipolytica@Seq_3931 and Yarrowia_lipolytica@Seq_2455 and Yarrowia_lipolytica@Seq_3066 and Yarrowia_lipolytica@Seq_3373 and Yarrowia_lipolytica@Seq_241	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Yarrowia_lipolytica@Seq_1119	  0.00	1000.00	  0.00
 r_0443	s_0721[c] + s_0750[c] + s_1198[c]  -> s_0794[c] + s_1203[c] + s_1421[c] 	Yarrowia_lipolytica@Seq_6369	  0.00	1000.00	  0.00
 r_0445	s_0722[c] + s_1198[c]  -> s_0456[c] + s_1203[c] 	Yarrowia_lipolytica@Seq_1027 or Yarrowia_lipolytica@Seq_127 or Yarrowia_lipolytica@Seq_1347 or Yarrowia_lipolytica@Seq_1526 or Yarrowia_lipolytica@Seq_1825 or Yarrowia_lipolytica@Seq_3758 or Yarrowia_lipolytica@Seq_3872 or Yarrowia_lipolytica@Seq_4832 or Yarrowia_lipolytica@Seq_4897 or Yarrowia_lipolytica@Seq_5633 or Yarrowia_lipolytica@Seq_5948	  0.00	1000.00	  0.00
@@ -3126,8 +3129,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.356487 s_0404[c] + 0.124864 s_0428[c] + 0.0790207 s_0430[c] + 0.231157 s_0432[c] + 0.00512819 s_0542[c] + 0.0818956 s_0747[c] + 0.234498 s_0748[c] + 0.22564 s_0757[c] + 0.051515 s_0832[c] + 0.149727 s_0847[c] + 0.230302 s_1077[c] + 0.222377 s_1099[c] + 0.0393938 s_1148[c] + 0.10404 s_1314[c] + 0.127972 s_1379[c] + 0.144055 s_1428[c] + 0.148717 s_1491[c] + 0.0220667 s_1527[c] + 0.0792538 s_1533[c] + 0.205594 s_1561[c]  -> 0.356487 s_1582[c] + 0.124864 s_1583[c] + 0.0790207 s_1585[c] + 0.231157 s_1587[c] + 0.00512819 s_1589[c] + 0.0818956 s_1590[c] + 0.234498 s_1591[c] + 0.22564 s_1593[c] + 0.051515 s_1594[c] + 0.149727 s_1596[c] + 0.230302 s_1598[c] + 0.222377 s_1600[c] + 0.0393938 s_1602[c] + 0.10404 s_1604[c] + 0.127972 s_1606[c] + 0.144055 s_1607[c] + 0.148717 s_1608[c] + 0.0220667 s_1610[c] + 0.0792538 s_1612[c] + 0.205594 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.409007 s_0404[c] + 0.14326 s_0428[c] + 0.0906627 s_0430[c] + 0.265213 s_0432[c] + 0.00588372 s_0542[c] + 0.0939612 s_0747[c] + 0.269046 s_0748[c] + 0.258884 s_0757[c] + 0.0591046 s_0832[c] + 0.171787 s_0847[c] + 0.264232 s_1077[c] + 0.255139 s_1099[c] + 0.0451976 s_1148[c] + 0.119368 s_1314[c] + 0.146825 s_1379[c] + 0.165279 s_1428[c] + 0.170628 s_1491[c] + 0.0253178 s_1527[c] + 0.0909302 s_1533[c] + 0.235884 s_1561[c]  -> 0.409007 s_1582[c] + 0.14326 s_1583[c] + 0.0906627 s_1585[c] + 0.265213 s_1587[c] + 0.00588372 s_1589[c] + 0.0939612 s_1590[c] + 0.269046 s_1591[c] + 0.258884 s_1593[c] + 0.0591046 s_1594[c] + 0.171787 s_1596[c] + 0.264232 s_1598[c] + 0.255139 s_1600[c] + 0.0451976 s_1602[c] + 0.119368 s_1604[c] + 0.146825 s_1606[c] + 0.165279 s_1607[c] + 0.170628 s_1608[c] + 0.0253178 s_1610[c] + 0.0909302 s_1612[c] + 0.235884 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.611833 s_0001[ce] + 0.204424 s_0004[ce] + 0.295419 s_0773[c] + 0.581119 s_1107[c] + 0.113026 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0350438 s_0423[c] + 0.0340534 s_0526[c] + 0.0350438 s_0782[c] + 0.0456331 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.00521317 s_0584[c] + 0.00347545 s_0589[c] + 0.00347545 s_0615[c] + 0.00521317 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3257,7 +3260,6 @@ r_4178	s_1198[c] + s_3795[c]  <=> s_0794[c] + s_1203[c] + s_3796[c] 	Yarrowia_li
 r_4179	s_1198[c] + s_3797[c]  <=> s_0794[c] + s_1203[c] + s_3798[c] 	Yarrowia_lipolytica@Seq_70	-1000.00	1000.00	  0.00
 r_4180	s_1198[c] + s_3799[c]  <=> s_0794[c] + s_1203[c] + s_3800[c] 	Yarrowia_lipolytica@Seq_70	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Yarrowia_lipolytica@Seq_2181 or Yarrowia_lipolytica@Seq_488	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Yarrowia_lipolytica@Seq_2842 or Yarrowia_lipolytica@Seq_4963	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Yarrowia_lipolytica@Seq_5372	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Yarrowia_lipolytica@Seq_5372	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Yarrowia_lipolytica@Seq_4302	-1000.00	1000.00	  0.00
@@ -3292,6 +3294,7 @@ r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] 
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Yarrowia_lipolytica@Seq_1212	-1000.00	1000.00	  0.00
 r_4232	s_0434[c] + s_3875[c]  -> s_0340[c] + s_0394[c] + s_0794[c] 	Yarrowia_lipolytica@Seq_4401	  0.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Yarrowia_lipolytica@Seq_4566	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Yarrowia_lipolytica@Seq_6245 and Yarrowia_lipolytica@Seq_5351 and Yarrowia_lipolytica@Seq_4729 and Yarrowia_lipolytica@Seq_5316	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Yarrowia_lipolytica@Seq_5667	  0.00	1000.00	  0.00
 r_4236	s_0025[c] + s_0794[c]  <=> s_0803[c] + s_1151[c] 	Yarrowia_lipolytica@Seq_2658 or Yarrowia_lipolytica@Seq_588	-1000.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Yarrowia_lipolytica@Seq_5405	  0.00	1000.00	  0.00
@@ -3670,8 +3673,6 @@ r_4626	s_1469[c]  <=> s_4011[m] 		-1000.00	1000.00	  0.00
 r_4627	s_1543[c]  <=> s_4015[er] 		-1000.00	1000.00	  0.00
 r_4628	s_1544[c]  <=> s_4025[g] 		-1000.00	1000.00	  0.00
 r_4630	s_0180[c] + s_1275[c] + s_4538[c]  -> s_0456[c] + s_1458[c] + s_4537[c] 	Yarrowia_lipolytica@Seq_2122	  0.00	1000.00	  0.00
-r_4633	s_1198[c] + s_4270[c]  <=> s_0367[c] + s_0794[c] + s_1203[c] 	Yarrowia_lipolytica@Seq_1537	-1000.00	1000.00	  0.00
-r_4638	s_0794[c] + s_1203[c] + s_4532[c]  -> s_1198[c] + s_4519[c] 	Yarrowia_lipolytica@Seq_1537	  0.00	1000.00	  0.00
 r_4639	s_1198[c] + s_4269[c]  -> s_0794[c] + s_1203[c] + s_3965[c] 	Yarrowia_lipolytica@Seq_2621	  0.00	1000.00	  0.00
 r_4641	s_1550[c] + s_3852[c]  <=> s_0803[c] + s_1388[c] 	Yarrowia_lipolytica@Seq_6115	-1000.00	1000.00	  0.00
 r_4643	s_4446[c]  <=> s_0803[c] + s_4459[c] 	Yarrowia_lipolytica@Seq_5264	-1000.00	1000.00	  0.00
@@ -3679,7 +3680,7 @@ r_4645	s_0803[c] + s_4505[c]  -> s_4530[c] 	Yarrowia_lipolytica@Seq_4451	  0.00	
 r_4646	s_4270[c]  <=> s_0803[c] + s_4529[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
 r_4647	s_4528[c]  <=> s_0803[c] + s_4281[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
 r_4648	s_4527[c]  <=> s_0803[c] + s_4526[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
-r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Yarrowia_lipolytica@Seq_4451 or Yarrowia_lipolytica@Seq_5314	-1000.00	1000.00	  0.00
+r_4649	s_4270[c]  <=> s_0803[c] + s_4211[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
 r_4650	s_0803[c] + s_4524[c]  -> s_4525[c] 	Yarrowia_lipolytica@Seq_4451	  0.00	1000.00	  0.00
 r_4651	s_0803[c] + s_4522[c]  -> s_4523[c] 	Yarrowia_lipolytica@Seq_4451	  0.00	1000.00	  0.00
 r_4652	s_0803[c] + s_4520[c]  -> s_4521[c] 	Yarrowia_lipolytica@Seq_4451	  0.00	1000.00	  0.00
@@ -3703,7 +3704,7 @@ r_4680	s_1416[c] + s_4264[c]  -> s_0794[c] + s_1413[c] + s_4266[c] 	Yarrowia_lip
 r_4681	s_0803[c] + s_4348[c]  -> s_0794[c] + s_1467[c] + s_4349[c] 	Yarrowia_lipolytica@Seq_4873	  0.00	1000.00	  0.00
 r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Yarrowia_lipolytica@Seq_920 or Yarrowia_lipolytica@Seq_4495 or Yarrowia_lipolytica@Seq_237	-1000.00	1000.00	  0.00
 r_4706	s_1544[c] + s_4494[c]  <=> s_0794[c] + s_1538[c] + s_4493[c] 	Yarrowia_lipolytica@Seq_2679	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Yarrowia_lipolytica@Seq_5366 or Yarrowia_lipolytica@Seq_1972	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Yarrowia_lipolytica@Seq_1972 or Yarrowia_lipolytica@Seq_5366	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Yarrowia_lipolytica@Seq_3780	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Yarrowia_lipolytica@Seq_2027	-1000.00	1000.00	  0.00
 r_4714	s_0434[c] + s_0529[c] + s_4489[c]  -> s_0423[c] + s_0633[c] + s_4444[c] 	Yarrowia_lipolytica@Seq_1628 or Yarrowia_lipolytica@Seq_175 or Yarrowia_lipolytica@Seq_2595 or Yarrowia_lipolytica@Seq_3453 or Yarrowia_lipolytica@Seq_4266 or Yarrowia_lipolytica@Seq_4587 or Yarrowia_lipolytica@Seq_5919 or Yarrowia_lipolytica@Seq_6033 or Yarrowia_lipolytica@Seq_6105 or Yarrowia_lipolytica@Seq_6262 or Yarrowia_lipolytica@Seq_6408	  0.00	1000.00	  0.00
@@ -3715,7 +3716,7 @@ r_4719	s_0434[c] + s_0529[c] + s_4465[c]  -> s_0423[c] + s_0633[c] + s_4356[c] 	
 r_4728	s_0803[c] + s_1190[c]  -> s_0362[c] + s_4480[c] 	Yarrowia_lipolytica@Seq_3567	  0.00	1000.00	  0.00
 r_4732	s_0803[c] + s_4478[c]  <=> s_0362[c] + s_1266[c] 	Yarrowia_lipolytica@Seq_3406	-1000.00	1000.00	  0.00
 r_4734	s_1153[c] + s_1541[c]  -> s_0794[c] + s_1538[c] + s_4442[c] 	Yarrowia_lipolytica@Seq_813	  0.00	1000.00	  0.00
-r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Yarrowia_lipolytica@Seq_6319 or Yarrowia_lipolytica@Seq_559 or Yarrowia_lipolytica@Seq_4864 or Yarrowia_lipolytica@Seq_4810	  0.00	1000.00	  0.00
+r_4737	s_0803[c] + s_1003[c] + s_1275[c]  -> s_0419[c] + s_0779[c] + s_0837[c] 	Yarrowia_lipolytica@Seq_559 or Yarrowia_lipolytica@Seq_4864 or Yarrowia_lipolytica@Seq_6319 or Yarrowia_lipolytica@Seq_4810	  0.00	1000.00	  0.00
 r_4743	s_1275[c] + s_4340[c]  -> 2 s_4352[c] 	Yarrowia_lipolytica@Seq_6389	  0.00	1000.00	  0.00
 r_4757	s_0282[c]  <=> s_0779[c] + s_1399[c] 	Yarrowia_lipolytica@Seq_1887	-1000.00	1000.00	  0.00
 r_4763	s_1302[c] + s_4251[c]  -> s_0529[c] + s_4252[c] 	Yarrowia_lipolytica@Seq_1690	  0.00	1000.00	  0.00
@@ -3725,9 +3726,7 @@ r_4767	s_0687[c] + s_0794[c] + s_4182[c]  <=> s_0180[c] + s_0689[c] 	Yarrowia_li
 r_4773	s_0981[c] + s_1275[c]  -> s_0794[c] + s_4104[c] 	Yarrowia_lipolytica@Seq_6231	  0.00	1000.00	  0.00
 r_4774	s_0434[c] + s_0445[c] + s_4460[c]  -> s_0394[c] + s_0794[c] + s_1322[c] + s_4459[c] 	Yarrowia_lipolytica@Seq_5759	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Yarrowia_lipolytica@Seq_4665	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Yarrowia_lipolytica@Seq_6169	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Yarrowia_lipolytica@Seq_5871	  0.00	1000.00	  0.00
 r_4825	s_0794[c] + s_0955[c] + s_1368[c]  -> s_0352[c] + s_0456[c] + s_0529[c] 	Yarrowia_lipolytica@Seq_5951	  0.00	1000.00	  0.00
 r_4828	s_1198[c] + s_4414[c]  <=> s_0794[c] + s_1203[c] + s_4132[c] 	Yarrowia_lipolytica@Seq_1305	-1000.00	1000.00	  0.00
@@ -3739,10 +3738,7 @@ r_4886	s_1275[c] + s_4375[c]  -> s_4373[c] + s_4374[c] 	Yarrowia_lipolytica@Seq_
 r_4906	s_1543[c]  -> s_0803[c] + s_4353[c] 	Yarrowia_lipolytica@Seq_5044	  0.00	1000.00	  0.00
 r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c] 	Yarrowia_lipolytica@Seq_3253	  0.00	1000.00	  0.00
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Yarrowia_lipolytica@Seq_4450	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
 r_4926	s_0734[c] + s_1399[c]  <=> s_0955[c] + s_1461[c] 	Yarrowia_lipolytica@Seq_4158 or Yarrowia_lipolytica@Seq_5051	-1000.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Yarrowia_lipolytica@Seq_3590	  0.00	1000.00	  0.00
 r_4942	s_0775[c] + s_0803[c] + s_1198[c]  -> 2 s_0794[c] + s_1203[c] + s_3997[c] 	Yarrowia_lipolytica@Seq_3253	  0.00	1000.00	  0.00
 r_4946	s_0412[c] + s_0803[c]  <=> s_0419[c] + s_3948[c] 	Yarrowia_lipolytica@Seq_3124	-1000.00	1000.00	  0.00
@@ -3756,10 +3752,9 @@ r_4974	s_0794[c] + s_1399[c] + s_4285[c]  -> s_0803[c] + s_4284[c] 	Yarrowia_lip
 r_4979	s_0794[c] + s_3807[c] + s_4278[c]  -> s_0803[c] + s_1029[c] + s_1620[c] 	Yarrowia_lipolytica@Seq_125	  0.00	1000.00	  0.00
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Yarrowia_lipolytica@Seq_2621	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Yarrowia_lipolytica@Seq_2477 or Yarrowia_lipolytica@Seq_3155 or Yarrowia_lipolytica@Seq_3736 or Yarrowia_lipolytica@Seq_4798	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Yarrowia_lipolytica@Seq_2887	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Yarrowia_lipolytica@Seq_1404 or Yarrowia_lipolytica@Seq_3806 or Yarrowia_lipolytica@Seq_3902 or Yarrowia_lipolytica@Seq_6161	-1000.00	1000.00	  0.00
-r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Yarrowia_lipolytica@Seq_4043 or Yarrowia_lipolytica@Seq_5212 or Yarrowia_lipolytica@Seq_2497	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Yarrowia_lipolytica@Seq_1404 or Yarrowia_lipolytica@Seq_3806 or Yarrowia_lipolytica@Seq_3902 or Yarrowia_lipolytica@Seq_6161	-1000.00	1000.00	  0.00
+r_5057	s_0794[c] + s_1203[c] + s_4607[c]  <=> s_1198[c] + s_4606[c] 	Yarrowia_lipolytica@Seq_2497 or Yarrowia_lipolytica@Seq_4043 or Yarrowia_lipolytica@Seq_5212	-1000.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Yarrowia_lipolytica@Seq_5596	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
 r_5068	s_4596[c]  <=> s_0803[c] + s_4595[c] 	Yarrowia_lipolytica@Seq_4451	-1000.00	1000.00	  0.00
@@ -3777,36 +3772,32 @@ r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Yarrowia_lipolytica@Seq
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Yarrowia_lipolytica@Seq_1573 or Yarrowia_lipolytica@Seq_4878 or Yarrowia_lipolytica@Seq_5640	  0.00	1000.00	  0.00
 r_5092	s_1416[c] + s_4581[c]  <=> s_0794[c] + s_1413[c] + s_4582[c] 	Yarrowia_lipolytica@Seq_990	-1000.00	1000.00	  0.00
 r_5093	s_1416[c] + s_4579[c]  <=> s_0794[c] + s_1413[c] + s_4580[c] 	Yarrowia_lipolytica@Seq_990	-1000.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
 r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Yarrowia_lipolytica@Seq_2300	  0.00	1000.00	  0.00
 r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Yarrowia_lipolytica@Seq_5878 or Yarrowia_lipolytica@Seq_2300	-1000.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Yarrowia_lipolytica@Seq_1120	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Yarrowia_lipolytica@Seq_1120	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	Yarrowia_lipolytica@Seq_6085	  0.00	1000.00	  0.00
 r_5166	s_0291[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4546[c] 	Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
 r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Yarrowia_lipolytica@Seq_237 or Yarrowia_lipolytica@Seq_2842 or Yarrowia_lipolytica@Seq_4495 or Yarrowia_lipolytica@Seq_4963	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Yarrowia_lipolytica@Seq_4351	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Yarrowia_lipolytica@Seq_1213 or Yarrowia_lipolytica@Seq_6085	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Yarrowia_lipolytica@Seq_6085 or Yarrowia_lipolytica@Seq_1213	-1000.00	1000.00	  0.00
 r_5182	s_0419[c] + s_4620[c]  <=> s_0803[c] + s_4480[c] 	Yarrowia_lipolytica@Seq_3124	-1000.00	1000.00	  0.00
 r_0678	s_0434[c] + s_0794[c] + s_0953[c] + s_1212[c]  -> s_0423[c] + s_0633[c] + s_0959[c] + s_1207[c] 	Yarrowia_lipolytica@Seq_723	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Yarrowia_lipolytica@Seq_491	-1000.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
-r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_5421 and Yarrowia_lipolytica@Seq_4814 and Yarrowia_lipolytica@Seq_4347 and Yarrowia_lipolytica@Seq_2916 and Yarrowia_lipolytica@Seq_4134 and Yarrowia_lipolytica@Seq_5881 and Yarrowia_lipolytica@Seq_242 and Yarrowia_lipolytica@Seq_4194) or (Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_590 and Yarrowia_lipolytica@Seq_3586 and Yarrowia_lipolytica@Seq_1547 and Yarrowia_lipolytica@Seq_2270 and Yarrowia_lipolytica@Seq_3433) or (Yarrowia_lipolytica@Seq_386 and Yarrowia_lipolytica@Seq_590 and Yarrowia_lipolytica@Seq_3586 and Yarrowia_lipolytica@Seq_5154 and Yarrowia_lipolytica@Seq_2270 and Yarrowia_lipolytica@Seq_3433)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Yarrowia_lipolytica@Seq_1322 and Yarrowia_lipolytica@Seq_2822 and Yarrowia_lipolytica@Seq_5421 and Yarrowia_lipolytica@Seq_3931 and Yarrowia_lipolytica@Seq_2455 and Yarrowia_lipolytica@Seq_3066 and Yarrowia_lipolytica@Seq_3373 and Yarrowia_lipolytica@Seq_241	  0.00	1000.00	  0.00
-r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_5595 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6279) or (Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6279 and Yarrowia_lipolytica@Seq_1974) or (Yarrowia_lipolytica@Seq_174 and Yarrowia_lipolytica@Seq_4829 and Yarrowia_lipolytica@Seq_5657 and Yarrowia_lipolytica@Seq_691 and Yarrowia_lipolytica@Seq_5595 and Yarrowia_lipolytica@Seq_1666 and Yarrowia_lipolytica@Seq_707 and Yarrowia_lipolytica@Seq_1568 and Yarrowia_lipolytica@Seq_5778 and Yarrowia_lipolytica@Seq_1609 and Yarrowia_lipolytica@Seq_6279 and Yarrowia_lipolytica@Seq_3324 and Yarrowia_lipolytica@Seq_2047 and Yarrowia_lipolytica@Seq_6016 and Yarrowia_lipolytica@Seq_4877 and Yarrowia_lipolytica@Seq_416)	  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Yarrowia_lipolytica@Seq_6255 and Yarrowia_lipolytica@Seq_5638 and Yarrowia_lipolytica@Seq_5096 and Yarrowia_lipolytica@Seq_3201 and Yarrowia_lipolytica@Seq_1222 and Yarrowia_lipolytica@Seq_3524 and Yarrowia_lipolytica@Seq_1899 and Yarrowia_lipolytica@Seq_2812 and Yarrowia_lipolytica@Seq_755 and Yarrowia_lipolytica@Seq_1854 and Yarrowia_lipolytica@Seq_1842 and Yarrowia_lipolytica@Seq_1493 and Yarrowia_lipolytica@Seq_1020 and Yarrowia_lipolytica@Seq_5956 and Yarrowia_lipolytica@Seq_5599 and Yarrowia_lipolytica@Seq_4052 and Yarrowia_lipolytica@Seq_3383 and Yarrowia_lipolytica@Seq_4041 and Yarrowia_lipolytica@Seq_3682 and Yarrowia_lipolytica@Seq_5090	  0.00	1000.00	  0.00
 r_0208	s_0434[c] + s_0973[c] + s_0979[c]  <=> s_0015[c] + s_0423[c] + s_0633[c] + s_0794[c] 		-1000.00	1000.00	  0.00
-r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
-r_5200	s_0551[c]  <=> s_4634[c] 		-1000.00	1000.00	  0.00
+r_5196	s_0805[e] + s_4655[e]  -> 2 s_0554[e] 	Yarrowia_lipolytica@Seq_5943	  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Yarrowia_lipolytica@Seq_4495	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Yarrowia_lipolytica@Seq_2004	  0.00	1000.00	  0.00
+r_5200	s_0551[c]  <=> s_4634[c] 	Yarrowia_lipolytica@Seq_2443	-1000.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5206	s_0794[c] + s_3805[c]  <=> s_0796[e] + s_4640[e] 		-1000.00	1000.00	  0.00
@@ -3819,3 +3810,5 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Yarrowia_lipolytica@Seq_2216	-1000.00	1000.00	  0.00
+r_5210	s_0373[c] + s_1025[c]  -> s_0529[c] + s_0794[c] + s_4643[c] 	Yarrowia_lipolytica@Seq_2200	  0.00	1000.00	  0.00

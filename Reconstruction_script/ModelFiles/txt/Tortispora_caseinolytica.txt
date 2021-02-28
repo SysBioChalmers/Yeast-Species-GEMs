@@ -286,6 +286,7 @@ r_0402	s_0439[p] + s_0534[p] + s_1291[p]  <=> s_0426[p] + s_0638[p] + s_1305[p] 
 r_0410	s_0439[p] + s_0534[p] + s_1253[p]  <=> s_0426[p] + s_0638[p] + s_1258[p] 	Tortispora_caseinolytica@Seq_1595	-1000.00	1000.00	  0.00
 r_0412	s_0439[p] + s_0534[p] + s_1166[p]  <=> s_0426[p] + s_0638[p] + s_1179[p] 	Tortispora_caseinolytica@Seq_1595	-1000.00	1000.00	  0.00
 r_0436	s_0926[m] + s_1383[m]  -> s_0712[m] + 2 s_0799[m] 	Tortispora_caseinolytica@Seq_617	  0.00	1000.00	  0.00
+r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Tortispora_caseinolytica@Seq_147 and Tortispora_caseinolytica@Seq_3861 and Tortispora_caseinolytica@Seq_1303 and Tortispora_caseinolytica@Seq_1987 and Tortispora_caseinolytica@Seq_4188 and Tortispora_caseinolytica@Seq_2193 and Tortispora_caseinolytica@Seq_4521	  0.00	1000.00	  0.00
 r_0440	s_0434[c] + s_0714[c] + s_0794[c]  -> s_0633[c] + s_0687[c] 	Tortispora_caseinolytica@Seq_693	  0.00	1000.00	  0.00
 r_0441	s_0714[c] + s_0794[c] + s_1203[c]  -> s_0717[c] + s_1198[c] 	Tortispora_caseinolytica@Seq_1840	  0.00	1000.00	  0.00
 r_0442	s_0714[c] + s_0794[c] + s_1212[c]  -> s_0717[c] + s_1207[c] 	Tortispora_caseinolytica@Seq_1840	  0.00	1000.00	  0.00
@@ -620,6 +621,7 @@ r_0935	2 s_0315[c]  -> s_0794[c] + 2 s_0803[c] + s_1372[c] 	Tortispora_caseinoly
 r_0939	s_1207[c] + s_1377[c]  -> s_0204[c] + s_0456[c] + s_1212[c] 	Tortispora_caseinolytica@Seq_1408	  0.00	1000.00	  0.00
 r_0940	s_0688[m] + s_1037[m]  -> s_0119[m] + s_0690[m] 	Tortispora_caseinolytica@Seq_2077	  0.00	1000.00	  0.00
 r_0941	s_0434[c] + s_1035[c] + s_1606[c]  -> s_0423[c] + s_0633[c] + s_0794[c] + s_1379[c] 	Tortispora_caseinolytica@Seq_2729	  0.00	1000.00	  0.00
+r_0943	s_1218[c] + s_1322[c]  -> s_0415[c] + s_0794[c] + s_1216[c] 	Tortispora_caseinolytica@Seq_162 and Tortispora_caseinolytica@Seq_2691	  0.00	1000.00	  0.00
 r_0949	s_0790[c] + s_1322[c]  <=> s_0415[c] + s_0787[c] 	Tortispora_caseinolytica@Seq_2691	-1000.00	1000.00	  0.00
 r_0950	s_0792[m] + s_1326[m]  <=> s_0416[m] + s_0789[m] 	Tortispora_caseinolytica@Seq_2691	-1000.00	1000.00	  0.00
 r_0951	s_0856[c] + s_1322[c]  <=> s_0415[c] + s_0843[c] 	Tortispora_caseinolytica@Seq_2691	-1000.00	1000.00	  0.00
@@ -2902,8 +2904,8 @@ r_4043	s_3715[e]  -> 		  0.00	1000.00	  0.00
 r_4044	s_3716[e]  -> 		  0.00	1000.00	  0.00
 r_4041	55.3 s_0434[c] + 55.3 s_0803[c] + s_1096[c] + s_3717[c] + s_3718[c] + s_3719[c] + s_3720[c] + s_4205[c] + s_4206[c]  -> 55.3 s_0394[c] + s_0450[c] + 55.3 s_0794[c] + 55.3 s_1322[c] 		  0.00	1000.00	  0.00
 r_4046	s_0434[c] + s_0803[c]  -> s_0394[c] + s_0794[c] + s_1322[c] 		  0.70	  0.70	  0.00
-r_4047	0.441679 s_0404[c] + 0.154703 s_0428[c] + 0.0979048 s_0430[c] + 0.286398 s_0432[c] + 0.00635371 s_0542[c] + 0.101467 s_0747[c] + 0.290538 s_0748[c] + 0.279563 s_0757[c] + 0.0638259 s_0832[c] + 0.185509 s_0847[c] + 0.285339 s_1077[c] + 0.27552 s_1099[c] + 0.048808 s_1148[c] + 0.128903 s_1314[c] + 0.158554 s_1379[c] + 0.178481 s_1428[c] + 0.184257 s_1491[c] + 0.0273402 s_1527[c] + 0.0981936 s_1533[c] + 0.254726 s_1561[c]  -> 0.441679 s_1582[c] + 0.154703 s_1583[c] + 0.0979048 s_1585[c] + 0.286398 s_1587[c] + 0.00635371 s_1589[c] + 0.101467 s_1590[c] + 0.290538 s_1591[c] + 0.279563 s_1593[c] + 0.0638259 s_1594[c] + 0.185509 s_1596[c] + 0.285339 s_1598[c] + 0.27552 s_1600[c] + 0.048808 s_1602[c] + 0.128903 s_1604[c] + 0.158554 s_1606[c] + 0.178481 s_1607[c] + 0.184257 s_1608[c] + 0.0273402 s_1610[c] + 0.0981936 s_1612[c] + 0.254726 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
-r_4048	0.748515 s_0001[ce] + 0.250092 s_0004[ce] + 0.361415 s_0773[c] + 0.71094 s_1107[c] + 0.138276 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
+r_4047	0.527012 s_0404[c] + 0.184592 s_0428[c] + 0.11682 s_0430[c] + 0.341731 s_0432[c] + 0.00758126 s_0542[c] + 0.12107 s_0747[c] + 0.34667 s_0748[c] + 0.333575 s_0757[c] + 0.0761572 s_0832[c] + 0.22135 s_0847[c] + 0.340467 s_1077[c] + 0.328751 s_1099[c] + 0.0582379 s_1148[c] + 0.153808 s_1314[c] + 0.189187 s_1379[c] + 0.212964 s_1428[c] + 0.219857 s_1491[c] + 0.0326224 s_1527[c] + 0.117165 s_1533[c] + 0.30394 s_1561[c]  -> 0.527012 s_1582[c] + 0.184592 s_1583[c] + 0.11682 s_1585[c] + 0.341731 s_1587[c] + 0.00758126 s_1589[c] + 0.12107 s_1590[c] + 0.34667 s_1591[c] + 0.333575 s_1593[c] + 0.0761572 s_1594[c] + 0.22135 s_1596[c] + 0.340467 s_1598[c] + 0.328751 s_1600[c] + 0.0582379 s_1602[c] + 0.153808 s_1604[c] + 0.189187 s_1606[c] + 0.212964 s_1607[c] + 0.219857 s_1608[c] + 0.0326224 s_1610[c] + 0.117165 s_1612[c] + 0.30394 s_1614[c] + s_3717[c] 		  0.00	1000.00	  0.00
+r_4048	0.758047 s_0001[ce] + 0.253277 s_0004[ce] + 0.366017 s_0773[c] + 0.719993 s_1107[c] + 0.140037 s_1520[c]  -> s_3718[c] 		  0.00	1000.00	  0.00
 r_4049	0.0445348 s_0423[c] + 0.0432762 s_0526[c] + 0.0445348 s_0782[c] + 0.0579921 s_1545[c]  -> s_3719[c] 		  0.00	1000.00	  0.00
 r_4050	0.0036 s_0584[c] + 0.0024 s_0589[c] + 0.0024 s_0615[c] + 0.0036 s_0649[c]  -> s_3720[c] 		  0.00	1000.00	  0.00
 r_4051	s_3721[g]  -> s_3722[c] 		  0.00	1000.00	  0.00
@@ -3029,7 +3031,6 @@ r_4171	s_0750[c] + s_0803[c]  -> s_0983[c] + s_0991[c] 	Tortispora_caseinolytica
 r_4173	s_3784[m] + s_3785[m]  <=> s_0957[m] + s_3786[m] 	Tortispora_caseinolytica@Seq_4389	-1000.00	1000.00	  0.00
 r_4174	s_3787[er]  <=> s_3788[erm] 	Tortispora_caseinolytica@Seq_3726	-1000.00	1000.00	  0.00
 r_4181	s_0434[c] + s_0803[c] + s_3801[c]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3802[er] 	Tortispora_caseinolytica@Seq_1656 or Tortispora_caseinolytica@Seq_2622	-1000.00	1000.00	  0.00
-r_4183	s_1198[c] + s_3805[c]  <=> s_0553[c] + s_0794[c] + s_1203[c] 	Tortispora_caseinolytica@Seq_2274	-1000.00	1000.00	  0.00
 r_4184	s_3806[c]  <=> 2 s_1399[c] 	Tortispora_caseinolytica@Seq_4005	-1000.00	1000.00	  0.00
 r_4185	s_0794[c] + s_1271[c]  -> s_0456[c] + s_1399[c] 	Tortispora_caseinolytica@Seq_4005	  0.00	1000.00	  0.00
 r_4186	s_0803[c] + s_1029[c] + s_1620[c]  <=> s_1616[c] + s_3807[c] 	Tortispora_caseinolytica@Seq_1724	-1000.00	1000.00	  0.00
@@ -3062,6 +3063,7 @@ r_4224	s_0434[c] + s_0803[c] + s_1437[c]  -> s_0394[c] + s_0794[c] + s_1322[c] +
 r_4225	s_0434[c] + s_0803[c] + s_3865[e]  <=> s_0394[c] + s_0794[c] + s_1322[c] + s_3866[c] 	Tortispora_caseinolytica@Seq_1650 or Tortispora_caseinolytica@Seq_439	-1000.00	1000.00	  0.00
 r_4226	s_0180[c] + s_0955[c]  <=> s_0991[c] + s_1399[c] 	Tortispora_caseinolytica@Seq_3886	-1000.00	1000.00	  0.00
 r_4233	s_1416[c] + s_3876[c]  <=> s_1413[c] + s_3877[c] 	Tortispora_caseinolytica@Seq_4343	-1000.00	1000.00	  0.00
+r_4234	s_3764[er] + s_3878[er]  <=> s_0795[er] + s_3766[er] + s_3879[er] 	Tortispora_caseinolytica@Seq_863 and Tortispora_caseinolytica@Seq_1142 and Tortispora_caseinolytica@Seq_2587 and Tortispora_caseinolytica@Seq_2461	-1000.00	1000.00	  0.00
 r_4235	s_0434[c] + s_0563[c]  -> s_0394[c] + s_0568[c] 	Tortispora_caseinolytica@Seq_2260	  0.00	1000.00	  0.00
 r_4237	s_0810[v] + s_3880[c] + s_3881[v]  -> s_0802[v] + s_1329[v] + s_3882[v] + s_3883[v] 	Tortispora_caseinolytica@Seq_4564	  0.00	1000.00	  0.00
 r_4238	s_0806[g] + s_3880[c] + s_4196[g]  -> s_0797[g] + s_1325[g] + s_4197[g] + s_4198[g] 	Tortispora_caseinolytica@Seq_989	  0.00	1000.00	  0.00
@@ -3454,7 +3456,7 @@ r_4692	s_1198[c] + s_4181[c]  <=> s_0794[c] + s_1203[c] + s_4383[c] 	Tortispora_
 r_4693	s_1198[c] + s_4500[c]  <=> s_0794[c] + s_1203[c] + s_4246[c] 	Tortispora_caseinolytica@Seq_4156	-1000.00	1000.00	  0.00
 r_4707	s_1039[c] + s_4492[c]  -> s_0803[c] + s_1048[c] 	Tortispora_caseinolytica@Seq_1110	  0.00	1000.00	  0.00
 r_4708	s_4245[c]  <=> s_0764[c] + s_4492[c] 	Tortispora_caseinolytica@Seq_1110	-1000.00	1000.00	  0.00
-r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Tortispora_caseinolytica@Seq_4221 or Tortispora_caseinolytica@Seq_2682	  0.00	1000.00	  0.00
+r_4710	s_0434[c] + s_0522[c] + s_0529[c]  -> s_0373[c] + s_0394[c] + s_1271[c] + s_1322[c] 	Tortispora_caseinolytica@Seq_2682 or Tortispora_caseinolytica@Seq_4221	  0.00	1000.00	  0.00
 r_4711	s_1275[c] + s_3997[c]  -> s_0779[c] + s_0837[c] 	Tortispora_caseinolytica@Seq_1330	  0.00	1000.00	  0.00
 r_4712	s_4132[c] + s_4310[c]  <=> s_0367[c] + s_1458[c] 	Tortispora_caseinolytica@Seq_958	-1000.00	1000.00	  0.00
 r_4713	s_1198[c] + s_4491[c]  <=> s_0794[c] + s_1203[c] + s_4490[c] 	Tortispora_caseinolytica@Seq_1154	-1000.00	1000.00	  0.00
@@ -3482,16 +3484,14 @@ r_4784	s_0794[c] + s_1048[c]  -> s_0456[c] + s_4450[c] 	Tortispora_caseinolytica
 r_4785	s_0794[c] + s_1032[c]  -> s_0456[c] + s_4449[c] 	Tortispora_caseinolytica@Seq_2460	  0.00	1000.00	  0.00
 r_4786	s_0794[c] + s_4448[c]  -> s_0456[c] + s_4447[c] 	Tortispora_caseinolytica@Seq_2460	  0.00	1000.00	  0.00
 r_4787	s_4446[c]  -> s_0373[c] + s_4132[c] 	Tortispora_caseinolytica@Seq_2006	  0.00	1000.00	  0.00
-r_4790	2 s_0794[c] + s_0803[c] + s_1552[c]  <=> 2 s_0419[c] + s_0456[c] 		-1000.00	1000.00	  0.00
 r_4792	s_1275[c] + s_4237[c]  -> s_0456[c] + s_4445[c] 	Tortispora_caseinolytica@Seq_2511	  0.00	1000.00	  0.00
-r_4799	s_0153[c]  <=> s_0359[c] + s_0764[c] 		-1000.00	1000.00	  0.00
 r_4800	s_3998[c] + s_4442[c]  -> s_1153[c] + s_4193[c] 	Tortispora_caseinolytica@Seq_3236	  0.00	1000.00	  0.00
 r_4817	s_0803[c] + s_4425[c]  -> s_0794[c] + s_4426[c] 	Tortispora_caseinolytica@Seq_1483	  0.00	1000.00	  0.00
 r_4821	s_0794[c] + s_1203[c] + s_4420[c]  -> s_1198[c] + s_4421[c] 	Tortispora_caseinolytica@Seq_4183	  0.00	1000.00	  0.00
 r_4831	s_0803[c] + s_4413[c]  -> s_0794[c] + s_3875[c] 	Tortispora_caseinolytica@Seq_1504	  0.00	1000.00	  0.00
 r_4832	s_0803[c] + s_4412[c]  -> s_0794[c] + s_4411[c] 	Tortispora_caseinolytica@Seq_1504	  0.00	1000.00	  0.00
 r_4833	s_0803[c] + s_4393[c]  -> s_0794[c] + s_4410[c] 	Tortispora_caseinolytica@Seq_1504	  0.00	1000.00	  0.00
-r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Tortispora_caseinolytica@Seq_1124 or Tortispora_caseinolytica@Seq_1199	  0.00	1000.00	  0.00
+r_4837	s_0803[c] + s_4247[c]  -> s_0362[c] + s_0794[c] + s_4123[c] 	Tortispora_caseinolytica@Seq_1124	  0.00	1000.00	  0.00
 r_4841	s_0794[c] + s_1212[c] + s_1275[c] + s_3874[c]  -> s_0286[c] + s_0803[c] + s_1207[c] 	Tortispora_caseinolytica@Seq_345	  0.00	1000.00	  0.00
 r_4860	s_0794[c] + s_1212[c] + s_1275[c] + s_4392[c]  -> s_0803[c] + s_1207[c] + s_4393[c] 	Tortispora_caseinolytica@Seq_1199 or Tortispora_caseinolytica@Seq_3740 or Tortispora_caseinolytica@Seq_957	  0.00	1000.00	  0.00
 r_4869	s_0803[c] + s_3980[c]  -> s_0794[c] + s_3778[c] + s_3997[c] 	Tortispora_caseinolytica@Seq_859	  0.00	1000.00	  0.00
@@ -3500,9 +3500,6 @@ r_4908	s_0764[c] + s_0803[c] + s_1207[c]  -> s_0260[c] + 2 s_0794[c] + s_1212[c]
 r_4910	s_0803[c] + s_1302[c]  -> s_0529[c] + s_0794[c] + s_1286[c] 	Tortispora_caseinolytica@Seq_1052	  0.00	1000.00	  0.00
 r_4912	s_0803[c] + s_1275[c] + s_4352[c]  -> s_0794[c] + s_0837[c] + s_4351[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
 r_4916	s_0803[c] + s_0850[c] + s_1275[c]  -> s_0794[c] + s_0837[c] + s_0853[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
-r_4920	s_0803[c] + s_4343[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4921	s_0803[c] + s_4342[c]  -> s_0794[c] + s_4257[c] 		  0.00	1000.00	  0.00
-r_4935	s_0803[c] + s_1207[c] + s_4326[c]  -> s_0794[c] + s_1212[c] + s_1275[c] + s_3984[c] 		  0.00	1000.00	  0.00
 r_4939	s_0281[c] + s_0803[c]  -> s_0734[c] + s_1552[c] 	Tortispora_caseinolytica@Seq_1519 or Tortispora_caseinolytica@Seq_1842 or Tortispora_caseinolytica@Seq_2885 or Tortispora_caseinolytica@Seq_4020	  0.00	1000.00	  0.00
 r_4942	s_0775[c] + s_0803[c] + s_1198[c]  -> 2 s_0794[c] + s_1203[c] + s_3997[c] 	Tortispora_caseinolytica@Seq_629	  0.00	1000.00	  0.00
 r_4950	s_0434[c] + s_0751[e] + s_0803[c]  -> s_0394[c] + s_0750[c] + s_0794[c] + s_1322[c] 	Tortispora_caseinolytica@Seq_1836 or Tortispora_caseinolytica@Seq_2890 or Tortispora_caseinolytica@Seq_3957 or Tortispora_caseinolytica@Seq_3994	  0.00	1000.00	  0.00
@@ -3514,10 +3511,9 @@ r_4979	s_0794[c] + s_3807[c] + s_4278[c]  -> s_0803[c] + s_1029[c] + s_1620[c] 	
 r_4986	s_1198[c] + s_4271[c]  -> s_0794[c] + s_1203[c] + s_4184[c] 	Tortispora_caseinolytica@Seq_2240	  0.00	1000.00	  0.00
 r_4994	s_1212[c] + s_1266[c] + s_1275[c]  -> s_0803[c] + s_1207[c] + s_4267[c] 	Tortispora_caseinolytica@Seq_1188	  0.00	1000.00	  0.00
 r_4995	s_0434[c] + s_0803[c] + s_0982[e]  -> s_0394[c] + s_0794[c] + s_0981[c] + s_1322[c] 	Tortispora_caseinolytica@Seq_1836 or Tortispora_caseinolytica@Seq_2890 or Tortispora_caseinolytica@Seq_3957 or Tortispora_caseinolytica@Seq_3994	  0.00	1000.00	  0.00
-r_5017	s_0794[c] + s_1212[c] + s_1275[c] + s_4246[c]  -> s_0803[c] + s_1207[c] + s_4247[c] 		  0.00	1000.00	  0.00
 r_5018	s_1039[c] + s_4245[c]  -> s_0764[c] + s_0803[c] + s_1048[c] 	Tortispora_caseinolytica@Seq_1110	  0.00	1000.00	  0.00
 r_5041	s_0687[c] + s_0794[c] + s_4210[c]  -> s_0689[c] + s_4211[c] 	Tortispora_caseinolytica@Seq_1236	  0.00	1000.00	  0.00
-r_5045	s_0803[c] + s_4261[c]  <=> 2 s_0563[c] 	Tortispora_caseinolytica@Seq_1805	-1000.00	1000.00	  0.00
+r_5045	s_0803[c] + s_4261[c]  <=> 2 s_3949[c] 	Tortispora_caseinolytica@Seq_1805	-1000.00	1000.00	  0.00
 r_5049	s_0794[c] + s_1212[c] + s_1275[c] + s_4337[c]  -> s_0803[c] + s_1207[c] + s_4613[c] 	Tortispora_caseinolytica@Seq_1955	  0.00	1000.00	  0.00
 r_5064	s_0687[c] + 2 s_0794[c] + s_4311[c]  <=> s_0456[c] + s_0689[c] + s_4529[c] 	Tortispora_caseinolytica@Seq_2477	-1000.00	1000.00	  0.00
 r_5067	s_4598[c]  <=> s_0803[c] + s_4597[c] 	Tortispora_caseinolytica@Seq_3851	-1000.00	1000.00	  0.00
@@ -3528,27 +3524,26 @@ r_5087	s_4210[c] + s_4585[c]  <=> s_0529[c] + s_4547[c] 	Tortispora_caseinolytic
 r_5088	s_4568[c] + s_4585[c]  <=> s_0529[c] + s_4546[c] 	Tortispora_caseinolytica@Seq_1991	-1000.00	1000.00	  0.00
 r_5091	s_0803[c] + s_1275[c] + s_4470[c]  -> s_0419[c] + s_0721[c] + s_0837[c] 	Tortispora_caseinolytica@Seq_140 or Tortispora_caseinolytica@Seq_2629	  0.00	1000.00	  0.00
 r_5097	s_0803[c] + s_0843[c] + s_1275[c]  -> s_0357[c] + s_0837[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
-r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	  0.00	1000.00	  0.00
-r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Tortispora_caseinolytica@Seq_4427 or Tortispora_caseinolytica@Seq_455	  0.00	1000.00	  0.00
-r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Tortispora_caseinolytica@Seq_4427 or Tortispora_caseinolytica@Seq_1950 or Tortispora_caseinolytica@Seq_455	-1000.00	1000.00	  0.00
+r_5106	s_0232[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4572[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5107	s_4545[c] + s_4572[c]  <=> s_1475[c] + s_4547[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5108	s_0291[c] + s_0794[c] + s_1475[c]  -> s_0456[c] + s_4571[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	  0.00	1000.00	  0.00
+r_5109	s_4545[c] + s_4571[c]  <=> s_1475[c] + s_4546[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5110	s_0056[c] + s_0794[c] + s_1475[c]  <=> s_0456[c] + s_4570[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5111	s_4545[c] + s_4570[c]  <=> s_1475[c] + s_4544[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5114	s_0689[c] + s_4281[c]  -> s_0687[c] + s_0794[c] + s_4183[c] 	Tortispora_caseinolytica@Seq_455 or Tortispora_caseinolytica@Seq_4427	  0.00	1000.00	  0.00
+r_5115	s_0689[c] + s_4460[c]  <=> s_0687[c] + s_0794[c] + s_4568[c] 	Tortispora_caseinolytica@Seq_1950 or Tortispora_caseinolytica@Seq_455 or Tortispora_caseinolytica@Seq_4427	-1000.00	1000.00	  0.00
 r_5126	s_0529[c] + s_1198[c] + s_4285[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Tortispora_caseinolytica@Seq_2410	-1000.00	1000.00	  0.00
 r_5127	s_0529[c] + s_1198[c] + s_3965[c]  <=> s_0456[c] + s_1203[c] + s_4183[c] 	Tortispora_caseinolytica@Seq_2410	-1000.00	1000.00	  0.00
-r_5142	s_4550[c]  -> s_0794[c] + s_4560[c] 		  0.00	1000.00	  0.00
 r_5165	s_0232[c] + s_0794[c] + s_4545[c]  -> s_0456[c] + s_4547[c] 	Tortispora_caseinolytica@Seq_4493	  0.00	1000.00	  0.00
 r_5166	s_0291[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4546[c] 	Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
 r_5167	s_0803[c] + s_1275[c] + s_3965[c]  -> s_0794[c] + s_0837[c] + s_3966[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
 r_5168	s_0056[c] + s_0794[c] + s_4545[c]  <=> s_0456[c] + s_4544[c] 	Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
 r_5169	s_0803[c] + s_1275[c] + s_3971[c]  -> s_0794[c] + s_0837[c] + s_3972[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
 r_5170	s_0803[c] + s_1275[c] + s_4543[c]  -> s_0794[c] + s_0837[c] + s_4542[c] 	Tortispora_caseinolytica@Seq_3414	  0.00	1000.00	  0.00
-r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Tortispora_caseinolytica@Seq_2312 or Tortispora_caseinolytica@Seq_2274	-1000.00	1000.00	  0.00
+r_5174	s_0794[c] + s_1043[c] + s_1212[c]  <=> s_0561[c] + s_1207[c] 	Tortispora_caseinolytica@Seq_2274 or Tortispora_caseinolytica@Seq_2312	-1000.00	1000.00	  0.00
 r_5175	s_0529[c] + s_4617[c]  <=> s_4183[c] + s_4585[c] 	Tortispora_caseinolytica@Seq_1991	-1000.00	1000.00	  0.00
-r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
-r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Tortispora_caseinolytica@Seq_3758 or Tortispora_caseinolytica@Seq_4493	-1000.00	1000.00	  0.00
+r_5178	s_0456[c] + s_4619[c]  <=> s_0178[c] + s_0794[c] + s_1475[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
+r_5179	s_4545[c] + s_4619[c]  <=> s_1475[c] + s_4617[c] 	Tortispora_caseinolytica@Seq_4493 or Tortispora_caseinolytica@Seq_3758	-1000.00	1000.00	  0.00
 r_5192	2 s_0434[c] + s_1035[c] + s_1048[c]  <=> 2 s_0423[c] + 2 s_0633[c] + 2 s_0794[c] + s_4627[c] 	Tortispora_caseinolytica@Seq_4582	-1000.00	1000.00	  0.00
 r_0118	s_0145[m] + s_0993[m]  -> s_0182[m] + s_1182[m] 	Tortispora_caseinolytica@Seq_1191	  0.00	1000.00	  0.00
 r_0317	2 s_0794[c] + s_1059[c] + 3 s_1212[c] + 3 s_1275[c]  -> s_0262[c] + s_0722[c] + 4 s_0803[c] + 3 s_1207[c] 	Tortispora_caseinolytica@Seq_3224	  0.00	1000.00	  0.00
@@ -3565,18 +3560,17 @@ r_2439	s_2783[erm] + s_2961[erm] + s_3083[erm]  <=> s_2834[erm] + s_3091[erm] 	T
 r_0015	s_0141[c] + s_0794[c] + s_1212[c]  -> s_0142[c] + s_1207[c] 	Tortispora_caseinolytica@Seq_1749	  0.00	1000.00	  0.00
 r_5193	s_0061[c] + s_1537[m]  <=> s_1269[c] + s_1535[m] 	Tortispora_caseinolytica@Seq_3573	-1000.00	1000.00	  0.00
 r_5194	s_0180[c] + s_1275[c] + s_4309[c]  -> s_0456[c] + s_1458[c] + s_4182[c] 	Tortispora_caseinolytica@Seq_3573	  0.00	1000.00	  0.00
-r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 		  0.00	1000.00	  0.00
+r_5195	2.1394 s_0799[m] + s_1203[c] + s_1537[m]  -> 1.1394 s_0794[c] + s_1198[c] + s_1535[m] 	Tortispora_caseinolytica@Seq_398 and Tortispora_caseinolytica@Seq_348 and Tortispora_caseinolytica@Seq_2286 and Tortispora_caseinolytica@Seq_393 and Tortispora_caseinolytica@Seq_2630 and Tortispora_caseinolytica@Seq_1675 and Tortispora_caseinolytica@Seq_4024 and Tortispora_caseinolytica@Seq_676 and Tortispora_caseinolytica@Seq_2634 and Tortispora_caseinolytica@Seq_1159 and Tortispora_caseinolytica@Seq_281 and Tortispora_caseinolytica@Seq_2246 and Tortispora_caseinolytica@Seq_1685 and Tortispora_caseinolytica@Seq_4232 and Tortispora_caseinolytica@Seq_134 and Tortispora_caseinolytica@Seq_751 and Tortispora_caseinolytica@Seq_3949 and Tortispora_caseinolytica@Seq_3679 and Tortispora_caseinolytica@Seq_2319 and Tortispora_caseinolytica@Seq_2009	  0.00	1000.00	  0.00
 r_0438	s_0710[m] + 1.266 s_0799[m] + 0.25 s_1278[m]  -> s_0709[m] + 0.633 s_0794[c] + 0.5 s_0807[m] 	(Tortispora_caseinolytica@Seq_1303 and Tortispora_caseinolytica@Seq_3235 and Tortispora_caseinolytica@Seq_4061 and Tortispora_caseinolytica@Seq_3923 and Tortispora_caseinolytica@Seq_3641 and Tortispora_caseinolytica@Seq_1279) or (Tortispora_caseinolytica@Seq_4244 and Tortispora_caseinolytica@Seq_2741 and Tortispora_caseinolytica@Seq_804 and Tortispora_caseinolytica@Seq_3248 and Tortispora_caseinolytica@Seq_4580)	  0.00	1000.00	  0.00
-r_0439	2 s_0709[m] + 1.266 s_0799[m] + s_1535[m]  -> 2 s_0710[m] + 2.532 s_0794[c] + s_1537[m] 	Tortispora_caseinolytica@Seq_147 and Tortispora_caseinolytica@Seq_3861 and Tortispora_caseinolytica@Seq_1303 and Tortispora_caseinolytica@Seq_1987 and Tortispora_caseinolytica@Seq_4188 and Tortispora_caseinolytica@Seq_2193 and Tortispora_caseinolytica@Seq_4521	  0.00	1000.00	  0.00
 r_0226	s_0397[m] + 3 s_0794[c] + s_1326[m]  -> s_0437[m] + 2 s_0799[m] + s_0807[m] 	(Tortispora_caseinolytica@Seq_2467 and Tortispora_caseinolytica@Seq_1005 and Tortispora_caseinolytica@Seq_2993 and Tortispora_caseinolytica@Seq_3434 and Tortispora_caseinolytica@Seq_3914 and Tortispora_caseinolytica@Seq_2136) or (Tortispora_caseinolytica@Seq_2467 and Tortispora_caseinolytica@Seq_1005 and Tortispora_caseinolytica@Seq_2993 and Tortispora_caseinolytica@Seq_3434 and Tortispora_caseinolytica@Seq_3914 and Tortispora_caseinolytica@Seq_2136 and Tortispora_caseinolytica@Seq_2900) or (Tortispora_caseinolytica@Seq_2467 and Tortispora_caseinolytica@Seq_1005 and Tortispora_caseinolytica@Seq_2993 and Tortispora_caseinolytica@Seq_3434 and Tortispora_caseinolytica@Seq_3914 and Tortispora_caseinolytica@Seq_2136 and Tortispora_caseinolytica@Seq_2767 and Tortispora_caseinolytica@Seq_4298 and Tortispora_caseinolytica@Seq_744)	  0.00	1000.00	  0.00
 r_0564	s_0550[c]  -> s_0207[c] + s_0803[c] 		  0.00	1000.00	  0.00
 r_0938	s_0794[c] + s_1377[c]  -> s_0456[c] + s_0803[c] + s_0951[c] 		  0.00	1000.00	  0.00
 r_1166	s_0565[e]  -> s_0563[c] 		  0.00	1000.00	  0.00
-r_2351	s_2808[erm] + s_2961[erm]  -> s_2966[erm] + s_2974[erm] 		  0.00	1000.00	  0.00
-r_3496	s_0500[g] + s_3368[gm]  -> s_0919[g] + s_2998[gm] 		  0.00	1000.00	  0.00
-r_3506	s_0503[g] + s_3372[gm]  -> s_0922[g] + s_3006[gm] 		  0.00	1000.00	  0.00
-r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 		-1000.00	1000.00	  0.00
-r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 		  0.00	1000.00	  0.00
+r_2365	s_2994[gm] + s_3005[gm]  -> s_2995[gm] + s_3006[gm] 		  0.00	1000.00	  0.00
+r_3435	s_0476[g] + s_3374[gm]  -> s_0895[g] + s_3010[gm] 		  0.00	1000.00	  0.00
+r_3488	s_0497[g] + s_3368[gm]  -> s_0916[g] + s_2998[gm] 		  0.00	1000.00	  0.00
+r_5198	s_0794[c] + s_1203[c] + s_4632[c]  <=> s_1198[c] + s_4633[c] 	Tortispora_caseinolytica@Seq_2312	-1000.00	1000.00	  0.00
+r_5199	s_0434[c] + s_4632[c]  -> s_0394[c] + s_0794[c] + s_4634[c] 	Tortispora_caseinolytica@Seq_2263	  0.00	1000.00	  0.00
 r_5201	s_0794[c] + s_4633[c]  <=> s_0796[e] + s_4635[e] 		-1000.00	1000.00	  0.00
 r_5202	s_0794[c] + s_3875[c]  <=> s_0796[e] + s_4636[e] 		-1000.00	1000.00	  0.00
 r_5203	s_0794[c] + s_1212[c] + s_1275[c] + s_4637[c]  -> s_0359[c] + s_0419[c] + s_0803[c] + s_1207[c] 		  0.00	1000.00	  0.00
@@ -3596,3 +3590,4 @@ r_5223	s_0020[c] + s_0529[c] + s_1198[c]  -> s_0359[c] + s_0373[c] + s_0794[c] +
 r_5224	s_0794[c] + s_4293[c]  <=> s_0796[e] + s_4652[e] 		-1000.00	1000.00	  0.00
 r_5225	s_0794[c] + s_1212[c] + s_4653[c]  -> s_1207[c] + s_3875[c] 		  0.00	1000.00	  0.00
 r_5226	s_0794[c] + s_4653[c]  <=> s_0796[e] + s_4654[e] 		-1000.00	1000.00	  0.00
+r_4983	s_1198[c] + s_4275[c]  <=> s_0794[c] + s_1203[c] + s_4276[c] 	Tortispora_caseinolytica@Seq_2962	-1000.00	1000.00	  0.00
