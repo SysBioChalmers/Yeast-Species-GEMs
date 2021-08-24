@@ -22,7 +22,7 @@ for i = 1:length(data(:,1))
     load([data{i,2},'.mat'])
     result(4:6,i) = [length(reducedModel.genes),length(reducedModel.rxns),length(reducedModel.mets)];
 end
-cd(current_path);
+cd(currentpath);
 
 % plot the result
 h = bar(result');

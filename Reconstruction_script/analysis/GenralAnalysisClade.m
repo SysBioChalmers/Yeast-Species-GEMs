@@ -65,15 +65,15 @@ ylabel('No. accessory reactions','FontSize',10,'FontName','Helvetica','Color','k
 camroll(-90)
 
 %%  for genes based on clade
+cd(inputpath)
 for i = 1:length(strains_sortclade)
-    cd(inputpath)
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
     genes(i) = length(model.genes);
 end
-cd(current_path)
+cd(currentpath)
 subplot(1,6,4)
-h = boxplot(genes,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[49,163,84]/255,'Labels',clades);
+h = boxplot(genes',group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[49,163,84]/255,'Labels',clades);
 set(h,{'linew'},{1});
 set(gca,'xtick',[])
 ylim([500,2000])
@@ -122,19 +122,19 @@ set(gca,'xtick',[])
 set(gca,'xticklabel',[])
 camroll(-90)
 
-% figure 1f for substrate prediction based on clade
+% figure f for substrate prediction based on clade
 %figure is plotted in substrateanalysis
 
 %% figure 1f for biomass yield
+cd('../Reconstruction/modelRelated/ssGEMs')
 for i = 1:length(strains_sortclade)
-    cd(inputpath)
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
     sol = solveLP(model);
     solresult(i) = sol.f;
 end
 subplot(1,6,6)
-h = boxplot(abs(solresult),group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[118,42,131]/255,'Labels',clades);
+h = boxplot(abs(solresult)',group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[118,42,131]/255,'Labels',clades);
 set(h,{'linew'},{1});
 set(gca,'FontSize',10,'FontName','Helvetica');
 ylabel('Biomass yield','FontSize',12,'FontName','Helvetica');
