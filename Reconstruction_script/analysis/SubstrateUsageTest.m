@@ -36,7 +36,6 @@ path = pwd;
 %% test for panmodel to see wether the panmodel can ultilize those metabolites or not.
 % Main loop:
 cd ../Reconstruction/otherChanges
-current_path = pwd;
     ExchRxn             = '';
     TransRxn            = '';
     GapfillMets         = '';
@@ -121,6 +120,7 @@ current_path = pwd;
         end
     end
 %% Test the ssModels subtrate usage information
+    cd(current_path)
 for k = 1:length(strainlist)
     k
     cd(inputpath)

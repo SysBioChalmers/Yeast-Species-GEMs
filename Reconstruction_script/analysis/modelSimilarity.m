@@ -1,7 +1,7 @@
 % Figure 2d this function is to get the model similarity analysis for all models we
 % generated
 
-inputpath = '../modelRelated/ssGEMs';
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
 current_path = pwd;
 % load group information
 fid2 = fopen('../data/physiology/343_phenotype_clade.tsv');
@@ -38,9 +38,9 @@ color_palette = [166 206 227
 177 89 40
 0 0 0]/255;
 
+cd(inputpath)
 for i = 1:length(strains_sortclade)
     m = strains_sortclade{i};
-    cd(inputpath)
     load([m,'.mat'])
     reducedModel.id = m;
     models{i} = reducedModel;

@@ -3,7 +3,6 @@
 % output is resut_table index
 function [result_table,index] = SubstrateUsageGene_Table
 current_path = pwd;
-inputpath = '../Reconstruction/modelRelated/ssGEMs';
 
 % read the index for the resulttable
 [~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
@@ -31,6 +30,7 @@ fclose(fid2);
 % generate the result
 [~,FBAresult] = SubstrateUsageTest(model_original,false,inputpath);
 cd ../Reconstruction/otherchanges/
+inputpath = '../../Reconstruction/modelRelated/ssGEMs';
 [~,rxnMatrix,~,~,~] = getprecursorMatrixCobra(model_original,strainlist,inputpath,[],0);
 
 
