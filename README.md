@@ -12,7 +12,13 @@ As the unicellular fungi, the budding yeasts contain over 1000 different yeast s
 
 Contributions are always welcome! Please firstly establish a new branch based on the dev branch (https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/dev) of this repo. You could also report an issue at https://github.com/SysBioChalmers/Yeast-Species-GEMs/issues if you have any question or idea about the content in this repo.
 
-* Last update: 2020-06-26
+* Citation
+
+If you use yeast species GEMs please cite this latest paper:
+Lu, H. et al. _Yeast metabolic innovations emerged via expanded metabolic network and gene positive selection._ , Molecular Systems Biology 2021(17):e10427. https://www.embopress.org/doi/full/10.15252/msb.202110427.
+
+
+* Last update: 2021-10-25
 
 
 * Main Model Descriptors:
