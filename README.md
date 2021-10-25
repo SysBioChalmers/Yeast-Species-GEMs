@@ -14,7 +14,7 @@ Contributions are always welcome! Please firstly establish a new branch based on
 
 * Citation
 
-If you use yeast species GEMs please cite this latest paper:
+If you use yeast species GEMs, please cite this latest paper:
 Lu, H. et al. _Yeast metabolic innovations emerged via expanded metabolic network and gene positive selection._ Molecular Systems Biology 2021(17):e10427. https://www.embopress.org/doi/full/10.15252/msb.202110427.
 
 
