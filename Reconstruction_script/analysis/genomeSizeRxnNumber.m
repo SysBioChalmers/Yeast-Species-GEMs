@@ -16,7 +16,7 @@ result = [];
 [~,idx] = ismember(Strain_information(:,4),clades);
 Strain_information(:,5) = num2cell(idx);
 
-h = boxplot(cellfun(@str2num, result(:,2)),cell2mat(result(:,4)),'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);set(h,{'linew'},{1});
+h = boxplot(cellfun(@str2num, Strain_information(:,3)),cell2mat(Strain_information(:,5)),'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);set(h,{'linew'},{1});
 set(gca,'FontSize',10,'FontName','Helvetica');
 
 set(gca,'FontSize',10,'XTickLabelRotation',90)

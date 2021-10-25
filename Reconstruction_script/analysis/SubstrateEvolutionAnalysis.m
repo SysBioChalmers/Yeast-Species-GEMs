@@ -36,7 +36,7 @@ data = cellfun(@str2num, data, 'UniformOutput', false);
 
 load('../Reconstruction/modelRelated/FBAresult.mat')% generated from SubstrateUsageTest.m
 FBAresult(abs(FBAresult)>0) = 1;
-data(isnan(cell2mat(data))) = num2cell(FBAresult(isnan(cell2mat(data))));
+data(isnan(cell2mat(data))) = num2cell(FBAresult(isnan(cell2mat(data)))); % replace the nan with the simulated dataset
 clear fid2 Subtype SubCondition format temp substrate FBAresult;
 
 %% special/general enzyme for each rxn
@@ -183,13 +183,15 @@ exp_sub = zeros(length(rxn),length(strains_sortclade));
 con_sub = zeros(length(rxn),length(strains_sortclade));
 exp_sub_count = zeros(length(strains_sortclade),1);
 con_sub_count = zeros(length(strains_sortclade),1);
+inputpath = '../Reconstruction/modelRelated/ssGEMs';
+    cd(inputpath)
 for i = 1:length(strains_sortclade)
 
     disp(['No. ',num2str(i), ': ',strains_sortclade{i}])
     [~,idx] = ismember(strains_sortclade(i),{exp_con.organism});
     tmp = exp_con(idx).expansion;
     tmp2 = exp_con(idx).contraction;
-    cd(inputpath)
+
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
     if ~isempty(tmp)
@@ -265,13 +267,13 @@ HGT = split(unique(join(HGT,';'),'stable'),';');
 temp = split(HGT(:,2),'@'); % split by the gene
 HGT(:,4) = temp(:,1); % species
 HGT_rxn = zeros(length(rxn),length(strains_sortclade));
+cd(inputpath)
 for i = 1:length(strains_sortclade)
     i
     HGT_rxn_temp = cell(0,1);
     ID = ismember(HGT(:,4),strains_sortclade(i,1));
     HGT_species(i) = length(HGT(ID,3));
     HGT_enzyme(i) = join(HGT(ID,2),';');
-    cd(inputpath)
     if ~isempty(HGT(ID,4))
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
@@ -295,9 +297,9 @@ cd(current_path)
 clear temp model;
 
 %% generalist/special list
+cd(inputpath)
 for i = 1:length(strains_sortclade)
     disp(['No.',num2str(i),': ',strains_sortclade{i}])
-       cd(inputpath)
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
     for j = 1:length(rxn)
@@ -318,7 +320,7 @@ end
 
 for i = 1:length(strains_sortclade)
     disp(['No.',num2str(i),': ',strains_sortclade{i}])
-       cd(inputpath)
+
     load([strains_sortclade{i},'.mat']);
     model = reducedModel;
     general_OG_count(i) = length(intersect(model.proteins,OG_all_general));
@@ -386,6 +388,7 @@ ylabel('General list','FontSize',12,'FontName','Helvetica');
 table_cor = table(clade_av',gain',loss',HGT_count',exp_sub_count,general_OG_count');
 table_cor.Properties.VariableNames = {'No.traits' 'Gain' 'Loss' 'Substrate HGT','Gene expansion','General list'};
 writetable(table_cor,'Evolution_event_table.txt')
+corrplot([clade_av',gain',loss',HGT_count',exp_sub_count,general_OG_count'])
  %% Fig1d for HGT/gene_expansion/Generalist in metabolic gain
 for i = 1:length(strains_sortclade)
      gain_idx = split(gain_result(1,i),';');
@@ -400,7 +403,6 @@ for i = 1:length(strains_sortclade)
      contribution(i,3) = length(intersect(gain_idx,GL_idx)); %  GL
      contribution(i,4) = length(setdiff(gain_idx,union(union(HGT_idx,exp_idx),GL_idx))); % no reason found
 end
-ylables = {'HGT','GE','GL','NO REASON'};
 
 % second figure
 for i = 1:length(clades)
@@ -412,6 +414,7 @@ for i = 1:length(clades)
 end
 
 % Fig 5d Ratio of Evolution events cocurring with subtrate gain
+figure
 h1 = bar(sum(contribution_clade,1)/sum(contribution_clade(:)),'FaceColor',[255,127,0]/255,'FaceAlpha',0.3,'EdgeColor',[255,127,0]/255,'LineWidth',1);
 set(gca,'XTick',1:1:4);
 set(gca,'XTickLabel',{'HGT','Gene expansion','Generalist','Others'});
@@ -516,7 +519,7 @@ xtickangle(0);
 % transporter HGT combine transporter and also the rxn
 HGT_transporter = [HGT3;HGT4]; % annotation from gapse transporter
 HGT_sub = [HGT1;HGT2]; % from modeL, bu tthey also contain transporter, so we should seperate them.
-transrxn = index(strcmp(index(:,end),'trans'));
+transrxn = index(strcmp(index(:,7),'trans'));
 transrxn = split(join(transrxn,';'),';');
 [~,idx] = ismember(transrxn,model_original.rxns);
 transOG = model_original.OGIDs(find(sum(full(model_original.rxnGeneMat(idx,:)),1)));
@@ -545,7 +548,7 @@ set(gca,'FontSize',10,'FontName','Helvetica');
 ylabel('HGT classification','FontSize',12,'FontName','Helvetica','Color','k');
 xtickangle(0);
 
-cd(currennt_path)
+cd(current_path)
 
 %% substrate loss
 % define the metabolic loss as critical enzyme loss
@@ -627,7 +630,7 @@ end
 sum(cellfun(@any,num2cell(no_critical_loss)),2)
 h = boxplot(ans,group,'Symbol','o','OutlierSize',3,'Widths',0.7,'Colors',[56,108,176]/255,'Labels',clades);
 set(gca,'FontSize',10,'XTickLabelRotation',90)
-ylabel('Substrate loss caused by critical rxn loss','FontSize',12,'FontName','Helvetica','Color','k');
+ylabel('Substrate loss caused by non critical rxn loss','FontSize',12,'FontName','Helvetica','Color','k');
 
 % define the metabolic loss as downstream pathway
 downsteam = zeros(length(strains_sortclade),length(sub_exp(1,:)));
@@ -703,7 +706,7 @@ ylabel('general list','FontSize',12,'FontName','Helvetica','Color','k');
      contribution(i,5) = length(setdiff(loss_idx,union(union(critical_idx,no_critical_idx),union(dp_idx,general_idx)))); % no reason found
  end
 
- % contribution(:,4) = []; remove generalist condition
+ contribution(:,4) = []; % remove generalist condition
 h1 = bar(sum(contribution,1)/sum(contribution(:)),'FaceColor',[49,163,84]/255,'FaceAlpha',0.3,'EdgeColor',[49,163,84]/255,'LineWidth',1);
 set(gca,'XTick',1:1:4);
 set(gca,'XTickLabel',{'Highly-correlated rxn','Non-highly correlated rxn','Downstream pathway','Others'});
