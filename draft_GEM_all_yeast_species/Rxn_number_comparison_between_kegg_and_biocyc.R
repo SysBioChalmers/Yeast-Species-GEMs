@@ -15,15 +15,15 @@ genome_yeasts$genomeID <- getSingleReactionFormula(strain_index$original_genome_
 
 #---------------------------------------------------
 # input the model from biocyc and kegg
-strain <- list.files('strain specific model from RAVEN_biocyc_55_110')
+strain <- list.files('strain_specific_model_from_RAVEN_biocyc_55_110')
 rxn_biocyc0 <- vector()
 rxn_kegg0 <- vector()
 all_rxn <- list()
 for (i in strain) {
   print(i)
-  inputfile1 <- paste('strain specific model from RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
+  inputfile1 <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   rxn_biocyc <- read_table2(inputfile1)
-  inputfile2 <- paste('strain specific model from RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+  inputfile2 <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
   rxn_kegg <- read_table2(inputfile2)
   rxn_biocyc0 <- c(rxn_biocyc0, length(unique(rxn_biocyc$`#`)))
   rxn_kegg0 <- c(rxn_kegg0, length(unique(rxn_kegg$`#`)))
@@ -40,24 +40,27 @@ plot(reaction_num_summary$kegg, reaction_num_summary$biocyc)
 
 
 
+
+
+
+# the following script is not used!
 # when the original parameter is used
 # input the model from biocyc and kegg
-strain <- list.files('strain specific model from RAVEN_biocyc_45_100')
-rxn_biocyc0 <- vector()
-rxn_kegg0 <- vector()
+#strain <- list.files('strain specific model from RAVEN_biocyc_45_100')
+#rxn_biocyc0 <- vector()
+#rxn_kegg0 <- vector()
 
-for (i in strain) {
-  print(i)
-  inputfile1 <- paste('strain specific model from RAVEN_biocyc_45_100/',i, '/excelRxns.txt', sep = "")
-  rxn_biocyc <- read_table2(inputfile1)
-  inputfile2 <- paste('strain specific model from RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
-  rxn_kegg <- read_table2(inputfile2)
-  rxn_biocyc0 <- c(rxn_biocyc0, length(unique(rxn_biocyc$`#`)))
-  rxn_kegg0 <- c(rxn_kegg0, length(unique(rxn_kegg$`#`)))
+#for (i in strain) {
+#  print(i)
+#  inputfile1 <- paste('strain specific model from RAVEN_biocyc_45_100/',i, '/excelRxns.txt', sep = "")
+#  rxn_biocyc <- read_table2(inputfile1)
+#  inputfile2 <- paste('strain specific model from RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+#  rxn_kegg <- read_table2(inputfile2)
+#  rxn_biocyc0 <- c(rxn_biocyc0, length(unique(rxn_biocyc$`#`)))
+#  rxn_kegg0 <- c(rxn_kegg0, length(unique(rxn_kegg$`#`)))
   
-}
+#}
 
-reaction_num_summary <- data.frame(strain=strain, kegg=rxn_kegg0, biocyc=rxn_biocyc0, stringsAsFactors = FALSE)
-plot(reaction_num_summary$kegg, reaction_num_summary$biocyc)
-
-
+#reaction_num_summary <- data.frame(strain=strain, kegg=rxn_kegg0, biocyc=rxn_biocyc0, stringsAsFactors = FALSE)
+#plot(reaction_num_summary$kegg, reaction_num_summary$biocyc)
+#

@@ -49,3 +49,4 @@ helpsearch*/
 ########################
 *.xls
 *.tab
+.Rproj.user
