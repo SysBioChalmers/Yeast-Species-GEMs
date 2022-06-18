@@ -107,6 +107,10 @@ for record in records:
 '''
 
 
+
+
+'''
+# another small tasks
 # further divide the fasta file into small part
 # this is used for the deepec, which can predict the EC number from protein fasta file
 # due to the memory limitation, we need split it into 6 small files
@@ -127,6 +131,10 @@ for i in range(len(out)):
         print(id)
         panYeast_part1.append(records[id])
     SeqIO.write(panYeast_part1, outfile, "fasta")
+
+'''
+
+
 
 
 '''

@@ -16,13 +16,13 @@ genome_yeasts$genomeID <- getSingleReactionFormula(strain_index$original_genome_
 # RAVEN biocyc
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain specific model from RAVEN_biocyc_55_110')
+strain <- list.files('strain_specific_model_from_RAVEN_biocyc_55_110')
 
 for (i in strain) {
   print(i)
   #i <- "biocyc_panYeast2_45_100"
-  inputfile <- paste('strain specific model from RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain specific model from RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
   gene <- length(unique(gene_biocyc$V2))
@@ -79,13 +79,13 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'gene_set', paraY = 'gene',
 # RAVEN kegg
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain specific model from RAVEN_kegg')
+strain <- list.files('strain_specific_model_from_RAVEN_kegg')
 
 for (i in strain) {
   print(i)
   #i <- "biocyc_panYeast2_45_100"
-  inputfile <- paste('strain specific model from RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain specific model from RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
   
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
   gene <- length(unique(gene_biocyc$V2))
@@ -128,6 +128,31 @@ plotXYdotGraph2(data_frame=summary_paramter2, paraX = 'gene_set', paraY = 'gene'
 
 
 
+
+#---------------------------------------------------
+# check the effect of expanded gene number on rxn number, gene set, EC number is annotated using deepEC
+# input the gene expanded data
+# it seems there are good correlation between the expanded gene number and gene size, rxn size.
+gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
+summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
+summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
+
+# remove the 11 out-group fungal species
+summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
+summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
+summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
+plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
+cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
+plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
+cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
+
+
+
+
+
+
+
+# Note: the following script may be not used anymore!!!!
 #---------------------------------------------------
 # connect the EC number and domain number with rxn number, gene set
 # EC number is annotated using deepEC
@@ -200,64 +225,3 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'Domain', paraY = 'EC', xla
 cor.test(summary_paramter$EC, summary_paramter$gene)
 cor.test(summary_paramter$Domain, summary_paramter$gene)
 cor.test(summary_paramter$Domain, summary_paramter$EC)
-
-
-#---------------------------------------------------
-# check the effect of expanded gene number on rxn number, gene set, EC number is annotated using deepEC
-# input the gene expanded data
-# it seems there are good correlation between the expanded gene number and gene size, rxn size.
-gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
-summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
-summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
-
-# remove the 11 out-group fungal species
-summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
-summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
-summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
-cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
-cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
-
-
-
-#---------------------------------------------------
-## Small task- to check whether the specific reactions existing in all yeast species
-# RAVEN kegg
-gene_all <- vector()
-rxn_all <- vector()
-exist_R01867 <- vector()
-ec <- c('ec:1.3.98.1','ec:1.3.5.2')#,'ec:1.3.1.14')
-ec_all <- vector()
-strain <- list.files('strain specific model from RAVEN_kegg')
-ec_rxn <- read.table('data/EC_rxn_mapping_kegg.txt', stringsAsFactors = FALSE) # ec rxn mapping from kegg
-ec_rxn$V2 <- str_replace_all(ec_rxn$V2, "rn:", "")
-
-
-for (i in strain) {
-  print(i)
-  #i <- "biocyc_panYeast2_45_100"
-  inputfile <- paste('strain specific model from RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain specific model from RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
-  
-  gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
-  gene <- length(unique(gene_biocyc$V2))
-  
-  rxn_biocyc <- read_table2(inputfile2)
-  rxn <- length(unique(rxn_biocyc$`#`))
-  
-  rxn_detail <- data_frame(rxn=rxn_biocyc$`#`)
-  rxn_detail <- merge(rxn_detail, ec_rxn, by.x = 'rxn', by.y = 'V2', all.x = TRUE)
-  existence <- length(which(rxn_detail$rxn %in% 'R01867'))
-  
-
-  ec_existence <- length(which(rxn_detail$V1 %in% ec))
-  #save the result
-  exist_R01867 <- c(exist_R01867, existence)
-  ec_all <- c(ec_all, ec_existence)
-  gene_all <- c(gene_all, gene)
-  rxn_all <- c(rxn_all, rxn)
-}
-
-
-
