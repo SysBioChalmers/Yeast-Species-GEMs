@@ -129,7 +129,22 @@ plotXYdotGraph2(data_frame=summary_paramter2, paraX = 'gene_set', paraY = 'gene'
 
 
 
+#---------------------------------------------------
+# check the effect of expanded gene number on rxn number, gene set, EC number is annotated using deepEC
+# input the gene expanded data
+# it seems there are good correlation between the expanded gene number and gene size, rxn size.
+gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
+summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
+summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
 
+# remove the 11 out-group fungal species
+summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
+summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
+summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
+plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
+cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
+plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
+cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
 
 
 
@@ -210,21 +225,3 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'Domain', paraY = 'EC', xla
 cor.test(summary_paramter$EC, summary_paramter$gene)
 cor.test(summary_paramter$Domain, summary_paramter$gene)
 cor.test(summary_paramter$Domain, summary_paramter$EC)
-
-
-#---------------------------------------------------
-# check the effect of expanded gene number on rxn number, gene set, EC number is annotated using deepEC
-# input the gene expanded data
-# it seems there are good correlation between the expanded gene number and gene size, rxn size.
-gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
-summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
-summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
-
-# remove the 11 out-group fungal species
-summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
-summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
-summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
-cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
-cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
