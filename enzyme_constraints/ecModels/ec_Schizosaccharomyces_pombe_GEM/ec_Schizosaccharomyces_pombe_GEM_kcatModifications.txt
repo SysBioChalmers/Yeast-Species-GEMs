@@ -1,6 +1,0 @@
-Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
-O60198,2961,3366,rattus norvegicus,1,SA*Mw,8.8e-05,385000,-71.8494,8.23016
-P50521,2892,5226,trypanosoma brucei,1,K_cat,1.67004,483.3,-64.5203,0.261242
-O13775,2844,3140,plasmodium falciparum,1,K_cat,0.016,3.61,-52.828,0.331061
-Q10231,2950,3344,bos taurus,1,SA*Mw,0.001937,4.07633,-30.1193,0.48103
-Q10283,2915,3228,haloferax volcanii,1,SA*Mw,0.023001,18400,5.48278,0.508701
