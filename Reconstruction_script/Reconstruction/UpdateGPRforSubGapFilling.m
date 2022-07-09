@@ -12,7 +12,7 @@ result(:,2) = data{2};
  % result: mrnaID KO speciesgeneID panID species rxn sub oldGPR
 
 for i = 1:length(strains)    
-    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
+    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv']; % It rely another project.
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);
