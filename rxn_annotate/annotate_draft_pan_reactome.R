@@ -113,6 +113,14 @@ write.table(met_biocyc, "result/met_biocyc_pan_reactome_for_yeast_species.txt", 
 
 
 
+
+
+
+
+
+
+
+
 # part 2
 # pathway mapping
 pan_reactome <- read.table('result/draft_pan_reactome_for_yeast_species.txt', header = TRUE, stringsAsFactors = FALSE)
@@ -131,7 +139,7 @@ pan_reactome0 <- filter(pan_reactome0, !is.na(pathway)) %>% filter(., pathway !=
 pan_reactome1 <- select(pan_reactome0,pathway,Occur_num)
 pathway_with_reaction_num <- as.data.frame(table(pan_reactome1$pathway))
 colnames(pathway_with_reaction_num) <- c('pathway','rxn_num')
-pathway_with_reaction_num0 <- filter(pathway_with_reaction_num , rxn_num >=10 & rxn_num < 100)
+pathway_with_reaction_num0 <- filter(pathway_with_reaction_num , rxn_num >=10 & rxn_num < 100) # remove general subsystems or subsystems with too few reactions
 Result0 <- pan_reactome1[pan_reactome1$pathway %in% pathway_with_reaction_num0$pathway,]
 Result0$pathway <- as.factor(Result0$pathway)
 
