@@ -45,3 +45,70 @@ for (i in 1:ncol(strain_combine)){
 write.table(result_df, "result/combined_model_similirity.txt", row.names = FALSE, sep = "\t")
 
 
+
+
+
+# based on the manual produced models
+dir <- "/Users/xluhon/Documents/txt_manual_GEMs/"
+strain <- list.files(dir)
+# get the combination
+strain_combine <-  as.data.frame(combn(strain, 2), stringsAsFactors = FALSE)
+result_df <- data.frame()
+for (i in 1:ncol(strain_combine)){
+  print(i)
+  strain_combine[,c(i)]
+  ss <-  strain_combine[,c(i)]
+  s1 <- ss[1]
+  s2 <- ss[2]
+  file1 <- paste(dir,s1, sep = "")
+  file2 <- paste(dir,s2, sep = "")
+  rxn1 <- read.table(file1, header=TRUE, sep = "\t", stringsAsFactors = FALSE)
+  rxn2 <- read.table(file2, header=TRUE, sep = "\t", stringsAsFactors = FALSE)
+  similirity <- jaccard(rxn1[["Rxn.name"]],rxn2[["Rxn.name"]])
+  df1 = data.frame(s1,s2,similirity)
+  
+  # adding names to the row values
+  names(df1)=c("s1","s2","similirity") 
+  
+  # passing the original data frame and 
+  # new data frame into the rbind() function 
+  result_df=rbind(result_df,df1) 
+}
+
+write.table(result_df, "result/manual_model_similirity.txt", row.names = FALSE, sep = "\t")
+
+
+
+
+# based on the manual produced models, remove rxns without genes
+dir <- "/Users/xluhon/Documents/txt_manual_GEMs/"
+strain <- list.files(dir)
+# get the combination
+strain_combine <-  as.data.frame(combn(strain, 2), stringsAsFactors = FALSE)
+result_df <- data.frame()
+for (i in 1:ncol(strain_combine)){
+  print(i)
+  strain_combine[,c(i)]
+  ss <-  strain_combine[,c(i)]
+  s1 <- ss[1]
+  s2 <- ss[2]
+  file1 <- paste(dir,s1, sep = "")
+  file2 <- paste(dir,s2, sep = "")
+  rxn1 <- read.table(file1, header=TRUE, sep = "\t", stringsAsFactors = FALSE)
+  rxn2 <- read.table(file2, header=TRUE, sep = "\t", stringsAsFactors = FALSE)
+  # filter
+  rxn10 <- filter(rxn1, Gene.reaction.association != "")
+  rxn20 <- filter(rxn2, Gene.reaction.association != "")
+  similirity <- jaccard(rxn10[["Rxn.name"]],rxn20[["Rxn.name"]])
+  df1 = data.frame(s1,s2,similirity)
+  
+  # adding names to the row values
+  names(df1)=c("s1","s2","similirity") 
+  
+  # passing the original data frame and 
+  # new data frame into the rbind() function 
+  result_df=rbind(result_df,df1) 
+}
+
+write.table(result_df, "result/manual_model_similirity.txt", row.names = FALSE, sep = "\t")
+
