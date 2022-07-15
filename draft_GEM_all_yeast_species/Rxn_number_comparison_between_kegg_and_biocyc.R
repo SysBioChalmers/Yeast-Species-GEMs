@@ -15,15 +15,15 @@ genome_yeasts$genomeID <- getSingleReactionFormula(strain_index$original_genome_
 
 #---------------------------------------------------
 # input the model from biocyc and kegg
-strain <- list.files('strain_specific_model_from_RAVEN_biocyc_55_110')
+strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110')
 rxn_biocyc0 <- vector()
 rxn_kegg0 <- vector()
 all_rxn <- list()
 for (i in strain) {
   print(i)
-  inputfile1 <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
+  inputfile1 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   rxn_biocyc <- read_table2(inputfile1)
-  inputfile2 <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
   rxn_kegg <- read_table2(inputfile2)
   rxn_biocyc0 <- c(rxn_biocyc0, length(unique(rxn_biocyc$`#`)))
   rxn_kegg0 <- c(rxn_kegg0, length(unique(rxn_kegg$`#`)))

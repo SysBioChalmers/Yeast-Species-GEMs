@@ -7,7 +7,7 @@ dir0 = os.getcwd()
 os.chdir(dir0)
 
 
-my_dir = os.path.join(dir0, "strain_specific_model_from_RAVEN_biocyc_55_110/")
+my_dir = os.path.join(dir0, "../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/")
 strain = os.listdir(my_dir)
 
 strain = [x for x in strain if x != '.DS_Store']
@@ -35,7 +35,7 @@ for fname in strain:
 
 
 
-my_dir = os.path.join(dir0, "strain_specific_model_from_RAVEN_kegg/")
+my_dir = os.path.join(dir0, "../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/")
 strain = os.listdir(my_dir)
 
 strain = [x for x in strain if x != '.DS_Store']
@@ -58,3 +58,8 @@ for fname in strain:
         if name2.startswith("excelModel"):
             print(name2)
             os.remove(os.path.join(newfname, name2))
+
+
+
+
+

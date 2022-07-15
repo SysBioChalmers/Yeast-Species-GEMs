@@ -16,13 +16,13 @@ genome_yeasts$genomeID <- getSingleReactionFormula(strain_index$original_genome_
 # RAVEN biocyc
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain_specific_model_from_RAVEN_biocyc_55_110')
+strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110')
 
 for (i in strain) {
   print(i)
   #i <- "biocyc_panYeast2_45_100"
-  inputfile <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
   gene <- length(unique(gene_biocyc$V2))
@@ -79,13 +79,13 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'gene_set', paraY = 'gene',
 # RAVEN kegg
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain_specific_model_from_RAVEN_kegg')
+strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg')
 
 for (i in strain) {
   print(i)
   #i <- "biocyc_panYeast2_45_100"
-  inputfile <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
   
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
   gene <- length(unique(gene_biocyc$V2))

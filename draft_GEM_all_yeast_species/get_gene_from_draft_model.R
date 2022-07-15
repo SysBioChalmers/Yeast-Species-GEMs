@@ -16,12 +16,12 @@ genome_yeasts$genomeID <- getSingleReactionFormula(strain_index$original_genome_
 # RAVEN biocyc
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain_specific_model_from_RAVEN_biocyc_55_110')
+strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110')
 
 for (i in strain) {
   print(i)
-  inputfile <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
 
 }
@@ -32,13 +32,13 @@ for (i in strain) {
 # RAVEN kegg
 gene_all <- vector()
 rxn_all <- vector()
-strain <- list.files('strain_specific_model_from_RAVEN_kegg')
+strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg')
 
 all_m_kegg <- vector()
 for (i in strain) {
   print(i)
-  inputfile <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
+  inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
+  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
   gene_list_biocyc <- gene_biocyc$V2
   all_m_kegg <- c(all_m_kegg, gene_list_biocyc)
