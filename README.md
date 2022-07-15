@@ -376,7 +376,7 @@ The model is available in `.xml`, `.txt`. All model files can be found in: [`Mod
 
 
 ## Contributors
-* [Hongzhong Lu](https://life.sjtu.edu.cn/teacher/En/luhongzhong) ([@hongzhonglu](https://github.com/hongzhonglu)), Shanghai Jiaotong University, China
+* [Hongzhong Lu](https://life.sjtu.edu.cn/teacher/En/luhongzhong) ([@hongzhonglu](https://github.com/hongzhonglu)), Shanghai Jiao Tong University, China
 * [Eduard J. Kerkhoven](https://www.chalmers.se/en/staff/Pages/Eduard-Kerkhoven.aspx) ([@edkerk](https://github.com/edkerk)), Chalmers University of Technology, Sweden
 * [Feiran Li](https://www.chalmers.se/en/staff/Pages/feiranl.aspx) ([@feiranl](https://github.com/feiranl)), Chalmers University of Technology, Sweden
 * [Gang Li](https://www.chalmers.se/en/Staff/Pages/gangl.aspx), Chalmers University of Technology, Sweden
