@@ -374,9 +374,10 @@ Lu, H. et al. _Yeast metabolic innovations emerged via expanded metabolic networ
 The model is available in `.xml`, `.txt`. All model files can be found in: [`ModelFiles`](https://github.com/SysBioChalmers/Yeast-Species-GEMs/tree/master/Reconstruction_script/ModelFiles)
 
 
+
 ## Contributors
+* [Hongzhong Lu](https://life.sjtu.edu.cn/teacher/En/luhongzhong) ([@hongzhonglu](https://github.com/hongzhonglu)), Shanghai Jiao Tong University, China
 * [Eduard J. Kerkhoven](https://www.chalmers.se/en/staff/Pages/Eduard-Kerkhoven.aspx) ([@edkerk](https://github.com/edkerk)), Chalmers University of Technology, Sweden
 * [Feiran Li](https://www.chalmers.se/en/staff/Pages/feiranl.aspx) ([@feiranl](https://github.com/feiranl)), Chalmers University of Technology, Sweden
-* [Hongzhong Lu](https://www.chalmers.se/en/Staff/Pages/luho.aspx) ([@hongzhonglu](https://github.com/hongzhonglu)), Chalmers University of Technology, Sweden
 * [Gang Li](https://www.chalmers.se/en/Staff/Pages/gangl.aspx), Chalmers University of Technology, Sweden
 * [Le Yuan](https://www.chalmers.se/en/staff/Pages/leyu.aspx), Chalmers University of Technology, Sweden
