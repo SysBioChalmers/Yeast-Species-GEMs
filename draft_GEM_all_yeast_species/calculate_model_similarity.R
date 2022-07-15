@@ -13,10 +13,5 @@ jaccard(a,b)
 
 
 
-
-
-
-
-
 # for python version, please find it in https://stackoverflow.com/questions/37003272/how-to-compute-jaccard-similarity-from-a-pandas-dataframe
 
