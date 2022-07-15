@@ -5,7 +5,7 @@ function [transall,transselected] = sortTransGapseq(strains,inputpath,mets)
 % inputpath = '../Reconstruction/gapseqresult'; % downloaded from figshare 
 % load('../Reconstruction/modelRelated/StrainData.mat');
 % strains = StrianData.strains;
-% [~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
+% [~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index'); % this file is missing in current folder.
 % mets = strrep(index(endsWith(index(:,1),'_exp')),'_exp','')
 file = dir(inputpath);
 file = {file.name};

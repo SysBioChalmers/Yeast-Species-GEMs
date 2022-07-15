@@ -1,3 +1,0 @@
-Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
-A0A1G4ML24,2974,5360,bos taurus,1,SA*Mw,0.00016,13.035,-96.67,10.751
-A0A1G4MGK8,2938,5297,rattus norvegicus,1,SA*Mw,8.8e-05,385000,13.675,32.0344

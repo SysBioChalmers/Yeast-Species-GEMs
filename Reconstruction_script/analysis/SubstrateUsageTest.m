@@ -12,8 +12,8 @@
 % change that into a function
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 currentpath = pwd;
-load('../Reconstruction/modelRelated/panModel.mat');
-inputpath = '../Reconstruction/modelRelated/ssGEMs';
+load('../Reconstruction/modelRelated/panModel.mat'); % this directory should be updated
+inputpath = '../Reconstruction/modelRelated/ssGEMs'; % this directory should be updated
 % Load data:
 fid2 = fopen('../data/physiology/Biolog_substrate.tsv');
 format = repmat('%s ',1,333);

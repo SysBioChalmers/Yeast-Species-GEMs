@@ -12,7 +12,7 @@ result(:,2) = data{2};
  % result: mrnaID KO speciesgeneID panID species rxn sub oldGPR
 
 for i = 1:length(strains)    
-    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
+    fileName    = ['../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv']; % It rely another project.
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);
@@ -113,10 +113,10 @@ tmp = find(idx2 == 0);
 idx2 = contains(rxn,removelst(tmp,2));
 removelst(tmp,3) = sub(idx2);
 
-[~,~,result_table] = xlsread('/modelRelated/substrateUsageGene.xlsx','RESULTTABLE');
+[~,~,result_table] = xlsread('/modelRelated/substrateUsageGene.xlsx','RESULTTABLE'); % this file is missing!
 strain_sub_lst = result_table(10:338,1);
 result_table = result_table(10:end,2:end);
-[~,~,index] = xlsread('/modelRelated/substrateUsageGene.xlsx','index');
+[~,~,index] = xlsread('/modelRelated/substrateUsageGene.xlsx','index'); % this file is missing!
 [~,idx] = ismember(strainlst,strain_sub_lst); % there are several not in the sublist 332-329
 result_table(idx~=0,:) = result_table(idx(idx~=0),:);
 rxnexistence = result_table(:,startsWith(index(:,1),'r_'));

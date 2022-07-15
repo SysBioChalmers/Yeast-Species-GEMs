@@ -1,7 +1,7 @@
 % Figure 2b: this function is to generate plot for pan/core/accessory reactions Figure 2b and
 % also the dataset for pathway figure using iPath3.0
 currentpath= pwd;
-load('../Reconstruction/modelRelated/StrainData.mat')
+load('../Reconstruction/modelRelated/StrainData.mat') % now this file is put under ModelFiles/pan
 inputpath = '../Reconstruction/modelRelated/ssGEMs';
 strains = StrianData.strains;
 cd(inputpath)

@@ -1,6 +1,6 @@
 library("PerformanceAnalytics")
 
-group_file <- read.table("/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/analysis/table.txt",header = T,sep = ",")
+group_file <- read.table("/Users/feiranl/Documents/GitHub/Yeast-Species-GEMs/Reconstruction_script/analysis/table.txt",header = T,sep = ",") # file name should be 'Evolution_event_table.txt'
 
 M<-cor(group_file)
 M2 = M

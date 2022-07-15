@@ -1,2 +1,0 @@
-Unicode,enz_pos,rxn_pos,Organism,Modified,Parameter,oldValue,newValue,error,ControlCoeff
-C5DZ08,2845,5115,rattus norvegicus,1,SA*Mw,8.8e-05,385000,143.6,55.1108
