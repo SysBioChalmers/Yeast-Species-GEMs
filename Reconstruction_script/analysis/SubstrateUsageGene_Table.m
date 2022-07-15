@@ -5,7 +5,7 @@ function [result_table,index] = SubstrateUsageGene_Table
 current_path = pwd;
 
 % read the index for the resulttable
-[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index'); % note: this file should be added into data folder
 
 % read the model and data
 load('../Reconstruction/modelRelated/panModel.mat');

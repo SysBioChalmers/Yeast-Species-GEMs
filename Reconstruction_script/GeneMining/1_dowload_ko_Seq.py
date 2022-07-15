@@ -80,7 +80,10 @@ def main(checksub): # True will only extract ko sequences from species with this
 
 def sub_yeast_kegg():
     # load the yeast(in kegg) substrate usage info, in order to filter out the uncertainty
-    subusage = pd.read_csv('Subusage_KEGG_yeast.tsv', sep='\t', header=0) # this one load phenotypes realted species, s that it can be used to filter the ko sequences
+
+    # TODO: add Subusage_KEGG_yeast.tsv under this folder if needed.
+
+    subusage = pd.read_csv('Subusage_KEGG_yeast.tsv', sep='\t', header=0) # this one load phenotypes related species, s that it can be used to filter the ko sequences
     sub_strain = {}
     for sub in subusage.keys()[2:]: # take out the first two whcih are not actual substrate: 0 kegg_ID 1 substrate
         idx = subusage[(subusage[sub] == '1') | (subusage[sub] == 'v')].index.tolist()

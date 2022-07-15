@@ -145,6 +145,13 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'g
 cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
 plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
 cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
+# here it should be noted that gene can be metabolic and non metabolic one, so there is no
+# positive correlation between total expanded gene number and rxn number?
+# then we need extract all metabolic genes and map it to OG??
+
+
+
+
 
 
 

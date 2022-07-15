@@ -71,7 +71,7 @@ cdfplot(cell2mat(OG_rxn_count(:,2)))
 ylabel('Percentage','FontSize',10,'FontName','Helvetica','Color','k');
 xlabel('OG linked rxn number','FontSize',10,'FontName','Helvetica','Color','k');
 
-[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index');
+[~,~,index] = xlsread('../Reconstruction/modelRelated/substrateUsageGene.xlsx','index'); % note: this file is missing in current version
 rxn = index(startsWith(index(:,1),'r_'),1);
 rxn_tmp = join(rxn,';');
 rxn_tmp = split(rxn_tmp,';');

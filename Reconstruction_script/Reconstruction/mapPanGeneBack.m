@@ -13,7 +13,7 @@ for i = 1:length(strains)
     model = model.reducedModel;
     cd(currentpath);
     % load old mapping data  geneID with panID
-    fileName    = ['../../../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv'];
+    fileName    = ['../../../Multi_scale_evolution/pan_genome/result/id_mapping/',strains{i},'.tsv']; % need data from another repo.
     fID         = fopen(fileName);
     protData    = textscan(fID,'%s%s%s%s%s%s%s%s','Delimiter','\t','HeaderLines',1);
     fclose(fID);

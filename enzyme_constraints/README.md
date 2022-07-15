@@ -37,3 +37,4 @@ In order to generate biologically-meaningful phenotype predictions with the prov
 - glucose uptake rate 
 
 These curated model files are available in the `ecModels/` subdirectory, for each species, under the name `ecModel_improved.mat` and they are ready for FBA simulations and phenotype predictions.
+* Now these models file and results file were compressed in zip files respectively.
