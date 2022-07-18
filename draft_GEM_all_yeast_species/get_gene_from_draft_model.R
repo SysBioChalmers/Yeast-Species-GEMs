@@ -18,12 +18,13 @@ gene_all <- vector()
 rxn_all <- vector()
 strain <- list.files('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110')
 
+all_m_biocyc <- vector()
 for (i in strain) {
   print(i)
   inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_biocyc_55_110/',i, '/excelRxns.txt', sep = "")
   gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
-
+  gene_list_biocyc <- gene_biocyc$V2
+  all_m_biocyc <- c(all_m_biocyc, gene_list_biocyc)
 }
 
 
@@ -38,13 +39,16 @@ all_m_kegg <- vector()
 for (i in strain) {
   print(i)
   inputfile <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelGenes.txt', sep = "")
-  inputfile2 <- paste('../ComplementaryData/draft_yeast_GEMs/strain_specific_model_from_RAVEN_kegg/',i, '/excelRxns.txt', sep = "")
-  gene_biocyc <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
-  gene_list_biocyc <- gene_biocyc$V2
-  all_m_kegg <- c(all_m_kegg, gene_list_biocyc)
+  gene_kegg <- read.table(inputfile, header =FALSE, sep = "\t", stringsAsFactors = FALSE)
+  gene_list_kegg <- gene_kegg$V2
+  all_m_kegg <- c(all_m_kegg, gene_list_kegg)
 }
 
 # how to change gene id into OG id
+# save 
+write(all_m_biocyc, file = "result/all_m_biocyc.txt")
+write(all_m_kegg, file = "result/all_m_kegg.txt")
+
 
 
 
