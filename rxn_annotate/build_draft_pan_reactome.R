@@ -228,10 +228,34 @@ reactome <- data_frame(num= strain_num, pan=pan_av, core=core_av, accessory=acce
 number_ticks <- function(n) {
   function(limits) pretty(limits, n)
 }
+
+
+
+
+
+
+
+
+# using heaps law to fit the tendency of pan-reactome
+reactome$log_pan <- log10(reactome$pan)
+
+df <- reactome[,c('num','pan')]
+m <- lm(log(pan) ~ log(num), data=df)
+newdf <- data.frame(num=seq(min(df$num), max(df$num), len=332))
+plot(pan ~ num, data=df)
+lines(newdf$num, exp(predict(m, newdf)))
+b0=exp(coef(m)[1])
+b1=coef(m)[2]
+r2=summary(m)$r.squared
+#log(pan) <-7.6009 + 0.1173*log(num)
+# n=2000.039*N^0.1173
+reactome$pan_predict <- exp(predict(m, newdf))
+
 ggplot(reactome, aes(num)) + 
   geom_line(aes(y = core, colour = "Core gene")) + 
   geom_line(aes(y = pan, colour = "Pan gene")) +
   geom_line(aes(y = accessory, colour = "Accessory gene")) +
+  geom_line(aes(y = pan_predict), colour = "black", linetype = "dashed") +
   
   scale_x_continuous(breaks = number_ticks(10)) +
   scale_y_continuous(limits = c(0, 4000), breaks = number_ticks(4)) +
@@ -243,6 +267,8 @@ ggplot(reactome, aes(num)) +
         axis.title=element_text(size=24, family="Arial") ) +
   ggtitle('') +
   theme(legend.position="none") #+   theme(panel.background = element_rect(fill = "white", color="black", size = 1)) 
+
+
 
 
 
