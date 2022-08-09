@@ -187,3 +187,19 @@ ggplot(data=Factor, aes(x=pathway, y=Core)) + geom_point(colour = "red") +
   geom_point(data = Factor,
           aes(x=pathway, y=Acc), size = 2, colour = "blue")
 
+# using heaps law to fit the tendency of pan-reactome
+reactome$log_pan <- log10(reactome$pan)
+
+df <- reactome[,c('num','pan')]
+m <- lm(log(pan) ~ log(num), data=df)
+newdf <- data.frame(num=seq(min(df$num), max(df$num), len=332))
+plot(pan ~ num, data=df)
+lines(newdf$num, exp(predict(m, newdf)))
+b0=exp(coef(m)[1])
+b1=coef(m)[2]
+r2=summary(m)$r.squared
+#log(pan) <-7.6009 + 0.1173*log(num)
+# n=2000.039*N^0.1173
+
+
+
