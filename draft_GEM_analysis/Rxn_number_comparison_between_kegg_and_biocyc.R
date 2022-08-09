@@ -34,6 +34,8 @@ reaction_num_summary <- data.frame(strain=strain, kegg=rxn_kegg0, biocyc=rxn_bio
 plotXYdotGraph2(data_frame=reaction_num_summary, paraX = 'kegg', paraY = 'biocyc', xlab_name='RAVEN_kegg_rxn', ylab_name='RAVEN_biocyc_rxn')
 
 
+# Pearson's correlation
+cor.test(reaction_num_summary$kegg, reaction_num_summary$biocyc)
 
 
 

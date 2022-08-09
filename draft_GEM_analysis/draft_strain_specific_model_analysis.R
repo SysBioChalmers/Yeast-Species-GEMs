@@ -70,28 +70,31 @@ plotXYdotGraph2(data_frame=summary_paramter, paraX = 'gene_set', paraY = 'rxn', 
 plotXYdotGraph2(data_frame=summary_paramter, paraX = 'gene_set', paraY = 'gene', xlab_name='Gene set', ylab_name='Metabolic gene_biocyc')
 
 
-# just check the effect of metabolic gene expansion
-gene_expansion <- read.table("data/M_gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
 
+
+# just check the effect of all gene expansion
+gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
 summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
 summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
-
 # remove the 11 out-group fungal species
 summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
 summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
 summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
 plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
+cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
+
+
+
+# just check the effect of metabolic gene expansion
+gene_expansion <- read.table("data/M_gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
+summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
+summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
+# remove the 11 out-group fungal species
+summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
+summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
+summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
 plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
 cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
-cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
-# here it should be noted that gene can be metabolic and non metabolic one, so there is no
-# positive correlation between total expanded gene number and rxn number?
-# then we need extract all metabolic genes and map it to OG??
-
-
-
-
-
 
 
 
@@ -144,40 +147,6 @@ plotXYdotGraph(data_frame=summary_paramter2, paraX = 'gene_set', paraY = 'gene',
 plotXYdotGraph2(data_frame=summary_paramter2, paraX = 'gene', paraY = 'rxn', xlab_name='Metabolic gene number_kegg', ylab_name='rxn number_kegg')
 plotXYdotGraph2(data_frame=summary_paramter2, paraX = 'gene_set', paraY = 'rxn', xlab_name='Gene set', ylab_name='rxn number_kegg')
 plotXYdotGraph2(data_frame=summary_paramter2, paraX = 'gene_set', paraY = 'gene', xlab_name='Gene set', ylab_name='Metabolic gene_kegg')
-
-
-
-
-
-
-#---------------------------------------------------
-# check the effect of expanded gene number on rxn number, gene set, EC number is annotated using deepEC
-# input the gene expanded data
-# it seems there are good correlation between the expanded gene number and gene size, rxn size.
-# gene_expansion <- read.table("data/gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
-gene_expansion <- read.table("data/M_gene_family_expansion_extraction_for_332_species.txt", header =TRUE, sep = "\t", stringsAsFactors = FALSE)
-
-summary_paramter$expanded_gene <- getSingleReactionFormula(gene_expansion$expanded,gene_expansion$species,summary_paramter$strain)
-summary_paramter$contracted_gene <- getSingleReactionFormula(gene_expansion$extracted,gene_expansion$species,summary_paramter$strain)
-
-# remove the 11 out-group fungal species
-summary_paramter <- summary_paramter[summary_paramter$expanded_gene!="NA",]
-summary_paramter$expanded_gene <- as.numeric(summary_paramter$expanded_gene)
-summary_paramter$contracted_gene <- as.numeric(summary_paramter$contracted_gene)
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'gene_set', xlab_name='Expanded gene number', ylab_name='gene_set')
-plotXYdotGraph2(data_frame=summary_paramter, paraX = 'expanded_gene', paraY = 'rxn', xlab_name='Expanded gene number', ylab_name='rxn')
-cor.test(summary_paramter$rxn, summary_paramter$expanded_gene)
-cor.test(summary_paramter$gene_set, summary_paramter$expanded_gene)
-# here it should be noted that gene can be metabolic and non metabolic one, so there is no
-# positive correlation between total expanded gene number and rxn number?
-# then we need extract all metabolic genes and map it to OG??
-
-
-
-
-
-
-
 
 
 
