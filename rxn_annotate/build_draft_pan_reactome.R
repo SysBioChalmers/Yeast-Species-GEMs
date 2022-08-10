@@ -146,13 +146,18 @@ ggplot(rxn_result, aes(x=Occur_num)) + geom_histogram(binwidth=5) +
 
 ggplot(rxn_result, aes(x=Occur_num)) + stat_ecdf() +
   ylab('Percentage of reactions') +
-  theme(panel.background = element_rect(fill = "white", color="black", size = 1),
-        plot.margin = margin(1, 1, 1, 1, "cm")) +
-  theme(axis.text=element_text(size=10, family="Arial"),
+  theme(axis.text=element_text(size=20, family="Arial"),
         axis.title=element_text(size=24, family="Arial"),
-        legend.text = element_text(size=20, family="Arial"))
+        legend.text = element_text(size=20, family="Arial")) +
+  scale_fill_manual(values = c('#C14E4295'), guide = "none") 
+
 
 write.table(rxn_result, "result/pan_reactome.txt", row.names = FALSE, sep = "\t")
+#calculate cumulative distribution in R
+#P = ecdf(rxn_result$Occur_num) 
+
+
+
 
 
 # calculate the pan and core reactome
@@ -272,10 +277,14 @@ ggplot(reactome, aes(num)) +
 
 
 
+x <- -50:50
+fun.1 <- function(x) (-100*x)/(x+100)
+y <- fun.1(x)
+df <- data.frame(x,y)
 
-
-
-
+ggplot(df, aes(x,y)) + theme_minimal() +
+  geom_line(size=1) +
+  geom_ribbon(ymin=-Inf, aes(ymax=y), fill='red', alpha=0.2) 
 
 
 
