@@ -186,4 +186,3 @@ ggplot(data=Factor, aes(x=pathway, y=Core)) + geom_point(colour = "red") +
   theme(panel.background = element_rect(fill = "white", color="black", size = 1)) +
   geom_point(data = Factor,
           aes(x=pathway, y=Acc), size = 2, colour = "blue")
-

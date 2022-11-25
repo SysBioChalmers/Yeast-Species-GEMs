@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="240c8c2b-6d40-4d78-b2ae-7b0a8b37c4f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/remove_used_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/draft_GEM_all_yeast_species.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Alloascoidea_hylecoeti/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ambrosiozyma_kashinagacola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ambrosiozyma_monospora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Arthrobotrys_oligospora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Arxula_adeninivorans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ascoidea_asiatica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ascoidea_rubescens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ashbya_aceri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Aspergillus_nidulans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Babjeviella_inositovora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Botrytis_cinerea/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Brettanomyces_anomalus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_albicans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_apicola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_arabinofermentans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_auris/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_boidinii_JCM9604/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_carpophila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_dubliniensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_glabrata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_homilentoma/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_infanticola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_intermedia/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_orthopsilosis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_parapsilosis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_sojae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_sorboxylosa/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_succiphila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_tanzawaensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_tenuis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_tropicalis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Candida_versatilis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Clavispora_lusitaniae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Coccidioides_immitis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Cyberlindnera_fabianii_JCM3601/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Cyberlindnera_jadinii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Debaryomyces_hansenii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Dekkera_bruxellensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Eremothecium_coryli/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Eremothecium_cymbalariae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Eremothecium_gossypii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Eremothecium_sinecaudum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Fusarium_graminearum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Geotrichum_candidum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Hanseniaspora_uvarum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Hanseniaspora_valbyensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Hanseniaspora_vinae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Hyphopichia_burtonii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Kazachstania_africana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Kazachstania_naganishii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Kluyveromyces_lactis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Kluyveromyces_marxianus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Komagataella_pastoris/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Kuraishia_capsulata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_cidri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_dasiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_fantastica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_fermentati/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_kluyveri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_lanzarotensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_meyersii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_mirantina/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_nothofagi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_quebecensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_thermotolerans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lachancea_waltii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lipomyces_starkeyi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Lodderomyces_elongisporus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_aberdeeniae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_arizonensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_bicuspidata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_borealis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_bowlesiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_cerradonensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_continentalis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_dekortum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_drakensbergensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_hamakuensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_hawaiiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_hibisci/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_ipomoeae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_kamakouana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_kipukae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_lockheadii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_matae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_matae_maris/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_mauinuiana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_proteae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_santaceciliae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_shivogae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Metschnikowia_similis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Meyerozyma_guilliermondii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Millerozyma_acaciae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nadsonia_fulvescens_var_elongata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakaseomyces_bacillisporus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakaseomyces_bracarensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakaseomyces_castellii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakaseomyces_delphensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakaseomyces_nivariensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Nakazawaea_peltata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Naumovozyma_castellii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Naumovozyma_dairenensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Neurospora_crassa/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ogataea_methanolica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ogataea_parapolymorpha/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Ogataea_polymorpha/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Pachysolen_tannophilus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Pichia_membranifaciens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Priceomyces_haplophilus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_arboricola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_cerevisiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_eubayanus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_kudriavzevii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_mikatae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_paradoxus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomyces_uvarum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saccharomycopsis_malanga/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saitoella_complicata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Saprochaete_clavata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Scheffersomyces_lignosus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Scheffersomyces_stipitis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Schizosaccharomyces_pombe/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Sclerotinia_sclerotiorum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Spathaspora_arborariae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Spathaspora_girioi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Spathaspora_gorwiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Spathaspora_hagerdaliae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Spathaspora_passalidarum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Sporopachydermia_quercuum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Stagonospora_nodorum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Starmerella_bombicola_JCM9596/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Sugiyamaella_lignohabitans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Tetrapisispora_blattae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Tetrapisispora_phaffii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Tortispora_caseinolytica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Torulaspora_delbrueckii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Vanderwaltozyma_polyspora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Wickerhamia_fluorescens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Wickerhamiella_domercqiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Wickerhamomyces_anomalus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Wickerhamomyces_ciferrii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Xylona_heveae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Yarrowia_deformans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Yarrowia_keelungensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Yarrowia_lipolytica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Zygosaccharomyces_bailii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/Zygosaccharomyces_rouxii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB132_Kazachstania_martiniae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB133_Kazachstania_unispora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB134_Kazachstania_turicensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB136_Kazachstania_bromeliacearum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB143_Kazachstania_siamensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB147_Kazachstania_taianensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB148_Kazachstania_intestinalis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB153_Kazachstania_rosinii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB154_Kazachstania_transvaalensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB155_Kazachstania_spencerorum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB158_Kazachstania_viticola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB159_Kazachstania_solicola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB160_Kazachstania_kunashirensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB164_Kazachstania_aerobia/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHAB166_Kazachstania_yakushimaensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026124_Ogataea_henricii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026137_Ambrosiozyma_ambrosiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026142_Citeromyces_matritensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026145_Ambrosiozyma_vanderkliftii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026152_Torulaspora_franciscae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026197_Brettanomyces_custersianus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026256_Zygotorulaspora_mrakii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000026274_Komagataella_populi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034594_Starmera_quercuum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034597_Candida_stellimalicola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034604_Sporopachydermia_lactativora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034605_Spencermartinsiella_europaea/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034606_Priceomyces_medius/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034607_Saccharomycopsis_capsularis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034610_Saturnispora_hagleri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034611_Saturnispora_mendoncae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034612_Saturnispora_saitoi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034613_Saturnispora_serradocipensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034614_Saturnispora_silvae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034615_Saturnispora_zaruensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034622_Pichia_occidentalis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034623_Pichia_norvegensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034624_Pichia_nakasei/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034625_Pichia_kudriavzevii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034627_Pichia_heedii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034629_Pichia_exigua/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034631_Martiniozyma_abiesophila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034632_Candida_athensensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034635_Nadsonia_fulvescens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034636_Ogataea_nitratoaversa/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034637_Ogataea_populiabae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034643_Candida_schatavii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034646_Wickerhamiella_cacticola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034648_Candida_restingae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034654_Aciculoconidium_aculeatum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034655_Botryozyma_nematodophila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034660_Diddensiella_caesifluorescens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034661_Dipodascus_albidus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034665_Kodamaea_laetipori/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034667_Blastobotrys_serpentis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034669_Blastobotrys_raffinofermentans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034670_Blastobotrys_proliferans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034671_Blastobotrys_peoriensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034673_Blastobotrys_nivea/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034674_Blastobotrys_muscicola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034675_Blastobotrys_mokoenaii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034681_Blastobotrys_americana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034709_Kluyveromyces_aestuarii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034710_Kluyveromyces_dobzhanskii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034742_Lipomyces_suomiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034748_Lipomyces_oligophaga/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034749_Lipomyces_mesembrius/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034754_Lipomyces_arxii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034757_Lipomyces_doorenjongii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034758_Lipomyces_japonicus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034760_Lipomyces_kononenkoae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034761_Lipomyces_lipofer/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034862_Zygotorulaspora_florentina/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034865_Zygosaccharomyces_kombuchaensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034866_Zygosaccharomyces_bisporus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034875_Tetrapisispora_fleetii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034876_Tetrapisispora_iriomotensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034877_Tetrapisispora_namnaonensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034881_Torulaspora_pretoriensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034883_Peterozyma_xylosa/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034884_Peterozyma_toletana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034885_Ogataea_zsoltii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034886_Ogataea_trehalophila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034887_Ogataea_trehaloabstinens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034890_Ogataea_ramenticola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034891_Ogataea_pini/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034892_Ogataea_pilisensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034893_Ogataea_philodendra/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034897_Ogataea_glucozyma/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034899_Ogataea_kodamae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034901_Ogataea_methylivora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034902_Ogataea_minuta/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034903_Ogataea_naganishii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034904_Ogataea_nonfermentans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034918_Nakazawaea_holstii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034932_Kuraishia_ogatae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034933_Kuraishia_molischiana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034939_Komagataella_pseudopastoris/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034946_Ambrosiozyma_oregonensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034947_Ambrosiozyma_philentoma/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034950_Citeromyces_hawaiiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034952_Citeromyces_siamensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034957_Hanseniaspora_osmophila/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034963_Hanseniaspora_clermontiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034967_Candida_freyschussii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034973_Danielozyma_ontarioensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034974_Deakozyma_indianensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034978_Cyberlindnera_mrakii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034979_Cyberlindnera_misumaiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034986_Candida_oregonensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034988_Candida_fructus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034990_Candida_corydali/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034998_Cephaloascus_albidus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000034999_Cephaloascus_fragrans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035011_Candida_pyralidae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035018_Candida_canberraensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035022_Candida_emberorum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035031_Candida_kruisii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035032_Candida_gatunensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035033_Candida_cretensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035037_Candida_montana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035040_Ambrosiozyma_maleeae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035041_Ambrosiozyma_pseudovanderkliftii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035044_Barnettozyma_californica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035045_Barnettozyma_hawaiiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035046_Barnettozyma_populi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035047_Barnettozyma_pratensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035048_Barnettozyma_salicaria/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035242_Zygoascus_ofunaensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035243_Zygoascus_meyerae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035244_Candida_incommunis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035252_Yamadazyma_nakazawae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035261_Candida_ponderosae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035268_Wickerhamomyces_hampshirensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035271_Wickerhamomyces_bovis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035274_Wickerhamomyces_alni/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035279_Tortispora_starmeri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035282_Trigonopsis_vinaria/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035286_Candida_azyma/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035296_Priceomyces_carsonii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035297_Priceomyces_castillae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035301_Pichia_terricola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035302_Candida_fragi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035318_Hyphopichia_heimii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035325_Cyberlindnera_petersonii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035335_Candida_blattae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035629_Yueomyces_sinensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035633_Candida_hispaniensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035639_Wickerhamomyces_canadensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035640_Yamadazyma_philogaea/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035641_Yamadazyma_scolyti/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035643_Yarrowia_bubula/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035645_Yarrowia_divulgata/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035650_Trigonopsis_variabilis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035651_Torulaspora_microellipsoides/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035652_Torulaspora_maleeae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035654_Tortispora_ganteri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035658_Starmera_amethionina/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035659_Saturnispora_dispora/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035662_Meyerozyma_caribbica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035665_Middelhovenomyces_tepae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035667_Kurtzmaniella_cleridarum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035670_Phaffomyces_opuntiae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035671_Phaffomyces_antillensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035672_Phaffomyces_thermotolerans/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035673_Candida_orba/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035674_Kregervanrija_delftensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035675_Kregervanrija_fluxuum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035677_Kodamaea_ohmeri/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035679_Candida_rhagii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035681_Candida_gotoi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035684_Kloeckera_hatyaiensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035686_Cyberlindnera_saturnus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035687_Cyberlindnera_suaveolens/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035688_Cyberlindnera_xylosilytica/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035689_Candida_mycetangii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035690_Candida_vartiovaarae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035691_Candida_salmanticensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035695_Hanseniaspora_pseudoguilliermondii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035696_Hanseniaspora_singularis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035699_Cyberlindnera_maclurae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035703_Cyberlindnera_americana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000035707_Candida_heveicola/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041678_Debaryomyces_prosopidis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041693_Debaryomyces_nepalensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041713_Debaryomyces_maramus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041743_Candida_hawaiiana/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041818_Magnusiomyces_tetrasperma/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041822_Dipodascus_geniculatus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041824_Debaryomyces_subglobosus/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041829_Debaryomyces_fabryi/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041833_Candida_tammaniensis/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041840_Candida_wancherniae/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041855_Candida_ascalaphidarum/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041862_Candida_golubevii/excelComps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strain_specific_model_from_RAVEN_biocyc_55_110/yHMPu5000041863_Candida_gorgasii/excelComps.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="125" />
+    <option name="y" value="23" />
+    <option name="width" value="1623" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectId" id="2A98XfNAxVxZuiqF7bDNodyoQ7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240c8c2b-6d40-4d78-b2ae-7b0a8b37c4f8" name="Default Changelist" comment="" />
+      <created>1654410481238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654410481238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

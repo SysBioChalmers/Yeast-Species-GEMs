@@ -146,13 +146,18 @@ ggplot(rxn_result, aes(x=Occur_num)) + geom_histogram(binwidth=5) +
 
 ggplot(rxn_result, aes(x=Occur_num)) + stat_ecdf() +
   ylab('Percentage of reactions') +
-  theme(panel.background = element_rect(fill = "white", color="black", size = 1),
-        plot.margin = margin(1, 1, 1, 1, "cm")) +
-  theme(axis.text=element_text(size=10, family="Arial"),
+  theme(axis.text=element_text(size=20, family="Arial"),
         axis.title=element_text(size=24, family="Arial"),
-        legend.text = element_text(size=20, family="Arial"))
+        legend.text = element_text(size=20, family="Arial")) +
+  scale_fill_manual(values = c('#C14E4295'), guide = "none") 
+
 
 write.table(rxn_result, "result/pan_reactome.txt", row.names = FALSE, sep = "\t")
+#calculate cumulative distribution in R
+#P = ecdf(rxn_result$Occur_num) 
+
+
+
 
 
 # calculate the pan and core reactome
@@ -228,10 +233,34 @@ reactome <- data_frame(num= strain_num, pan=pan_av, core=core_av, accessory=acce
 number_ticks <- function(n) {
   function(limits) pretty(limits, n)
 }
+
+
+
+
+
+
+
+
+# using heaps law to fit the tendency of pan-reactome
+reactome$log_pan <- log10(reactome$pan)
+
+df <- reactome[,c('num','pan')]
+m <- lm(log(pan) ~ log(num), data=df)
+newdf <- data.frame(num=seq(min(df$num), max(df$num), len=332))
+plot(pan ~ num, data=df)
+lines(newdf$num, exp(predict(m, newdf)))
+b0=exp(coef(m)[1])
+b1=coef(m)[2]
+r2=summary(m)$r.squared
+#log(pan) <-7.6009 + 0.1173*log(num)
+# n=2000.039*N^0.1173
+reactome$pan_predict <- exp(predict(m, newdf))
+
 ggplot(reactome, aes(num)) + 
   geom_line(aes(y = core, colour = "Core gene")) + 
   geom_line(aes(y = pan, colour = "Pan gene")) +
   geom_line(aes(y = accessory, colour = "Accessory gene")) +
+  geom_line(aes(y = pan_predict), colour = "black", linetype = "dashed") +
   
   scale_x_continuous(breaks = number_ticks(10)) +
   scale_y_continuous(limits = c(0, 4000), breaks = number_ticks(4)) +
@@ -247,6 +276,15 @@ ggplot(reactome, aes(num)) +
 
 
 
+
+x <- -50:50
+fun.1 <- function(x) (-100*x)/(x+100)
+y <- fun.1(x)
+df <- data.frame(x,y)
+
+ggplot(df, aes(x,y)) + theme_minimal() +
+  geom_line(size=1) +
+  geom_ribbon(ymin=-Inf, aes(ymax=y), fill='red', alpha=0.2) 
 
 
 
