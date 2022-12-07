@@ -18,6 +18,8 @@
 
 * Saccharomycodes ludwigii https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07438-z
 
+* Saccharomyces pastorianus https://academic.oup.com/femsyr/article/22/1/foac053/6874782?login=false
+
 # Procedure to download genome datasets in large-scale:
 https://www.ncbi.nlm.nih.gov/genome/doc/ftpfaq/#downloadservice
 
